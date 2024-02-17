@@ -1,0 +1,73 @@
+{
+    "city": "Denver",
+    "sports_teams": [
+        {
+            "team_name": "Denver Broncos",
+            "sport": "American Football",
+            "league": "NFL",
+            "average_ticket_price": "$102",
+            "season_start": "September",
+            "playoffs_start": "January",
+            "venue": {
+                "venue_name": "Empower Field at Mile High",
+                "details": "Seating capacity of 76,125",
+                "address": "1701 Bryant St, Denver, CO 80204",
+                "geographic_coordinates": {
+                    "latitude": 39.7439,
+                    "longitude": -105.0201
+                }
+            }
+        },
+        {
+            "team_name": "Colorado Rockies",
+            "sport": "Baseball",
+            "league": "MLB",
+            "average_ticket_price": "$50",
+            "season_start": "April",
+            "playoffs_start": "October",
+            "venue": {
+                "venue_name": "Coors Field",
+                "details": "Seating capacity of 50,144",
+                "address": "2001 Blake St, Denver, CO 80205",
+                "geographic_coordinates": {
+                    "latitude": 39.7559,
+                    "longitude": -104.9942
+                }
+            }
+        },
+        {
+            "team_name": "Denver Nuggets",
+            "sport": "Basketball",
+            "league": "NBA",
+            "average_ticket_price": "$58",
+            "season_start": "October",
+            "playoffs_start": "April",
+            "venue": {
+                "venue_name": "Ball Arena",
+                "details": "Seating capacity of 19,520",
+                "address": "1000 Chopper Cir, Denver, CO 80204",
+                "geographic_coordinates": {
+                    "latitude": 39.7486,
+                    "longitude": -105.0075
+                }
+            }
+        },
+        {
+            "team_name": "Colorado Avalanche",
+            "sport": "Ice Hockey",
+            "league": "NHL",
+            "average_ticket_price": "$88",
+            "season_start": "October",
+            "playoffs_start": "April",
+            "venue": {
+                "venue_name": "Ball Arena",
+                "details": "Seating capacity of 17,809 for hockey",
+                "address": "1000 Chopper Cir, Denver, CO 80204",
+                "geographic_coordinates": {
+                    "latitude": 39.7486,
+                    "longitude": -105.0075
+                }
+            }
+        }
+    ]
+}

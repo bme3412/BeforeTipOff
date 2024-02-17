@@ -1,0 +1,56 @@
+{
+    "city": "San Diego",
+    "sports_teams": [
+        {
+            "team_name": "San Diego Padres",
+            "sport": "Baseball",
+            "league": "MLB",
+            "average_ticket_price": "$33",
+            "season_start": "April",
+            "playoffs_start": "October",
+            "venue": {
+                "venue_name": "Petco Park",
+                "details": "Petco Park is a baseball park located in downtown San Diego, California and is the home field of the San Diego Padres.",
+                "address": "100 Park Blvd, San Diego, CA 92101",
+                "geographic_coordinates": {
+                    "latitude": 32.7073,
+                    "longitude": -117.1566
+                }
+            }
+        },
+        {
+            "team_name": "San Diego Seals",
+            "sport": "Lacrosse",
+            "league": "NLL",
+            "average_ticket_price": "$25",
+            "season_start": "December",
+            "playoffs_start": "May",
+            "venue": {
+                "venue_name": "Pechanga Arena",
+                "details": "Pechanga Arena is the home of the San Diego Seals. It is also used for concerts, basketball, hockey, tennis, and other events.",
+                "address": "3500 Sports Arena Blvd, San Diego, CA 92110",
+                "geographic_coordinates": {
+                    "latitude": 32.7550,
+                    "longitude": -117.2120
+                }
+            }
+        }, 
+        {
+            "team_name": "San Diego Legion",
+            "sport": "Rugby",
+            "league": "MLR",
+            "average_ticket_price": "$20",
+            "season_start": "March",
+            "playoffs_start": "June",
+            "venue": {
+                "venue_name": "Torero Stadium",
+                "details": "Torero Stadium is recommended for rugby, soccer, and other field sports. It is the home field for the San Diego Legion.",
+                "address": "5998 Alcala Park, San Diego, CA 92111",
+                "geographic_coordinates": {
+                    "latitude": 32.7711,
+                    "longitude": -117.1888
+                }
+            }
+        }
+    ]
+}

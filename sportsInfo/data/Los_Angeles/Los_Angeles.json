@@ -1,0 +1,74 @@
+
+{
+    "city": "Los Angeles",
+    "sports_teams": [
+        {
+            "team_name": "Los Angeles Lakers",
+            "sport": "Basketball",
+            "league": "NBA",
+            "average_ticket_price": "$100",
+            "season_start": "October",
+            "playoffs_start": "April",
+            "venue": {
+                "venue_name": "Staples Center",
+                "details": "Multipurpose arena in Downtown Los Angeles",
+                "address": "1111 S Figueroa St, Los Angeles, CA 90015, United States",
+                "geographic_coordinates": {
+                    "latitude": 34.0430,
+                    "longitude": -118.2673
+                }
+            }
+        },
+        {
+            "team_name": "Los Angeles Dodgers",
+            "sport": "Baseball",
+            "league": "MLB",
+            "average_ticket_price": "$50",
+            "season_start": "April",
+            "playoffs_start": "October",
+            "venue": {
+                "venue_name": "Dodger Stadium",
+                "details": "Oldest ballpark in MLB west of the Mississippi River",
+                "address": "1000 Vin Scully Ave, Los Angeles, CA 90012, United States",
+                "geographic_coordinates": {
+                    "latitude": 34.0754,
+                    "longitude": -118.2395
+                }
+            }
+        },
+        {
+            "team_name": "Los Angeles Rams",
+            "sport": "Football",
+            "league": "NFL",
+            "average_ticket_price": "$120",
+            "season_start": "September",
+            "playoffs_start": "January",
+            "venue": {
+                "venue_name": "SoFi Stadium",
+                "details": "Indoor–outdoor stadium located at the former site of the Hollywood Park Racetrack",
+                "address": "1001 S Stadium Dr, Inglewood, CA 90301, United States",
+                "geographic_coordinates": {
+                    "latitude": 33.9537,
+                    "longitude": -118.3387
+                }
+            }
+        },
+        {
+            "team_name": "Los Angeles Kings",
+            "sport": "Ice Hockey",
+            "league": "NHL",
+            "average_ticket_price": "$90",
+            "season_start": "October",
+            "playoffs_start": "April",
+            "venue": {
+                "venue_name": "Staples Center",
+                "details": "Multipurpose arena in Downtown Los Angeles",
+                "address": "1111 S Figueroa St, Los Angeles, CA 90015, United States",
+                "geographic_coordinates": {
+                    "latitude": 34.0430,
+                    "longitude": -118.2673
+                }
+            }
+        }
+    ]
+}

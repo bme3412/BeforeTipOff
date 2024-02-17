@@ -1,0 +1,39 @@
+{
+    "city": "Milwaukee",
+    "sports_teams": [
+        {
+            "team_name": "Milwaukee Bucks",
+            "sport": "Basketball",
+            "league": "NBA",
+            "average_ticket_price": "Varies, typically $30-$200+",
+            "season_start": "October",
+            "playoffs_start": "April",
+            "venue": {
+                "venue_name": "Fiserv Forum",
+                "details": "It has a capacity of 17,500 for basketball and up to 20,000 for concerts.",
+                "address": "1111 Vel R. Phillips Ave, Milwaukee, WI 53203",
+                "geographic_coordinates": {
+                    "latitude": 43.0451,
+                    "longitude": -87.9174
+                }
+            }
+        },
+        {
+            "team_name": "Milwaukee Brewers",
+            "sport": "Baseball",
+            "league": "MLB",
+            "average_ticket_price": "Varies, typically $10-$100+",
+            "season_start": "April",
+            "playoffs_start": "October",
+            "venue": {
+                "venue_name": "American Family Field",
+                "details": "It has a seating capacity of 41,900 during night games and 42,500 during day games.",
+                "address": "1 Brewers Way, Milwaukee, WI 53214",
+                "geographic_coordinates": {
+                    "latitude": 43.0282,
+                    "longitude": -87.9712
+                }
+            }
+        }
+    ]
+}

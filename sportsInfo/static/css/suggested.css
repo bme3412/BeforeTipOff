@@ -1,0 +1,114 @@
+body, html {
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    background: #FAFAFA;
+    color: #333;
+    line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6, .navbar .logo, .league-section h2 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: #333;
+    font-weight: 700;
+}
+
+p, a, .league-section li a {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: #666;
+    transition: color 0.2s ease-in-out;
+}
+
+a:hover, a:focus, .league-section li a:hover {
+    color: #0056b3;
+    background-color: transparent;
+}
+
+/* Unified Navbar Styles */
+.navbar {
+    background-color: #2C3E50;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    align-items: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.navbar .logo, .navbar a {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #ECF0F1;
+    text-decoration: none;
+    margin: 0 15px;
+    padding: 0.25rem 0.5rem;
+    transition: color 0.2s, background-color 0.2s;
+    border-radius: 4px;
+}
+
+.navbar a:hover {
+    color: #ECF0F1;
+    background-color: #34495E;
+}
+
+/* Search Area and Input Styles */
+.search-area, .input-group input, .input-group button, .date-range-group input, .date-range-group button {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px auto;
+    max-width: 90%;
+    border: 1px solid #dee2e6;
+    font-size: 1rem;
+}
+
+.search-area button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    margin-right: 0; /* Updated for consistent right margin */
+}
+
+.search-area button:hover {
+    background-color: #0056b3;
+}
+
+input:focus, button:focus {
+    border-color: #80bdff;
+    box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.25);
+}
+
+/* Sidebar and League Section Styling */
+aside, .league-section {
+    position: sticky;
+    top: 20px;
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin-top: 20px;
+    max-height: calc(100vh - 40px);
+    overflow-y: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.league-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.league-section li a {
+    display: block; /* Makes the entire list item clickable */
+    padding: 5px 0; /* Better touch target */
+}
+
+/* Responsive Design Adjustments */
+@media screen and (max-width: 768px) {
+    .content-container, .table-container, .sidebar, .league-section {
+        flex-direction: column;
+        width: 100%;
+    }
+}

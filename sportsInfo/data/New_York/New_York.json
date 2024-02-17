@@ -1,0 +1,74 @@
+{
+    "city": "New York",
+    "sports_teams": [
+        {
+            "team_name": "New York Knicks",
+            "sport": "Basketball",
+            "league": "NBA",
+            "average_ticket_price": "$100",
+            "season_start": "October",
+            "playoffs_start": "April",
+            "venue": {
+                "venue_name": "Madison Square Garden",
+                "details": "An indoor arena in mid-town Manhattan.",
+                "address": "4 Pennsylvania Plaza, New York, NY 10001",
+                "geographic_coordinates": {
+                    "latitude": 40.7505,
+                    "longitude": -73.9934
+                }
+            }
+        },
+        {
+            "team_name": "New York Yankees",
+            "sport": "Baseball",
+            "league": "MLB",
+            "average_ticket_price": "$70",
+            "season_start": "April",
+            "playoffs_start": "October",
+            "venue": {
+                "venue_name": "Yankee Stadium",
+                "details": "Home stadium for the New York Yankees, located in the Bronx.",
+                "address": "1 E 161 St, The Bronx, NY 10451",
+                "geographic_coordinates": {
+                    "latitude": 40.8296,
+                    "longitude": -73.9262
+                }
+            }
+        },
+        {
+            "team_name": "New York Giants",
+            "sport": "Football",
+            "league": "NFL",
+            "average_ticket_price": "$150",
+            "season_start": "September",
+            "playoffs_start": "January",
+            "venue": {
+                "venue_name": "MetLife Stadium",
+                "details": "Shared by New York Giants and New York Jets, located in East Rutherford, New Jersey.",
+                "address": "1 MetLife Stadium Dr, East Rutherford, NJ 07073",
+                "geographic_coordinates": {
+                    "latitude": 40.8135,
+                    "longitude": -74.0745
+                }
+            }
+        },
+        {
+            "team_name": "New York Rangers",
+            "sport": "Ice Hockey",
+            "league": "NHL",
+            "average_ticket_price": "$100",
+            "season_start": "October",
+            "playoffs_start": "April",
+            "venue": {
+                "venue_name": "Madison Square Garden",
+                "details": "An indoor arena in mid-town Manhattan.",
+                "address": "4 Pennsylvania Plaza, New York, NY 10001",
+                "geographic_coordinates": {
+                    "latitude": 40.7505,
+                    "longitude": -73.9934
+                }
+            }
+        }
+        // Additional teams can be added here
+    ]
+}

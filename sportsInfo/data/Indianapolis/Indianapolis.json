@@ -1,0 +1,73 @@
+{
+    "city": "Indianapolis",
+    "sports_teams": [
+        {
+            "team_name": "Indianapolis Colts",
+            "sport": "Football",
+            "league": "NFL",
+            "average_ticket_price": "$93",
+            "season_start": "September",
+            "playoffs_start": "January",
+            "venue": {
+                "venue_name": "Lucas Oil Stadium",
+                "details": "Retractable roof football stadium",
+                "address": "500 South Capitol Avenue, Indianapolis, IN 46225",
+                "geographic_coordinates": {
+                    "latitude": 39.7601,
+                    "longitude": -86.1638
+                }
+            }
+        },
+        {
+            "team_name": "Indiana Pacers",
+            "sport": "Basketball",
+            "league": "NBA",
+            "average_ticket_price": "$30",
+            "season_start": "October",
+            "playoffs_start": "April",
+            "venue": {
+                "venue_name": "Gainbridge Fieldhouse",
+                "details": "Indoor basketball arena",
+                "address": "125 S Pennsylvania St, Indianapolis, IN 46204",
+                "geographic_coordinates": {
+                    "latitude": 39.7639,
+                    "longitude": -86.1555
+                }
+            }
+        },
+        {
+            "team_name": "Indy Eleven",
+            "sport": "Soccer",
+            "league": "USL Championship",
+            "average_ticket_price": "$15",
+            "season_start": "April",
+            "playoffs_start": "October",
+            "venue": {
+                "venue_name": "Michael A. Carroll Stadium",
+                "details": "Outdoor soccer stadium",
+                "address": "1001 W New York St, Indianapolis, IN 46202",
+                "geographic_coordinates": {
+                    "latitude": 39.7737,
+                    "longitude": -86.1846
+                }
+            }
+        },
+        {
+            "team_name": "Indiana Fever",
+            "sport": "Women's Basketball",
+            "league": "WNBA",
+            "average_ticket_price": "$17",
+            "season_start": "May",
+            "playoffs_start": "September",
+            "venue": {
+                "venue_name": "Gainbridge Fieldhouse",
+                "details": "Indoor basketball arena",
+                "address": "125 S Pennsylvania St, Indianapolis, IN 46204",
+                "geographic_coordinates": {
+                    "latitude": 39.7639,
+                    "longitude": -86.1555
+                }
+            }
+        }
+    ]
+}
