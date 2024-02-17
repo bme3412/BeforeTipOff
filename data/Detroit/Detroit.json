@@ -1,0 +1,73 @@
+{
+    "city": "Detroit",
+    "sports_teams": [
+        {
+            "team_name": "Detroit Tigers",
+            "sport": "Baseball",
+            "league": "Major League Baseball",
+            "average_ticket_price": "$30",
+            "season_start": "April",
+            "playoffs_start": "October",
+            "venue": {
+                "venue_name": "Comerica Park",
+                "details": "Opened in 2000, it replaced the historic Tiger Stadium",
+                "address": "2100 Woodward Ave, Detroit, MI 48201",
+                "geographic_coordinates": {
+                    "latitude": 42.3391,
+                    "longitude": -83.0485
+                }
+            }
+        },
+        {
+            "team_name": "Detroit Lions",
+            "sport": "Football",
+            "league": "National Football League",
+            "average_ticket_price": "$78",
+            "season_start": "September",
+            "playoffs_start": "January",
+            "venue": {
+                "venue_name": "Ford Field",
+                "details": "Indoor stadium which opened in 2002",
+                "address": "2000 Brush St, Detroit, MI 48226",
+                "geographic_coordinates": {
+                    "latitude": 42.3401,
+                    "longitude": -83.0456
+                }
+            }
+        },
+        {
+            "team_name": "Detroit Pistons",
+            "sport": "Basketball",
+            "league": "National Basketball Association",
+            "average_ticket_price": "$50",
+            "season_start": "October",
+            "playoffs_start": "April",
+            "venue": {
+                "venue_name": "Little Caesars Arena",
+                "details": "Shared with the Detroit Red Wings and opened in 2017",
+                "address": "2645 Woodward Ave, Detroit, MI 48201",
+                "geographic_coordinates": {
+                    "latitude": 42.3410,
+                    "longitude": -83.0552
+                }
+            }
+        },
+        {
+            "team_name": "Detroit Red Wings",
+            "sport": "Hockey",
+            "league": "National Hockey League",
+            "average_ticket_price": "$65",
+            "season_start": "October",
+            "playoffs_start": "April",
+            "venue": {
+                "venue_name": "Little Caesars Arena",
+                "details": "Shared with the Detroit Pistons and opened in 2017",
+                "address": "2645 Woodward Ave, Detroit, MI 48201",
+                "geographic_coordinates": {
+                    "latitude": 42.3410,
+                    "longitude": -83.0552
+                }
+            }
+        }
+    ]
+}

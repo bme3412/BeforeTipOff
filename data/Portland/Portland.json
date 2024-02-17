@@ -1,0 +1,40 @@
+{
+    "city": "Portland",
+    "sports_teams": [
+        {
+            "team_name": "Portland Trail Blazers",
+            "sport": "Basketball",
+            "league": "NBA",
+            "average_ticket_price": "$79",
+            "season_start": "October",
+            "playoffs_start": "April",
+            "venue": {
+                "venue_name": "Moda Center",
+                "details": "Home of the Portland Trail Blazers",
+                "address": "1 N Center Ct St, Portland, OR 97227",
+                "geographic_coordinates": {
+                    "latitude": 45.5316,
+                    "longitude": -122.6666
+                }
+            }
+        },
+        {
+            "team_name": "Portland Timbers",
+            "sport": "Soccer",
+            "league": "MLS",
+            "average_ticket_price": "$36",
+            "season_start": "February",
+            "playoffs_start": "October",
+            "venue": {
+                "venue_name": "Providence Park",
+                "details": "Home of the Portland Timbers",
+                "address": "1844 SW Morrison St, Portland, OR 97205",
+                "geographic_coordinates": {
+                    "latitude": 45.5215,
+                    "longitude": -122.6917
+                }
+            }
+        }
+        // Additional teams can be added here
+    ]
+}

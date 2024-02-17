@@ -1,0 +1,39 @@
+{
+    "city": "New Orleans",
+    "sports_teams": [
+        {
+            "team_name": "New Orleans Saints",
+            "sport": "American Football",
+            "league": "National Football League (NFL)",
+            "average_ticket_price": "$115.00",
+            "season_start": "September",
+            "playoffs_start": "January",
+            "venue": {
+                "venue_name": "Mercedes-Benz Superdome",
+                "details": "This domed sports and exhibition venue, located in the Central Business District of New Orleans, is the home stadium of the New Orleans Saints.",
+                "address": "1500 Sugar Bowl Dr, New Orleans, LA 70112, United States",
+                "geographic_coordinates": {
+                    "latitude": 29.951065,
+                    "longitude": -90.081219
+                }
+            }
+        },
+        {
+            "team_name": "New Orleans Pelicans",
+            "sport": "Basketball",
+            "league": "National Basketball Association (NBA)",
+            "average_ticket_price": "$74.00",
+            "season_start": "October",
+            "playoffs_start": "April",
+            "venue": {
+                "venue_name": "Smoothie King Center",
+                "details": "Home to the New Orleans Pelicans of the NBA, the Smoothie King Center is a multi-purpose indoor arena in New Orleans.",
+                "address": "1501 Dave Dixon Dr, New Orleans, LA 70113, United States",
+                "geographic_coordinates": {
+                    "latitude": 29.949053,
+                    "longitude": -90.081739
+                }
+            }
+        }
+    ]
+}

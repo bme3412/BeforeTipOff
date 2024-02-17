@@ -1,0 +1,73 @@
+{
+    "city": "Phoenix",
+    "sports_teams": [
+        {
+            "team_name": "Phoenix Suns",
+            "sport": "Basketball",
+            "league": "NBA",
+            "average_ticket_price": "$90",
+            "season_start": "October",
+            "playoffs_start": "April",
+            "venue": {
+                "venue_name": "Phoenix Suns Arena",
+                "details": "An indoor multi-purpose arena in Phoenix, Arizona",
+                "address": "201 E Jefferson St, Phoenix, AZ 85004, United States",
+                "geographic_coordinates": {
+                    "latitude": 33.4460,
+                    "longitude": -112.0712
+                }
+            }
+        },
+        {
+            "team_name": "Arizona Diamondbacks",
+            "sport": "Baseball",
+            "league": "MLB",
+            "average_ticket_price": "$25",
+            "season_start": "April",
+            "playoffs_start": "October",
+            "venue": {
+                "venue_name": "Chase Field",
+                "details": "A baseball park located in Downtown Phoenix, Arizona",
+                "address": "401 E Jefferson St, Phoenix, AZ 85004, United States",
+                "geographic_coordinates": {
+                    "latitude": 33.4455,
+                    "longitude": -112.0667
+                }
+            }
+        },
+        {
+            "team_name": "Arizona Cardinals",
+            "sport": "American Football",
+            "league": "NFL",
+            "average_ticket_price": "$85",
+            "season_start": "September",
+            "playoffs_start": "January",
+            "venue": {
+                "venue_name": "State Farm Stadium",
+                "details": "A multi-purpose football stadium located in Glendale, 9 miles northwest of downtown Phoenix",
+                "address": "1 Cardinals Dr, Glendale, AZ 85305, United States",
+                "geographic_coordinates": {
+                    "latitude": 33.5276,
+                    "longitude": -112.2626
+                }
+            }
+        },
+        {
+            "team_name": "Arizona Coyotes",
+            "sport": "Ice Hockey",
+            "league": "NHL",
+            "average_ticket_price": "$30",
+            "season_start": "October",
+            "playoffs_start": "April",
+            "venue": {
+                "venue_name": "Gila River Arena",
+                "details": "A sports and entertainment arena located at Westgate Entertainment District in Glendale, Arizona",
+                "address": "9400 W Maryland Ave, Glendale, AZ 85305, United States",
+                "geographic_coordinates": {
+                    "latitude": 33.5324,
+                    "longitude": -112.2613
+                }
+            }
+        }
+    ]
+}

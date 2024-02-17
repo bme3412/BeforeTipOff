@@ -1,0 +1,56 @@
+{
+    "city": "Cleveland",
+    "sports_teams": [
+        {
+            "team_name": "Cleveland Cavaliers",
+            "sport": "Basketball",
+            "league": "NBA",
+            "average_ticket_price": "$30 to $2000",
+            "season_start": "October",
+            "playoffs_start": "April",
+            "venue": {
+                "venue_name": "Rocket Mortgage FieldHouse",
+                "details": "A multi-purpose arena in downtown Cleveland, Ohio. The building is the home of the NBA's Cleveland Cavaliers.",
+                "address": "1 Center Ct, Cleveland, OH 44115, USA",
+                "geographic_coordinates": {
+                    "latitude": 41.4965,
+                    "longitude": -81.6882
+                }
+            }
+        },
+        {
+            "team_name": "Cleveland Indians",
+            "sport": "Baseball",
+            "league": "MLB",
+            "average_ticket_price": "$20 to $400",
+            "season_start": "April",
+            "playoffs_start": "October",
+            "venue": {
+                "venue_name": "Progressive Field",
+                "details": "A ballpark located in the downtown area of Cleveland, Ohio, it is the home field of the MLB's Cleveland Indians.",
+                "address": "2401 Ontario St, Cleveland, OH 44115, USA",
+                "geographic_coordinates": {
+                    "latitude": 41.4962,
+                    "longitude": -81.6852
+                }
+            }
+        },
+        {
+            "team_name": "Cleveland Browns",
+            "sport": "American Football",
+            "league": "NFL",
+            "average_ticket_price": "$40 to $350",
+            "season_start": "September",
+            "playoffs_start": "January",
+            "venue": {
+                "venue_name": "FirstEnergy Stadium",
+                "details": "A multi-purpose stadium in Cleveland, Ohio, it is primarily used by the NFL's Cleveland Browns.",
+                "address": "100 Alfred Lerner Way, Cleveland, OH 44114, USA",
+                "geographic_coordinates": {
+                    "latitude": 41.5061,
+                    "longitude": -81.6995
+                }
+            }
+        }
+    ]
+}

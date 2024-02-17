@@ -1,0 +1,56 @@
+{
+    "city": "London",
+    "sports_teams": [
+        {
+            "team_name": "Arsenal FC",
+            "sport": "Football",
+            "league": "English Premier League",
+            "average_ticket_price": "£50",
+            "season_start": "August",
+            "playoffs_start": "No formal playoffs in EPL",
+            "venue": {
+                "venue_name": "Emirates Stadium",
+                "details": "Emirates Stadium is a football stadium in Holloway, London, England, and the home of Arsenal.",
+                "address": "Hornsey Rd, London N7 7AJ, United Kingdom",
+                "geographic_coordinates": {
+                    "latitude": 51.5560,
+                    "longitude": -0.1086
+                }
+            }
+        },
+        {
+            "team_name": "London Irish RFC",
+            "sport": "Rugby Union",
+            "league": "Premiership Rugby",
+            "average_ticket_price": "£35",
+            "season_start": "September",
+            "playoffs_start": "June",
+            "venue": {
+                "venue_name": "Brentford Community Stadium",
+                "details": "Rugby union venue hosting London Irish in the Premiership, as well as Brentford FC in football.",
+                "address": "Lionel Rd, Brentford TW8, United Kingdom",
+                "geographic_coordinates": {
+                    "latitude": 51.4908,
+                    "longitude": -0.2887
+                }
+            }
+        },
+        {
+            "team_name": "London Lions",
+            "sport": "Basketball",
+            "league": "British Basketball League",
+            "average_ticket_price": "£15",
+            "season_start": "October",
+            "playoffs_start": "April",
+            "venue": {
+                "venue_name": "Copper Box Arena",
+                "details": "Multi-sport venue used for the 2012 Olympics, now hosting a variety of sports including basketball.",
+                "address": "Queen Elizabeth Olympic Park, London E20 3HB, United Kingdom",
+                "geographic_coordinates": {
+                    "latitude": 51.5433,
+                    "longitude": -0.0166
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "city": "New York",
+    "sports_teams": [
+        {
+            "team_name": "New York Yankees",
+            "sport": "Baseball",
+            "league": "MLB",
+            "venue": {
+                "venue_name": "Yankee Stadium",
+                "details": "Capacity 47,309 for night games, 47,422 for day games",
+                "address": "1 E 161 St, The Bronx, NY 10451",
+                "geographic_coordinates": {
+                    "latitude": 40.8296,
+                    "longitude": -73.9265
+                }
+            }
+        },
+        {
+            "team_name": "New York Mets",
+            "sport": "Baseball",
+            "league": "MLB",
+            "venue": {
+                "venue_name": "Citi Field",
+                "details": "Capacity 41,922",
+                "address": "41 Seaver Way, Queens, NY 11368",
+                "geographic_coordinates": {
+                    "latitude": 40.7571,
+                    "longitude": -73.8464
+                }
+            }
+        },
+        {
+            "team_name": "New York Knicks",
+            "sport": "Basketball",
+            "league": "NBA",
+            "venue": {
+                "venue_name": "Madison Square Garden",
+                "details": "Capacity 19,812",
+                "address": "4 Pennsylvania Plaza, New York, NY 10001",
+                "geographic_coordinates": {
+                    "latitude": 40.7505,
+                    "longitude": -73.9934
+                }
+            }
+        },
+        {
+            "team_name": "Brooklyn Nets",
+            "sport": "Basketball",
+            "league": "NBA",
+            "venue": {
+                "venue_name": "Barclays Center",
+                "details": "Capacity 17,732",
+                "address": "620 Atlantic Ave, Brooklyn, NY 11217",
+                "geographic_coordinates": {
+                    "latitude": 40.6827,
+                    "longitude": -73.9753
+                }
+            }
+        },
+        {
+            "team_name": "New York Giants",
+            "sport": "Football",
+            "league": "NFL",
+            "venue": {
+                "venue_name": "MetLife Stadium",
+                "details": "Capacity 82,500",
+                "address": "1 MetLife Stadium Dr, East Rutherford, NJ 07073",
+                "geographic_coordinates": {
+                    "latitude": 40.8128,
+                    "longitude": -74.0742
+                }
+            }
+        },
+        {
+            "team_name": "New York Jets",
+            "sport": "Football",
+            "league": "NFL",
+            "venue": {
+                "venue_name": "MetLife Stadium",
+                "details": "Capacity 82,500",
+                "address": "1 MetLife Stadium Dr, East Rutherford, NJ 07073",
+                "geographic_coordinates": {
+                    "latitude": 40.8128,
+                    "longitude": -74.0742
+                }
+            }
+        },
+        {
+            "team_name": "New York City FC",
+            "sport": "Soccer",
+            "league": "MLS",
+            "venue": {
+                "venue_name": "Yankee Stadium",
+                "details": "Capacity 47,309 for night games, 47,422 for day games",
+                "address": "1 E 161 St, The Bronx, NY 10451",
+                "geographic_coordinates": {
+                    "latitude": 40.8296,
+                    "longitude": -73.9265
+                }
+            }
+        },
+        {
+            "team_name": "New York Red Bulls",
+            "sport": "Soccer",
+            "league": "MLS",
+            "venue": {
+                "venue_name": "Red Bull Arena",
+                "details": "Capacity 25,000",
+                "address": "600 Cape May St, Harrison, NJ 07029",
+                "geographic_coordinates": {
+                    "latitude": 40.7369,
+                    "longitude": -74.1502
+                }
+            }
+        },
+        {
+            "team_name": "New York Rangers",
+            "sport": "Hockey",
+            "league": "NHL",
+            "venue": {
+                "venue_name": "Madison Square Garden",
+                "details": "Capacity 18,006",
+                "address": "4 Pennsylvania Plaza, New York, NY 10001",
+                "geographic_coordinates": {
+                    "latitude": 40.7505,
+                    "longitude": -73.9934
+                }
+            }
+        },
+        {
+            "team_name": "New York Islanders",
+            "sport": "Hockey",
+            "league": "NHL",
+            "venue": {
+                "venue_name": "UBS Arena",
+                "details": "Capacity 17,113",
+                "address": "1500 Hempstead Turnpike, Elmont, NY 11003",
+                "geographic_coordinates": {
+                    "latitude": 40.7071,
+                    "longitude": -73.7362
+                }
+            }
+        }
+    ]
+}

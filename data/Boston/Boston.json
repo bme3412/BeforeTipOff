@@ -1,0 +1,90 @@
+{
+    "city": "Boston",
+    "sports_teams": [
+        {
+            "team_name": "Boston Red Sox",
+            "sport": "Baseball",
+            "league": "MLB",
+            "average_ticket_price": "$60",
+            "season_start": "April",
+            "playoffs_start": "October",
+            "venue": {
+                "venue_name": "Fenway Park",
+                "details": "One of the oldest baseball stadiums in the country",
+                "address": "4 Yawkey Way, Boston, MA 02215",
+                "geographic_coordinates": {
+                    "latitude": 42.346676,
+                    "longitude": -71.097218
+                }
+            }
+        },
+        {
+            "team_name": "Boston Celtics",
+            "sport": "Basketball",
+            "league": "NBA",
+            "average_ticket_price": "$102",
+            "season_start": "October",
+            "playoffs_start": "April",
+            "venue": {
+                "venue_name": "TD Garden",
+                "details": "The multipurpose arena",
+                "address": "100 Legends Way, Boston, MA 02114",
+                "geographic_coordinates": {
+                    "latitude": 42.366303,
+                    "longitude": -71.062228
+                }
+            }
+        },
+        {
+            "team_name": "New England Revolution",
+            "sport": "Soccer",
+            "league": "MLS",
+            "average_ticket_price": "$30",
+            "season_start": "February",
+            "playoffs_start": "October",
+            "venue": {
+                "venue_name": "Gillette Stadium",
+                "details": "Home to the New England Revolution",
+                "address": "1 Patriot Place Foxborough, MA 02035",
+                "geographic_coordinates": {
+                    "latitude": 42.090944,
+                    "longitude": -71.264344
+                }
+            }
+        },
+        {
+            "team_name": "Boston Bruins",
+            "sport": "Ice hockey",
+            "league": "NHL",
+            "average_ticket_price": "$90",
+            "season_start": "October",
+            "playoffs_start": "April",
+            "venue": {
+                "venue_name": "TD Garden",
+                "details": "Also home to the Boston Celtics",
+                "address": "100 Legends Way, Boston, MA 02114",
+                "geographic_coordinates": {
+                    "latitude": 42.366303,
+                    "longitude": -71.062228
+                }
+            }
+        },
+        {
+            "team_name": "New England Patriots",
+            "sport": "American Football",
+            "league": "NFL",
+            "average_ticket_price": "$127",
+            "season_start": "September",
+            "playoffs_start": "January",
+            "venue": {
+                "venue_name": "Gillette Stadium",
+                "details": "Also home to the New England Revolution",
+                "address": "1 Patriot Place Foxborough, MA 02035",
+                "geographic_coordinates": {
+                    "latitude": 42.090944,
+                    "longitude": -71.264344
+                }
+            }
+        }
+    ]
+}
