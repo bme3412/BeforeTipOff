@@ -39,7 +39,7 @@ def home():
     filtered_events = [event for event in events_data if datetime.utcfromtimestamp(event['Date'] / 1000) >= start_date_obj and (not city_name or city_name.lower() in event.get('Location', '').lower())]
 
     city_name = city_name.capitalize() if city_name else "All Cities"
-    return render_template('schedule.html', events_data=filtered_events, city_name=city_name, start_date=start_date)
+    return render_template('index.html', events_data=filtered_events, city_name=city_name, start_date=start_date)
 
 @app.route('/event-details/<event_id>')
 def event_details(event_id):
