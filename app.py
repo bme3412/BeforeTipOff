@@ -30,16 +30,23 @@ def home():
     start_date = datetime.today().strftime('%Y-%m-%d')
 
     if request.method == 'POST':
-        city_name = request.form.get('city_name', '').strip().lower()
+        city_name = request.form.get('city_name', '').strip()
         form_start_date = request.form.get('start_date')
         if form_start_date:
             start_date = form_start_date
 
+    city_name = city_name.lower()
     start_date_obj = datetime.strptime(start_date, '%Y-%m-%d')
-    filtered_events = [event for event in events_data if datetime.utcfromtimestamp(event['Date'] / 1000) >= start_date_obj and (not city_name or city_name.lower() in event.get('Location', '').lower())]
+    # Adjusted list comprehension to handle None values in 'Location'
+    filtered_events = [
+        event for event in events_data 
+        if datetime.utcfromtimestamp(event['Date'] / 1000) >= start_date_obj 
+        and (not city_name or city_name in (event.get('Location') or '').lower())
+    ]
 
     city_name = city_name.capitalize() if city_name else "All Cities"
     return render_template('index.html', events_data=filtered_events, city_name=city_name, start_date=start_date)
+
 
 @app.route('/event-details/<event_id>')
 def event_details(event_id):

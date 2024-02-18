@@ -7,11 +7,11 @@
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/schedule.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='/css/style.css') }}" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/colresizable/1.6.0/colResizable-1.6.min.js" integrity="sha512-pMZ2rgWRGMywzbRAVwGk+auTREN0ldKKjACUSB4cneTgD3kn/6pu//Lxi4l8xSRkY83HENr1vztTnGDySWs0Mg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script src="static/js/schedule.js"></script>
+    <script src="static/js/script.js"></script>
 </head>
 <body>
 <header>
@@ -108,7 +108,7 @@
                     <div id="event-details"></div>
                     <!-- Enhanced additional information text -->
                     <div id="additional-info" class="info-box">
-                        <p class="info-title">Are you going? We can help!</p>
+                        <p class="info-title">Are you going to the game?<br><span class="highlight">We got you covered!</span></p>
                         <ul class="info-list">
                             <li><i class="fas fa-map-marked-alt"></i> View locations on a map</li>
                             <li><i class="fas fa-ticket-alt"></i> Get advice on buying tickets</li>
@@ -119,10 +119,8 @@
                         <button id="more-details-btn" class="info-btn">More Info</button>
                     </div>
                 </div>
-                
             </div>
-            
-            
+
         </div>
     </main>
 </div>
