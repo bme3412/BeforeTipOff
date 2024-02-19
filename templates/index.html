@@ -7,7 +7,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
-    <link rel="stylesheet" href="{{ url_for('static', filename='/css/style.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/colresizable/1.6.0/colResizable-1.6.min.js" integrity="sha512-pMZ2rgWRGMywzbRAVwGk+auTREN0ldKKjACUSB4cneTgD3kn/6pu//Lxi4l8xSRkY83HENr1vztTnGDySWs0Mg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -24,9 +24,13 @@
             <a href="#" aria-label="Family Events">Family</a>
         </div>
         <div class="user-actions">
-            <a href="#" aria-label="Sign In or Register">Sign In/Register</a>
+            <a href="#" aria-label="Home">Home</a>
+            <a href="#" aria-label="About">About</a>
+            <a href="#" aria-label="Contact">Contact</a>
         </div>
     </nav>
+    
+    
     
     <div class="search-area">
         <form method="post">
@@ -110,7 +114,7 @@
                         <ul class="info-list">
                             <li><i class="fas fa-ticket-alt"></i> Get advice on buying tickets</li>
                             <li><i class="fas fa-bus-alt"></i> Transportation and directions</li>
-                            <li><i class="fas fa-parking"></i> Where to park</li>
+                            <li><i class="fas fa-parking"></i> Find the best place to park</li>
                             <li><i class="fas fa-glass-cheers"></i> Where to go after the game</li>
                             <li><i class="fas fa-map-marked-alt"></i> View locations on a map</li>
                         </ul>

@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Event Details</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="/static/css/map.css">
+    
 </head>
 <body>
     <div class="event-details-container">
@@ -14,7 +15,9 @@
         <p><strong>Home Team:</strong> {{ event['Home/Neutral'] }}</p>
         <p><strong>Location:</strong> {{ event['Location'] }}</p>
         <p><strong>Arena:</strong> {{ event['Arena'] }}</p>
+        <div id="map"></div>
         <a href="/" class="event-details-back-link">Back to schedule</a>
     </div>
+    <script src="/static/js/map.js"></script>
 </body>
 </html>
