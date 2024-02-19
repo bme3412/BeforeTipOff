@@ -4,7 +4,6 @@ body, html {
     background: #FAFAFA;
     color: #333;
     line-height: 1.6;
-    
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -25,14 +24,11 @@ a:hover, a:focus {
     color: #0056b3;
 }
 
-
 /* Navbar Styles */
-/* Import Lato font from Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
 
-/* Navbar and Logo Styles */
 .navbar {
-    background-color: #2C3E50; /* Deep, professional blue background */
+    background-color: #2C3E50;
     color: white;
     display: flex;
     justify-content: space-between;
@@ -42,11 +38,11 @@ a:hover, a:focus {
 }
 
 .navbar .logo {
-    font-size: 2.2rem; /* Slightly reduced size for elegance */
-    font-weight: 700; /* Bold weight for Lato to ensure prominence */
-    color: white; /* Keeps the logo color white for contrast */
-    font-family: 'Lato', sans-serif; /* Uses Lato for a modern, interesting look */
-    letter-spacing: 1px; /* Retains a bit of spacing for sophistication */
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 1px;
 }
 
 .navbar .menu {
@@ -56,7 +52,7 @@ a:hover, a:focus {
 }
 
 .navbar .menu a {
-    color: #BDC3C7; /* Subtle color for menu items */
+    color: #BDC3C7;
     text-decoration: none;
     margin: 0 15px;
     padding: 0.5rem;
@@ -66,13 +62,33 @@ a:hover, a:focus {
 
 .navbar .menu a:hover {
     color: #ECF0F1;
-    background-color: #34495E; /* Slightly darker background on hover for a nice effect */
+    background-color: #34495E;
 }
 
 .navbar .user-actions {
     display: flex;
     justify-content: flex-end;
 }
+
+.user-actions {
+    display: flex;
+    flex-direction: column;
+}
+
+.user-actions a {
+    color: #AAB7C4; /* More subtle color for user action items */
+    margin: 0.5px 0; /* Even smaller space between links for compactness */
+    text-decoration: none;
+    padding: 0.4rem; /* Slightly less padding for a subtler appearance */
+    transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out;
+    border-radius: 4px;
+}
+
+.user-actions a:hover {
+    color: #D6EAF8; /* Softer hover color for a subtle effect */
+    background-color: #2C3E50; /* Consistent with navbar but softer transition */
+}
+
 
 
 
@@ -279,7 +295,7 @@ aside {
 /* Main Content and City Info Styles */
 main {
     flex: 0 0 78%; /* Adjust main content to take up the rest of the space */
-    padding: 20px;
+    padding: 5px;
     background-color: #FFFFFF;
     border-radius: 4px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
@@ -431,7 +447,7 @@ thead th {
 
 /* Additional info box within the sidebar */
 #additional-info, .info-box {
-    padding: 10px;
+    padding: 0px;
     background-color: #f8f9fa; /* Light background for better contrast */
     border-radius: 4px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.05);
@@ -439,8 +455,8 @@ thead th {
     line-height: 1.4;
     color: #333;
     text-align: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 0px;
+    margin-bottom: 10px;
     /* Ensure it does not exceed the sidebar container width */
     width: auto; /* Adjusts width to content or container */
     max-width: 100%; /* Prevents overflow outside the sidebar */
@@ -449,7 +465,7 @@ thead th {
 /* Enhanced styling for the information box */
 .info-box {
     background-color: #e8f4f8; /* Specific background color */
-    padding: 5px; /* Adjusted padding */
+    padding: 2px; /* Adjusted padding */
     border-radius: 8px; /* Specific border-radius */
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
 }
