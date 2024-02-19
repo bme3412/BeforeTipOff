@@ -1,0 +1,88 @@
+{
+    "city": "Miami",
+    "team": "Heat",
+    "venue": {
+        "venue_name": "American Airlines Arena",
+        "average_ticket_price": "$78",
+        "season_start": "October",
+        "playoffs_start": "April",
+        "geographic_coordinates": {
+            "latitude": 25.7814,
+            "longitude": -80.1870
+        },
+        "nearby_amenities": {
+            "restaurants_bars": [
+                {
+                    "name": "Biscayne Tavern",
+                    "description": "A local favorite due to its close location and sports-themed atmosphere.",
+                    "geographic_coordinates": {
+                        "latitude": 25.774,
+                        "longitude": -80.189
+                    }
+                },
+                {
+                    "name": "The Knife",
+                    "description": "Famous for traditional Argentinian barbecue, close to the venue.",
+                    "geographic_coordinates": {
+                        "latitude": 25.774,
+                        "longitude": -80.190
+                    }
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "YVE Hotel",
+                    "description": "A downtown hotel within walking distance to the venue.",
+                    "geographic_coordinates": {
+                        "latitude": 25.774,
+                        "longitude": -80.190
+                    }
+                },
+                {
+                    "name": "InterContinental Miami",
+                    "description": "Offering luxury accommodation and impressive city views, close to the venue.",
+                    "geographic_coordinates": {
+                        "latitude": 25.772,
+                        "longitude": -80.188
+                    }
+                }
+            ],
+            "tourist_attractions": [
+                {
+                    "name": "Bayside Marketplace",
+                    "description": "A bustling mall by the sea with plenty of shopping and entertainment options.",
+                    "geographic_coordinates": {
+                        "latitude": 25.777,
+                        "longitude": -80.186
+                    }
+                },
+                {
+                    "name": "Museum Park",
+                    "description": "A beautiful 30-acre public, urban park in downtown Miami.",
+                    "geographic_coordinates": {
+                        "latitude": 25.7859,
+                        "longitude": -80.1872
+                    }
+                }
+            ],
+            "team_related_activities": [
+                {
+                    "name": "Heat Team Store",
+                    "description": "The official store for Miami Heat merchandise located within the arena."
+                }
+            ]
+        },
+        "public_transportation": {
+            "options": [
+                {
+                    "type": "MetroMover",
+                    "description": "A free mass transit automated people mover train system operated by Miami-Dade Transit, stops directly at the venue."
+                },
+                {
+                    "type": "Uber and Lyft",
+                    "description": "With dedicated pick up and drop off zones, these ride-sharing apps are convenient options for reaching the venue."
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "city": "Miami",
+    "team": "Dolphins",
+    "venue": {
+        "venue_name": "Hard Rock Stadium",
+        "average_ticket_price": "$86",
+        "season_start": "September 12, 2021",
+        "playoffs_start": "January 8, 2022",
+        "geographic_coordinates": {
+            "latitude": 25.9580,
+            "longitude": -80.2389
+        },
+        "nearby_amenities": {
+            "restaurants_bars": [
+                {
+                    "name": "Shula's Steak House",
+                    "description": "An upscale steakhouse named after legendary Dolphins coach Don Shula.",
+                    "geographic_coordinates": {
+                        "latitude": 25.9354,
+                        "longitude": -80.1626
+                    }
+                },
+                {
+                    "name": "Bokamper's Sports Bar & Grill",
+                    "description": "A popular sports bar owned by former Dolphins player Kim Bokamper.",
+                    "geographic_coordinates": {
+                        "latitude": 25.9289,
+                        "longitude": -80.1254
+                    }
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Stadium Hotel",
+                    "description": "A budget friendly hotel situated near the Hard Rock Stadium.",
+                    "geographic_coordinates": {
+                        "latitude": 25.9617,
+                        "longitude": -80.2405
+                    }
+                },
+                {
+                    "name": "AC Hotel by Marriott Miami Aventura",
+                    "description": "A luxury hotel located only a few miles away from the stadium.",
+                    "geographic_coordinates": {
+                        "latitude": 25.9607,
+                        "longitude": -80.1394
+                    }
+                }
+            ],
+            "tourist_attractions": [
+                {
+                    "name": "Miami Gardens",
+                    "description": "A beautiful scenic spot for nature enthusiasts near the stadium.",
+                    "geographic_coordinates": {
+                        "latitude": 25.9421,
+                        "longitude": -80.2456
+                    }
+                },
+                {
+                    "name": "Aventura Mall",
+                    "description": "The third-largest shopping mall in the United States, located nearby.",
+                    "geographic_coordinates": {
+                        "latitude": 25.9569,
+                        "longitude": -80.1393
+                    }
+                }
+            ],
+            "team_related_activities": [
+                {
+                    "name": "Miami Dolphins Tailgate Party",
+                    "description": "Enthusiasts join the pre-game warm-up party hosted by the Dolphins at the Hard Rock Stadium."
+                },
+                {
+                    "name": "Dolphins Training Camp",
+                    "description": "Fans can attend Dolphins training sessions open to the public."
+                }
+            ]
+        },
+        "public_transportation": {
+            "options": [
+                {
+                    "type": "Metrorail",
+                    "description": "The Metrorail orange line provides a straightforward route to the stadium. Shuttles are available from the station to the stadium on event days."
+                },
+                {
+                    "type": "Bus",
+                    "description": "The Miami-Dade Transit's bus route 297 provides direct service to the stadium on game days."
+                }
+            ]
+        }
+    }
+}

@@ -4,87 +4,88 @@
         {
             "team_name": "Boston Red Sox",
             "sport": "Baseball",
-            "league": "MLB",
-            "average_ticket_price": "$60",
+            "league": "Major League Baseball",
+            "average_ticket_price": "$56",
             "season_start": "April",
             "playoffs_start": "October",
             "venue": {
                 "venue_name": "Fenway Park",
-                "details": "One of the oldest baseball stadiums in the country",
-                "address": "4 Yawkey Way, Boston, MA 02215",
+                "details": "One of the oldest baseball stadiums in the US, Fenway Park is full of history and known for 'The Green Monster,' its iconic outfield wall.",
+                "address": "4 Jersey St, Boston, MA 02215",
                 "geographic_coordinates": {
                     "latitude": 42.346676,
                     "longitude": -71.097218
-                }
-            }
-        },
-        {
-            "team_name": "Boston Celtics",
-            "sport": "Basketball",
-            "league": "NBA",
-            "average_ticket_price": "$102",
-            "season_start": "October",
-            "playoffs_start": "April",
-            "venue": {
-                "venue_name": "TD Garden",
-                "details": "The multipurpose arena",
-                "address": "100 Legends Way, Boston, MA 02114",
-                "geographic_coordinates": {
-                    "latitude": 42.366303,
-                    "longitude": -71.062228
-                }
-            }
-        },
-        {
-            "team_name": "New England Revolution",
-            "sport": "Soccer",
-            "league": "MLS",
-            "average_ticket_price": "$30",
-            "season_start": "February",
-            "playoffs_start": "October",
-            "venue": {
-                "venue_name": "Gillette Stadium",
-                "details": "Home to the New England Revolution",
-                "address": "1 Patriot Place Foxborough, MA 02035",
-                "geographic_coordinates": {
-                    "latitude": 42.090944,
-                    "longitude": -71.264344
-                }
-            }
-        },
-        {
-            "team_name": "Boston Bruins",
-            "sport": "Ice hockey",
-            "league": "NHL",
-            "average_ticket_price": "$90",
-            "season_start": "October",
-            "playoffs_start": "April",
-            "venue": {
-                "venue_name": "TD Garden",
-                "details": "Also home to the Boston Celtics",
-                "address": "100 Legends Way, Boston, MA 02114",
-                "geographic_coordinates": {
-                    "latitude": 42.366303,
-                    "longitude": -71.062228
-                }
-            }
-        },
-        {
-            "team_name": "New England Patriots",
-            "sport": "American Football",
-            "league": "NFL",
-            "average_ticket_price": "$127",
-            "season_start": "September",
-            "playoffs_start": "January",
-            "venue": {
-                "venue_name": "Gillette Stadium",
-                "details": "Also home to the New England Revolution",
-                "address": "1 Patriot Place Foxborough, MA 02035",
-                "geographic_coordinates": {
-                    "latitude": 42.090944,
-                    "longitude": -71.264344
+                },
+                "nearby_amenities": {
+                    "restaurants_bars": [
+                        {
+                            "name": "Cask 'n Flagon",
+                            "description": "A favorite hangout for Red Sox fans, known for its ambiance and classic pub fare.",
+                            "geographic_coordinates": {
+                                "latitude": 42.347704,
+                                "longitude": -71.097450
+                            }
+                        },
+                        {
+                            "name": "Boston Beer Works",
+                            "description": "A sports bar offering a variety of craft beers and a diverse menu. It's located near Fenway Park.",
+                            "geographic_coordinates": {
+                                "latitude": 42.346680,
+                                "longitude": -71.097280
+                            }
+                        },
+                        {
+                            "name": "Yard House",
+                            "description": "Lively sports bar with a hearty menu and an extensive list of draft beers, located near Fenway Park.",
+                            "geographic_coordinates": {
+                            "latitude": 42.346680,
+                            "longitude": -71.097280
+                            }
+                        }
+                    ],
+                    "accommodations": [
+                        {
+                            "name": "Hotel Commonwealth",
+                            "description": "Located near Fenway Park, this hotel also hosts a variety of dining options.",
+                            "geographic_coordinates": {
+                                "latitude": 42.348961,
+                                "longitude": -71.096730
+                            }
+                        },
+                        {
+                            "name": "Residence Inn by Marriott Boston Back Bay/Fenway",
+                            "description": "Modern extended-stay hotel with a rooftop bar, a stone's throw away from Fenway Park.",
+                            "geographic_coordinates": {
+                                "latitude": 42.346680,
+                                "longitude": -71.097280
+                            }
+                        }
+                    ],
+                    "tourist_attractions": [
+                        {
+                            "name": "Fenway Park Tours",
+                            "description": "Tours of the historic baseball stadium that take you behind the scenes and into the team's history.",
+                            "geographic_coordinates": {
+                                "latitude": 42.346676,
+                                "longitude": -71.097218
+                            }
+                        }
+                    ]
+                },
+                "public_transportation": {
+                    "options": [
+                        {
+                            "type": "MBTA Subway",
+                            "description": "Green Line B, C, D trains to Kenmore station followed by a short walk to Fenway Park."
+                        },
+                        {
+                            "type": "MBTA Bus",
+                            "description": "Bus numbers 8, 19, 60, 65, 66 stop near Fenway Park."
+                        }
+                    ]
                 }
             }
         }
+        
     ]
 }

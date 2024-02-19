@@ -1,0 +1,92 @@
+{
+    "city": "Philadelphia",
+    "team": "76ers",
+    "venue": {
+        "venue_name": "Wells Fargo Center",
+        "average_ticket_price": "$100",
+        "season_start": "October",
+        "playoffs_start": "April",
+        "geographic_coordinates": {
+            "latitude": 39.9012,
+            "longitude": -75.1719
+        },
+        "nearby_amenities": {
+            "restaurants_bars": [
+                {
+                    "name": "Xfinity Live!",
+                    "description": "A lively dining and entertainment complex located within walking distance of Wells Fargo Center.",
+                    "geographic_coordinates": {
+                        "latitude": 39.9015104,
+                        "longitude": -75.1720732
+                    }
+                },
+                {
+                    "name": "P.J. Whelihan's Pub + Restaurant",
+                    "description": "Great for pre/post game rate with a great beer selection and view of the Wells Fargo Center.",
+                    "geographic_coordinates": {
+                        "latitude": 39.9013875,
+                        "longitude": -75.1719796
+                    }
+                },
+                {
+                    "name": "Chickie's & Pete's",
+                    "description": "Famous for their crab fries and situated just a short distance from the stadium.",
+                    "geographic_coordinates": {
+                        "latitude": 39.902282,
+                        "longitude": -75.167198
+                    }
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Holiday Inn Philadelphia Stadium",
+                    "description": "Located within walking distance of the stadium with free parking and free WiFi.",
+                    "geographic_coordinates": {
+                        "latitude": 39.904666,
+                        "longitude": -75.168203
+                    }
+                },
+                {
+                    "name": "Courtyard by Marriott Philadelphia South",
+                    "description": "Modern hotel located near the sports complex with average price and good facilities",
+                    "geographic_coordinates": {
+                        "latitude": 39.935550,
+                        "longitude": -75.191670
+                    }
+                }
+            ],
+            "tourist_attractions": [
+                {
+                    "name": "The Liberty Bell",
+                    "description": "One of the most prominent symbols of American freedom, located just a few miles from Wells Fargo Center.",
+                    "geographic_coordinates": {
+                        "latitude": 39.949610,
+                        "longitude": -75.150282
+                    }
+                 },
+                 {
+                    "name": "Philadelphia Museum of Art",
+                    "description": "Famous for its vast collection of art and the 'Rocky Steps'.",
+                    "geographic_coordinates": {
+                        "latitude": 39.965560,
+                        "longitude": -75.179966
+                    }
+                 }
+            ],
+            "team_related_activities": [
+                {
+                    "name": "76ers team store",
+                    "description": "Located directly inside of the arena, it sells team merchandise and collectibles."
+                }
+            ]
+        },
+        "public_transportation": {
+            "options": [
+                {
+                    "type": "Philadelphia's SEPTA subway",
+                    "description": "Take the Broad Street Line to NRG station, which will put you directly at the stadium complex."
+                },
+            ]
+        }
+    }
+}

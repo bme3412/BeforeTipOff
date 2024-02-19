@@ -1,0 +1,100 @@
+{
+    "city": "Boston",
+    "team": "Red Sox",
+    "venue": {
+        "venue_name": "Fenway Park",
+        "average_ticket_price": "$56",
+        "season_start": "April",
+        "playoffs_start": "October",
+        "geographic_coordinates": {
+            "latitude": 42.346676,
+            "longitude": -71.097218
+        },
+        "nearby_amenities": {
+            "restaurants_bars": [
+                {
+                    "name": "Bleacher Bar",
+                    "description": "Offers a unique view of the field from under the bleachers. It's a popular gathering spot for Red Sox fans.",
+                    "geographic_coordinates": {
+                        "latitude": 42.346442,
+                        "longitude": -71.097169
+                    }
+                },
+                {
+                    "name": "Game On",
+                    "description": "Huge, bustling sports bar & pizzeria at Fenway Park offers a game room, DJs & dancing nights.",
+                    "geographic_coordinates": {
+                        "latitude": 42.346895,
+                        "longitude": -71.096936
+                    }
+                },
+                {
+                    "name": "Yard House",
+                    "description": "High-end sports-bar chain with a huge menu of New American fare & an extensive list of draft beers.",
+                    "geographic_coordinates": {
+                        "latitude": 42.346524,
+                        "longitude": -71.097173
+                    }
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Hotel Commonwealth",
+                    "description": "Upscale, modern rooms & suites in a posh hotel offering dining options & a gym, plus free Wi-Fi. It's just a short walk from Fenway Park.",
+                    "geographic_coordinates": {
+                        "latitude": 42.349272,
+                        "longitude": -71.094577
+                    }
+                },
+                {
+                    "name": "Residence Inn by Marriott Boston Back Bay/Fenway",
+                    "description": "Polished extended-stay hotel with modern rooms, free Wi-Fi & breakfast, plus a rooftop bar and within walking distance to Fenway Park.",
+                    "geographic_coordinates": {
+                        "latitude": 42.342589,
+                        "longitude": -71.097663
+                    }
+                }
+            ],
+            "tourist_attractions": [
+                {
+                    "name": "The Freedom Trail",
+                    "description": "Famous 2.5 miles long path through downtown Boston. It passes by 16 locations significant to the history of the United States.",
+                    "geographic_coordinates": {
+                        "latitude": 42.360067,
+                        "longitude": -71.056632
+                    }
+                },
+                {
+                    "name": "Museum of Fine Arts",
+                    "description": "Fifth largest museum in America with more than 450,000 works of art. Located not far from Fenway Park.",
+                    "geographic_coordinates": {
+                        "latitude": 42.339167,
+                        "longitude": -71.094167
+                    }
+                }
+            ],
+            "team_related_activities": [
+                {
+                    "name": "Fenway Park Tour",
+                    "description": "Guided tour of the iconic Fenway park where you learn the history of the park and the Red Sox."
+                }
+            ]
+        },
+        "public_transportation": {
+            "options": [
+                {
+                    "type": "Train",
+                    "description": "The MBTA Commuter Rail has a Fenway stop, which is walking distance from the park."
+                },
+                {
+                    "type": "Subway",
+                    "description": "The Green Line 'D' Branch is the subway that serves the Fenway Park area."
+                },
+                {
+                    "type": "Bus",
+                    "description": "There are many bus routes provided by the MBTA that pass nearby, including the 8, 19, 47, 55, 60, 65, and 8 route."
+                }
+            ]
+        }
+    }
+}

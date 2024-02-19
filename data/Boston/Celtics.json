@@ -1,0 +1,88 @@
+{
+    "city": "Boston",
+    "team": "Celtics",
+    "venue": {
+        "venue_name": "TD Garden",
+        "average_ticket_price": "$50-$500",
+        "season_start": "October",
+        "playoffs_start": "April",
+        "geographic_coordinates": {
+            "latitude": 42.3662,
+            "longitude": -71.0621
+        },
+        "nearby_amenities": {
+            "restaurants_bars": [
+                {
+                    "name": "The Four's",
+                    "description": "A sports-themed bar with an extensive memorabilia collection, serving American pub food.",
+                    "geographic_coordinates": {
+                        "latitude": 42.3646,
+                        "longitude": -71.0632
+                    }
+                },
+                {
+                    "name": "Tavern in the Square",
+                    "description": "Sports bar with big screen TVs and a diverse menu.",
+                    "geographic_coordinates": {
+                        "latitude": 42.3662,
+                        "longitude": -71.0621
+                    }
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "The Boxer",
+                    "description": "Boutique, industrial-chic hotel close to the venue.",
+                    "geographic_coordinates": {
+                        "latitude": 42.3645,
+                        "longitude": -71.0630
+                    }
+                },
+                {
+                    "name": "Hotel Indigo",
+                    "description": "Stylish, modern hotel with close proximity to the venue.",
+                    "geographic_coordinates": {
+                        "latitude": 42.3717,
+                        "longitude": -71.0601
+                    }
+                }
+            ],
+            "tourist_attractions": [
+                {
+                    "name": "The Freedom Trail",
+                    "description": "A 2.5-mile-long path through downtown Boston that passes by 16 locations significant to the history of the United States.",
+                    "geographic_coordinates": {
+                        "latitude": 42.3599,
+                        "longitude": -71.0595
+                    }
+                },
+                {
+                    "name": "Faneuil Hall Marketplace",
+                    "description": "Shopping center with many stores and restaurants, located in downtown Boston.",
+                    "geographic_coordinates": {
+                        "latitude": 42.3600,
+                        "longitude": -71.0567
+                    }
+                }
+            ],
+            "team_related_activities": [
+                {
+                    "name": "Celtics Fan Experiences",
+                    "description": "Experience game day in style with official VIP fan experiences, courtside seating, and even play a game on the iconic parquet floor."
+                }
+            ]
+        },
+        "public_transportation": {
+            "options": [
+                {
+                    "type": "MBTA Subway",
+                    "description": "The Massachusetts Bay Transportation Authority operates subway services, including the Orange Line that stops at North Station, adjacent to the venue."
+                },
+                {
+                    "type": "MBTA Bus",
+                    "description": "The Massachusetts Bay Transportation Authority operates extensive bus services throughout the city which offer easy access to the venue."
+                }
+            ]
+        }
+    }
+}
