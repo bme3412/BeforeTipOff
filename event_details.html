@@ -2,19 +2,114 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Event Details</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <title>Event Details - {{ team_data['city'] }} {{ team_data['team'] }}</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="stylesheet" href="/static/css/map.css">
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            function initMap() {
+                var venueLocation = {
+                    lat: Number('{{ team_data['venue']['coordinates']['latitude'] }}'),
+                    lng: Number('{{ team_data['venue']['coordinates']['longitude'] }}')
+                };
+      
+                var map = new google.maps.Map(document.getElementById('map'), {
+                    zoom: 15,
+                    center: venueLocation
+                });
+      
+                // Corrected function for adding a marker for the venue
+                addMarker(map, venueLocation, '{{ team_data['venue']['name'] }}', 'Event Venue');
+      
+                // Parsing the amenities JSON correctly and iterating over each amenity
+                var amenities = JSON.parse('{{ team_data['venue']['nearby_amenities'] | tojson | safe }}');
+                Object.values(amenities).flat().forEach(function(amenity) {
+                  if (amenity.coordinates) {
+                    addAmenityMarker(map, amenity);
+                  }
+                });
+            }
+      
+            window.initMap = initMap;
+      
+            // Define addMarker function if not already defined
+            function addMarker(map, location, title, label) {
+                new google.maps.Marker({
+                    position: location,
+                    map: map,
+                    title: title,
+                    label: label
+                });
+            }
+      
+            // Function to add amenity markers, assuming structure of amenity object
+            function addAmenityMarker(map, amenity) {
+                var location = {
+                    lat: Number(amenity.coordinates.latitude),
+                    lng: Number(amenity.coordinates.longitude)
+                };
+                addMarker(map, location, amenity.name, ''); // Label can be customized
+            }
+        });
+      </script>
+      
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=&callback=initMap"></script>
 </head>
 <body>
-    <div class="event-details-container">
-        <h1>Event Details</h1>
-        <p><strong>Date:</strong> {{ event['Date'] | format_date('%m/%d/%Y') }}</p>
-        <p><strong>Start (ET):</strong> {{ event['Start (ET)'] | default('TBD') }}</p>
-        <p><strong>Visitor Team:</strong> {{ event['Visitor/Neutral'] }}</p>
-        <p><strong>Home Team:</strong> {{ event['Home/Neutral'] }}</p>
-        <p><strong>Location:</strong> {{ event['Location'] }}</p>
-        <p><strong>Arena:</strong> {{ event['Arena'] }}</p>
-        <a href="/" class="event-details-back-link">Back to schedule</a>
+    <div class="container">
+        <div class="map-container">
+            <div id="map" class="map" role="application" aria-label="Map showing event location"></div>
+        </div>
+
+        <!-- Event Details -->
+        <div class="section event-details">
+            <h1>{{ team_data['city'] }} {{ team_data['team'] }} at {{ team_data['venue']['name'] }}</h1>
+            <div class="details">
+                <p><strong>Venue:</strong> {{ team_data['venue']['name'] }}</p>
+                <p><strong>Average Ticket Price:</strong> {{ team_data['venue']['average_ticket_price'] }}</p>
+                <p><strong>Season Start:</strong> {{ team_data['venue']['season_start'] }}</p>
+                <p><strong>Playoffs Start:</strong> {{ team_data['venue']['playoffs_start'] }}</p>
+            </div>
+        </div>
+
+        <!-- Ticket Purchasing Tips -->
+        <div class="section ticket-purchasing-tips">
+            <h2>Ticket Purchasing Tips</h2>
+            <p>Best Places to Buy: {{ team_data['ticket_purchasing_tips']['best_places_to_buy'] | join(", ") }}</p>
+            <p>Ways to Save: {{ team_data['ticket_purchasing_tips']['ways_to_save'] }}</p>
+            <p>Avoiding Scalpers: {{ team_data['ticket_purchasing_tips']['avoiding_scalpers'] }}</p>
+        </div>
+
+        <!-- Nearby Amenities -->
+        {% for category, amenities in team_data['venue']['nearby_amenities'].items() %}
+        <div class="section {{ category }}-section">
+            <h3>{{ category.replace('_', ' ').title() }}</h3>
+            <ul>
+                {% for amenity in amenities %}
+                <li>
+                    <strong>{{ amenity.name }}</strong> - {{ amenity.description }}
+                    {% if amenity.coordinates %}
+                    <span>(<a href="javascript:void(0);" onclick="focusOnMap({{ amenity.coordinates.latitude }}, {{ amenity.coordinates.longitude }})">Map</a>)</span>
+                    {% endif %}
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endfor %}
+
+        <!-- Public Transportation Section -->
+        <div class="section public-transportation">
+            <h2>Public Transportation</h2>
+            <ul>
+                {% for option in team_data['venue']['public_transportation']['options'] %}
+                <li><strong>{{ option['type'] }}:</strong> {{ option['description'] }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+
+        <!-- Back to Schedule Link -->
+        <a href="/" class="back-link" aria-label="Back to schedule">Back to schedule</a>
+
     </div>
 </body>
 </html>
