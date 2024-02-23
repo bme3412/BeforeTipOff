@@ -1,115 +1,201 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Event Details - {{ team_data['city'] }} {{ team_data['team'] }}</title>
-    <link rel="stylesheet" href="/static/css/style.css">
-    <link rel="stylesheet" href="/static/css/map.css">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Event Details - {{ team_data.city }} {{ team_data.team }}</title>
+    <link rel="stylesheet" href="/static/css/style.css" />
+    <link rel="stylesheet" href="/static/css/map.css" />
+
     <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            function initMap() {
-                var venueLocation = {
-                    lat: Number('{{ team_data['venue']['coordinates']['latitude'] }}'),
-                    lng: Number('{{ team_data['venue']['coordinates']['longitude'] }}')
-                };
-      
-                var map = new google.maps.Map(document.getElementById('map'), {
-                    zoom: 15,
-                    center: venueLocation
+                // Ensure the initMap function is globally accessible by assigning it to the window object
+                window.initMap = function() {
+                    var categoryColors = {
+                'restaurants_bars': 'red',
+                'accommodations': 'blue',
+                'tourist_attractions': 'green',
+                'team_related_activities': 'purple'
+            };
+                    // Assuming team_data.venue.coordinates contains valid latitude and longitude
+                    var venueLocation = {
+                        lat: Number("{{ team_data.venue.coordinates.latitude }}"),
+                        lng: Number("{{ team_data.venue.coordinates.longitude }}"),
+                    };
+
+                    // Initialize the map
+                    var map = new google.maps.Map(document.getElementById("map"), {
+                        zoom: 14,
+                        center: venueLocation,
+                    });
+
+                    // Add a marker for the event venue
+                    addMarker(map, venueLocation, "{{ team_data.venue.name }}", "Event Venue");
+
+                    // Dynamically parse the amenities data and add markers
+                    var amenities = {{ team_data.venue.nearby_amenities | tojson | safe }};
+            Object.keys(amenities).forEach(function(category) {
+                var color = categoryColors[category] || 'gray'; // Default to gray if category not found
+                amenities[category].forEach(function(amenity) {
+                    if (amenity.coordinates) {
+                        addAmenityMarker(map, amenity, color); // Pass color based on category
+                    }
                 });
-      
-                // Corrected function for adding a marker for the venue
-                addMarker(map, venueLocation, '{{ team_data['venue']['name'] }}', 'Event Venue');
-      
-                // Parsing the amenities JSON correctly and iterating over each amenity
-                var amenities = JSON.parse('{{ team_data['venue']['nearby_amenities'] | tojson | safe }}');
-                Object.values(amenities).flat().forEach(function(amenity) {
-                  if (amenity.coordinates) {
-                    addAmenityMarker(map, amenity);
-                  }
-                });
-            }
-      
-            window.initMap = initMap;
-      
-            // Define addMarker function if not already defined
-            function addMarker(map, location, title, label) {
-                new google.maps.Marker({
-                    position: location,
-                    map: map,
-                    title: title,
-                    label: label
-                });
-            }
-      
-            // Function to add amenity markers, assuming structure of amenity object
-            function addAmenityMarker(map, amenity) {
-                var location = {
-                    lat: Number(amenity.coordinates.latitude),
-                    lng: Number(amenity.coordinates.longitude)
-                };
-                addMarker(map, location, amenity.name, ''); // Label can be customized
-            }
+            });
+        };
+
+        var markers = {}; // Global object to store markers
+
+function addMarker(map, location, title, label = "", contentString = "", iconColor = "") {
+    var marker = new google.maps.Marker({
+        position: location,
+        map: map,
+        title: title,
+        label: label,
+        icon: iconColor ? getMarkerIcon(iconColor) : null
+    });
+
+    if (contentString !== "") {
+        var infowindow = new google.maps.InfoWindow({content: contentString});
+        marker.addListener("click", function() {
+            infowindow.open(map, marker);
         });
-      </script>
-      
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=&callback=initMap"></script>
-</head>
-<body>
+    }
+
+    markers[title] = { marker: marker, infowindow: infowindow }; // Store marker
+}
+
+function highlightMarker(name) {
+    var markerInfo = markers[name];
+    if (markerInfo) {
+        // Start animation
+        markerInfo.marker.setAnimation(google.maps.Animation.BOUNCE);
+
+        // Open the InfoWindow
+        markerInfo.infowindow.open(map, markerInfo.marker);
+
+        // Stop animation after 2 seconds (2000 milliseconds)
+        setTimeout(function() {
+            markerInfo.marker.setAnimation(null);
+        }, 2000);
+
+        // Optionally, animate the map to the marker position
+        map.panTo(markerInfo.marker.getPosition());
+    }
+}
+
+
+
+      // Function to add a marker for amenities with an InfoWindow and custom color
+      function addAmenityMarker(map, amenity, iconColor) {
+          var contentString = `<div id="content">
+                                  <h1 id="firstHeading" class="firstHeading">${amenity.name}</h1>
+                                  <div id="bodyContent"><p>${amenity.description}</p></div>
+                               </div>`;
+
+          addMarker(map, {
+              lat: Number(amenity.coordinates.latitude),
+              lng: Number(amenity.coordinates.longitude)
+          }, amenity.name, "", contentString, iconColor);
+      }
+
+      // Helper function to create a colored icon
+      function getMarkerIcon(color) {
+          return {
+              path: google.maps.SymbolPath.CIRCLE,
+              fillColor: color,
+              fillOpacity: 0.6,
+              strokeColor: 'black',
+              strokeWeight: 2,
+              scale: 10 // Size of the icon
+          };
+      }
+    </script>
+    <script
+      async
+      defer
+      src="https://maps.googleapis.com/maps/api/js?key=#&callback=initMap"
+    ></script>
+  </head>
+  <body>
     <div class="container">
-        <div class="map-container">
-            <div id="map" class="map" role="application" aria-label="Map showing event location"></div>
+      <div class="map-container">
+        <div
+          id="map"
+          role="application"
+          aria-label="Map showing event location"
+        ></div>
+      </div>
+      <div class="section event-details">
+        <h1>
+          {{ team_data.city }} {{ team_data.team }} at {{ team_data.venue.name
+          }}
+        </h1>
+        <div class="details">
+          <p>
+            <span class="detail-title">Venue:</span> {{ team_data.venue.name }}
+          </p>
+          <p>
+            <span class="detail-title">Average Ticket Price:</span> {{
+            team_data.venue.average_ticket_price }}
+          </p>
+          <p>
+            <span class="detail-title">Season Start:</span> {{
+            team_data.venue.season_start }}
+          </p>
+          <p>
+            <span class="detail-title">Playoffs Start:</span> {{
+            team_data.venue.playoffs_start }}
+          </p>
         </div>
+      </div>
 
-        <!-- Event Details -->
-        <div class="section event-details">
-            <h1>{{ team_data['city'] }} {{ team_data['team'] }} at {{ team_data['venue']['name'] }}</h1>
-            <div class="details">
-                <p><strong>Venue:</strong> {{ team_data['venue']['name'] }}</p>
-                <p><strong>Average Ticket Price:</strong> {{ team_data['venue']['average_ticket_price'] }}</p>
-                <p><strong>Season Start:</strong> {{ team_data['venue']['season_start'] }}</p>
-                <p><strong>Playoffs Start:</strong> {{ team_data['venue']['playoffs_start'] }}</p>
-            </div>
-        </div>
+      <div class="section ticket-purchasing-tips">
+        <h3>Ticket Purchasing Tips</h3>
+        <ul>
+          <li>
+            <strong>Best Places to Buy:</strong>
+            <span
+              >{% for place in
+              team_data.ticket_purchasing_tips.best_places_to_buy %}{{ place
+              }}{% if not loop.last %}, {% endif %}{% endfor %}</span
+            >
+          </li>
+          <li>
+            <strong>Ways to Save:</strong>
+            <span>{{ team_data.ticket_purchasing_tips.ways_to_save }}</span>
+          </li>
+          <li>
+            <strong>Avoiding Scalpers:</strong>
+            <span
+              >{{ team_data.ticket_purchasing_tips.avoiding_scalpers }}</span
+            >
+          </li>
+        </ul>
+      </div>
 
-        <!-- Ticket Purchasing Tips -->
-        <div class="section ticket-purchasing-tips">
-            <h2>Ticket Purchasing Tips</h2>
-            <p>Best Places to Buy: {{ team_data['ticket_purchasing_tips']['best_places_to_buy'] | join(", ") }}</p>
-            <p>Ways to Save: {{ team_data['ticket_purchasing_tips']['ways_to_save'] }}</p>
-            <p>Avoiding Scalpers: {{ team_data['ticket_purchasing_tips']['avoiding_scalpers'] }}</p>
-        </div>
+      {% for category, amenities in team_data.venue.nearby_amenities.items() %}
+      <div class="section {{ category }}-section">
+        <h3>{{ category.replace('_', ' ').title() }}</h3>
+        <ul>
+          {% for amenity in amenities %}
+          <li onclick="highlightMarker('{{ amenity.name }}')">
+            <strong>{{ amenity.name }}</strong> - {{ amenity.description }}
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endfor %}
 
-        <!-- Nearby Amenities -->
-        {% for category, amenities in team_data['venue']['nearby_amenities'].items() %}
-        <div class="section {{ category }}-section">
-            <h3>{{ category.replace('_', ' ').title() }}</h3>
-            <ul>
-                {% for amenity in amenities %}
-                <li>
-                    <strong>{{ amenity.name }}</strong> - {{ amenity.description }}
-                    {% if amenity.coordinates %}
-                    <span>(<a href="javascript:void(0);" onclick="focusOnMap({{ amenity.coordinates.latitude }}, {{ amenity.coordinates.longitude }})">Map</a>)</span>
-                    {% endif %}
-                </li>
-                {% endfor %}
-            </ul>
-        </div>
-        {% endfor %}
-
-        <!-- Public Transportation Section -->
-        <div class="section public-transportation">
-            <h2>Public Transportation</h2>
-            <ul>
-                {% for option in team_data['venue']['public_transportation']['options'] %}
-                <li><strong>{{ option['type'] }}:</strong> {{ option['description'] }}</li>
-                {% endfor %}
-            </ul>
-        </div>
-
-        <!-- Back to Schedule Link -->
-        <a href="/" class="back-link" aria-label="Back to schedule">Back to schedule</a>
-
+      <div class="section public-transportation">
+        <h2>Public Transportation</h2>
+        <ul>
+          {% for option in team_data.venue.public_transportation.options %}
+          <li><strong>{{ option.type }}:</strong> {{ option.description }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      <a href="/" class="back-link" aria-label="Back to schedule"
+        >Back to schedule</a
+      >
     </div>
-</body>
+  </body>
 </html>
