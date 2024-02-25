@@ -1,0 +1,139 @@
+{
+    "city": "Portland",
+    "team": "Trail Blazers",
+    "venue": {
+        "name": "Moda Center",
+        "address": "1 N Center Court St, Portland, OR 97227",
+        "website": "https://www.rosequarter.com/moda-center/",
+        "average_ticket_price": "$100",
+        "season_start": "October",
+        "playoffs_start": "April",
+        "coordinates": {
+            "latitude": "45.531568",
+            "longitude": "-122.666821"
+        },
+        "nearby_amenities": {
+            "restaurants_bars": [
+                {
+                    "name": "Dr. Jack's",
+                    "address": "1 N Center Court St, Portland, OR 97227",
+                    "website": "N/A",
+                    "description": "Located within the Moda Center, offering a convenient dining option with a variety of foods and drinks.",
+                    "coordinates": {
+                        "latitude": "45.531568",
+                        "longitude": "-122.666821"
+                    }
+                },
+                {
+                    "name": "Spirit of 77",
+                    "address": "500 NE Martin Luther King Jr Blvd, Portland, OR 97232",
+                    "website": "http://spiritof77bar.com/",
+                    "description": "A sports bar with a lively atmosphere, known for its large projection screen and great selection of beers.",
+                    "coordinates": {
+                        "latitude": "45.533108",
+                        "longitude": "-122.662830"
+                    }
+                },
+                {
+                    "name": "Ex Novo Brewing Co.",
+                    "address": "2326 N Flint Ave, Portland, OR 97227",
+                    "website": "https://exnovobrew.com/",
+                    "description": "Offers a great selection of craft beers and delicious pub food, with a cozy atmosphere for pre-game gatherings.",
+                    "coordinates": {
+                        "latitude": "45.534362",
+                        "longitude": "-122.671633"
+                    }
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Crowne Plaza Portland-Downtown Convention Center",
+                    "address": "1441 NE 2nd Ave, Portland, OR 97232",
+                    "website": "https://www.ihg.com/crowneplaza/hotels/us/en/portland/pdxne/hoteldetail",
+                    "description": "Offers modern rooms and excellent amenities, conveniently located near the Moda Center.",
+                    "coordinates": {
+                        "latitude": "45.531401",
+                        "longitude": "-122.661608"
+                    }
+                },
+                {
+                    "name": "Hotel Eastlund",
+                    "address": "1021 NE Grand Ave, Portland, OR 97232",
+                    "website": "https://hoteleastlund.com/",
+                    "description": "A boutique hotel with a rooftop restaurant offering panoramic views of the city, close to the Moda Center.",
+                    "coordinates": {
+                        "latitude": "45.531850",
+                        "longitude": "-122.661299"
+                    }
+                }
+            ],
+            "tourist_attractions": [
+                {
+                    "name": "Lan Su Chinese Garden",
+                    "address": "239 NW Everett St, Portland, OR 97209",
+                    "website": "https://lansugarden.org/",
+                    "description": "A beautiful and serene spot in the city, showcasing Chinese culture and garden design.",
+                    "coordinates": {
+                        "latitude": "45.525498",
+                        "longitude": "-122.673136"
+                    }
+                },
+                {
+                    "name": "Portland Art Museum",
+                    "address": "1219 SW Park Ave, Portland, OR 97205",
+                    "website": "https://portlandartmuseum.org/",
+                    "description": "The oldest art museum in the Pacific Northwest, offering an impressive array of art and exhibitions.",
+                    "coordinates": {
+                        "latitude": "45.516374",
+                        "longitude": "-122.683507"
+                    }
+                }
+            ],
+            "team_related_activities": [
+                 {
+                    "name": "Trail Blazers Team Store at Moda Center",
+                    "address": "1 N Center Court St, Portland, OR 97227",
+                    "website": "https://www.trailblazersfanshop.com/",
+                    "description": "The official store for Portland Trail Blazers merchandise, located within the Moda Center.",
+                    "coordinates": {
+                        "latitude": "45.531568",
+                        "longitude": "-122.666821"
+                    }
+                 }
+            ]
+        },
+        "public_transportation": {
+            "options": [
+                {
+                    "type": "Light Rail",
+                    "description": "The MAX Light Rail has stops near the Moda Center, including the Rose Quarter Transit Center, making it easily accessible."
+                },
+                {
+                    "type": "Bus",
+                    "description": "Numerous bus lines serve the Rose Quarter area, offering convenient access to the Moda Center."
+                }
+            ]
+        },
+        "ticket_purchasing_tips": {
+            "best_places_to_buy": [
+                {
+                    "name": "Official Team Website",
+                    "website": "https://www.nba.com/blazers/tickets",
+                    "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+                },
+                {
+                    "name": "Ticketmaster",
+                    "website": "https://www.ticketmaster.com/portland-trail-blazers-tickets/artist/806025",
+                    "description": "Authorized ticketing partner offering authentic Trail Blazers tickets."
+                },
+                {
+                    "name": "StubHub",
+                    "website": "https://www.stubhub.com/portland-trail-blazers-tickets/performer/2767/",
+                    "description": "Reliable secondary marketplace that offers verified resold Trail Blazers tickets."
+                }
+            ],
+            "ways_to_save": "Tickets for weekday games may be less expensive than weekend games. Consider purchasing tickets in advance or looking for last-minute deals.",
+            "avoiding_scalpers": "Always buy tickets from verified sources to avoid counterfeit tickets. Utilize reputable secondary marketplaces that offer buyer protection. Be wary of purchasing tickets outside the venue."
+        }
+    }
+}

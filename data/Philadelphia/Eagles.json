@@ -1,112 +1,101 @@
 {
-                    "city": "Philadelphia",
-                    "team": "Eagles",
-                    "venue": {
-                        "venue_name": "Lincoln Financial Field",
-                        "average_ticket_price": "200 USD",
-                        "season_start": "September 2021",
-                        "playoffs_start": "January 2022",
-                        "geographic_coordinates": {
-                            "latitude": 39.900775,
-                            "longitude": -75.167453
-                        },
-                        "nearby_amenities": {
-                            "restaurants_bars": [
-                                {
-                                    "name": "Xfinity Live!",
-                                    "description": "A popular dining and entertainment complex in the heart of the city's sports district. It's popular among sports fans for its great atmosphere.",
-                                    "geographic_coordinates": {
-                                        "latitude": 39.901223,
-                                        "longitude": -75.171978
-                                    }
-                                },
-                                {
-                                    "name": "Chickie's & Pete's",
-                                    "description": "Famous for their Crabfries®, Chickie's & Pete's offers a fun, sports-themed atmosphere.",
-                                    "geographic_coordinates": {
-                                        "latitude": 39.9017047,
-                                        "longitude": -75.1719598
-                                    }
-                                },
-                                {
-                                    "name": "P.J. Whelihan's Pub + Restaurant",
-                                    "description": "A local favorite and great place to catch a game, located less than a mile from the stadium.",
-                                    "geographic_coordinates": {
-                                        "latitude": 39.9017027,
-                                        "longitude": -75.1719498
-                                    }
-                                }
-                            ],
-                            "accommodations": [
-                                {
-                                    "name": "Holiday Inn Philadelphia Stadium",
-                                    "description": "The closest hotel to Lincoln Financial Field.",
-                                    "geographic_coordinates": {
-                                        "latitude": 39.9148968,
-                                        "longitude": -75.1733492
-                                    }
-                                },
-                                {
-                                    "name": "Courtyard by Marriott Philadelphia South at The Navy Yard",
-                                    "description": "A modern, relaxed hotel located within walking distance of the stadium.",
-                                    "geographic_coordinates": {
-                                        "latitude": 39.8818599,
-                                        "longitude": -75.1771563
-                                    }
-                                },
-                                {
-                                    "name": "The Study at University City",
-                                    "description": "A boutique hotel and cultural hub located a short drive from the stadium.",
-                                    "geographic_coordinates": {
-                                        "latitude": 39.9516108,
-                                        "longitude": -75.1919563
-                                    }
-                                }
-                            ],
-                            "tourist_attractions": [
-                                {
-                                    "name": "Independence National Historical Park",
-                                    "description": "This 55-acre park in downtown Philadelphia is known as 'America's most historic square mile.' which includes the Liberty Bell and Independence Hall.",
-                                    "geographic_coordinates": {
-                                        "latitude": 39.9496108,
-                                        "longitude": -75.1502827
-                                    }
-                                },
-                                {
-                                    "name": "Philadelphia Art Museum",
-                                    "description": "One of the largest and most important art museums in the United States, located at the end of the Benjamin Franklin Parkway. It's also famous from the movie 'Rocky'.",
-                                    "geographic_coordinates": {
-                                        "latitude": 39.9655712,
-                                        "longitude": -75.1809669
-                                    }
-                                }
-                            ],
-                            "team_related_activities": [
-                                {
-                                    "name": "Eagles Pro Shop",
-                                    "description": "Located within Lincoln Financial Field, this is the ultimate destination for Eagles fans to show their support with official team merchandise."
-                                },
-                                {
-                                    "name": "Eagles Training Camp",
-                                    "description": "Open to the community, fans can watch the Eagles train at this summer event."
-                                }
-                            ]
-                        },
-                        "public_transportation": {
-                            "options": [
-                                {
-                                    "type": "Broad Street Line",
-                                    "description": "Philadelphia's subway service that offers direct access to Lincoln Financial Field from numerous spots throughout the city. On game days, there are often special 'Sports Express' trains."
-                                },
-                                {
-                                    "type": "SEPTA Bus",
-                                    "description": "Multiple SEPTA bus routes (4, 17) operate on game days to get fans to the stadium from various locations around the city."
-                                },
-                                {
-                                    "type": "Uber, Lyft & Taxis",
-                                    "description": "There are several designated pick-up & drop-off zones conveniently located around Lincoln Financial Field complex."
-                                }
-                            ]
-                        }
+    "city": "Philadelphia",
+    "team": "Eagles",
+    "venue": {
+        "name": "Lincoln Financial Field",
+        "average_ticket_price": "$130",
+        "season_start": "September",
+        "playoffs_start": "January",
+        "coordinates": {
+            "latitude": "39.901201",
+            "longitude": "-75.167412"
+        },
+        "nearby_amenities": {
+            "restaurants_bars": [
+                {
+                    "name": "Xfinity Live!",
+                    "description": "A dining and entertainment complex located on the same sports complex as the stadium, offering multiple eateries, bars and venues for pre-game and post-game festivities.",
+                    "coordinates": {
+                        "latitude": "39.904878",
+                        "longitude": "-75.169278"
                     }
+                },
+                {
+                    "name": "Phillies Sports Bar & Grill",
+                    "description": "Located nearby the stadium, a classic sports bar with game-friendly specials and a lively Eagles fan crowd.",
+                    "coordinates": {
+                        "latitude": "39.904095",
+                        "longitude": "-75.180933"
+                    }
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Courtyard by Marriott South at The Navy Yard",
+                    "description": "Located within a short drive of the venue, it offers free shuttle service to the stadium on game days.",
+                    "coordinates": {
+                        "latitude": "39.905047",
+                        "longitude": "-75.168627"
+                    }
+                },
+                {
+                    "name": "Holiday Inn Philadelphia Stadium",
+                    "description": "Situated within walking distance of the stadium and offering special game day rates.",
+                    "coordinates": {
+                        "latitude": "39.905821",
+                        "longitude": "-75.169847"
+                    }
+                }
+            ],
+            "tourist_attractions": [
+                {
+                    "name": "Liberty Bell Center",
+                    "description": "Historic site offering exhibits on the famous, iconic bell and its role in American history.",
+                    "coordinates": {
+                        "latitude": "39.948869",
+                        "longitude": "-75.150250"
+                    }
+                },
+                {
+                    "name": "Philadelphia Museum of Art",
+                    "description": "Famous museum known for its diverse collections and the 'Rocky Steps' featured in the boxing film series.",
+                    "coordinates": {
+                        "latitude": "39.965571",
+                        "longitude": "75.179959"
+                    }
+                }
+            ],
+            "team_related_activities": [
+                {
+                    "name": "Eagles Pro Shop",
+                    "description": "Get your official Eagles merchandise here, located within the stadium."
+                },
+                {
+                    "name": "Eagles Tailgate Party",
+                    "description": "Join the local fans for traditional tailgating parties before each game in the stadium parking lot."
+                }
+            ]
+        },
+        "public_transportation": {
+            "options": [
+                {
+                    "type": "SEPTA Broad Street Line",
+                    "description": "This subway line stops right at the stadium with trains running frequently on game days."
+                },
+                {
+                    "type": "Uber",
+                    "description": "Uber has a dedicated pick-up and drop-off zone at the venue."
+                }
+            ]
+        }
+    },
+    "ticket_purchasing_tips": {
+        "best_places_to_buy": [
+            "Philadelphia Eagles Official Website",
+            "Ticketmaster",
+            "StubHub"
+        ],
+        "ways_to_save": "Consider purchasing season tickets if you plan to attend multiple games. Tickets for less high-profile teams or weekday games can also be cheaper. Look for resale tickets on trustworthy websites to find potential deals.",
+        "avoiding_scalpers": "Buy from official sources or trusted resale platforms to ensure authenticity. Beware of prices that seem too good to be true or sellers that ask for wire transfers or cryptocurrencies."
+    }
 }

@@ -1,0 +1,139 @@
+{
+    "city": "New Orleans",
+    "team": "Pelicans",
+    "venue": {
+        "name": "Smoothie King Center",
+        "address": "1501 Dave Dixon Dr, New Orleans, LA 70113",
+        "website": "https://www.smoothiekingcenter.com/",
+        "average_ticket_price": "$95",
+        "season_start": "October",
+        "playoffs_start": "April",
+        "coordinates": {
+            "latitude": "29.949023",
+            "longitude": "-90.081364"
+        },
+        "nearby_amenities": {
+            "restaurants_bars": [
+                {
+                    "name": "Walk-On's Bistreaux & Bar",
+                    "address": "1009 Poydras St, New Orleans, LA 70112",
+                    "website": "http://www.walk-ons.com/",
+                    "description": "A lively sports bar offering a mix of Cajun and American dishes, known for its vibrant atmosphere.",
+                    "coordinates": {
+                        "latitude": "29.951060",
+                        "longitude": "-90.071490"
+                    }
+                },
+                {
+                    "name": "Mannings Eat-Drink-Cheer",
+                    "address": "519 Fulton St, New Orleans, LA 70130",
+                    "website": "http://www.harrahsneworleans.com/restaurants/mannings.html",
+                    "description": "Features a large selection of craft beers and classic American fare in a sports-themed setting.",
+                    "coordinates": {
+                        "latitude": "29.949097",
+                        "longitude": "-90.066376"
+                    }
+                },
+                {
+                    "name": "Drago's Seafood Restaurant",
+                    "address": "2 Poydras St, New Orleans, LA 70130",
+                    "website": "https://www.dragosrestaurant.com/",
+                    "description": "Famous for its charbroiled oysters, Drago's offers a taste of local seafood cuisine near the Smoothie King Center.",
+                    "coordinates": {
+                        "latitude": "29.949560",
+                        "longitude": "-90.063980"
+                    }
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Hyatt Regency New Orleans",
+                    "address": "601 Loyola Ave, New Orleans, LA 70113",
+                    "website": "https://www.hyatt.com/en-US/hotel/louisiana/hyatt-regency-new-orleans/msyrn",
+                    "description": "This upscale hotel offers modern rooms and is conveniently located close to the Pelicans' venue.",
+                    "coordinates": {
+                        "latitude": "29.949222",
+                        "longitude": "-90.075508"
+                    }
+                },
+                {
+                    "name": "Hilton New Orleans Riverside",
+                    "address": "2 Poydras St, New Orleans, LA 70130",
+                    "website": "https://www.hilton.com/en/hotels/msynhhv-hilton-new-orleans-riverside/",
+                    "description": "Offers comfortable accommodations and easy access to both the Smoothie King Center and local attractions.",
+                    "coordinates": {
+                        "latitude": "29.949560",
+                        "longitude": "-90.063980"
+                    }
+                }
+            ],
+            "tourist_attractions": [
+                {
+                    "name": "French Quarter",
+                    "address": "New Orleans, LA",
+                    "website": "N/A",
+                    "description": "The historic heart of New Orleans, known for its vibrant nightlife, colorful buildings, and jazz music.",
+                    "coordinates": {
+                        "latitude": "29.958443",
+                        "longitude": "-90.064411"
+                    }
+                },
+                {
+                    "name": "National WWII Museum",
+                    "address": "945 Magazine St, New Orleans, LA 70130",
+                    "website": "https://www.nationalww2museum.org/",
+                    "description": "A must-visit for history enthusiasts, offering immersive exhibits on the American experience in World War II.",
+                    "coordinates": {
+                        "latitude": "29.942722",
+                        "longitude": "-90.070556"
+                    }
+                }
+            ],
+            "team_related_activities": [
+                 {
+                    "name": "Pelicans Team Shop at Smoothie King Center",
+                    "address": "1501 Dave Dixon Dr, New Orleans, LA 70113",
+                    "website": "https://www.pelicansteamstore.com/",
+                    "description": "The official store for New Orleans Pelicans merchandise, located within the Smoothie King Center.",
+                    "coordinates": {
+                        "latitude": "29.949023",
+                        "longitude": "-90.081364"
+                    }
+                 }
+            ]
+        },
+        "public_transportation": {
+            "options": [
+                {
+                    "type": "Streetcar",
+                    "description": "The New Orleans Streetcar Line has stops near the Smoothie King Center, offering a scenic route to the game."
+                },
+                {
+                    "type": "Bus",
+                    "description": "Several bus routes run through downtown New Orleans, providing convenient access to the venue."
+                }
+            ]
+        },
+        "ticket_purchasing_tips": {
+            "best_places_to_buy": [
+                {
+                    "name": "Official Team Website",
+                    "website": "https://www.nba.com/pelicans/tickets",
+                    "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+                },
+                {
+                    "name": "Ticketmaster",
+                    "website": "https://www.ticketmaster.com/new-orleans-pelicans-tickets/artist/805910",
+                    "description": "Authorized ticketing partner offering authentic Pelicans tickets."
+                },
+                {
+                    "name": "StubHub",
+                    "website": "https://www.stubhub.com/new-orleans-pelicans-tickets/performer/614/",
+                    "description": "Reliable secondary marketplace that offers verified resold Pelicans tickets."
+                }
+            ],
+            "ways_to_save": "Buying tickets for weekday games can often save money. Group discounts may be available for large parties. Look out for promotional nights for additional savings.",
+            "avoiding_scalpers": "Ensure tickets are bought from verified sources to avoid scams. Secondary marketplaces with buyer guarantees are safer. Avoid purchasing printed tickets directly from sellers near the venue."
+        }
+    }
+}

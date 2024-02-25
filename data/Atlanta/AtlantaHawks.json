@@ -1,0 +1,140 @@
+{
+    "city": "Atlanta",
+    "team": "Hawks",
+    "venue": {
+      "name": "State Farm Arena",
+      "address": "1 State Farm Drive, Atlanta, GA 30303",
+      "website": "https://www.statefarmarena.com/",
+      "average_ticket_price": "$110",
+      "season_start": "October",
+      "playoffs_start": "April",
+      "coordinates": {
+        "latitude": "33.757289",
+        "longitude": "-84.396324"
+      },
+      "nearby_amenities": {
+        "restaurants_bars": [
+          {
+            "name": "Stats Brewpub",
+            "address": "300 Marietta St NW, Atlanta, GA 30313",
+            "website": "http://www.statsatl.com/",
+            "description": "A spacious sports bar with multiple TVs, a rooftop bar, and a unique beer tap system at select tables.",
+            "coordinates": {
+              "latitude": "33.758056",
+              "longitude": "-84.395556"
+            }
+          },
+          {
+            "name": "Twin Smokers BBQ",
+            "address": "300 Marietta St NW, Atlanta, GA 30313",
+            "website": "http://www.twinsmokersbbq.com/",
+            "description": "Offers a selection of regional BBQ favorites and house-made sauces, perfect for a pre-game meal.",
+            "coordinates": {
+              "latitude": "33.7581",
+              "longitude": "-84.3955"
+            }
+          },
+          {
+            "name": "Der Biergarten",
+            "address": "300 Marietta St NW, Atlanta, GA 30313",
+            "website": "http://www.derbiergarten.com/",
+            "description": "Provides an authentic German beer garden experience with a variety of beers on tap and traditional German fare.",
+            "coordinates": {
+              "latitude": "33.7582",
+              "longitude": "-84.3957"
+            }
+          }
+        ],
+        "accommodations": [
+          {
+            "name": "Omni Atlanta Hotel at CNN Center",
+            "address": "100 CNN Center, Atlanta, GA 30303",
+            "website": "https://www.omnihotels.com/hotels/atlanta-cnn-center",
+            "description": "Luxury hotel connected to the State Farm Arena via a covered walkway, offering convenient access to games.",
+            "coordinates": {
+              "latitude": "33.7577",
+              "longitude": "-84.3944"
+            }
+          },
+          {
+            "name": "Glenn Hotel, Autograph Collection",
+            "address": "110 Marietta St NW, Atlanta, GA 30303",
+            "website": "https://www.marriott.com/hotels/travel/atlgg-glenn-hotel-autograph-collection/",
+            "description": "Boutique hotel offering unique rooms and a rooftop bar with views of the city, located a short walk from the arena.",
+            "coordinates": {
+              "latitude": "33.7574",
+              "longitude": "-84.3951"
+            }
+          }
+        ],
+        "tourist_attractions": [
+          {
+            "name": "Centennial Olympic Park",
+            "address": "265 Park Ave W NW, Atlanta, GA 30313",
+            "website": "https://www.gwcca.org/centennial-olympic-park/",
+            "description": "Iconic park created for the 1996 Olympics, featuring the Fountain of Rings and numerous outdoor concerts and events.",
+            "coordinates": {
+              "latitude": "33.760347",
+              "longitude": "-84.393541"
+            }
+          },
+          {
+            "name": "Georgia Aquarium",
+            "address": "225 Baker St NW, Atlanta, GA 30313",
+            "website": "https://www.georgiaaquarium.org/",
+            "description": "One of the world's largest aquariums, with thousands of animals and an immersive aquatic experience.",
+            "coordinates": {
+              "latitude": "33.7634",
+              "longitude": "-84.3951"
+            }
+          }
+        ],
+        "team_related_activities": [
+          {
+            "name": "Hawks Shop at State Farm Arena",
+            "address": "1 State Farm Drive, Atlanta, GA 30303",
+            "website": "https://hawksshop.com/",
+            "description": "Official store for Atlanta Hawks merchandise, located within the State Farm Arena.",
+            "coordinates": {
+              "latitude": "33.757289",
+              "longitude": "-84.396324"
+            }
+          }
+        ]
+      },
+      "public_transportation": {
+        "options": [
+          {
+            "type": "MARTA",
+            "description": "The MARTA train has a stop at the Dome/GWCC/Philips Arena/CNN Center Station, providing easy access to the State Farm Arena."
+          },
+          {
+            "type": "Bus",
+            "description": "Multiple Atlanta bus routes stop near the State Farm Arena, making it accessible from various parts of the city."
+          }
+        ]
+      },
+      "ticket_purchasing_tips": {
+        "best_places_to_buy": [
+          {
+            "name": "Official Team Website",
+            "website": "https://www.nba.com/hawks/tickets/",
+            "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+          },
+          {
+            "name": "Ticketmaster",
+            "website": "https://www.ticketmaster.com/atlanta-hawks-tickets/artist/805896",
+            "description": "Authorized ticketing partner offering authentic Hawks tickets."
+          },
+          {
+            "name": "StubHub",
+            "website": "https://www.stubhub.com/atlanta-hawks-tickets/performer/6146/",
+            "description": "Reliable secondary marketplace that offers verified resold Hawks tickets."
+          }
+        ],
+        "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+        "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+      }
+    }
+  }
+  

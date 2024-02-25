@@ -1,0 +1,139 @@
+{
+    "city": "Miami",
+    "team": "Heat",
+    "venue": {
+        "name": "Kaseya Center",
+        "address": "601 Biscayne Blvd, Miami, FL 33132",
+        "website": "https://www.ftxarena.com/",
+        "average_ticket_price": "$150",
+        "season_start": "October",
+        "playoffs_start": "April",
+        "coordinates": {
+            "latitude": "25.781389",
+            "longitude": "-80.187778"
+        },
+        "nearby_amenities": {
+            "restaurants_bars": [
+                {
+                    "name": "Bayside Marketplace",
+                    "address": "401 Biscayne Blvd, Miami, FL 33132",
+                    "website": "https://www.baysidemarketplace.com/",
+                    "description": "A large waterfront shopping center with a variety of dining options, live music, and boat tours, located within walking distance from FTX Arena.",
+                    "coordinates": {
+                        "latitude": "25.778056",
+                        "longitude": "-80.186111"
+                    }
+                },
+                {
+                    "name": "American Social",
+                    "address": "690 SW 1st Ct, Miami, FL 33130",
+                    "website": "https://americansocialbar.com/miami/",
+                    "description": "A lively sports bar offering American fare, craft beers, and waterfront views, a short drive from FTX Arena.",
+                    "coordinates": {
+                        "latitude": "25.7687",
+                        "longitude": "-80.1939"
+                    }
+                },
+                {
+                    "name": "The Wharf Miami",
+                    "address": "114 SW North River Dr, Miami, FL 33130",
+                    "website": "https://wharfmiami.com/",
+                    "description": "An open-air venue by the Miami River with food, cocktails, and a vibrant atmosphere, ideal for pre-game and post-game gatherings.",
+                    "coordinates": {
+                        "latitude": "25.7729",
+                        "longitude": "-80.2005"
+                    }
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Holiday Inn Port of Miami-Downtown",
+                    "address": "340 Biscayne Blvd, Miami, FL 33132",
+                    "website": "https://www.ihg.com/holidayinn/hotels/us/en/miami/miabb/hoteldetail",
+                    "description": "A comfortable hotel offering scenic views of Biscayne Bay and the Miami skyline, conveniently located across from FTX Arena.",
+                    "coordinates": {
+                        "latitude": "25.777222",
+                        "longitude": "-80.186944"
+                    }
+                },
+                {
+                    "name": "InterContinental Miami",
+                    "address": "100 Chopin Plaza, Miami, FL 33131",
+                    "website": "https://www.icmiamihotel.com/",
+                    "description": "A luxury hotel featuring modern rooms, a spa, and dining options, situated a short distance from FTX Arena with views of Biscayne Bay.",
+                    "coordinates": {
+                        "latitude": "25.772",
+                        "longitude": "-80.185"
+                    }
+                }
+            ],
+            "tourist_attractions": [
+                {
+                    "name": "Pérez Art Museum Miami",
+                    "address": "1103 Biscayne Blvd, Miami, FL 33132",
+                    "website": "https://www.pamm.org/",
+                    "description": "Contemporary art museum showcasing international art of the 20th and 21st centuries, located near FTX Arena.",
+                    "coordinates": {
+                        "latitude": "25.785",
+                        "longitude": "-80.187"
+                    }
+                },
+                {
+                    "name": "Phillip and Patricia Frost Museum of Science",
+                    "address": "1101 Biscayne Blvd, Miami, FL 33132",
+                    "website": "https://www.frostscience.org/",
+                    "description": "A state-of-the-art museum featuring a planetarium, aquarium, and interactive exhibits, adjacent to the Pérez Art Museum Miami.",
+                    "coordinates": {
+                        "latitude": "25.7854",
+                        "longitude": "-80.1863"
+                    }
+                }
+            ],
+            "team_related_activities": [
+                 {
+                    "name": "Miami Heat Store at FTX Arena",
+                    "address": "601 Biscayne Blvd, Miami, FL 33132",
+                    "website": "https://www.themiamiheatstore.com/",
+                    "description": "Official store for Miami Heat merchandise, offering a wide selection of gear located within the FTX Arena.",
+                    "coordinates": {
+                        "latitude": "25.781389",
+                        "longitude": "-80.187778"
+                    }
+                 }
+            ]
+        },
+        "public_transportation": {
+            "options": [
+                {
+                    "type": "Metromover",
+                    "description": "The free Metromover has several stops near FTX Arena, providing convenient access from various parts of downtown Miami."
+                },
+                {
+                    "type": "MetroRail",
+                    "description": "The MetroRail's Government Center station connects to the Metromover, facilitating access from the broader Miami area."
+                }
+            ]
+        },
+        "ticket_purchasing_tips": {
+            "best_places_to_buy": [
+                {
+                    "name": "Official Team Website",
+                    "website": "https://www.nba.com/heat/tickets/",
+                    "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+                },
+                {
+                    "name": "Ticketmaster",
+                    "website": "https://www.ticketmaster.com/miami-heat-tickets/artist/805966",
+                    "description": "Authorized ticketing partner offering authentic Heat tickets."
+                },
+                {
+                    "name": "StubHub",
+                    "website": "https://www.stubhub.com/miami-heat-tickets/performer/6142",
+                    "description": "Reliable secondary marketplace that offers verified resold Heat tickets."
+                }
+            ],
+            "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+            "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+        }
+    }
+}

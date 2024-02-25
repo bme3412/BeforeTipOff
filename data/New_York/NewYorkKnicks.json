@@ -1,0 +1,139 @@
+{
+    "city": "New York",
+    "team": "Knicks",
+    "venue": {
+        "name": "Madison Square Garden",
+        "address": "4 Pennsylvania Plaza, New York, NY 10001",
+        "website": "https://www.msg.com/madison-square-garden",
+        "average_ticket_price": "$130",
+        "season_start": "October",
+        "playoffs_start": "April",
+        "coordinates": {
+            "latitude": "40.750504",
+            "longitude": "-73.993439"
+        },
+        "nearby_amenities": {
+            "restaurants_bars": [
+                {
+                    "name": "Clyde Frazier's Wine and Dine",
+                    "address": "485 10th Ave, New York, NY 10018",
+                    "website": "http://clydefraziers.com/",
+                    "description": "Themed restaurant owned by Knicks legend Walt 'Clyde' Frazier, offering American cuisine and a free-throw basketball court.",
+                    "coordinates": {
+                        "latitude": "40.756980",
+                        "longitude": "-73.994560"
+                    }
+                },
+                {
+                    "name": "Stout NYC",
+                    "address": "133 W 33rd St, New York, NY 10001",
+                    "website": "https://www.stoutnyc.com/",
+                    "description": "A spacious, bustling Irish pub known for its extensive selection of beers and proximity to Madison Square Garden.",
+                    "coordinates": {
+                        "latitude": "40.750790",
+                        "longitude": "-73.991600"
+                    }
+                },
+                {
+                    "name": "The Pennsy Food Hall",
+                    "address": "2 Pennsylvania Plaza, New York, NY 10121",
+                    "website": "N/A",
+                    "description": "A food hall located right above Penn Station, offering a variety of food options for Knicks fans before the game.",
+                    "coordinates": {
+                        "latitude": "40.750580",
+                        "longitude": "-73.993450"
+                    }
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Hotel Pennsylvania",
+                    "address": "401 7th Ave, New York, NY 10001",
+                    "website": "https://www.hotelpenn.com/",
+                    "description": "Historic hotel offering straightforward accommodations with easy access to Madison Square Garden.",
+                    "coordinates": {
+                        "latitude": "40.749940",
+                        "longitude": "-73.991380"
+                    }
+                },
+                {
+                    "name": "The New Yorker, A Wyndham Hotel",
+                    "address": "481 8th Ave, New York, NY 10001",
+                    "website": "https://www.newyorkerhotel.com/",
+                    "description": "Iconic art deco hotel with comfortable rooms, located close to Madison Square Garden.",
+                    "coordinates": {
+                        "latitude": "40.752730",
+                        "longitude": "-73.993370"
+                    }
+                }
+            ],
+            "tourist_attractions": [
+                {
+                    "name": "Empire State Building",
+                    "address": "20 W 34th St, New York, NY 10118",
+                    "website": "https://www.esbnyc.com/",
+                    "description": "Iconic skyscraper offering observation decks with spectacular views of New York City.",
+                    "coordinates": {
+                        "latitude": "40.748817",
+                        "longitude": "-73.985428"
+                    }
+                },
+                {
+                    "name": "Times Square",
+                    "address": "Manhattan, NY 10036",
+                    "website": "https://www.timessquarenyc.org/",
+                    "description": "Famous for its bright lights, shopping, entertainment, and New Year's Eve ball drop, a must-visit location in NYC.",
+                    "coordinates": {
+                        "latitude": "40.758896",
+                        "longitude": "-73.985130"
+                    }
+                }
+            ],
+            "team_related_activities": [
+                 {
+                    "name": "Madison Square Garden All Access Tour",
+                    "address": "4 Pennsylvania Plaza, New York, NY 10001",
+                    "website": "https://www.msg.com/madison-square-garden#post-link-3",
+                    "description": "Behind-the-scenes tour of Madison Square Garden, exploring exclusive VIP areas and commemorating over 130 years of legendary Garden history.",
+                    "coordinates": {
+                        "latitude": "40.750504",
+                        "longitude": "-73.993439"
+                    }
+                 }
+            ]
+        },
+        "public_transportation": {
+            "options": [
+                {
+                    "type": "Subway",
+                    "description": "Multiple subway lines including the A, C, E, 1, 2, 3, and others stop at 34th Street Penn Station, directly below Madison Square Garden."
+                },
+                {
+                    "type": "Commuter Rail",
+                    "description": "Penn Station serves as a major hub for NJ Transit, Long Island Rail Road, and Amtrak, providing easy access from various locations."
+                }
+            ]
+        },
+        "ticket_purchasing_tips": {
+            "best_places_to_buy": [
+                {
+                    "name": "Official Team Website",
+                    "website": "https://www.nba.com/knicks/tickets",
+                    "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+                },
+                {
+                    "name": "Ticketmaster",
+                    "website": "https://www.ticketmaster.com/new-york-knicks-tickets/artist/805988",
+                    "description": "Authorized ticketing partner offering authentic Knicks tickets."
+                },
+                {
+                    "name": "StubHub",
+                    "website": "https://www.stubhub.com/new-york-knicks-tickets/performer/6342/",
+                    "description": "Reliable secondary marketplace that offers verified resold Knicks tickets."
+                }
+            ],
+            "ways_to_save": "Consider attending weekday games which can be cheaper than weekend matchups. Look for ticket bundle deals. Sign up for fan clubs or newsletters for potential discounts.",
+            "avoiding_scalpers": "Always purchase tickets from official sources or reputable secondary market sites with buyer protections. Avoid cash transactions outside the venue to prevent scams."
+        }
+    }
+}

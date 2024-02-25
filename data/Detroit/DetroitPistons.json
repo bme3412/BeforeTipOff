@@ -1,0 +1,140 @@
+{
+    "city": "Detroit",
+    "team": "Pistons",
+    "venue": {
+      "name": "Little Caesars Arena",
+      "address": "2645 Woodward Ave, Detroit, MI 48201",
+      "website": "https://www.olympiaentertainment.com/venues/detail/little-caesars-arena",
+      "average_ticket_price": "$100",
+      "season_start": "October",
+      "playoffs_start": "April",
+      "coordinates": {
+        "latitude": "42.341024",
+        "longitude": "-83.055178"
+      },
+      "nearby_amenities": {
+        "restaurants_bars": [
+          {
+            "name": "Mike's Pizza Bar",
+            "address": "2515 Woodward Ave, Detroit, MI 48201",
+            "website": "http://www.mikespizzabardetroit.com/",
+            "description": "Artisanal pizza place offering a sports bar environment, located within walking distance to Little Caesars Arena.",
+            "coordinates": {
+              "latitude": "42.340222",
+              "longitude": "-83.055536"
+            }
+          },
+          {
+            "name": "Sports & Social Detroit",
+            "address": "28 Henry St, Detroit, MI 48201",
+            "website": "https://www.sportsandsocial.com/location/detroit/",
+            "description": "A dynamic sports bar offering a wide range of games, live music, and a high-energy atmosphere near the arena.",
+            "coordinates": {
+              "latitude": "42.340998",
+              "longitude": "-83.054867"
+            }
+          },
+          {
+            "name": "Kid Rock’s Made in Detroit",
+            "address": "2645 Woodward Ave, Detroit, MI 48201",
+            "website": "http://www.kidrocksdetroit.com/",
+            "description": "A restaurant and bar featuring a menu inspired by Kid Rock’s Detroit roots, located inside Little Caesars Arena.",
+            "coordinates": {
+              "latitude": "42.341024",
+              "longitude": "-83.055178"
+            }
+          }
+        ],
+        "accommodations": [
+          {
+            "name": "The Siren Hotel",
+            "address": "1509 Broadway St, Detroit, MI 48226",
+            "website": "https://www.thesirenhotel.com/",
+            "description": "A boutique hotel offering unique, artistically inspired rooms in the heart of downtown Detroit.",
+            "coordinates": {
+              "latitude": "42.335963",
+              "longitude": "-83.046564"
+            }
+          },
+          {
+            "name": "Aloft Detroit at The David Whitney",
+            "address": "One Park Avenue, Detroit, MI 48226",
+            "website": "https://www.marriott.com/hotels/travel/dtwdw-aloft-detroit-at-the-david-whitney/",
+            "description": "Modern hotel with spacious rooms, located in a historic building close to Little Caesars Arena.",
+            "coordinates": {
+              "latitude": "42.331599",
+              "longitude": "-83.048847"
+            }
+          }
+        ],
+        "tourist_attractions": [
+          {
+            "name": "Detroit Institute of Arts",
+            "address": "5200 Woodward Ave, Detroit, MI 48202",
+            "website": "https://www.dia.org/",
+            "description": "One of the largest and most significant art collections in the United States, located in Midtown Detroit.",
+            "coordinates": {
+              "latitude": "42.359396",
+              "longitude": "-83.064949"
+            }
+          },
+          {
+            "name": "The Henry Ford Museum",
+            "address": "20900 Oakwood Blvd, Dearborn, MI 48124",
+            "website": "https://www.thehenryford.org/",
+            "description": "A large indoor and outdoor history museum complex and a National Historic Landmark in the Detroit suburb of Dearborn.",
+            "coordinates": {
+              "latitude": "42.300097",
+              "longitude": "-83.233777"
+            }
+          }
+        ],
+        "team_related_activities": [
+          {
+            "name": "Pistons Locker Room Store",
+            "address": "6 Championship Dr, Auburn Hills, MI 48326",
+            "website": "https://pistonslockerroomstore.com/",
+            "description": "Official store for Detroit Pistons merchandise, offering a wide selection of gear for fans.",
+            "coordinates": {
+              "latitude": "42.696884",
+              "longitude": "-83.245773"
+            }
+          }
+        ]
+      },
+      "public_transportation": {
+        "options": [
+          {
+            "type": "QLine Streetcar",
+            "description": "The QLine streetcar runs along Woodward Avenue, offering convenient access to Little Caesars Arena from various parts of the city."
+          },
+          {
+            "type": "Bus",
+            "description": "Detroit's DDOT and SMART bus services provide routes that have stops near Little Caesars Arena, facilitating access from surrounding areas."
+          }
+        ]
+      },
+      "ticket_purchasing_tips": {
+        "best_places_to_buy": [
+          {
+            "name": "Official Team Website",
+            "website": "https://www.nba.com/pistons/tickets/single-game",
+            "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+          },
+          {
+            "name": "Ticketmaster",
+            "website": "https://www.ticketmaster.com/detroit-pistons-tickets/artist/805952",
+            "description": "Authorized ticketing partner offering authentic Pistons tickets."
+          },
+          {
+            "name": "StubHub",
+            "website": "https://www.stubhub.com/detroit-pistons-tickets/performer/4313/",
+            "description": "Reliable secondary marketplace that offers verified resold Pistons tickets."
+          }
+        ],
+        "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+        "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+      }
+    }
+  }
+  

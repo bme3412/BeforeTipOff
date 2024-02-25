@@ -1,0 +1,140 @@
+{
+    "city": "Dallas",
+    "team": "Mavericks",
+    "venue": {
+      "name": "American Airlines Center",
+      "address": "2500 Victory Ave, Dallas, TX 75219",
+      "website": "https://www.americanairlinescenter.com/",
+      "average_ticket_price": "$125",
+      "season_start": "October",
+      "playoffs_start": "April",
+      "coordinates": {
+        "latitude": "32.790514",
+        "longitude": "-96.810356"
+      },
+      "nearby_amenities": {
+        "restaurants_bars": [
+          {
+            "name": "Happiest Hour",
+            "address": "2616 Olive St, Dallas, TX 75201",
+            "website": "http://www.happiesthourdallas.com/",
+            "description": "Dallas' largest patio bar and lounge, featuring a rooftop deck with views of the Dallas skyline.",
+            "coordinates": {
+              "latitude": "32.788281",
+              "longitude": "-96.810318"
+            }
+          },
+          {
+            "name": "Shooters Dallas",
+            "address": "2500 Victory Ave, Dallas, TX 75219",
+            "website": "N/A",
+            "description": "A lively sports bar located within the American Airlines Center, offering classic American fare and a wide selection of beers.",
+            "coordinates": {
+              "latitude": "32.790514",
+              "longitude": "-96.810356"
+            }
+          },
+          {
+            "name": "The Owners Box",
+            "address": "555 S Lamar St, Dallas, TX 75202",
+            "website": "https://www.omnihotels.com/hotels/dallas/dining/the-owners-box",
+            "description": "A sports-centric bar at the Omni Dallas Hotel, offering innovative cocktails, local craft beers, and an impressive LED screen.",
+            "coordinates": {
+              "latitude": "32.775423",
+              "longitude": "-96.805387"
+            }
+          }
+        ],
+        "accommodations": [
+          {
+            "name": "W Dallas - Victory",
+            "address": "2440 Victory Park Ln, Dallas, TX 75219",
+            "website": "https://www.marriott.com/hotels/travel/dalwh-w-dallas-victory/",
+            "description": "Trendy hotel offering stylish rooms, a spa, and an infinity pool, located just steps from the American Airlines Center.",
+            "coordinates": {
+              "latitude": "32.787628",
+              "longitude": "-96.810357"
+            }
+          },
+          {
+            "name": "Omni Dallas Hotel",
+            "address": "555 S Lamar St, Dallas, TX 75202",
+            "website": "https://www.omnihotels.com/hotels/dallas",
+            "description": "Luxury hotel with a full-service spa, rooftop pool, and multiple dining options, offering views of the Dallas skyline.",
+            "coordinates": {
+              "latitude": "32.775423",
+              "longitude": "-96.805387"
+            }
+          }
+        ],
+        "tourist_attractions": [
+          {
+            "name": "Perot Museum of Nature and Science",
+            "address": "2201 N Field St, Dallas, TX 75201",
+            "website": "https://www.perotmuseum.org/",
+            "description": "A world of wonder, with five floors of interactive exhibits, an IMAX theater, and a children's museum.",
+            "coordinates": {
+              "latitude": "32.786816",
+              "longitude": "-96.806746"
+            }
+          },
+          {
+            "name": "Dallas World Aquarium",
+            "address": "1801 N Griffin St, Dallas, TX 75202",
+            "website": "https://dwazoo.com/",
+            "description": "An aquatic wonderland housing a vast array of marine life, from sharks to jellyfish, in a rainforest setting.",
+            "coordinates": {
+              "latitude": "32.783778",
+              "longitude": "-96.805518"
+            }
+          }
+        ],
+        "team_related_activities": [
+          {
+            "name": "Mavs Fan Shop",
+            "address": "2500 Victory Ave, Dallas, TX 75219",
+            "website": "https://mavsgear.com/",
+            "description": "Official store for Dallas Mavericks merchandise, located within the American Airlines Center.",
+            "coordinates": {
+              "latitude": "32.790514",
+              "longitude": "-96.810356"
+            }
+          }
+        ]
+      },
+      "public_transportation": {
+        "options": [
+          {
+            "type": "DART",
+            "description": "Dallas Area Rapid Transit (DART) offers light rail service with Victory Station located near the American Airlines Center, providing easy access from various parts of the city."
+          },
+          {
+            "type": "M-Line Trolley",
+            "description": "The M-Line Trolley provides free rides between the Uptown neighborhood and downtown Dallas, with stops near the American Airlines Center."
+          }
+        ]
+      },
+      "ticket_purchasing_tips": {
+        "best_places_to_buy": [
+          {
+            "name": "Official Team Website",
+            "website": "https://www.mavs.com/tickets/",
+            "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+          },
+          {
+            "name": "Ticketmaster",
+            "website": "https://www.ticketmaster.com/dallas-mavericks-tickets/artist/806034",
+            "description": "Authorized ticketing partner offering authentic Mavericks tickets."
+          },
+          {
+            "name": "StubHub",
+            "website": "https://www.stubhub.com/dallas-mavericks-tickets/performer/614/",
+            "description": "Reliable secondary marketplace that offers verified resold Mavericks tickets."
+          }
+        ],
+        "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+        "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+      }
+    }
+  }
+  

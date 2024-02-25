@@ -1,0 +1,140 @@
+{
+    "city": "Chicago",
+    "team": "Bulls",
+    "venue": {
+      "name": "United Center",
+      "address": "1901 W Madison St, Chicago, IL 60612",
+      "website": "https://www.unitedcenter.com/",
+      "average_ticket_price": "$130",
+      "season_start": "October",
+      "playoffs_start": "April",
+      "coordinates": {
+        "latitude": "41.880683",
+        "longitude": "-87.674147"
+      },
+      "nearby_amenities": {
+        "restaurants_bars": [
+          {
+            "name": "The Ogden Chicago",
+            "address": "1659 W Ogden Ave, Chicago, IL 60612",
+            "website": "http://www.theogdenchicago.com/",
+            "description": "A sports bar with an extensive beer list and upscale bar food, located a short walk from the United Center.",
+            "coordinates": {
+              "latitude": "41.8781136",
+              "longitude": "-87.6739357"
+            }
+          },
+          {
+            "name": "Billy Goat Tavern",
+            "address": "1535 W Madison St, Chicago, IL 60607",
+            "website": "http://www.billygoattavern.com/",
+            "description": "Iconic Chicago tavern known for its cheezborgers, cheezborgers, no fries, chips, and its Saturday Night Live skit.",
+            "coordinates": {
+              "latitude": "41.881318",
+              "longitude": "-87.663662"
+            }
+          },
+          {
+            "name": "Kaiser Tiger",
+            "address": "1415 W Randolph St, Chicago, IL 60607",
+            "website": "http://www.kaisertiger.com/",
+            "description": "Sausage, bacon, and beer are the specialties at this bar and restaurant with a spacious outdoor patio.",
+            "coordinates": {
+              "latitude": "41.884176",
+              "longitude": "-87.662003"
+            }
+          }
+        ],
+        "accommodations": [
+          {
+            "name": "Ace Hotel Chicago",
+            "address": "311 N Morgan St, Chicago, IL 60607",
+            "website": "https://www.acehotel.com/chicago/",
+            "description": "Trendy hotel in the West Loop with unique rooms, a great rooftop bar, and close proximity to the United Center.",
+            "coordinates": {
+              "latitude": "41.887576",
+              "longitude": "-87.652359"
+            }
+          },
+          {
+            "name": "Hoxton Chicago",
+            "address": "200 N Green St, Chicago, IL 60607",
+            "website": "https://thehoxton.com/illinois/chicago/hotels",
+            "description": "Located in the heart of the Fulton Market District, offering cozy rooms, a rooftop pool, and multiple dining options.",
+            "coordinates": {
+              "latitude": "41.885632",
+              "longitude": "-87.648451"
+            }
+          }
+        ],
+        "tourist_attractions": [
+          {
+            "name": "Willis Tower Skydeck",
+            "address": "233 S Wacker Dr, Chicago, IL 60606",
+            "website": "https://theskydeck.com/",
+            "description": "Offering spectacular views from the 103rd floor of one of the world's tallest buildings.",
+            "coordinates": {
+              "latitude": "41.878876",
+              "longitude": "-87.635915"
+            }
+          },
+          {
+            "name": "Millennium Park",
+            "address": "201 E Randolph St, Chicago, IL 60602",
+            "website": "https://www.chicago.gov/city/en/depts/dca/supp_info/millennium_park.html",
+            "description": "A public park located in the Loop community area of Chicago, known for its innovative art, architecture, and landscape design.",
+            "coordinates": {
+              "latitude": "41.882552",
+              "longitude": "-87.622551"
+            }
+          }
+        ],
+        "team_related_activities": [
+          {
+            "name": "Bulls Team Store at United Center",
+            "address": "1901 W Madison St, Chicago, IL 60612",
+            "website": "https://shop.bulls.com/",
+            "description": "Official store for Chicago Bulls merchandise, located within the United Center.",
+            "coordinates": {
+              "latitude": "41.880683",
+              "longitude": "-87.674147"
+            }
+          }
+        ]
+      },
+      "public_transportation": {
+        "options": [
+          {
+            "type": "CTA Bus",
+            "description": "Several Chicago Transit Authority bus lines provide service directly to the United Center."
+          },
+          {
+            "type": "CTA Train",
+            "description": "The nearest CTA train stops are at Ashland (Green and Pink Lines) and Illinois Medical District (Blue Line), both within walking distance."
+          }
+        ]
+      },
+      "ticket_purchasing_tips": {
+        "best_places_to_buy": [
+          {
+            "name": "Official Team Website",
+            "website": "https://www.nba.com/bulls/tickets/",
+            "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+          },
+          {
+            "name": "Ticketmaster",
+            "website": "https://www.ticketmaster.com/chicago-bulls-tickets/artist/805922",
+            "description": "Authorized ticketing partner offering authentic Bulls tickets."
+          },
+          {
+            "name": "StubHub",
+            "website": "https://www.stubhub.com/chicago-bulls-tickets/performer/124/",
+            "description": "Reliable secondary marketplace that offers verified resold Bulls tickets."
+          }
+        ],
+        "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+        "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+      }
+    }
+  }
+  

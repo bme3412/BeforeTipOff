@@ -1,0 +1,141 @@
+
+{
+    "city": "Boston",
+    "team": "Celtics",
+    "venue": {
+        "name": "TD Garden",
+        "address": "100 Legends Way, Boston, MA 02114",
+        "website": "https://www.tdgarden.com/",
+        "average_ticket_price": "$120",
+        "season_start": "October",
+        "playoffs_start": "April",
+        "coordinates": {
+            "latitude": "42.366303",
+            "longitude": "-71.062228"
+        },
+        "nearby_amenities": {
+            "restaurants_bars": [
+                {
+                    "name": "The Fours Boston",
+                    "address": "166 Canal St, Boston, MA 02114",
+                    "website": "http://www.thefours.com/boston/",
+                    "description": "A popular sports bar known for its proximity to TD Garden and vast collection of sports memorabilia.",
+                    "coordinates": {
+                        "latitude": "42.365554",
+                        "longitude": "-71.061600"
+                    }
+                },
+                {
+                    "name": "Halftime Pizza",
+                    "address": "115 Causeway St, Boston, MA 02114",
+                    "website": "N/A",
+                    "description": "Famous for its large pizzas and close location to the TD Garden, perfect for a quick bite before the game.",
+                    "coordinates": {
+                        "latitude": "42.364611",
+                        "longitude": "-71.062445"
+                    }
+                },
+                {
+                    "name": "Porters Bar & Grill",
+                    "address": "173 Portland St, Boston, MA 02114",
+                    "website": "http://www.portersbar.com/",
+                    "description": "A cozy spot for Celtics fans to grab a drink or a meal, boasting a friendly atmosphere and sports on the TVs.",
+                    "coordinates": {
+                        "latitude": "42.364080",
+                        "longitude": "-71.060940"
+                    }
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "The Boxer Boston Hotel",
+                    "address": "107 Merrimac St, Boston, MA 02114",
+                    "website": "https://www.theboxerboston.com/",
+                    "description": "Boutique hotel known for its unique architecture and close distance to TD Garden.",
+                    "coordinates": {
+                        "latitude": "42.363445",
+                        "longitude": "-71.062694"
+                    }
+                },
+                {
+                    "name": "Kimpton Onyx Hotel",
+                    "address": "155 Portland St, Boston, MA 02114",
+                    "website": "https://www.onyxhotel.com/",
+                    "description": "Stylish hotel offering comfortable accommodations and easy access to Celtics games and Boston’s attractions.",
+                    "coordinates": {
+                        "latitude": "42.364008",
+                        "longitude": "-71.060497"
+                    }
+                }
+            ],
+            "tourist_attractions": [
+                {
+                    "name": "The Freedom Trail",
+                    "address": "Boston, MA",
+                    "website": "https://www.thefreedomtrail.org/",
+                    "description": "A 2.5-mile-long path through downtown Boston, passing by 16 locations significant to the history of the United States.",
+                    "coordinates": {
+                        "latitude": "42.359800",
+                        "longitude": "-71.059770"
+                    }
+                },
+                {
+                    "name": "Museum of Science",
+                    "address": "1 Museum Of Science Driveway, Boston, MA 02114",
+                    "website": "https://www.mos.org/",
+                    "description": "Features over 700 interactive exhibits and several live presentations throughout the building every day.",
+                    "coordinates": {
+                        "latitude": "42.367794",
+                        "longitude": "-71.070288"
+                    }
+                }
+            ],
+            "team_related_activities": [
+                 {
+                    "name": "Celtics Fan Shop at TD Garden",
+                    "address": "100 Legends Way, Boston, MA 02114",
+                    "website": "https://celticsstore.com/",
+                    "description": "Official store for Boston Celtics merchandise, located within the TD Garden.",
+                    "coordinates": {
+                        "latitude": "42.366303",
+                        "longitude": "-71.062228"
+                    }
+                 }
+            ]
+        },
+        "public_transportation": {
+            "options": [
+                {
+                    "type": "Subway",
+                    "description": "The Green Line and Orange Line at North Station stop directly beneath TD Garden, making it easily accessible from any part of the city."
+                },
+                {
+                    "type": "Commuter Rail",
+                    "description": "North Station is also a major hub for the MBTA Commuter Rail, offering convenient access for those coming from outside Boston."
+                }
+            ]
+        },
+        "ticket_purchasing_tips": {
+            "best_places_to_buy": [
+                {
+                    "name": "Official Team Website",
+                    "website": "https://www.celtics.com/tickets/",
+                    "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+                },
+                {
+                    "name": "Ticketmaster",
+                    "website": "https://www.ticketmaster.com/boston-celtics-tickets/artist/805903",
+                    "description": "Authorized ticketing partner offering authentic Celtics tickets."
+                },
+                {
+                    "name": "StubHub",
+                    "website": "https://www.stubhub.com/boston-celtics-tickets/performer/2744",
+                    "description": "Reliable secondary marketplace that offers verified resold Celtics tickets."
+                }
+            ],
+            "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+            "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+        }
+    }
+
+}

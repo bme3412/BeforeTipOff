@@ -1,0 +1,138 @@
+{
+    "city": "Berlin",
+    "team": "ALBA Berlin",
+    "venue": {
+        "name": "Mercedes-Benz Arena",
+        "address": "Mercedes-Platz 1, 10243 Berlin, Germany",
+        "website": "https://www.mercedes-benz-arena-berlin.de/en",
+        "average_ticket_price": "€30",
+        "season_start": "September",
+        "playoffs_start": "May",
+        "coordinates": {
+            "latitude": "52.505033",
+            "longitude": "13.443396"
+        },
+        "nearby_amenities": {
+            "restaurants_bars": [
+                {
+                    "name": "L.A. Poke",
+                    "address": "Warschauer Pl. 18, 10245 Berlin, Germany",
+                    "website": "https://www.lapokebowls.com/",
+                    "description": "A trendy spot offering Hawaiian-inspired poke bowls, known for its fresh ingredients and vibrant atmosphere, located near the arena.",
+                    "coordinates": {
+                        "latitude": "52.507350",
+                        "longitude": "13.450650"
+                    }
+                },
+                {
+                    "name": "The Brooklyn",
+                    "address": "Mercedes-Platz 1, 10243 Berlin, Germany",
+                    "website": "http://www.thebrooklyn.de/",
+                    "description": "An American restaurant and bar located within the Mercedes-Benz Arena, serving classic dishes and a wide selection of drinks.",
+                    "coordinates": {
+                        "latitude": "52.505033",
+                        "longitude": "13.443396"
+                    }
+                },
+                {
+                    "name": "Freischwimmer",
+                    "address": "Vor dem Schlesischen Tor 2, 10997 Berlin, Germany",
+                    "website": "https://www.freischwimmer-berlin.com/",
+                    "description": "A charming riverside restaurant offering a variety of dishes with a beautiful view, perfect for a relaxed meal before or after the game.",
+                    "coordinates": {
+                        "latitude": "52.497929",
+                        "longitude": "13.450092"
+                    }
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Hampton by Hilton Berlin City East Side Gallery",
+                    "address": "Mildred-Harnack-Str. 15, 10243 Berlin, Germany",
+                    "website": "https://www.hilton.com/en/hotels/beresgx-hampton-berlin-city-east-side-gallery/",
+                    "description": "A modern hotel with comfortable rooms and amenities, situated close to the Mercedes-Benz Arena and various attractions.",
+                    "coordinates": {
+                        "latitude": "52.504777",
+                        "longitude": "13.437616"
+                    }
+                },
+                {
+                    "name": "Holiday Inn Berlin - City East Side, an IHG Hotel",
+                    "address": "Wanda-Kallenbach Str. 2, 10243 Berlin, Germany",
+                    "website": "https://www.ihg.com/holidayinn/hotels/us/en/berlin/beres/hoteldetail",
+                    "description": "Offers stylish accommodations with easy access to the city's main sights, including the Mercedes-Benz Arena.",
+                    "coordinates": {
+                        "latitude": "52.50354",
+                        "longitude": "13.43932"
+                    }
+                }
+            ],
+            "tourist_attractions": [
+                {
+                    "name": "East Side Gallery",
+                    "address": "Mühlenstraße 3-100, 10243 Berlin, Germany",
+                    "website": "http://www.eastsidegallery-berlin.de/",
+                    "description": "A historic section of the Berlin Wall turned into an open-air gallery featuring artwork from artists around the world.",
+                    "coordinates": {
+                        "latitude": "52.505410",
+                        "longitude": "13.439730"
+                    }
+                },
+                {
+                    "name": "Berlin TV Tower",
+                    "address": "Panoramastraße 1A, 10178 Berlin, Germany",
+                    "website": "https://tv-turm.de/en/",
+                    "description": "One of the city's most iconic landmarks, offering panoramic views of Berlin from its observation deck.",
+                    "coordinates": {
+                        "latitude": "52.520816",
+                        "longitude": "13.409419"
+                    }
+                }
+            ],
+            "team_related_activities": [
+                 {
+                    "name": "ALBA Berlin Fan Shop at Mercedes-Benz Arena",
+                    "address": "Mercedes-Platz 1, 10243 Berlin, Germany",
+                    "website": "https://www.albaberlin.de/fanshop/",
+                    "description": "The official store for ALBA Berlin merchandise, offering a wide range of team apparel and accessories.",
+                    "coordinates": {
+                        "latitude": "52.505033",
+                        "longitude": "13.443396"
+                    }
+                 }
+            ]
+        },
+        "public_transportation": {
+            "options": [
+                {
+                    "type": "Train",
+                    "description": "The S-Bahn (S3, S5, S7, S9) and U-Bahn (U1, U3) stations at Warschauer Straße provide convenient access to the arena."
+                },
+                {
+                    "type": "Bus",
+                    "description": "Several bus lines serve the area around Mercedes-Benz Arena, making it easily accessible from throughout the city."
+                }
+            ]
+        },
+        "ticket_purchasing_tips": {
+            "best_places_to_buy": [
+                {
+                    "name": "Official Team Website",
+                    "website": "https://www.albaberlin.de/tickets",
+                    "description": "The primary source for all ticket sales, offering guaranteed authenticity and the best seat selections."
+                },
+                {
+                    "name": "Eventim",
+                    "website": "https://www.eventim.de/",
+                    "description": "A reliable ticketing partner offering tickets for various events, including ALBA Berlin games."
+                },
+                {
+                    "name": "Resale Platforms",
+                    "description": "Check reputable resale platforms for tickets, especially for sold-out games. Ensure the platform offers buyer protection."
+                }
+            ],
+            "ways_to_save": "Look for family packages or group discounts for savings. Mid-week games may offer lower prices compared to weekend games. Sign up for the team's newsletter for promotional deals.",
+            "avoiding_scalpers": "Purchase tickets from official sources or reputable platforms to avoid scams. Be cautious of offers that seem too good to be true, and verify the authenticity of tickets when buying from resale sites."
+        }
+    }
+}

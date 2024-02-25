@@ -1,0 +1,139 @@
+{
+    "city": "Philadelphia",
+    "team": "76ers",
+    "venue": {
+        "name": "Wells Fargo Center",
+        "address": "3601 S Broad St, Philadelphia, PA 19148",
+        "website": "https://www.wellsfargocenterphilly.com/",
+        "average_ticket_price": "$102",
+        "season_start": "October",
+        "playoffs_start": "April",
+        "coordinates": {
+            "latitude": "39.901201",
+            "longitude": "-75.171979"
+        },
+        "nearby_amenities": {
+            "restaurants_bars": [
+                {
+                    "name": "Xfinity Live! Philadelphia",
+                    "address": "1100 Pattison Ave, Philadelphia, PA 19148",
+                    "website": "http://www.xfinitylive.com/",
+                    "description": "A dining and entertainment complex located just steps from Wells Fargo Center, offering a variety of food options and a vibrant atmosphere.",
+                    "coordinates": {
+                        "latitude": "39.904500",
+                        "longitude": "-75.168467"
+                    }
+                },
+                {
+                    "name": "Chickie's & Pete's",
+                    "address": "1526 Packer Ave, Philadelphia, PA 19145",
+                    "website": "https://chickiesandpetes.com/",
+                    "description": "Famous for their Crabfries, this sports bar is a favorite among fans for pre-game and post-game gatherings.",
+                    "coordinates": {
+                        "latitude": "39.917000",
+                        "longitude": "-75.172000"
+                    }
+                },
+                {
+                    "name": "Tony Luke's",
+                    "address": "39 E Oregon Ave, Philadelphia, PA 19148",
+                    "website": "https://www.tonylukes.com/",
+                    "description": "A classic Philly cheesesteak spot, known for its authentic sandwiches and local flavor.",
+                    "coordinates": {
+                        "latitude": "39.914300",
+                        "longitude": "-75.149200"
+                    }
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Courtyard by Marriott Philadelphia South at The Navy Yard",
+                    "address": "1001 Intrepid Ave, Philadelphia, PA 19112",
+                    "website": "https://www.marriott.com/hotels/travel/phlng-courtyard-philadelphia-south-at-the-navy-yard/",
+                    "description": "Modern hotel with comfortable rooms, conveniently located close to the Wells Fargo Center.",
+                    "coordinates": {
+                        "latitude": "39.892250",
+                        "longitude": "-75.170354"
+                    }
+                },
+                {
+                    "name": "Holiday Inn Philadelphia-Stadium",
+                    "address": "900 Packer Ave, Philadelphia, PA 19148",
+                    "website": "https://www.ihg.com/holidayinn/hotels/us/en/philadelphia/phlps/hoteldetail",
+                    "description": "Offers easy access to the Wells Fargo Center and features comfortable accommodations for visitors.",
+                    "coordinates": {
+                        "latitude": "39.904200",
+                        "longitude": "-75.166700"
+                    }
+                }
+            ],
+            "tourist_attractions": [
+                {
+                    "name": "Liberty Bell",
+                    "address": "526 Market St, Philadelphia, PA 19106",
+                    "website": "N/A",
+                    "description": "Iconic symbol of American independence, located in the historic center of Philadelphia.",
+                    "coordinates": {
+                        "latitude": "39.949610",
+                        "longitude": "-75.150282"
+                    }
+                },
+                {
+                    "name": "Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130",
+                    "website": "https://www.philamuseum.org/",
+                    "description": "Famous for its steps featured in the movie 'Rocky,' this museum boasts a vast collection of art from around the world.",
+                    "coordinates": {
+                        "latitude": "39.965570",
+                        "longitude": "-75.180967"
+                    }
+                }
+            ],
+            "team_related_activities": [
+                 {
+                    "name": "76ers Team Store at Wells Fargo Center",
+                    "address": "3601 S Broad St, Philadelphia, PA 19148",
+                    "website": "https://shop.wfcphilly.com/",
+                    "description": "The official store for Philadelphia 76ers merchandise, located within the Wells Fargo Center.",
+                    "coordinates": {
+                        "latitude": "39.901201",
+                        "longitude": "-75.171979"
+                    }
+                 }
+            ]
+        },
+        "public_transportation": {
+            "options": [
+                {
+                    "type": "Subway",
+                    "description": "The Broad Street Line’s NRG Station is located at the Wells Fargo Center, providing easy access from Center City."
+                },
+                {
+                    "type": "Bus",
+                    "description": "Several SEPTA bus routes stop near the Wells Fargo Center, including routes 4, 17, and 68."
+                }
+            ]
+        },
+        "ticket_purchasing_tips": {
+            "best_places_to_buy": [
+                {
+                    "name": "Official Team Website",
+                    "website": "https://www.nba.com/sixers/tickets",
+                    "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+                },
+                {
+                    "name": "Ticketmaster",
+                    "website": "https://www.ticketmaster.com/philadelphia-76ers-tickets/artist/805952",
+                    "description": "Authorized ticketing partner offering authentic 76ers tickets."
+                },
+                {
+                    "name": "StubHub",
+                    "website": "https://www.stubhub.com/philadelphia-76ers-tickets/performer/4329/",
+                    "description": "Reliable secondary marketplace that offers verified resold 76ers tickets."
+                }
+            ],
+            "ways_to_save": "Look for tickets to weekday games for potentially lower prices. Group discounts may be available. Consider last-minute ticket options for savings.",
+            "avoiding_scalpers": "Always purchase tickets from verified sources to avoid scams. Use reputable secondary marketplaces with buyer protections. Be cautious of buying printed tickets from individuals near the venue."
+        }
+    }
+}

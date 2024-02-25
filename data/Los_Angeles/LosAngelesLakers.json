@@ -1,0 +1,140 @@
+{
+    "city": "Los Angeles",
+    "team": "Lakers",
+    "venue": {
+      "name": "Crypto.com Arena",
+      "address": "1111 S Figueroa St, Los Angeles, CA 90015",
+      "website": "https://www.cryptoarena.com/",
+      "average_ticket_price": "$150",
+      "season_start": "October",
+      "playoffs_start": "April",
+      "coordinates": {
+        "latitude": "34.043017",
+        "longitude": "-118.267254"
+      },
+      "nearby_amenities": {
+        "restaurants_bars": [
+          {
+            "name": "Yard House",
+            "address": "800 W Olympic Blvd, Los Angeles, CA 90015",
+            "website": "https://www.yardhouse.com/locations/ca/los-angeles/los-angeles-la-live/8315",
+            "description": "A high-end sports bar with a huge menu of New American fare and an extensive list of draft beers.",
+            "coordinates": {
+              "latitude": "34.045286",
+              "longitude": "-118.266468"
+            }
+          },
+          {
+            "name": "Tom's Watch Bar",
+            "address": "1011 S Figueroa St B101, Los Angeles, CA 90015",
+            "website": "https://tomswatchbar.com/location/los-angeles/",
+            "description": "Known for its 360° viewing room, Tom's offers an immersive sports viewing experience with a wide variety of drinks and classic American dishes.",
+            "coordinates": {
+              "latitude": "34.044192",
+              "longitude": "-118.266293"
+            }
+          },
+          {
+            "name": "Fleming's Prime Steakhouse & Wine Bar",
+            "address": "800 W Olympic Blvd Suite A135, Los Angeles, CA 90015",
+            "website": "https://www.flemingssteakhouse.com/locations/ca/los-angeles",
+            "description": "Upscale steakhouse offering prime cuts of beef, a fine wine selection, and a sophisticated dining experience.",
+            "coordinates": {
+              "latitude": "34.045540",
+              "longitude": "-118.264410"
+            }
+          }
+        ],
+        "accommodations": [
+          {
+            "name": "JW Marriott Los Angeles L.A. LIVE",
+            "address": "900 W Olympic Blvd, Los Angeles, CA 90015",
+            "website": "https://www.marriott.com/hotels/travel/laxjw-jw-marriott-los-angeles-la-live/",
+            "description": "Luxury hotel offering refined rooms and suites, plus a rooftop pool, spa, and dining options, located near the Crypto.com Arena.",
+            "coordinates": {
+              "latitude": "34.045250",
+              "longitude": "-118.264570"
+            }
+          },
+          {
+            "name": "Hotel Figueroa",
+            "address": "939 S Figueroa St, Los Angeles, CA 90015",
+            "website": "https://www.hotelfigueroa.com/",
+            "description": "Historic hotel with unique, stylish rooms and suites, outdoor pool, and multiple dining venues, offering a blend of luxury and history.",
+            "coordinates": {
+              "latitude": "34.045830",
+              "longitude": "-118.263180"
+            }
+          }
+        ],
+        "tourist_attractions": [
+          {
+            "name": "The Grammy Museum",
+            "address": "800 W Olympic Blvd, Los Angeles, CA 90015",
+            "website": "https://www.grammymuseum.org/",
+            "description": "An interactive, educational museum devoted to the history and winners of the Grammy Awards.",
+            "coordinates": {
+              "latitude": "34.045598",
+              "longitude": "-118.267280"
+            }
+          },
+          {
+            "name": "Staples Center",
+            "address": "1111 S Figueroa St, Los Angeles, CA 90015",
+            "website": "N/A",
+            "description": "Iconic arena hosting the Los Angeles Lakers games, concerts, and other major events, synonymous with LA's sports and entertainment.",
+            "coordinates": {
+              "latitude": "34.043017",
+              "longitude": "-118.267254"
+            }
+          }
+        ],
+        "team_related_activities": [
+          {
+            "name": "Lakers Team Store",
+            "address": "Crypto.com Arena, 1111 S Figueroa St, Los Angeles, CA 90015",
+            "website": "https://lakersstore.com/",
+            "description": "Official merchandise store offering a wide selection of Lakers gear, from jerseys to memorabilia.",
+            "coordinates": {
+              "latitude": "34.043017",
+              "longitude": "-118.267254"
+            }
+          }
+        ]
+      },
+      "public_transportation": {
+        "options": [
+          {
+            "type": "Metro Rail",
+            "description": "The Pico Station on the Blue and Expo Lines is just a short walk from the arena, offering easy access to and from the game."
+          },
+          {
+            "type": "Bus",
+            "description": "Several LA Metro bus lines serve the downtown area, making it convenient to reach the Crypto.com Arena from various parts of the city."
+          }
+        ]
+      },
+      "ticket_purchasing_tips": {
+        "best_places_to_buy": [
+          {
+            "name": "Official Team Website",
+            "website": "https://www.nba.com/lakers/tickets",
+            "description": "The primary source for all ticket sales, offering guaranteed authenticity and secure transactions."
+          },
+          {
+            "name": "Ticketmaster",
+            "website": "https://www.ticketmaster.com/los-angeles-lakers-tickets/artist/805962",
+            "description": "Authorized ticketing partner offering a wide selection of seating options."
+          },
+          {
+            "name": "StubHub",
+            "website": "https://www.stubhub.com/los-angeles-lakers-tickets/performer/614/",
+            "description": "A reliable secondary marketplace for fans to buy and sell tickets securely."
+          }
+        ],
+        "ways_to_save": "Consider attending weekday games or looking for last-minute deals, as prices can drop closer to the event date.",
+        "avoiding_scalpers": "Purchase tickets only from official sources or reputable resellers to avoid counterfeit tickets."
+      }
+    }
+  }
+  

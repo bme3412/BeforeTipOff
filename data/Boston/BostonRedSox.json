@@ -1,0 +1,98 @@
+{
+    "city": "Boston",
+    "team": "Red Sox",
+    "venue": {
+        "name": "Fenway Park",
+        "average_ticket_price": "$56",
+        "season_start": "April 1",
+        "playoffs_start": "October 1",
+        "coordinates": {
+            "latitude": "42.346676",
+            "longitude": "-71.097218"
+        },
+        "nearby_amenities": {
+            "restaurants_bars": [
+                {
+                    "name": "Yard House",
+                    "description": "It has an extensive menu and draft beer selection. Just a short walk from Fenway Park.",
+                    "coordinates": {
+                        "latitude": "42.347327",
+                        "longitude": "-71.097"
+
+
+                    }
+                },
+                {
+                    "name": "Cask 'n Flagon",
+                    "description": "Sports bar located just a few steps from Fenway Park, known for its lively atmosphere on game days.",
+                    "coordinates": {
+                        "latitude": "42.346789",
+                        "longitude": "-71.096869"
+                    }
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "The Verb Hotel",
+                    "description": "Hip, music-themed hotel located just steps from Fenway with a pool and onsite restaurant.",
+                    "coordinates": {
+                        "latitude": "42.346364",
+                        "longitude": "-71.095551"
+                    }
+                },
+                {
+                    "name": "Hotel Commonwealth",
+                    "description": "Luxury hotel providing special packages for Red Sox games, located within walking distance of Fenway Park.",
+                    "coordinates": {
+                        "latitude": "42.349059",
+                        "longitude": "-71.096265"
+                    }
+                }
+            ],
+            "tourist_attractions": [
+                {
+                    "name": "Museum of Fine Arts",
+                    "description": "One of the largest museums in the United States, it contains more than 450,000 works of art.",
+                    "coordinates": {
+                        "latitude": "42.339167",
+                        "longitude": "-71.094168"
+                    }
+                },
+                {
+                    "name": "Boston University",
+                    "description": "A private research university in Boston, located close to Fenway Park.",
+                    "coordinates": {
+                        "latitude": "42.350499",
+                        "longitude": "-71.105399"
+                    }
+                }
+            ],
+            "team_related_activities": [
+                "Fenway Park Tours",
+                "Visit Red Sox Team Store",
+                "Attend a Batting Practice"
+            ]
+        },
+        "public_transportation": {
+            "options": [
+                {
+                    "type": "Subway",
+                    "description": "The MBTA's Green Line provides service to Kenmore station, which is located just a short walk from Fenway Park."
+                },
+                {
+                    "type": "Bus",
+                    "description": "The MBTA's Bus Route 55 operates from Queensberry Street to Copley Square, passing close to Fenway Park."
+                }
+            ]
+        }
+    },
+    "ticket_purchasing_tips": {
+        "best_places_to_buy": [
+            "Official Team Website",
+            "MLB's Official Ticketing Partner - Ticketmaster",
+            "Secondary Market Platforms such as StubHub (ensure they are verified and safe)"
+        ],
+        "ways_to_save": "Consider attending a weekday game or a game against a less popular team to find the cheapest tickets. Purchasing tickets well in advance or just before the game can also offer savings.",
+        "avoiding_scalpers": "Avoid purchasing tickets from unverified sources and be cautious of any deals that seem too good to be true. Buying directly from the team's website, Ticketmaster, or verified secondary market platforms like StubHub is the safest way to purchase tickets."
+    }
+}

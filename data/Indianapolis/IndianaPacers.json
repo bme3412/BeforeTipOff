@@ -1,0 +1,140 @@
+{
+    "city": "Indianapolis",
+    "team": "Pacers",
+    "venue": {
+      "name": "Gainbridge Fieldhouse",
+      "address": "125 S. Pennsylvania St., Indianapolis, IN 46204",
+      "website": "https://www.gainbridgefieldhouse.com/",
+      "average_ticket_price": "$95",
+      "season_start": "October",
+      "playoffs_start": "April",
+      "coordinates": {
+        "latitude": "39.763925",
+        "longitude": "-86.155503"
+      },
+      "nearby_amenities": {
+        "restaurants_bars": [
+          {
+            "name": "Kilroy's Bar & Grill",
+            "address": "201 S Meridian St, Indianapolis, IN 46225",
+            "website": "http://kilroysindy.com/",
+            "description": "Popular sports bar known for its stuffed breadsticks and lively atmosphere, just a short walk from Gainbridge Fieldhouse.",
+            "coordinates": {
+              "latitude": "39.7631",
+              "longitude": "-86.1581"
+            }
+          },
+          {
+            "name": "St. Elmo Steak House",
+            "address": "127 S Illinois St, Indianapolis, IN 46225",
+            "website": "https://www.stelmos.com/",
+            "description": "An Indianapolis classic, this steakhouse is famous for its shrimp cocktail and fine dining experience.",
+            "coordinates": {
+              "latitude": "39.7647",
+              "longitude": "-86.1599"
+            }
+          },
+          {
+            "name": "The District Tap",
+            "address": "141 S Meridian St, Indianapolis, IN 46225",
+            "website": "https://www.thedistricttap.com/",
+            "description": "A spacious venue offering a wide beer selection, hearty American eats, and sports viewing options.",
+            "coordinates": {
+              "latitude": "39.764",
+              "longitude": "-86.158"
+            }
+          }
+        ],
+        "accommodations": [
+          {
+            "name": "JW Marriott Indianapolis",
+            "address": "10 S West St, Indianapolis, IN 46204",
+            "website": "https://www.marriott.com/hotels/travel/indjw-jw-marriott-indianapolis/",
+            "description": "A luxurious hotel with scenic city views, located close to Gainbridge Fieldhouse, featuring upscale amenities and dining options.",
+            "coordinates": {
+              "latitude": "39.7675",
+              "longitude": "-86.1678"
+            }
+          },
+          {
+            "name": "Hyatt House Indianapolis Downtown",
+            "address": "130 S Pennsylvania St, Indianapolis, IN 46204",
+            "website": "https://www.hyatt.com/en-US/hotel/indiana/hyatt-house-indianapolis-downtown/indxd",
+            "description": "Modern hotel offering comfortable rooms and suites, conveniently located across from Gainbridge Fieldhouse.",
+            "coordinates": {
+              "latitude": "39.765",
+              "longitude": "-86.155"
+            }
+          }
+        ],
+        "tourist_attractions": [
+          {
+            "name": "Indianapolis Zoo",
+            "address": "1200 W Washington St, Indianapolis, IN 46222",
+            "website": "https://www.indianapoliszoo.com/",
+            "description": "A notable attraction featuring a wide variety of animals, located in White River State Park.",
+            "coordinates": {
+              "latitude": "39.7674",
+              "longitude": "-86.1805"
+            }
+          },
+          {
+            "name": "Indianapolis Motor Speedway Museum",
+            "address": "4750 W 16th St, Indianapolis, IN 46222",
+            "website": "https://indyracingmuseum.org/",
+            "description": "This museum celebrates the history of the Indianapolis 500 with its vast collection of cars and racing memorabilia.",
+            "coordinates": {
+              "latitude": "39.7954",
+              "longitude": "-86.234"
+            }
+          }
+        ],
+        "team_related_activities": [
+          {
+            "name": "Pacers Team Store",
+            "address": "125 S. Pennsylvania St., Indianapolis, IN 46204",
+            "website": "https://pacersgear.com/",
+            "description": "Official store for Indianapolis Pacers merchandise, located within Gainbridge Fieldhouse.",
+            "coordinates": {
+              "latitude": "39.763925",
+              "longitude": "-86.155503"
+            }
+          }
+        ]
+      },
+      "public_transportation": {
+        "options": [
+          {
+            "type": "IndyGo Bus",
+            "description": "Indianapolis's public bus service, IndyGo, has multiple lines serving the downtown area, with stops convenient for Gainbridge Fieldhouse attendees."
+          },
+          {
+            "type": "Red Line",
+            "description": "The IndyGo Red Line provides rapid transit service through the heart of Indianapolis, offering easy access to the Fieldhouse."
+          }
+        ]
+      },
+      "ticket_purchasing_tips": {
+        "best_places_to_buy": [
+          {
+            "name": "Official Team Website",
+            "website": "https://www.nba.com/pacers/tickets/",
+            "description": "The primary source for all ticket sales, offering guaranteed authenticity and the best selection of seats."
+          },
+          {
+            "name": "Ticketmaster",
+            "website": "https://www.ticketmaster.com/indiana-pacers-tickets/artist/805966",
+            "description": "Authorized ticketing partner offering authentic Pacers tickets."
+          },
+          {
+            "name": "StubHub",
+            "website": "https://www.stubhub.com/indiana-pacers-tickets/performer/2742/",
+            "description": "Reliable secondary marketplace that offers verified resold Pacers tickets."
+          }
+        ],
+        "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+        "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+      }
+    }
+  }
+  

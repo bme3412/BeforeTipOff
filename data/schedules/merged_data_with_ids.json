@@ -2183,7 +2183,7 @@
         "Visitor/Neutral": "New Orleans Pelicans",
         "Home/Neutral": "San Antonio Spurs",
         "Arena": "Frost Bank Center",
-        "Location": "Corpus Christi, TX",
+        "Location": "San Antonio, TX",
         "EventID": 243
     },
     {
@@ -2246,7 +2246,7 @@
         "Visitor/Neutral": "Cleveland Cavaliers",
         "Home/Neutral": "San Antonio Spurs",
         "Arena": "Frost Bank Center",
-        "Location": "Corpus Christi, TX",
+        "Location": "San Antonio, TX",
         "EventID": 250
     },
     {
@@ -2345,7 +2345,7 @@
         "Visitor/Neutral": "Sacramento Kings",
         "Home/Neutral": "Cleveland Cavaliers",
         "Arena": "Rocket Mortgage Fieldhouse",
-        "Location": null,
+        "Location": "Cleveland, OH",
         "EventID": 261
     },
     {
@@ -2858,7 +2858,7 @@
         "Visitor/Neutral": "Philadelphia 76ers",
         "Home/Neutral": "Cleveland Cavaliers",
         "Arena": "Rocket Mortgage Fieldhouse",
-        "Location": null,
+        "Location": "Cleveland, OH",
         "EventID": 318
     },
     {
@@ -3029,7 +3029,7 @@
         "Visitor/Neutral": "Chicago Bulls",
         "Home/Neutral": "Cleveland Cavaliers",
         "Arena": "Rocket Mortgage Fieldhouse",
-        "Location": null,
+        "Location": "Cleveland, OH",
         "EventID": 337
     },
     {
@@ -3137,7 +3137,7 @@
         "Visitor/Neutral": "Orlando Magic",
         "Home/Neutral": "Cleveland Cavaliers",
         "Arena": "Rocket Mortgage Fieldhouse",
-        "Location": null,
+        "Location": "Cleveland, OH",
         "EventID": 349
     },
     {
@@ -3497,7 +3497,7 @@
         "Visitor/Neutral": "Dallas Mavericks",
         "Home/Neutral": "Cleveland Cavaliers",
         "Arena": "Rocket Mortgage Fieldhouse",
-        "Location": null,
+        "Location": "Cleveland, OH",
         "EventID": 389
     },
     {
@@ -3722,7 +3722,7 @@
         "Visitor/Neutral": "Oklahoma City Thunder",
         "Home/Neutral": "San Antonio Spurs",
         "Arena": "Frost Bank Center",
-        "Location": "Corpus Christi, TX",
+        "Location": "San Antonio, TX",
         "EventID": 414
     },
     {
@@ -3974,7 +3974,7 @@
         "Visitor/Neutral": "New York Knicks",
         "Home/Neutral": "Cleveland Cavaliers",
         "Arena": "Rocket Mortgage Fieldhouse",
-        "Location": null,
+        "Location": "Cleveland, OH",
         "EventID": 442
     },
     {
@@ -3983,7 +3983,7 @@
         "Visitor/Neutral": "Indiana Pacers",
         "Home/Neutral": "San Antonio Spurs",
         "Arena": "Frost Bank Center",
-        "Location": "Corpus Christi, TX",
+        "Location": "San Antonio, TX",
         "EventID": 443
     },
     {
@@ -4064,7 +4064,7 @@
         "Visitor/Neutral": "Boston Celtics",
         "Home/Neutral": "Cleveland Cavaliers",
         "Arena": "Rocket Mortgage Fieldhouse",
-        "Location": null,
+        "Location": "Cleveland, OH",
         "EventID": 452
     },
     {
@@ -4370,7 +4370,7 @@
         "Visitor/Neutral": "Minnesota Timberwolves",
         "Home/Neutral": "Cleveland Cavaliers",
         "Arena": "Rocket Mortgage Fieldhouse",
-        "Location": null,
+        "Location": "Cleveland, OH",
         "EventID": 486
     },
     {
@@ -4541,7 +4541,7 @@
         "Visitor/Neutral": "Brooklyn Nets",
         "Home/Neutral": "Cleveland Cavaliers",
         "Arena": "Rocket Mortgage Fieldhouse",
-        "Location": null,
+        "Location": "Cleveland, OH",
         "EventID": 505
     },
     {
@@ -4577,7 +4577,7 @@
         "Visitor/Neutral": "Phoenix Suns",
         "Home/Neutral": "Cleveland Cavaliers",
         "Arena": "Rocket Mortgage Fieldhouse",
-        "Location": null,
+        "Location": "Cleveland, OH",
         "EventID": 509
     },
     {
@@ -4595,7 +4595,7 @@
         "Visitor/Neutral": "Golden State Warriors",
         "Home/Neutral": "San Antonio Spurs",
         "Arena": "Frost Bank Center",
-        "Location": "Corpus Christi, TX",
+        "Location": "San Antonio, TX",
         "EventID": 511
     },
     {
@@ -4649,7 +4649,7 @@
         "Visitor/Neutral": "Houston Rockets",
         "Home/Neutral": "San Antonio Spurs",
         "Arena": "Frost Bank Center",
-        "Location": "Corpus Christi, TX",
+        "Location": "San Antonio, TX",
         "EventID": 517
     },
     {
@@ -4937,7 +4937,7 @@
         "Visitor/Neutral": "Denver Nuggets",
         "Home/Neutral": "San Antonio Spurs",
         "Arena": "Frost Bank Center",
-        "Location": "Corpus Christi, TX",
+        "Location": "San Antonio, TX",
         "EventID": 549
     },
     {
@@ -5081,7 +5081,7 @@
         "Visitor/Neutral": "Brooklyn Nets",
         "Home/Neutral": "San Antonio Spurs",
         "Arena": "Frost Bank Center",
-        "Location": "Corpus Christi, TX",
+        "Location": "San Antonio, TX",
         "EventID": 565
     },
     {
@@ -5243,7 +5243,7 @@
         "Visitor/Neutral": "Dallas Mavericks",
         "Home/Neutral": "San Antonio Spurs",
         "Arena": "Frost Bank Center",
-        "Location": "Corpus Christi, TX",
+        "Location": "San Antonio, TX",
         "EventID": 583
     },
     {
@@ -5297,7 +5297,7 @@
         "Visitor/Neutral": "Miami Heat",
         "Home/Neutral": "Cleveland Cavaliers",
         "Arena": "Rocket Mortgage Fieldhouse",
-        "Location": null,
+        "Location": "Cleveland, OH",
         "EventID": 589
     },
     {
@@ -5549,7 +5549,7 @@
         "Visitor/Neutral": "Memphis Grizzlies",
         "Home/Neutral": "San Antonio Spurs",
         "Arena": "Frost Bank Center",
-        "Location": "Corpus Christi, TX",
+        "Location": "San Antonio, TX",
         "EventID": 617
     },
     {
@@ -5630,7 +5630,7 @@
         "Visitor/Neutral": "Phoenix Suns",
         "Home/Neutral": "San Antonio Spurs",
         "Arena": "Frost Bank Center",
-        "Location": "Corpus Christi, TX",
+        "Location": "San Antonio, TX",
         "EventID": 626
     },
     {
@@ -5711,7 +5711,7 @@
         "Visitor/Neutral": "Charlotte Hornets",
         "Home/Neutral": "Cleveland Cavaliers",
         "Arena": "Rocket Mortgage Fieldhouse",
-        "Location": null,
+        "Location": "Cleveland, OH",
         "EventID": 635
     },
     {
@@ -5765,7 +5765,7 @@
         "Visitor/Neutral": "Phoenix Suns",
         "Home/Neutral": "San Antonio Spurs",
         "Arena": "Frost Bank Center",
-        "Location": "Corpus Christi, TX",
+        "Location": "San Antonio, TX",
         "EventID": 641
     },
     {
@@ -6098,7 +6098,7 @@
         "Visitor/Neutral": "Philadelphia 76ers",
         "Home/Neutral": "Cleveland Cavaliers",
         "Arena": "Rocket Mortgage Fieldhouse",
-        "Location": null,
+        "Location": "Cleveland, OH",
         "EventID": 678
     },
     {
@@ -6125,7 +6125,7 @@
         "Visitor/Neutral": "New York Knicks",
         "Home/Neutral": "San Antonio Spurs",
         "Arena": "Frost Bank Center",
-        "Location": "Corpus Christi, TX",
+        "Location": "San Antonio, TX",
         "EventID": 681
     },
     {
@@ -6260,7 +6260,7 @@
         "Visitor/Neutral": "Golden State Warriors",
         "Home/Neutral": "San Antonio Spurs",
         "Arena": "Frost Bank Center",
-        "Location": "Corpus Christi, TX",
+        "Location": "San Antonio, TX",
         "EventID": 696
     },
     {
@@ -6845,7 +6845,7 @@
         "Visitor/Neutral": "Philadelphia 76ers",
         "Home/Neutral": "San Antonio Spurs",
         "Arena": "Frost Bank Center",
-        "Location": "Corpus Christi, TX",
+        "Location": "San Antonio, TX",
         "EventID": 761
     },
     {
@@ -7007,7 +7007,7 @@
         "Visitor/Neutral": "Memphis Grizzlies",
         "Home/Neutral": "Cleveland Cavaliers",
         "Arena": "Rocket Mortgage Fieldhouse",
-        "Location": null,
+        "Location": "Cleveland, OH",
         "EventID": 779
     },
     {
@@ -7232,7 +7232,7 @@
         "Visitor/Neutral": "Indiana Pacers",
         "Home/Neutral": "Cleveland Cavaliers",
         "Arena": "Rocket Mortgage Fieldhouse",
-        "Location": null,
+        "Location": "Cleveland, OH",
         "EventID": 804
     },
     {
@@ -7286,7 +7286,7 @@
         "Visitor/Neutral": "Denver Nuggets",
         "Home/Neutral": "San Antonio Spurs",
         "Arena": "Frost Bank Center",
-        "Location": "Corpus Christi, TX",
+        "Location": "San Antonio, TX",
         "EventID": 810
     },
     {
@@ -7349,7 +7349,7 @@
         "Visitor/Neutral": "Charlotte Hornets",
         "Home/Neutral": "Cleveland Cavaliers",
         "Arena": "Rocket Mortgage Fieldhouse",
-        "Location": null,
+        "Location": "Cleveland, OH",
         "EventID": 817
     },
     {
@@ -7466,7 +7466,7 @@
         "Visitor/Neutral": "Detroit Pistons",
         "Home/Neutral": "San Antonio Spurs",
         "Arena": "Frost Bank Center",
-        "Location": "Corpus Christi, TX",
+        "Location": "San Antonio, TX",
         "EventID": 830
     }
 ]
