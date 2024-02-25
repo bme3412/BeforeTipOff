@@ -1,0 +1,139 @@
+{
+    "city": "Milwaukee",
+    "team": "Bucks",
+    "venue": {
+        "name": "Fiserv Forum",
+        "address": "1111 Vel R. Phillips Ave, Milwaukee, WI 53203",
+        "website": "https://www.fiservforum.com/",
+        "average_ticket_price": "$128",
+        "season_start": "October",
+        "playoffs_start": "April",
+        "coordinates": {
+            "latitude": "43.044920",
+            "longitude": "-87.917410"
+        },
+        "nearby_amenities": {
+            "restaurants_bars": [
+                {
+                    "name": "The Mecca Sports Bar and Grill",
+                    "address": "1134 N Vel R. Phillips Ave, Milwaukee, WI 53203",
+                    "website": "https://themeccamke.com/",
+                    "description": "A large sports bar with massive screens for game days, located just steps from Fiserv Forum, offering a lively atmosphere for Bucks fans.",
+                    "coordinates": {
+                        "latitude": "43.045036",
+                        "longitude": "-87.916374"
+                    }
+                },
+                {
+                    "name": "Drink Wisconsinbly Pub",
+                    "address": "320 W Highland Ave, Milwaukee, WI 53203",
+                    "website": "http://www.drinkwi.pub/",
+                    "description": "Celebrating Wisconsin's culture, this pub offers local brews and spirits, with a festive vibe on game days, located in the entertainment district near Fiserv Forum.",
+                    "coordinates": {
+                        "latitude": "43.044789",
+                        "longitude": "-87.914303"
+                    }
+                },
+                {
+                    "name": "Good City Brewing",
+                    "address": "333 W Juneau Ave, Milwaukee, WI 53203",
+                    "website": "https://www.goodcitybrewing.com/",
+                    "description": "A craft brewery with a rooftop offering great views and a variety of beers, a short walk from Fiserv Forum, perfect for pre-game and post-game gatherings.",
+                    "coordinates": {
+                        "latitude": "43.045700",
+                        "longitude": "-87.914250"
+                    }
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Aloft Milwaukee Downtown",
+                    "address": "1230 N Old World 3rd St, Milwaukee, WI 53212",
+                    "website": "https://www.marriott.com/hotels/travel/mkeal-aloft-milwaukee-downtown/",
+                    "description": "A trendy hotel with modern rooms and a bar, located within walking distance to Fiserv Forum and Milwaukee's downtown attractions.",
+                    "coordinates": {
+                        "latitude": "43.045250",
+                        "longitude": "-87.914500"
+                    }
+                },
+                {
+                    "name": "SpringHill Suites by Marriott Milwaukee Downtown",
+                    "address": "744 N 4th St, Milwaukee, WI 53203",
+                    "website": "https://www.marriott.com/hotels/travel/mkesd-springhill-suites-milwaukee-downtown/",
+                    "description": "Comfortable suites and complimentary breakfast, conveniently located a short walk from Fiserv Forum, ideal for Bucks fans visiting the city.",
+                    "coordinates": {
+                        "latitude": "43.042500",
+                        "longitude": "-87.916700"
+                    }
+                }
+            ],
+            "tourist_attractions": [
+                {
+                    "name": "Milwaukee Art Museum",
+                    "address": "700 N Art Museum Dr, Milwaukee, WI 53202",
+                    "website": "https://mam.org/",
+                    "description": "An iconic museum known for its architecturally significant building and extensive collection of artworks, a short drive from Fiserv Forum.",
+                    "coordinates": {
+                        "latitude": "43.039900",
+                        "longitude": "-87.897000"
+                    }
+                },
+                {
+                    "name": "Harley-Davidson Museum",
+                    "address": "400 W Canal St, Milwaukee, WI 53201",
+                    "website": "https://www.harley-davidson.com/us/en/museum.html",
+                    "description": "Showcasing the history, culture, and engineering of Harley-Davidson motorcycles, this museum is a must-visit for enthusiasts, located a brief drive from the arena.",
+                    "coordinates": {
+                        "latitude": "43.031400",
+                        "longitude": "-87.916400"
+                    }
+                }
+            ],
+            "team_related_activities": [
+                 {
+                    "name": "Bucks Pro Shop at Fiserv Forum",
+                    "address": "1111 Vel R. Phillips Ave, Milwaukee, WI 53203",
+                    "website": "https://shop.bucks.com/",
+                    "description": "The official store for Milwaukee Bucks merchandise, offering a wide selection of gear located within the Fiserv Forum.",
+                    "coordinates": {
+                        "latitude": "43.044920",
+                        "longitude": "-87.917410"
+                    }
+                 }
+            ]
+        },
+        "public_transportation": {
+            "options": [
+                {
+                    "type": "Bus",
+                    "description": "Milwaukee County Transit System (MCTS) offers several bus routes that stop near Fiserv Forum, facilitating easy access from various parts of the city."
+                },
+                {
+                    "type": "Streetcar",
+                    "description": "The Hop, Milwaukee's streetcar system, has stops that are conveniently located within walking distance to Fiserv Forum, offering an easy way to reach the game."
+                }
+            ]
+        },
+        "ticket_purchasing_tips": {
+            "best_places_to_buy": [
+                {
+                    "name": "Official Team Website",
+                    "website": "https://www.nba.com/bucks/tickets/",
+                    "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+                },
+                {
+                    "name": "Ticketmaster",
+                    "website": "https://www.ticketmaster.com/milwaukee-bucks-tickets/artist/805969",
+                    "description": "Authorized ticketing partner offering authentic Bucks tickets."
+                },
+                {
+                    "name": "StubHub",
+                    "website": "https://www.stubhub.com/milwaukee-bucks-tickets/performer/2747",
+                    "description": "Reliable secondary marketplace that offers verified resold Bucks tickets."
+                }
+            ],
+            "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+            "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+        }
+    }
+}

@@ -1,0 +1,57 @@
+
+{
+    "city": "Kansas City",
+    "sports_teams": [
+        {
+            "team_name": "Kansas City Royals",
+            "sport": "Baseball",
+            "league": "Major League Baseball",
+            "average_ticket_price": "$32",
+            "season_start": "Late March or Early April",
+            "playoffs_start": "October",
+            "venue": {
+                "venue_name": "Kauffman Stadium",
+                "details": "Kauffman is most known for its iconic 'water spectacular' — a massive fountain and waterfall display behind the right-field fence.",
+                "address": "1 Royal Way, Kansas City, MO 64129",
+                "geographic_coordinates": {
+                    "latitude": 39.0517,
+                    "longitude": -94.4806
+                }
+            }
+        },
+        {
+            "team_name": "Kansas City Chiefs",
+            "sport": "American Football",
+            "league": "National Football League",
+            "average_ticket_price": "$92",
+            "season_start": "September",
+            "playoffs_start": "January",
+            "venue": {
+                "venue_name": "Arrowhead Stadium",
+                "details": "Largest crowd to see a NFL game in Arrowhead Stadium was on September 29, 2019: 77,368 people.",
+                "address": "1 Arrowhead Dr, Kansas City, MO 64129",
+                "geographic_coordinates": {
+                    "latitude": 39.0490,
+                    "longitude": -94.4860
+                }
+            }
+        },
+        {
+            "team_name": "Sporting Kansas City",
+            "sport": "Soccer",
+            "league": "Major League Soccer",
+            "average_ticket_price": "$30",
+            "season_start": "February",
+            "playoffs_start": "October",
+            "venue": {
+                "venue_name": "Children's Mercy Park",
+                "details": "The park is themed around the elements of water and the game.",
+                "address": "1 Sporting Way, Kansas City, KS 66111",
+                "geographic_coordinates": {
+                    "latitude": 39.1216,
+                    "longitude": -94.8233
+                }
+            }
+        }
+    ]
+}

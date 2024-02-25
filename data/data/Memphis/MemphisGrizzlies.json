@@ -1,0 +1,139 @@
+{
+    "city": "Memphis",
+    "team": "Grizzlies",
+    "venue": {
+        "name": "FedExForum",
+        "address": "191 Beale St, Memphis, TN 38103",
+        "website": "https://www.fedexforum.com/",
+        "average_ticket_price": "$80",
+        "season_start": "October",
+        "playoffs_start": "April",
+        "coordinates": {
+            "latitude": "35.138176",
+            "longitude": "-90.050539"
+        },
+        "nearby_amenities": {
+            "restaurants_bars": [
+                {
+                    "name": "B.B. King's Blues Club",
+                    "address": "143 Beale St, Memphis, TN 38103",
+                    "website": "https://www.bbkings.com/memphis/",
+                    "description": "A renowned spot for live music and Southern cuisine, offering a vibrant atmosphere just steps from FedExForum.",
+                    "coordinates": {
+                        "latitude": "35.139729",
+                        "longitude": "-90.053318"
+                    }
+                },
+                {
+                    "name": "The Majestic Grille",
+                    "address": "145 S Main St, Memphis, TN 38103",
+                    "website": "http://www.majesticgrille.com/",
+                    "description": "This former silent movie house now serves as a classic American eatery, known for its steak and seafood dishes.",
+                    "coordinates": {
+                        "latitude": "35.140451",
+                        "longitude": "-90.053543"
+                    }
+                },
+                {
+                    "name": "Gus's World Famous Fried Chicken",
+                    "address": "310 S Front St, Memphis, TN 38103",
+                    "website": "https://gusfriedchicken.com/",
+                    "description": "Famous for its spicy fried chicken, this casual diner is a must-visit for foodies and a short walk from the arena.",
+                    "coordinates": {
+                        "latitude": "35.140007",
+                        "longitude": "-90.053543"
+                    }
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "The Westin Memphis Beale Street",
+                    "address": "170 Lt George W Lee Ave, Memphis, TN 38103",
+                    "website": "https://www.marriott.com/hotels/travel/memwi-the-westin-memphis-beale-street/",
+                    "description": "Offers luxurious accommodations with modern amenities, located adjacent to FedExForum.",
+                    "coordinates": {
+                        "latitude": "35.138992",
+                        "longitude": "-90.051628"
+                    }
+                },
+                {
+                    "name": "Hotel Indigo Memphis Downtown",
+                    "address": "22 N B.B. King Blvd, Memphis, TN 38103",
+                    "website": "https://www.ihg.com/hotelindigo/hotels/us/en/memphis/memid/hoteldetail",
+                    "description": "A boutique hotel featuring unique designs inspired by the music and history of Memphis, within walking distance to FedExForum.",
+                    "coordinates": {
+                        "latitude": "35.144359",
+                        "longitude": "-90.051897"
+                    }
+                }
+            ],
+            "tourist_attractions": [
+                {
+                    "name": "Beale Street Historic District",
+                    "address": "Beale Street, Memphis, TN",
+                    "website": "http://www.bealestreet.com/",
+                    "description": "One of the most iconic streets in America, known for its vibrant nightlife, live music, and cultural significance.",
+                    "coordinates": {
+                        "latitude": "35.1405",
+                        "longitude": "-90.0536"
+                    }
+                },
+                {
+                    "name": "National Civil Rights Museum",
+                    "address": "450 Mulberry St, Memphis, TN 38103",
+                    "website": "https://www.civilrightsmuseum.org/",
+                    "description": "Located at the former Lorraine Motel, where Dr. Martin Luther King Jr. was assassinated, this museum offers an immersive journey through the civil rights movement.",
+                    "coordinates": {
+                        "latitude": "35.134514",
+                        "longitude": "-90.057036"
+                    }
+                }
+            ],
+            "team_related_activities": [
+                 {
+                    "name": "Grizzlies Den by Fanatics at FedExForum",
+                    "address": "191 Beale St, Memphis, TN 38103",
+                    "website": "https://www.nba.com/grizzlies/fanzone/den",
+                    "description": "The official store for Memphis Grizzlies merchandise, offering a wide selection of jerseys, apparel, and accessories.",
+                    "coordinates": {
+                        "latitude": "35.138176",
+                        "longitude": "-90.050539"
+                    }
+                 }
+            ]
+        },
+        "public_transportation": {
+            "options": [
+                {
+                    "type": "Trolley",
+                    "description": "The Memphis Trolley offers service along Main Street and the Riverfront, with stops convenient to FedExForum."
+                },
+                {
+                    "type": "Bus",
+                    "description": "Multiple MATA bus lines serve the downtown area, providing easy access to FedExForum from across the city."
+                }
+            ]
+        },
+        "ticket_purchasing_tips": {
+            "best_places_to_buy": [
+                {
+                    "name": "Official Team Website",
+                    "website": "https://www.nba.com/grizzlies/tickets",
+                    "description": "The primary source for all ticket sales, offering guaranteed authenticity and the best seat selections."
+                },
+                {
+                    "name": "Ticketmaster",
+                    "website": "https://www.ticketmaster.com/memphis-grizzlies-tickets/artist/806013",
+                    "description": "Authorized ticketing partner offering authentic Grizzlies tickets."
+                },
+                {
+                    "name": "StubHub",
+                    "website": "https://www.stubhub.com/memphis-grizzlies-tickets/performer/2743/",
+                    "description": "Reliable secondary marketplace that offers verified resold Grizzlies tickets."
+                }
+            ],
+            "ways_to_save": "Consider attending games on weekdays for potentially lower ticket prices. Explore group discounts or promotional nights for additional savings. Last-minute ticket deals can also offer savings.",
+            "avoiding_scalpers": "Always buy tickets from official sources or reputable platforms to avoid scams. Be wary of deals that seem too good to be true and verify the authenticity of tickets when purchasing from secondary markets."
+        }
+    }
+}

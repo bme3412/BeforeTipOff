@@ -1,0 +1,139 @@
+{
+    "city": "Washington, D.C.",
+    "team": "Wizards",
+    "venue": {
+        "name": "Capital One Arena",
+        "address": "601 F St NW, Washington, D.C. 20004",
+        "website": "https://www.capitalonearena.com/",
+        "average_ticket_price": "$110",
+        "season_start": "October",
+        "playoffs_start": "April",
+        "coordinates": {
+            "latitude": "38.898041",
+            "longitude": "-77.020945"
+        },
+        "nearby_amenities": {
+            "restaurants_bars": [
+                {
+                    "name": "Clyde's of Gallery Place",
+                    "address": "707 7th St NW, Washington, D.C. 20001",
+                    "website": "https://www.clydes.com/gallery-place",
+                    "description": "An American bar and restaurant offering a wide range of dishes, known for its vibrant atmosphere and proximity to the arena.",
+                    "coordinates": {
+                        "latitude": "38.898396",
+                        "longitude": "-77.021836"
+                    }
+                },
+                {
+                    "name": "Matchbox",
+                    "address": "713 H St NW, Washington, D.C. 20001",
+                    "website": "https://www.matchboxrestaurants.com/",
+                    "description": "A popular pizza bistro with a great selection of craft beers and cocktails, located near Capital One Arena.",
+                    "coordinates": {
+                        "latitude": "38.899529",
+                        "longitude": "-77.022046"
+                    }
+                },
+                {
+                    "name": "The Smith",
+                    "address": "901 F St NW, Washington, D.C. 20004",
+                    "website": "https://thesmithrestaurant.com/location/washington-dc/",
+                    "description": "A bustling brasserie serving an eclectic American menu, known for its lively bar scene and brunch.",
+                    "coordinates": {
+                        "latitude": "38.897718",
+                        "longitude": "-77.023069"
+                    }
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Kimpton Hotel Monaco Washington DC",
+                    "address": "700 F St NW, Washington, D.C. 20004",
+                    "website": "https://www.monaco-dc.com/",
+                    "description": "A stylish hotel set in a historic building, offering chic rooms and upscale amenities, just steps away from the arena.",
+                    "coordinates": {
+                        "latitude": "38.897705",
+                        "longitude": "-77.022499"
+                    }
+                },
+                {
+                    "name": "Courtyard by Marriott Washington Downtown/Convention Center",
+                    "address": "901 L St NW, Washington, D.C. 20001",
+                    "website": "https://www.marriott.com/hotels/travel/wascy-courtyard-washington-downtown-convention-center/",
+                    "description": "Modern hotel with comfortable rooms and a range of facilities, conveniently located for sports fans and visitors to the city.",
+                    "coordinates": {
+                        "latitude": "38.903209",
+                        "longitude": "-77.023383"
+                    }
+                }
+            ],
+            "tourist_attractions": [
+                {
+                    "name": "National Mall",
+                    "address": "Washington, D.C. 20565",
+                    "website": "N/A",
+                    "description": "Iconic stretch of land home to the Lincoln Memorial, Washington Monument, and numerous other memorials and museums.",
+                    "coordinates": {
+                        "latitude": "38.889620",
+                        "longitude": "-77.022977"
+                    }
+                },
+                {
+                    "name": "Smithsonian National Museum of Natural History",
+                    "address": "10th St. & Constitution Ave. NW, Washington, D.C. 20560",
+                    "website": "https://naturalhistory.si.edu/",
+                    "description": "One of the world's most visited museums, offering a vast array of exhibits on the natural world and human cultures.",
+                    "coordinates": {
+                        "latitude": "38.891266",
+                        "longitude": "-77.026065"
+                    }
+                }
+            ],
+            "team_related_activities": [
+                 {
+                    "name": "Wizards Team Store at Capital One Arena",
+                    "address": "601 F St NW, Washington, D.C. 20004",
+                    "website": "https://www.capitalonearena.com/",
+                    "description": "The official store for Washington Wizards merchandise, located within the Capital One Arena.",
+                    "coordinates": {
+                        "latitude": "38.898041",
+                        "longitude": "-77.020945"
+                    }
+                 }
+            ]
+        },
+        "public_transportation": {
+            "options": [
+                {
+                    "type": "Metro",
+                    "description": "The Gallery Place-Chinatown station on the Red, Green, and Yellow lines provides easy access to Capital One Arena."
+                },
+                {
+                    "type": "Bus",
+                    "description": "Multiple DC Metrobus routes stop near Capital One Arena, offering convenient transportation options."
+                }
+            ]
+        },
+        "ticket_purchasing_tips": {
+            "best_places_to_buy": [
+                {
+                    "name": "Official Team Website",
+                    "website": "https://www.nba.com/wizards/tickets",
+                    "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+                },
+                {
+                    "name": "Ticketmaster",
+                    "website": "https://www.ticketmaster.com/washington-wizards-tickets/artist/806042",
+                    "description": "Authorized ticketing partner offering authentic Wizards tickets."
+                },
+                {
+                    "name": "StubHub",
+                    "website": "https://www.stubhub.com/washington-wizards-tickets/performer/2742/",
+                    "description": "Reliable secondary marketplace that offers verified resold Wizards tickets."
+                }
+            ],
+            "ways_to_save": "Consider attending games on weekdays for potentially lower ticket prices. Explore group ticket discounts. Check for last-minute ticket deals close to game day.",
+            "avoiding_scalpers": "Purchase tickets from verified sources to avoid counterfeit tickets. Utilize secondary marketplaces with buyer protections. Be cautious when considering tickets sold outside the venue."
+        }
+    }
+}

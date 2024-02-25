@@ -1,0 +1,265 @@
+{
+    "city": "New York",
+  "team": "Knicks",
+  "venue": {
+    "name": "Madison Square Garden",
+    "address": "4 Pennsylvania Plaza, New York, NY 10001",
+    "website": "https://www.msg.com/madison-square-garden",
+    "average_ticket_price": "$130",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "40.750504",
+      "longitude": "-73.993439"
+    },
+    "best_seats_pricing": {
+      "Courtside": {
+        "Description": "Unmatched proximity to the game, offering an immersive experience with player interactions.",
+        "Sections": "Courtside",
+        "Estimated_Pricing_Range": "$1000 - $3500+",
+        "View_Quality": "Unparalleled court-level view, placing you at the heart of the action.",
+        "Unique_Features": "Opportunity for player interactions and potential TV appearances.",
+        "Accessibility": "Direct access with limited mobility device space.",
+        "Special_Perks": "Exclusive access to VIP lounges, complimentary premium dining options."
+      },
+      "Lower_Bowl": {
+        "Description": "Excellent mid-court views offering a balance between proximity and a panoramic perspective.",
+        "Sections": "Sections 106-108 and 116-118",
+        "Estimated_Pricing_Range": "$300 - $1000",
+        "View_Quality": "Elevated views with a clear line of sight to the court.",
+        "Unique_Features": "Comfortable seating with added leg room, avoiding the crowds.",
+        "Accessibility": "Easy entrance access, with elevators and escalators to lower levels.",
+        "Special_Perks": "Access to select lounges and in-seat service for a premium experience."
+      },
+      "Upper_Bowl": {
+        "Description": "Affordable options with a bird's eye view of the game, perfect for fans who want to soak in the atmosphere.",
+        "Sections": "Sections 210-220",
+        "Estimated_Pricing_Range": "$80 - $300",
+        "View_Quality": "Wide view of the entire court, allowing fans to see plays develop.",
+        "Unique_Features": "An economical choice for enjoying Knicks games.",
+        "Accessibility": "Accessible seating available, with convenient access to concessions and restrooms.",
+        "Special_Perks": "A budget-friendly way to enjoy the game with a full view of the court."
+      },
+      "Skybox_and_Suites": {
+        "Description": "Private and luxurious viewing experience with exclusive amenities.",
+        "Sections": "Suites",
+        "Estimated_Pricing_Range": "$2000 - $5000+ per event",
+        "View_Quality": "Private viewing angle with the comfort of luxury seating.",
+        "Unique_Features": "Personal service, exclusive entry, and luxury dining options.",
+        "Accessibility": "VIP entrance with direct access to suites level.",
+        "Special_Perks": "Private space for groups, catering options, and access to exclusive clubs and lounges."
+      }},
+        "nearby_amenities": {
+            "restaurants_bars": [
+                {
+                  "name": "Clyde Fraziers Wine and Dine",
+                  "address": "485 10th Ave, New York, NY 10018",
+                  "website": "http://clydefraziers.com/",
+                  "description": "Themed restaurant owned by Knicks legend Walt 'Clyde' Frazier, offering American cuisine and a free-throw basketball court.",
+                  "coordinates": {
+                    "latitude": "40.756980",
+                    "longitude": "-73.994560"
+                  }
+                },
+                {
+                  "name": "Stout NYC",
+                  "address": "133 W 33rd St, New York, NY 10001",
+                  "website": "https://www.stoutnyc.com/",
+                  "description": "A spacious, bustling Irish pub known for its extensive selection of beers and proximity to Madison Square Garden.",
+                  "coordinates": {
+                    "latitude": "40.750790",
+                    "longitude": "-73.991600"
+                  }
+                },
+                {
+                  "name": "The Pennsy Food Hall",
+                  "address": "2 Pennsylvania Plaza, New York, NY 10121",
+                  "description": "A food hall located right above Penn Station, offering a variety of food options for Knicks fans before the game.",
+                  "coordinates": {
+                    "latitude": "40.750580",
+                    "longitude": "-73.993450"
+                  }
+                },
+                {
+                  "name": "Smiths Bar & Grill",
+                  "address": "701 8th Ave, New York, NY 10036",
+                  "website": "https://www.smithsbar.com/",
+                  "description": "Classic sports bar atmosphere with a wide selection of beers and American fare, perfect for pre-game gatherings.",
+                  "coordinates": {
+                    "latitude": "40.756330",
+                    "longitude": "-73.990320"
+                  }
+                },
+                {
+                  "name": "John Sullivans Bar & Grill",
+                  "address": "210 W 35th St, New York, NY 10001",
+                  "website": "https://www.johnsullivansnyc.com/",
+                  "description": "Cozy Irish pub offering hearty meals and a vibrant atmosphere, a short walk from Madison Square Garden.",
+                  "coordinates": {
+                    "latitude": "40.752070",
+                    "longitude": "-73.990530"
+                  }
+                },
+                {
+                  "name": "Hudson Station Bar & Grill",
+                  "address": "440 9th Ave, New York, NY 10001",
+                  "website": "http://www.hudsonstation.com/",
+                  "description": "A popular gathering spot for sports enthusiasts, featuring an extensive menu and game day specials.",
+                  "coordinates": {
+                    "latitude": "40.753620",
+                    "longitude": "-73.995630"
+                  }
+                }
+            ],
+            "accommodations": [
+                {
+                  "name": "Hotel Pennsylvania",
+                  "address": "401 7th Ave, New York, NY 10001",
+                  "website": "https://www.hotelpenn.com/",
+                  "description": "Historic hotel offering straightforward accommodations with easy access to Madison Square Garden.",
+                  "coordinates": {
+                    "latitude": "40.749940",
+                    "longitude": "-73.991380"
+                  }
+                },
+                {
+                  "name": "The New Yorker, A Wyndham Hotel",
+                  "address": "481 8th Ave, New York, NY 10001",
+                  "website": "https://www.newyorkerhotel.com/",
+                  "description": "Iconic art deco hotel with comfortable rooms, located close to Madison Square Garden.",
+                  "coordinates": {
+                    "latitude": "40.752730",
+                    "longitude": "-73.993370"
+                  }
+                },
+                {
+                  "name": "Moxy NYC Times Square",
+                  "address": "485 7th Ave, New York, NY 10018",
+                  "website": "https://www.moxyhotels.com/",
+                  "description": "Trendy hotel with unique, stylish rooms and rooftop bar, minutes away from Madison Square Garden.",
+                  "coordinates": {
+                    "latitude": "40.752980",
+                    "longitude": "-73.989660"
+                  }
+                },
+                {
+                  "name": "Fairfield Inn & Suites by Marriott New York Midtown Manhattan/Penn Station",
+                  "address": "325 W 33rd St, New York, NY 10001",
+                  "website": "https://www.marriott.com/hotels/travel/nycma-fairfield-inn-and-suites-new-york-midtown-manhattan-penn-station/",
+                  "description": "Comfortable and convenient hotel offering complimentary breakfast and stunning views, located next to Penn Station and Madison Square Garden.",
+                  "coordinates": {
+                    "latitude": "40.752010",
+                    "longitude": "-73.994570"
+                  }
+                }
+            ],
+            "tourist_attractions": [
+                {
+                  "name": "Empire State Building",
+                  "address": "20 W 34th St, New York, NY 10118",
+                  "website": "https://www.esbnyc.com/",
+                  "description": "Iconic skyscraper offering observation decks with spectacular views of New York City.",
+                  "coordinates": {
+                    "latitude": "40.748817",
+                    "longitude": "-73.985428"
+                  }
+                },
+                {
+                  "name": "Times Square",
+                  "address": "Manhattan, NY 10036",
+                  "website": "https://www.timessquarenyc.org/",
+                  "description": "Famous for its bright lights, shopping, entertainment, and New Year's Eve ball drop, a must-visit location in NYC.",
+                  "coordinates": {
+                    "latitude": "40.758896",
+                    "longitude": "-73.985130"
+                  }
+                },
+                {
+                  "name": "Central Park",
+                  "address": "New York, NY",
+                  "website": "https://www.centralparknyc.org/",
+                  "description": "A green oasis in the heart of New York City, offering walking paths, boat rentals, and the Central Park Zoo.",
+                  "coordinates": {
+                    "latitude": "40.785091",
+                    "longitude": "-73.968285"
+                  }
+                },
+                {
+                  "name": "The Metropolitan Museum of Art",
+                  "address": "1000 5th Ave, New York, NY 10028",
+                  "website": "https://www.metmuseum.org/",
+                  "description": "One of the world's largest and finest art museums, featuring over two million works of art spanning 5,000 years.",
+                  "coordinates": {
+                    "latitude": "40.779437",
+                    "longitude": "-73.963244"
+                  }
+                },
+                {
+                  "name": "The Statue of Liberty",
+                  "address": "New York, NY 10004",
+                  "website": "https://www.nps.gov/stli/index.htm",
+                  "description": "A symbol of freedom and democracy, this iconic statue is located on Liberty Island and accessible by ferry.",
+                  "coordinates": {
+                    "latitude": "40.689247",
+                    "longitude": "-74.044502"
+                  }
+                }
+            ],
+            "team_related_activities": [
+                {
+                  "name": "Madison Square Garden All Access Tour",
+                  "address": "4 Pennsylvania Plaza, New York, NY 10001",
+                  "website": "https://www.msg.com/madison-square-garden#post-link-3",
+                  "description": "Behind-the-scenes tour of Madison Square Garden, exploring exclusive VIP areas and commemorating over 130 years of legendary Garden history.",
+                  "coordinates": {
+                    "latitude": "40.750504",
+                    "longitude": "-73.993439"
+                  }
+                },
+                {
+                  "name": "Knicks Legends Experience",
+                  "address": "4 Pennsylvania Plaza, New York, NY 10001",
+                  "website": "https://www.msg.com/",
+                  "description": "Special events featuring former Knicks players with autograph sessions and meet-and-greets, held throughout the year.",
+                  "coordinates": {
+                    "latitude": "40.750504",
+                    "longitude": "-73.993439"
+                  }
+                 }
+            ]
+        },
+        "public_transportation": {
+            "options": [
+                {
+                    "type": "Subway",
+                    "description": "Multiple subway lines including the A, C, E, 1, 2, 3, and others stop at 34th Street Penn Station, directly below Madison Square Garden."
+                },
+                {
+                    "type": "Commuter Rail",
+                    "description": "Penn Station serves as a major hub for NJ Transit, Long Island Rail Road, and Amtrak, providing easy access from various locations."
+                }
+            ]
+        },
+        "ticket_purchasing_tips": {
+            "best_places_to_buy": [
+                {
+                    "name": "Official Team Website",
+                    "website": "https://www.nba.com/knicks/tickets",
+                    "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+                },
+                {
+                    "name": "Ticketmaster",
+                    "website": "https://www.ticketmaster.com/new-york-knicks-tickets/artist/805988",
+                    "description": "Authorized ticketing partner offering authentic Knicks tickets."
+                },
+                {
+                    "name": "StubHub",
+                    "website": "https://www.stubhub.com/new-york-knicks-tickets/performer/6342/",
+                    "description": "Reliable secondary marketplace that offers verified resold Knicks tickets."
+                }
+            ],
+            "ways_to_save": "Consider attending weekday games which can be cheaper than weekend matchups. Look for ticket bundle deals. Sign up for fan clubs or newsletters for potential discounts.",
+            "avoiding_scalpers": "Always purchase tickets from official sources or reputable secondary market sites with buyer protections. Avoid cash transactions outside the venue to prevent scams."
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "city": "Miami",
+    "sports_teams": [
+        {
+            "team_name": "Miami Dolphins",
+            "sport": "Football",
+            "league": "NFL",
+            "average_ticket_price": "$86",
+            "season_start": "September",
+            "playoffs_start": "January",
+            "venue": {
+                "venue_name": "Hard Rock Stadium",
+                "details": "Home stadium for the Miami Dolphins. Capacity of 64,767 seats.",
+                "address": "347 Don Shula Drive, Miami Gardens, FL 33056, United States",
+                "geographic_coordinates": {
+                    "latitude": 25.9580,
+                    "longitude": -80.2389
+                }
+            }
+        },
+        {
+            "team_name": "Miami Heat",
+            "sport": "Basketball",
+            "league": "NBA",
+            "average_ticket_price": "$78",
+            "season_start": "October",
+            "playoffs_start": "April",
+            "venue": {
+                "venue_name": "American Airlines Arena",
+                "details": "Home arena for the Miami Heat. Capacity of 19,600 seats.",
+                "address": "601 Biscayne Blvd, Miami, FL 33132, United States",
+                "geographic_coordinates": {
+                    "latitude": 25.7814,
+                    "longitude": -80.1870
+                }
+            }
+        },
+        {
+            "team_name": "Miami Marlins",
+            "sport": "Baseball",
+            "league": "MLB",
+            "average_ticket_price": "$30",
+            "season_start": "April",
+            "playoffs_start": "October",
+            "venue": {
+                "venue_name": "Marlins Park",
+                "details": "Home ballpark for the Miami Marlins. Capacity of 36,742 seats.",
+                "address": "501 Marlins Way, Miami, FL 33125, United States",
+                "geographic_coordinates": {
+                    "latitude": 25.7783,
+                    "longitude": -80.2195
+                }
+            }
+        },
+        {
+            "team_name": "Inter Miami CF",
+            "sport": "Soccer",
+            "league": "MLS",
+            "average_ticket_price": "$30",
+            "season_start": "February",
+            "playoffs_start": "October",
+            "venue": {
+                "venue_name": "DRV PNK Stadium",
+                "details": "Home stadium for Inter Miami CF. Capacity of 18,000 seats.",
+                "address": "1350 NW 55th St, Fort Lauderdale, FL 33309, United States",
+                "geographic_coordinates": {
+                    "latitude": 26.1547,
+                    "longitude": -80.2070
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "city": "Pittsburgh",
+    "sports_teams": [
+        {
+            "team_name": "Pittsburgh Steelers",
+            "sport": "American Football",
+            "league": "NFL",
+            "average_ticket_price": "$103",
+            "season_start": "Early September",
+            "playoffs_start": "January",
+            "venue": {
+                "venue_name": "Heinz Field",
+                "details": "Football Stadium",
+                "address": "100 Art Rooney Ave, Pittsburgh, PA 15212, United States",
+                "geographic_coordinates": {
+                    "latitude": 40.4469,
+                    "longitude": -80.0158
+                }
+            }
+        },
+        {
+            "team_name": "Pittsburgh Penguins",
+            "sport": "Ice Hockey",
+            "league": "NHL",
+            "average_ticket_price": "$93",
+            "season_start": "October",
+            "playoffs_start": "April",
+            "venue": {
+                "venue_name": "PPG Paints Arena",
+                "details": "Indoor Arena",
+                "address": "1001 Fifth Ave, Pittsburgh, PA 15219, United States",
+                "geographic_coordinates": {
+                    "latitude": 40.4394,
+                    "longitude": -79.9891
+                }
+            }
+        },
+        {
+            "team_name": "Pittsburgh Pirates",
+            "sport": "Baseball",
+            "league": "MLB",
+            "average_ticket_price": "$45",
+            "season_start": "Late March",
+            "playoffs_start": "October",
+            "venue": {
+                "venue_name": "PNC Park",
+                "details": "Baseball Park",
+                "address": "115 Federal St, Pittsburgh, PA 15212, United States",
+                "geographic_coordinates": {
+                    "latitude": 40.4470,
+                    "longitude": -80.0065
+                }
+            }
+        }
+    ]
+}

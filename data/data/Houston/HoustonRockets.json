@@ -1,0 +1,140 @@
+{
+    "city": "Houston",
+    "team": "Rockets",
+    "venue": {
+      "name": "Toyota Center",
+      "address": "1510 Polk Street, Houston, TX 77002",
+      "website": "https://www.toyotacenter.com/",
+      "average_ticket_price": "$110",
+      "season_start": "October",
+      "playoffs_start": "April",
+      "coordinates": {
+        "latitude": "29.750764",
+        "longitude": "-95.362206"
+      },
+      "nearby_amenities": {
+        "restaurants_bars": [
+          {
+            "name": "The Rustic",
+            "address": "1836 Polk St, Houston, TX 77003",
+            "website": "https://therustic.com/",
+            "description": "A lively spot with a backyard feel offering farm-to-table meals, live music, and a large selection of craft beers.",
+            "coordinates": {
+              "latitude": "29.752243",
+              "longitude": "-95.359417"
+            }
+          },
+          {
+            "name": "Huynh Restaurant",
+            "address": "912 St Emanuel St, Houston, TX 77003",
+            "website": "http://www.huynhrestauranthouston.com/",
+            "description": "Family-owned eatery serving homestyle Vietnamese dishes in a cozy and welcoming atmosphere.",
+            "coordinates": {
+              "latitude": "29.752022",
+              "longitude": "-95.354921"
+            }
+          },
+          {
+            "name": "Pappasito's Cantina",
+            "address": "1510 Polk St, Houston, TX 77002",
+            "website": "https://pappasitos.com/location/45",
+            "description": "A Tex-Mex favorite known for its lively ambiance and margaritas, located conveniently inside the Toyota Center.",
+            "coordinates": {
+              "latitude": "29.750764",
+              "longitude": "-95.362206"
+            }
+          }
+        ],
+        "accommodations": [
+          {
+            "name": "Hilton Americas-Houston",
+            "address": "1600 Lamar St, Houston, TX 77010",
+            "website": "https://www.hilton.com/en/hotels/houcvhh-hilton-americas-houston/",
+            "description": "Upscale hotel with a skybridge to Toyota Center, featuring modern rooms, a spa, and an Olympic-sized pool.",
+            "coordinates": {
+              "latitude": "29.753616",
+              "longitude": "-95.35783"
+            }
+          },
+          {
+            "name": "Hotel Alessandra",
+            "address": "1070 Dallas St, Houston, TX 77002",
+            "website": "https://www.hotelalessandra-houston.com/",
+            "description": "Luxury boutique hotel offering elegant accommodations, fine dining, and a rooftop pool with city views.",
+            "coordinates": {
+              "latitude": "29.7544",
+              "longitude": "-95.3639"
+            }
+          }
+        ],
+        "tourist_attractions": [
+          {
+            "name": "Discovery Green",
+            "address": "1500 McKinney St, Houston, TX 77010",
+            "website": "https://www.discoverygreen.com/",
+            "description": "An urban park in downtown Houston, providing green space, a lake, playgrounds, and public art installations.",
+            "coordinates": {
+              "latitude": "29.753993",
+              "longitude": "-95.359697"
+            }
+          },
+          {
+            "name": "Houston Museum of Natural Science",
+            "address": "5555 Hermann Park Dr, Houston, TX 77030",
+            "website": "http://www.hmns.org/",
+            "description": "A science museum that features a planetarium, butterfly center, and a wide array of exhibits on natural science topics.",
+            "coordinates": {
+              "latitude": "29.7216",
+              "longitude": "-95.3899"
+            }
+          }
+        ],
+        "team_related_activities": [
+          {
+            "name": "Rockets Shop",
+            "address": "1510 Polk Street, Houston, TX 77002",
+            "website": "https://rocketsshop.com/",
+            "description": "Official store for Houston Rockets merchandise, offering a wide range of apparel and accessories.",
+            "coordinates": {
+              "latitude": "29.750764",
+              "longitude": "-95.362206"
+            }
+          }
+        ]
+      },
+      "public_transportation": {
+        "options": [
+          {
+            "type": "METRORail",
+            "description": "The Red Line offers service to the Toyota Center, with the nearest station being the Convention District Station, providing easy access from various parts of the city."
+          },
+          {
+            "type": "Bus",
+            "description": "Several METRO bus lines serve the downtown area, with stops near the Toyota Center, facilitating access from wider areas."
+          }
+        ]
+      },
+      "ticket_purchasing_tips": {
+        "best_places_to_buy": [
+          {
+            "name": "Official Team Website",
+            "website": "https://www.nba.com/rockets/tickets/single-game",
+            "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+          },
+          {
+            "name": "Ticketmaster",
+            "website": "https://www.ticketmaster.com/houston-rockets-tickets/artist/805966",
+            "description": "Authorized ticketing partner offering authentic Rockets tickets."
+          },
+          {
+            "name": "StubHub",
+            "website": "https://www.stubhub.com/houston-rockets-tickets/performer/274/",
+            "description": "Reliable secondary marketplace that offers verified resold Rockets tickets."
+          }
+        ],
+        "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+        "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+      }
+    }
+  }
+  

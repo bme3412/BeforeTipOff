@@ -1,0 +1,328 @@
+{
+  "city": "Charlotte",
+  "team": "Hornets",
+  "venue": {
+    "name": "Spectrum Center",
+    "address": "333 E Trade St, Charlotte, NC 28202",
+    "website": "https://www.spectrumcentercharlotte.com/",
+    "average_ticket_price": "$110",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "35.225142",
+      "longitude": "-80.839169"
+    },
+    "best_seats_pricing": {
+      "Courtside": {
+        "Description": "Seats right next to the action for an unparalleled game experience.",
+        "Sections": "Courtside",
+        "Estimated_Pricing_Range": "$750 - $2800+",
+        "View_Quality": "Direct court-level view, engaging and immersive experience.",
+        "Unique_Features": "Chance for player interactions, possibility of being seen on TV.",
+        "Accessibility": "Easy access, but limited space for personal mobility devices.",
+        "Special_Perks": "Exclusive access to the Hornets' Courtside Club, complimentary dining and beverages."
+      },
+      "Club_Seats": {
+        "Description": "Offering a fantastic view of the game from the sides with added benefits.",
+        "Sections": "Club Sections 105-108 and 115-118",
+        "Estimated_Pricing_Range": "$200 - $750",
+        "View_Quality": "Elevated side views with clear line of sight to the court.",
+        "Unique_Features": "Wider seats with more leg room, less crowded sections.",
+        "Accessibility": "Dedicated entrance for easier access, nearby elevators.",
+        "Special_Perks": "Access to premium clubs and in-seat wait service."
+      },
+      "Center_Balcony": {
+        "Description": "Great overall view of the game from an elevated position.",
+        "Sections": "Sections 206-208 and 226-228",
+        "Estimated_Pricing_Range": "$90 - $200",
+        "View_Quality": "Panoramic view of the court, ideal for tactical analysis.",
+        "Unique_Features": "Affordable pricing for a comprehensive view of the action.",
+        "Accessibility": "Accessible seating available, elevators to balcony level.",
+        "Special_Perks": "More budget-friendly option with a full view of the court."
+      },
+      "Loge_Level": {
+        "Description": "Just above courtside, offering close views without being on the floor.",
+        "Sections": "Mid Court Sections 104-105 and 118-119; Corners Sections 102-103, 106-107, 116-117, and 120-121",
+        "Estimated_Pricing_Range": "$100 - $500",
+        "View_Quality": "Close to the action with a slightly elevated perspective.",
+        "Unique_Features": "Proximity to the court with a more accessible price point.",
+        "Accessibility": "Wheelchair-accessible seating and nearby amenities.",
+        "Special_Perks": "Good balance of price, view, and experience."
+      }
+      },
+      "nearby_amenities": {
+        "restaurants_bars": [
+          {
+            "name": "Fahrenheit",
+            "address": "222 S Caldwell St, Charlotte, NC 28202",
+            "website": "http://www.chefroccowhalen.com/fahrenheit-charlotte/",
+            "description": "Rooftop restaurant and bar offering contemporary American cuisine with stunning views of the Charlotte skyline, located near Spectrum Center.",
+            "coordinates": {
+              "latitude": "35.221967",
+              "longitude": "-80.838028"
+            }
+          },
+          {
+            "name": "Queen City Q",
+            "address": "225 E 6th St, Charlotte, NC 28202",
+            "website": "http://www.queencityq.com/",
+            "description": "Popular spot for BBQ lovers featuring a wide selection of craft beers, located within walking distance of the Spectrum Center.",
+            "coordinates": {
+              "latitude": "35.227113",
+              "longitude": "-80.838623"
+            }
+          },
+          {
+            "name": "5Church Charlotte",
+            "address": "127 N Tryon St #8, Charlotte, NC 28202",
+            "website": "http://www.5churchcharlotte.com/",
+            "description": "Stylish, modern American restaurant known for its unique decor and innovative menu, a short walk from the arena.",
+            "coordinates": {
+              "latitude": "35.227321",
+              "longitude": "-80.841117"
+            }
+          },
+          {
+            "name": "The Capital Grille",
+            "address": "201 N Tryon St, Charlotte, NC 28202",
+            "website": "https://www.thecapitalgrille.com/",
+            "description": "Upscale steakhouse offering fine dining with exceptional service, conveniently located near the Spectrum Center.",
+            "coordinates": {
+              "latitude": "35.227528",
+              "longitude": "-80.843111"
+            }
+          },
+          {
+            "name": "Rooster's Wood-Fired Kitchen",
+            "address": "150 N College St, Charlotte, NC 28202",
+            "website": "http://www.roosterskitchen.com/",
+            "description": "Farm-to-table restaurant known for its wood-fired cooking technique, offering a cozy atmosphere near the arena.",
+            "coordinates": {
+              "latitude": "35.227758",
+              "longitude": "-80.839917"
+            }
+          },
+          {
+            "name": "Ink N Ivy",
+            "address": "222 S Church St, Charlotte, NC 28202",
+            "website": "http://www.inknivy.com/charlotte/",
+            "description": "Eclectic eatery and bar with a diverse menu and vibrant atmosphere, a great spot for pre-game dining or drinks.",
+            "coordinates": {
+              "latitude": "35.222653",
+              "longitude": "-80.848356"
+            }
+          }
+        ],
+        "accommodations": [
+          {
+            "name": "Hyatt Place Charlotte Downtown",
+            "address": "222 S Caldwell St, Charlotte, NC 28202",
+            "website": "https://www.hyatt.com/en-US/hotel/north-carolina/hyatt-place-charlotte-downtown/cltzd",
+            "description": "Modern hotel featuring comfortable rooms with skyline views, a rooftop pool, and easy access to Spectrum Center.",
+            "coordinates": {
+              "latitude": "35.222967",
+              "longitude": "-80.838028"
+            }
+          },
+          {
+            "name": "The Dunhill Hotel",
+            "address": "237 N Tryon St, Charlotte, NC 28202",
+            "website": "https://www.dunhillhotel.com/",
+            "description": "Historic hotel offering a unique blend of old-world charm and modern amenities, located in Uptown Charlotte.",
+            "coordinates": {
+              "latitude": "35.227113",
+              "longitude": "-80.838623"
+            }
+          },
+          {
+            "name": "Aloft Charlotte Uptown at the EpiCentre",
+            "address": "210 E Trade St, Charlotte, NC 28202",
+            "website": "https://www.marriott.com/hotels/travel/cltal-aloft-charlotte-uptown-at-the-epicentre/",
+            "description": "Trendy hotel with loft-inspired rooms and a vibrant social scene, situated in the heart of Charlotte.",
+            "coordinates": {
+              "latitude": "35.227321",
+              "longitude": "-80.841117"
+            }
+          },
+          {
+            "name": "Hilton Charlotte Uptown",
+            "address": "222 E 3rd St, Charlotte, NC 28202",
+            "website": "https://www.hilton.com/en/hotels/clthhhf-hilton-charlotte-center-city/",
+            "description": "Elegant hotel offering upscale accommodations and dining, conveniently located near Spectrum Center.",
+            "coordinates": {
+              "latitude": "35.223528",
+              "longitude": "-80.843111"
+            }
+          },
+          {
+            "name": "The Ritz-Carlton, Charlotte",
+            "address": "201 E Trade St, Charlotte, NC 28202",
+            "website": "https://www.ritzcarlton.com/en/hotels/charlotte",
+            "description": "Luxury hotel known for its exceptional service and amenities, including a spa and rooftop bar, in Uptown Charlotte.",
+            "coordinates": {
+              "latitude": "35.225758",
+              "longitude": "-80.839917"
+            }
+          },
+          {
+            "name": "Kimpton Tryon Park Hotel",
+            "address": "303 S Church St, Charlotte, NC 28202",
+            "website": "https://www.kimptontryonparkhotel.com/",
+            "description": "Sophisticated hotel with stunning city views, a rooftop lounge, and a modern Southern restaurant, located near the Spectrum Center.",
+            "coordinates": {
+              "latitude": "35.222653",
+              "longitude": "-80.848356"
+            }
+          }
+        ],
+        "tourist_attractions": [
+          {
+            "name": "NASCAR Hall of Fame",
+            "address": "400 E M.L.K. Jr Blvd, Charlotte, NC 28202",
+            "website": "https://www.nascarhall.com/",
+            "description": "An interactive entertainment museum honoring the history and heritage of NASCAR, located in Uptown Charlotte.",
+            "coordinates": {
+              "latitude": "35.2215",
+              "longitude": "-80.8431"
+            }
+          },
+          {
+            "name": "Discovery Place Science",
+            "address": "301 N Tryon St, Charlotte, NC 28202",
+            "website": "https://www.discoveryplace.org/science",
+            "description": "An interactive science and technology museum ideal for families and children, featuring hands-on exhibits and a IMAX Dome Theatre.",
+            "coordinates": {
+              "latitude": "35.2296",
+              "longitude": "-80.8400"
+            }
+          },
+          {
+            "name": "U.S. National Whitewater Center",
+            "address": "5000 Whitewater Center Pkwy, Charlotte, NC 28214",
+            "website": "https://usnwc.org/",
+            "description": "An outdoor recreation and athletic training facility for whitewater rafting, kayaking, canoeing, rock climbing, and mountain biking.",
+            "coordinates": {
+              "latitude": "35.2726",
+              "longitude": "-81.0054"
+            }
+          },
+          {
+            "name": "Charlotte Botanical Gardens",
+            "address": "9090 Craver Rd, Charlotte, NC 28262",
+            "website": "https://gardens.uncc.edu/",
+            "description": "Features outdoor gardens, walking trails, and a greenhouse complex at the University of North Carolina at Charlotte.",
+            "coordinates": {
+              "latitude": "35.3119",
+              "longitude": "-80.7418"
+            }
+          },
+          {
+            "name": "Mint Museum Uptown",
+            "address": "500 S Tryon St, Charlotte, NC 28202",
+            "website": "https://mintmuseum.org/",
+            "description": "A cultural institution in Charlotte featuring collections of art, design, and fashion from around the globe.",
+            "coordinates": {
+              "latitude": "35.2241",
+              "longitude": "-80.8479"
+            }
+          },
+          {
+            "name": "Bechtler Museum of Modern Art",
+            "address": "420 S Tryon St, Charlotte, NC 28202",
+            "website": "http://bechtler.org/",
+            "description": "A museum dedicated to the exhibition of mid-20th-century modern art, part of Charlotte's Levine Center for the Arts.",
+            "coordinates": {
+              "latitude": "35.2243",
+              "longitude": "-80.8477"
+            }
+          },
+          {
+            "name": "Freedom Park",
+            "address": "1900 East Blvd, Charlotte, NC 28203",
+            "website": "https://www.mecknc.gov/ParkandRec/Parks/ParksByRegion/CentralRegion/Pages/Freedom.aspx",
+            "description": "A large urban park in Charlotte offering walking trails, sport courts, and the Charlotte Nature Museum.",
+            "coordinates": {
+              "latitude": "35.1944",
+              "longitude": "-80.8428"
+            }
+          }
+        ],
+        "team_related_activities": [
+          {
+            "name": "Hornets Fan Shop at Spectrum Center",
+            "address": "333 E Trade St, Charlotte, NC 28202",
+            "website": "https://hornetsfanshop.com/",
+            "description": "Official store for Charlotte Hornets merchandise, located within the Spectrum Center.",
+            "coordinates": {
+              "latitude": "35.225142",
+              "longitude": "-80.839169"
+            }
+          },
+          {
+            "name": "Hornets History and Trophy Showcase",
+            "address": "333 E Trade St, Charlotte, NC 28202",
+            "website": "N/A",
+            "description": "A display area within the Spectrum Center showcasing the Charlotte Hornets' history, achievements, and memorabilia.",
+            "coordinates": {
+              "latitude": "35.225142",
+              "longitude": "-80.839169"
+            }
+          },
+          {
+            "name": "Hornets Game Day Experiences",
+            "address": "333 E Trade St, Charlotte, NC 28202",
+            "website": "https://www.spectrumcentercharlotte.com/",
+            "description": "Exclusive game day experiences offering behind-the-scenes tours, meet-and-greets, and chances to see the players up close.",
+            "coordinates": {
+              "latitude": "35.225142",
+              "longitude": "-80.839169"
+            }
+          },
+          {
+            "name": "Buzz City Nights",
+            "description": "Special themed nights at the Spectrum Center, celebrating the culture and community of Charlotte with unique entertainment and activities.",
+            "coordinates": {
+              "latitude": "35.225142",
+              "longitude": "-80.839169"
+            }
+          }
+        ]
+      },
+      "public_transportation": {
+        "options": [
+          {
+            "type": "Light Rail",
+            "description": "The LYNX Blue Line offers convenient access to Spectrum Center, with stops at CTC/Arena & 3rd St/Convention Center making it easy to reach from various parts of Charlotte.",
+            "map_link": "http://charlottenc.gov/cats/rail/lynx-blue-line/Pages/default.aspx"
+          },
+          {
+            "type": "Bus",
+            "description": "Charlotte Area Transit System (CATS) bus routes serve Spectrum Center, providing easy access from across the city.",
+            "map_link": "http://charlottenc.gov/cats/bus/routes/Pages/default.aspx"
+          }
+        ]
+      },
+      "ticket_purchasing_tips": {
+        "best_places_to_buy": [
+          {
+            "name": "Official Team Website",
+            "website": "https://www.nba.com/hornets/tickets/",
+            "description": "The primary source for all ticket sales, offering guaranteed authenticity for Charlotte Hornets games."
+          },
+          {
+            "name": "Ticketmaster",
+            "website": "https://www.ticketmaster.com/charlotte-hornets-tickets/artist/931493",
+            "description": "Authorized ticketing partner offering authentic Hornets tickets."
+          },
+          {
+            "name": "StubHub",
+            "website": "https://www.stubhub.com/charlotte-hornets-tickets/performer/6142/",
+            "description": "Reliable secondary marketplace that offers verified resold Hornets tickets."
+          }
+        ],
+        "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+        "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+      }
+    }
+  }
+  

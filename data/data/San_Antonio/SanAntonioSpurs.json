@@ -1,0 +1,135 @@
+{
+    "city": "San Antonio",
+    "team": "Spurs",
+    "venue": {
+        "name": "AT&T Center",
+        "address": "1 AT&T Center Parkway, San Antonio, TX 78219",
+        "website": "https://www.attcenter.com/",
+        "average_ticket_price": "$90",
+        "season_start": "October",
+        "playoffs_start": "April",
+        "coordinates": {
+            "latitude": "29.426944",
+            "longitude": "-98.437500"
+        },
+        "nearby_amenities": {
+            "restaurants_bars": [
+                {
+                    "name": "Bill Miller Bar-B-Q",
+                    "address": "3200 S Flores St, San Antonio, TX 78204",
+                    "website": "https://www.billmillerbbq.com/",
+                    "description": "A local chain known for its brisket, fried chicken, and sweet tea, offering a taste of Texas barbecue.",
+                    "coordinates": {
+                        "latitude": "29.393869",
+                        "longitude": "-98.500317"
+                    }
+                },
+                {
+                    "name": "The Big Bib BBQ",
+                    "address": "104 Lanark Dr, San Antonio, TX 78218",
+                    "website": "http://www.thebigbib.com/",
+                    "description": "Award-winning barbecue spot famous for its tender meats and homemade sides, a favorite among locals.",
+                    "coordinates": {
+                        "latitude": "29.509957",
+                        "longitude": "-98.396484"
+                    }
+                },
+                {
+                    "name": "Smoke Shack",
+                    "address": "3714 Broadway, San Antonio, TX 78209",
+                    "website": "https://smokeshacksa.com/",
+                    "description": "Known for its smoked meats and casual outdoor seating, it's a great spot for a pre-game meal.",
+                    "coordinates": {
+                        "latitude": "29.462028",
+                        "longitude": "-98.469777"
+                    }
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Hotel Emma",
+                    "address": "136 E Grayson St, San Antonio, TX 78215",
+                    "website": "https://www.thehotelemma.com/",
+                    "description": "A luxurious hotel offering unique rooms and top-notch amenities, located within the historic Pearl Brewery complex.",
+                    "coordinates": {
+                        "latitude": "29.442177",
+                        "longitude": "-98.480620"
+                    }
+                },
+                {
+                    "name": "The St. Anthony, a Luxury Collection Hotel, San Antonio",
+                    "address": "300 E Travis St, San Antonio, TX 78205",
+                    "website": "https://www.marriott.com/hotels/travel/satlc-the-st-anthony-a-luxury-collection-hotel-san-antonio/",
+                    "description": "This historic hotel combines modern luxury with timeless elegance, located in downtown San Antonio.",
+                    "coordinates": {
+                        "latitude": "29.4260",
+                        "longitude": "-98.4936"
+                    }
+                }
+            ],
+            "tourist_attractions": [
+                {
+                    "name": "The Alamo",
+                    "address": "300 Alamo Plaza, San Antonio, TX 78205",
+                    "website": "https://www.thealamo.org/",
+                    "description": "A historic Spanish mission and fortress compound, famous as the site of the Battle of the Alamo in 1836.",
+                    "coordinates": {
+                        "latitude": "29.425967",
+                        "longitude": "-98.486142"
+                    }
+                },
+                {
+                    "name": "San Antonio River Walk",
+                    "address": "San Antonio, TX 78205",
+                    "website": "https://www.thesanantonioriverwalk.com/",
+                    "description": "A city park and network of walkways along the banks of the San Antonio River, lined by bars, shops, restaurants, nature, and public art.",
+                    "coordinates": {
+                        "latitude": "29.424121",
+                        "longitude": "-98.493628"
+                    }
+                }
+            ],
+            "team_related_activities": [
+                 {
+                    "name": "Spurs Fan Shop at AT&T Center",
+                    "address": "1 AT&T Center Parkway, San Antonio, TX 78219",
+                    "website": "https://www.spursfanshop.com/",
+                    "description": "The official store for San Antonio Spurs merchandise, located within the AT&T Center.",
+                    "coordinates": {
+                        "latitude": "29.426944",
+                        "longitude": "-98.437500"
+                    }
+                 }
+            ]
+        },
+        "public_transportation": {
+            "options": [
+                {
+                    "type": "Bus",
+                    "description": "VIA Metropolitan Transit offers bus services that stop near the AT&T Center, providing access from various parts of the city."
+                }
+            ]
+        },
+        "ticket_purchasing_tips": {
+            "best_places_to_buy": [
+                {
+                    "name": "Official Team Website",
+                    "website": "https://www.nba.com/spurs/tickets",
+                    "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+                },
+                {
+                    "name": "Ticketmaster",
+                    "website": "https://www.ticketmaster.com/san-antonio-spurs-tickets/artist/806034",
+                    "description": "Authorized ticketing partner offering authentic Spurs tickets."
+                },
+                {
+                    "name": "StubHub",
+                    "website": "https://www.stubhub.com/san-antonio-spurs-tickets/performer/4314/",
+                    "description": "Reliable secondary marketplace that offers verified resold Spurs tickets."
+                }
+            ],
+            "ways_to_save": "Consider attending games on weekdays to potentially find lower ticket prices. Group discounts may be available for larger parties. Keep an eye out for promotional offers.",
+            "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. Utilize reputable secondary marketplaces that offer buyer protection. Be cautious of buying tickets from sellers outside the venue."
+        }
+    }
+}

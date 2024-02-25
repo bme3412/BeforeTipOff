@@ -1,0 +1,140 @@
+{
+    "city": "Denver",
+    "team": "Nuggets",
+    "venue": {
+      "name": "Ball Arena",
+      "address": "1000 Chopper Cir, Denver, CO 80204",
+      "website": "https://www.ballarena.com/",
+      "average_ticket_price": "$120",
+      "season_start": "October",
+      "playoffs_start": "April",
+      "coordinates": {
+        "latitude": "39.748656",
+        "longitude": "-105.007602"
+      },
+      "nearby_amenities": {
+        "restaurants_bars": [
+          {
+            "name": "Brooklyn's Denver",
+            "address": "901 Auraria Pkwy, Denver, CO 80204",
+            "website": "http://www.brooklynsrestaurants.com/",
+            "description": "Laid-back sports bar with a large selection of beers and classic American eats, located near Ball Arena.",
+            "coordinates": {
+              "latitude": "39.746839",
+              "longitude": "-105.007706"
+            }
+          },
+          {
+            "name": "Elitch Gardens Theme & Water Park",
+            "address": "2000 Elitch Cir, Denver, CO 80204",
+            "website": "https://www.elitchgardens.com/",
+            "description": "An amusement park offering various dining options, from quick snacks to sit-down meals, besides its thrilling rides and attractions.",
+            "coordinates": {
+              "latitude": "39.748369",
+              "longitude": "-105.010482"
+            }
+          },
+          {
+            "name": "Pepsi Center",
+            "address": "1000 Chopper Cir, Denver, CO 80204",
+            "website": "N/A",
+            "description": "Enjoy pre-game or post-game meals and drinks right at the venue of the game for a seamless experience.",
+            "coordinates": {
+              "latitude": "39.748656",
+              "longitude": "-105.007602"
+            }
+          }
+        ],
+        "accommodations": [
+          {
+            "name": "Hotel Indigo Denver Downtown",
+            "address": "1801 Wewatta St, Denver, CO 80202",
+            "website": "https://www.ihg.com/hotelindigo/hotels/us/en/denver/denws/hoteldetail",
+            "description": "A stylish hotel with modern rooms, a fitness center, and easy access to Ball Arena and downtown attractions.",
+            "coordinates": {
+              "latitude": "39.753564",
+              "longitude": "-105.001963"
+            }
+          },
+          {
+            "name": "The Crawford Hotel",
+            "address": "1701 Wynkoop St, Denver, CO 80202",
+            "website": "https://www.thecrawfordhotel.com/",
+            "description": "Located in the historic Union Station, this hotel offers luxury accommodations and a unique stay experience in the heart of Denver.",
+            "coordinates": {
+              "latitude": "39.753173",
+              "longitude": "-105.000107"
+            }
+          }
+        ],
+        "tourist_attractions": [
+          {
+            "name": "Denver Art Museum",
+            "address": "100 W 14th Ave Pkwy, Denver, CO 80204",
+            "website": "https://www.denverartmuseum.org/",
+            "description": "One of the largest art museums between the West Coast and Chicago, known for its collection of American Indian art.",
+            "coordinates": {
+              "latitude": "39.737512",
+              "longitude": "-104.989864"
+            }
+          },
+          {
+            "name": "Larimer Square",
+            "address": "1430 Larimer St, Denver, CO 80202",
+            "website": "https://www.larimersquare.com/",
+            "description": "Denver's most historic block, offering chic shopping, dining, and nightlife in beautifully restored Victorian buildings.",
+            "coordinates": {
+              "latitude": "39.747988",
+              "longitude": "-104.999756"
+            }
+          }
+        ],
+        "team_related_activities": [
+          {
+            "name": "Nuggets Team Store",
+            "address": "1000 Chopper Cir, Denver, CO 80204",
+            "website": "https://www.nuggetsteamstore.com/",
+            "description": "Official store for Denver Nuggets merchandise, located within Ball Arena.",
+            "coordinates": {
+              "latitude": "39.748656",
+              "longitude": "-105.007602"
+            }
+          }
+        ]
+      },
+      "public_transportation": {
+        "options": [
+          {
+            "type": "RTD Light Rail",
+            "description": "Denver's RTD light rail has several lines that stop at the Ball Arena/Elitch Gardens station, offering easy access to games."
+          },
+          {
+            "type": "Bus",
+            "description": "Several RTD bus routes stop near Ball Arena, providing convenient access from various parts of the city."
+          }
+        ]
+      },
+      "ticket_purchasing_tips": {
+        "best_places_to_buy": [
+          {
+            "name": "Official Team Website",
+            "website": "https://www.nba.com/nuggets/tickets/single-game",
+            "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+          },
+          {
+            "name": "Ticketmaster",
+            "website": "https://www.ticketmaster.com/denver-nuggets-tickets/artist/805927",
+            "description": "Authorized ticketing partner offering authentic Nuggets tickets."
+          },
+          {
+            "name": "StubHub",
+            "website": "https://www.stubhub.com/denver-nuggets-tickets/performer/2746/",
+            "description": "Reliable secondary marketplace that offers verified resold Nuggets tickets."
+          }
+        ],
+        "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+        "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+      }
+    }
+  }
+  

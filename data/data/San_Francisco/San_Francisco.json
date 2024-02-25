@@ -1,0 +1,56 @@
+{
+    "city": "San Francisco",
+    "sports_teams": [
+        {
+            "team_name": "San Francisco Giants",
+            "sport": "Baseball",
+            "league": "Major League Baseball",
+            "average_ticket_price": "$78",
+            "season_start": "April",
+            "playoffs_start": "October",
+            "venue": {
+                "venue_name": "Oracle Park",
+                "details": "Oracle Park, with its breathtaking views and classic design, was chosen as the 2008 Sports Facility of the Year by Sports Business Journal and Sports Business Daily.",
+                "address": "24 Willie Mays Plaza, San Francisco, CA 94107",
+                "geographic_coordinates": {
+                    "latitude": 37.7783,
+                    "longitude": -122.3893
+                }
+            }
+        },
+        {
+            "team_name": "San Francisco 49ers",
+            "sport": "Football",
+            "league": "National Football League",
+            "average_ticket_price": "$117",
+            "season_start": "September",
+            "playoffs_start": "January",
+            "venue": {
+                "venue_name": "Levi's Stadium",
+                "details": "Levi's Stadium is in Santa Clara, California, in the San Francisco Bay Area. It's one of the largest venues in the NFL.",
+                "address": "4900 Marie P DeBartolo Way, Santa Clara, CA 95054",
+                "geographic_coordinates": {
+                    "latitude": 37.4031,
+                    "longitude": -121.9692
+                }
+            }
+        },
+        {
+            "team_name": "Golden State Warriors",
+            "sport": "Basketball",
+            "league": "National Basketball Association",
+            "average_ticket_price": "$230",
+            "season_start": "October",
+            "playoffs_start": "April",
+            "venue": {
+                "venue_name": "Chase Center",
+                "details": "Chase Center is an indoor arena in San Francisco and is widely considered one of the best sports facilities in the US.",
+                "address": "1 Warriors Way, San Francisco, CA 94158",
+                "geographic_coordinates": {
+                    "latitude": 37.7679,
+                    "longitude": -122.3873
+                }
+            }
+        }
+    ]
+}

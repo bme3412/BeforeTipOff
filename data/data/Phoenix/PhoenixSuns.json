@@ -1,0 +1,139 @@
+{
+    "city": "Phoenix",
+    "team": "Suns",
+    "venue": {
+        "name": "Footprint Center",
+        "address": "201 E Jefferson St, Phoenix, AZ 85004",
+        "website": "https://www.footprintcenter.com/",
+        "average_ticket_price": "$108",
+        "season_start": "October",
+        "playoffs_start": "April",
+        "coordinates": {
+            "latitude": "33.445736",
+            "longitude": "-112.071200"
+        },
+        "nearby_amenities": {
+            "restaurants_bars": [
+                {
+                    "name": "The Arrogant Butcher",
+                    "address": "2 E Jefferson St #150, Phoenix, AZ 85004",
+                    "website": "https://www.thearrogantbutcher.com/",
+                    "description": "A popular spot among locals and visitors alike, known for its upscale American fare and vibrant atmosphere.",
+                    "coordinates": {
+                        "latitude": "33.447320",
+                        "longitude": "-112.073560"
+                    }
+                },
+                {
+                    "name": "Copper Blues Rock Pub & Kitchen",
+                    "address": "50 W Jefferson St, Phoenix, AZ 85003",
+                    "website": "http://copperblueslive.com/phoenix/",
+                    "description": "Features live music, a wide beer selection, and American pub fare, perfect for pre-game entertainment.",
+                    "coordinates": {
+                        "latitude": "33.447100",
+                        "longitude": "-112.074500"
+                    }
+                },
+                {
+                    "name": "Majerle's Sports Grill",
+                    "address": "24 N 2nd St, Phoenix, AZ 85004",
+                    "website": "https://majerles.com/",
+                    "description": "Owned by former Suns player Dan Majerle, this sports grill is a hotspot for fans to gather on game days.",
+                    "coordinates": {
+                        "latitude": "33.448377",
+                        "longitude": "-112.071702"
+                    }
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Kimpton Hotel Palomar Phoenix",
+                    "address": "2 E Jefferson St, Phoenix, AZ 85004",
+                    "website": "https://www.hotelpalomar-phoenix.com/",
+                    "description": "A stylish hotel offering luxurious rooms and exceptional service, located in the heart of downtown Phoenix.",
+                    "coordinates": {
+                        "latitude": "33.447365",
+                        "longitude": "-112.073585"
+                    }
+                },
+                {
+                    "name": "Hyatt Regency Phoenix",
+                    "address": "122 N 2nd St, Phoenix, AZ 85004",
+                    "website": "https://www.hyatt.com/en-US/hotel/arizona/hyatt-regency-phoenix/phxrp",
+                    "description": "Features modern accommodations with beautiful views of the city, conveniently situated close to the Footprint Center.",
+                    "coordinates": {
+                        "latitude": "33.449280",
+                        "longitude": "-112.071640"
+                    }
+                }
+            ],
+            "tourist_attractions": [
+                {
+                    "name": "Phoenix Art Museum",
+                    "address": "1625 N Central Ave, Phoenix, AZ 85004",
+                    "website": "http://www.phxart.org/",
+                    "description": "The largest art museum in the southwestern United States, offering an extensive collection of art from around the world.",
+                    "coordinates": {
+                        "latitude": "33.4669",
+                        "longitude": "-112.0733"
+                    }
+                },
+                {
+                    "name": "Desert Botanical Garden",
+                    "address": "1201 N Galvin Pkwy, Phoenix, AZ 85008",
+                    "website": "https://dbg.org/",
+                    "description": "Features thousands of species of cactus, trees, and flowers from all around the world spread across 55 acres.",
+                    "coordinates": {
+                        "latitude": "33.4600",
+                        "longitude": "-111.9444"
+                    }
+                }
+            ],
+            "team_related_activities": [
+                 {
+                    "name": "Suns Team Shop at Footprint Center",
+                    "address": "201 E Jefferson St, Phoenix, AZ 85004",
+                    "website": "https://shop.suns.com/",
+                    "description": "The official store for Phoenix Suns merchandise, located within the Footprint Center.",
+                    "coordinates": {
+                        "latitude": "33.445736",
+                        "longitude": "-112.071200"
+                    }
+                 }
+            ]
+        },
+        "public_transportation": {
+            "options": [
+                {
+                    "type": "Light Rail",
+                    "description": "The Valley Metro Light Rail has several stops near the Footprint Center, providing easy access from various parts of the city."
+                },
+                {
+                    "type": "Bus",
+                    "description": "Multiple bus routes run through downtown Phoenix, making it convenient to reach the venue."
+                }
+            ]
+        },
+        "ticket_purchasing_tips": {
+            "best_places_to_buy": [
+                {
+                    "name": "Official Team Website",
+                    "website": "https://www.nba.com/suns/tickets/",
+                    "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+                },
+                {
+                    "name": "Ticketmaster",
+                    "website": "https://www.ticketmaster.com/phoenix-suns-tickets/artist/806002",
+                    "description": "Authorized ticketing partner offering authentic Suns tickets."
+                },
+                {
+                    "name": "StubHub",
+                    "website": "https://www.stubhub.com/phoenix-suns-tickets/performer/4262/",
+                    "description": "Reliable secondary marketplace that offers verified resold Suns tickets."
+                }
+            ],
+            "ways_to_save": "Attending games on weekdays can often lead to lower ticket prices. Group discounts are typically available. Keep an eye out for special promotions.",
+            "avoiding_scalpers": "Purchase tickets only from verified sources to avoid counterfeit tickets. Using reputable secondary marketplaces with buyer protections is advisable. Be wary of purchasing tickets from sellers outside the venue."
+        }
+    }
+}

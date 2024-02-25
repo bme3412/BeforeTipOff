@@ -1,0 +1,139 @@
+{
+    "city": "Toronto",
+    "team": "Raptors",
+    "venue": {
+        "name": "Scotiabank Arena",
+        "address": "40 Bay Street, Toronto, ON M5J 2X2, Canada",
+        "website": "https://www.scotiabankarena.com/",
+        "average_ticket_price": "$120",
+        "season_start": "October",
+        "playoffs_start": "April",
+        "coordinates": {
+            "latitude": "43.643466",
+            "longitude": "-79.379099"
+        },
+        "nearby_amenities": {
+            "restaurants_bars": [
+                {
+                    "name": "Real Sports Bar & Grill",
+                    "address": "15 York St, Toronto, ON M5J 0A3, Canada",
+                    "website": "http://realsports.ca/BarAndGrill/Toronto/",
+                    "description": "A massive upscale sports bar with numerous HD TVs and a wide selection of beers and pub fare, located near Scotiabank Arena.",
+                    "coordinates": {
+                        "latitude": "43.642566",
+                        "longitude": "-79.380692"
+                    }
+                },
+                {
+                    "name": "The Rec Room",
+                    "address": "255 Bremner Blvd, Toronto, ON M5V 3M9, Canada",
+                    "website": "https://www.therecroom.com/",
+                    "description": "A large entertainment venue offering dining, gaming, and live entertainment, a short walk from Scotiabank Arena.",
+                    "coordinates": {
+                        "latitude": "43.641599",
+                        "longitude": "-79.386872"
+                    }
+                },
+                {
+                    "name": "Harbour 60 Toronto",
+                    "address": "60 Harbour St, Toronto, ON M5J 1B7, Canada",
+                    "website": "http://www.harbour60.com/",
+                    "description": "An upscale steakhouse known for its exceptional service and prime cuts of meat, located in close proximity to the arena.",
+                    "coordinates": {
+                        "latitude": "43.642885",
+                        "longitude": "-79.377319"
+                    }
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Delta Hotels by Marriott Toronto",
+                    "address": "75 Lower Simcoe St, Toronto, ON M5J 3A6, Canada",
+                    "website": "https://www.marriott.com/hotels/travel/yyzdl-delta-hotels-toronto/",
+                    "description": "A modern hotel with stunning views of the Toronto skyline and Lake Ontario, conveniently located near Scotiabank Arena.",
+                    "coordinates": {
+                        "latitude": "43.642547",
+                        "longitude": "-79.383110"
+                    }
+                },
+                {
+                    "name": "Fairmont Royal York",
+                    "address": "100 Front St W, Toronto, ON M5J 1E3, Canada",
+                    "website": "https://www.fairmont.com/royal-york-toronto/",
+                    "description": "An historic and luxurious hotel offering refined rooms and amenities, situated a short distance from Scotiabank Arena.",
+                    "coordinates": {
+                        "latitude": "43.645736",
+                        "longitude": "-79.381576"
+                    }
+                }
+            ],
+            "tourist_attractions": [
+                {
+                    "name": "CN Tower",
+                    "address": "290 Bremner Blvd, Toronto, ON M5V 3L9, Canada",
+                    "website": "http://www.cntower.ca/",
+                    "description": "A national icon and engineering wonder, offering breathtaking views of the city from its observation decks and revolving restaurant.",
+                    "coordinates": {
+                        "latitude": "43.642566",
+                        "longitude": "-79.387057"
+                    }
+                },
+                {
+                    "name": "Ripley's Aquarium of Canada",
+                    "address": "288 Bremner Blvd, Toronto, ON M5V 3L9, Canada",
+                    "website": "https://www.ripleyaquariums.com/canada/",
+                    "description": "Home to over 16,000 aquatic animals and featuring a walk-through tunnel, this aquarium offers an immersive underwater experience.",
+                    "coordinates": {
+                        "latitude": "43.642104",
+                        "longitude": "-79.386252"
+                    }
+                }
+            ],
+            "team_related_activities": [
+                 {
+                    "name": "Raptors Team Store at Scotiabank Arena",
+                    "address": "40 Bay Street, Toronto, ON M5J 2X2, Canada",
+                    "website": "https://shop.realsports.ca/",
+                    "description": "The official store for Toronto Raptors merchandise, located within the Scotiabank Arena.",
+                    "coordinates": {
+                        "latitude": "43.643466",
+                        "longitude": "-79.379099"
+                    }
+                 }
+            ]
+        },
+        "public_transportation": {
+            "options": [
+                {
+                    "type": "Subway",
+                    "description": "Union Station, Toronto's main transit hub, is located just a short walk from Scotiabank Arena, providing access via TTC subway, GO Transit, and VIA Rail."
+                },
+                {
+                    "type": "Streetcar",
+                    "description": "The TTC also operates streetcar lines that run close to Scotiabank Arena, offering convenient access from various parts of the city."
+                }
+            ]
+        },
+        "ticket_purchasing_tips": {
+            "best_places_to_buy": [
+                {
+                    "name": "Official Team Website",
+                    "website": "https://www.nba.com/raptors/tickets",
+                    "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+                },
+                {
+                    "name": "Ticketmaster",
+                    "website": "https://www.ticketmaster.ca/toronto-raptors-tickets/artist/806034",
+                    "description": "Authorized ticketing partner offering authentic Raptors tickets."
+                },
+                {
+                    "name": "StubHub",
+                    "website": "https://www.stubhub.com/toronto-raptors-tickets/performer/762/",
+                    "description": "Reliable secondary marketplace that offers verified resold Raptors tickets."
+                }
+            ],
+            "ways_to_save": "Weekday games may offer more affordable ticket prices compared to weekend games. Consider looking for last-minute deals or group discounts for additional savings.",
+            "avoiding_scalpers": "Always purchase tickets from reputable sources to avoid counterfeit tickets. Use verified secondary marketplaces with buyer protections to ensure ticket authenticity. Be cautious of buying tickets from resellers outside the venue."
+        }
+    }
+}

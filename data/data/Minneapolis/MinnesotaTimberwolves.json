@@ -1,0 +1,139 @@
+{
+    "city": "Minneapolis",
+    "team": "Timberwolves",
+    "venue": {
+        "name": "Target Center",
+        "address": "600 N 1st Ave, Minneapolis, MN 55403",
+        "website": "https://www.targetcenter.com/",
+        "average_ticket_price": "$110",
+        "season_start": "October",
+        "playoffs_start": "April",
+        "coordinates": {
+            "latitude": "44.979030",
+            "longitude": "-93.276720"
+        },
+        "nearby_amenities": {
+            "restaurants_bars": [
+                {
+                    "name": "Kieran's Irish Pub",
+                    "address": "85 N 6th St, Minneapolis, MN 55403",
+                    "website": "http://www.kierans.com/",
+                    "description": "A lively spot known for its Irish fare and vibrant atmosphere, perfect for pre-game gatherings.",
+                    "coordinates": {
+                        "latitude": "44.979500",
+                        "longitude": "-93.276400"
+                    }
+                },
+                {
+                    "name": "The Loon Cafe",
+                    "address": "500 N 1st Ave, Minneapolis, MN 55403",
+                    "website": "http://www.looncafe.com/",
+                    "description": "Famous for its chili and proximity to the Target Center, offering a cozy spot for fans.",
+                    "coordinates": {
+                        "latitude": "44.980500",
+                        "longitude": "-93.276900"
+                    }
+                },
+                {
+                    "name": "Pizza Luce",
+                    "address": "119 N 4th St, Minneapolis, MN 55401",
+                    "website": "https://pizzaluce.com/",
+                    "description": "A favorite among locals for its unique pizza offerings and casual dining atmosphere.",
+                    "coordinates": {
+                        "latitude": "44.981100",
+                        "longitude": "-93.277000"
+                    }
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Loews Minneapolis Hotel",
+                    "address": "601 N 1st Ave, Minneapolis, MN 55403",
+                    "website": "https://www.loewshotels.com/minneapolis-hotel",
+                    "description": "A luxury hotel with sleek, contemporary rooms and easy access to Timberwolves games.",
+                    "coordinates": {
+                        "latitude": "44.978400",
+                        "longitude": "-93.276500"
+                    }
+                },
+                {
+                    "name": "AC Hotel by Marriott Minneapolis Downtown",
+                    "address": "401 Hennepin Ave, Minneapolis, MN 55401",
+                    "website": "https://www.marriott.com/hotels/travel/mspar-ac-hotel-minneapolis-downtown/",
+                    "description": "Stylish hotel offering comfortable lodging close to the basketball action.",
+                    "coordinates": {
+                        "latitude": "44.979400",
+                        "longitude": "-93.263900"
+                    }
+                }
+            ],
+            "tourist_attractions": [
+                {
+                    "name": "Minneapolis Sculpture Garden",
+                    "address": "725 Vineland Pl, Minneapolis, MN 55403",
+                    "website": "https://walkerart.org/visit/garden",
+                    "description": "Famous outdoor sculpture park featuring the iconic 'Spoonbridge and Cherry' sculpture.",
+                    "coordinates": {
+                        "latitude": "44.969200",
+                        "longitude": "-93.288900"
+                    }
+                },
+                {
+                    "name": "Mill City Museum",
+                    "address": "704 S 2nd St, Minneapolis, MN 55401",
+                    "website": "http://www.millcitymuseum.org/",
+                    "description": "Built into the ruins of what was once the world's largest flour mill, this museum offers a glimpse into the industrial past.",
+                    "coordinates": {
+                        "latitude": "44.978100",
+                        "longitude": "-93.259500"
+                    }
+                }
+            ],
+            "team_related_activities": [
+                 {
+                    "name": "Timberwolves Team Store at Target Center",
+                    "address": "600 N 1st Ave, Minneapolis, MN 55403",
+                    "website": "https://timberwolvesteamstore.com/",
+                    "description": "The official store for Minnesota Timberwolves merchandise, located within the Target Center.",
+                    "coordinates": {
+                        "latitude": "44.979030",
+                        "longitude": "-93.276720"
+                    }
+                 }
+            ]
+        },
+        "public_transportation": {
+            "options": [
+                {
+                    "type": "Light Rail",
+                    "description": "The Blue and Green lines offer stops near Target Center, making it accessible from various parts of the city."
+                },
+                {
+                    "type": "Bus",
+                    "description": "Numerous bus lines run through downtown Minneapolis, providing easy access to the venue."
+                }
+            ]
+        },
+        "ticket_purchasing_tips": {
+            "best_places_to_buy": [
+                {
+                    "name": "Official Team Website",
+                    "website": "https://www.nba.com/timberwolves/tickets",
+                    "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+                },
+                {
+                    "name": "Ticketmaster",
+                    "website": "https://www.ticketmaster.com/minnesota-timberwolves-tickets/artist/805988",
+                    "description": "Authorized ticketing partner offering authentic Timberwolves tickets."
+                },
+                {
+                    "name": "StubHub",
+                    "website": "https://www.stubhub.com/minnesota-timberwolves-tickets/performer/4313",
+                    "description": "Reliable secondary marketplace that offers verified resold Timberwolves tickets."
+                }
+            ],
+            "ways_to_save": "Consider attending weekday games for potentially lower prices. Look into group discounts for parties of 10 or more. Keep an eye out for last-minute deals close to game days.",
+            "avoiding_scalpers": "Purchase tickets exclusively from verified sources to prevent scams. Use secondary market websites that offer a buyer guarantee. Be cautious of purchasing printed tickets from sellers near the venue to avoid fakes."
+        }
+    }
+}
