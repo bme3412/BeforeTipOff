@@ -1,0 +1,90 @@
+{
+    "city": "Philadelphia",
+    "sports_teams": [
+        {
+            "team_name": "Philadelphia Eagles",
+            "sport": "Football",
+            "league": "National Football League (NFL)",
+            "average_ticket_price": "$130",
+            "season_start": "September",
+            "playoffs_start": "January",
+            "venue": {
+                "venue_name": "Lincoln Financial Field",
+                "details": "Stadium Located in South Philadelphia",
+                "address": "1 Lincoln Financial Field Way, Philadelphia, PA 19148, United States",
+                "geographic_coordinates": {
+                    "latitude": 39.9008,
+                    "longitude": -75.1673
+                }
+            }
+        },
+        {
+            "team_name": "Philadelphia 76ers",
+            "sport": "Basketball",
+            "league": "National Basketball Association (NBA)",
+            "average_ticket_price": "$80",
+            "season_start": "October",
+            "playoffs_start": "April",
+            "venue": {
+                "venue_name": "Wells Fargo Center",
+                "details": "Arena located at South Philadelphia Sports Complex",
+                "address": "3601 S Broad St, Philadelphia, PA 19148, United States",
+                "geographic_coordinates": {
+                    "latitude": 39.9012,
+                    "longitude": -75.1718
+                }
+            }
+        },
+        {
+            "team_name": "Philadelphia Phillies",
+            "sport": "Baseball",
+            "league": "Major League Baseball (MLB)",
+            "average_ticket_price": "$50",
+            "season_start": "April",
+            "playoffs_start": "October",
+            "venue": {
+                "venue_name": "Citizens Bank Park",
+                "details": "Ballpark located in the South Philadelphia Sports Complex",
+                "address": "1 Citizens Bank Way, Philadelphia, PA 19148, United States",
+                "geographic_coordinates": {
+                    "latitude": 39.9061,
+                    "longitude": -75.1665
+                }
+            }
+        },
+        {
+            "team_name": "Philadelphia Flyers",
+            "sport": "Ice Hockey",
+            "league": "National Hockey League (NHL)",
+            "average_ticket_price": "$75",
+            "season_start": "October",
+            "playoffs_start": "April",
+            "venue": {
+                "venue_name": "Wells Fargo Center",
+                "details": "Arena located at South Philadelphia Sports Complex",
+                "address": "3601 S Broad St, Philadelphia, PA 19148, United States",
+                "geographic_coordinates": {
+                    "latitude": 39.9012,
+                    "longitude": -75.1718
+                }
+            }
+        },
+        {
+            "team_name": "Philadelphia Union",
+            "sport": "Soccer",
+            "league": "Major League Soccer (MLS)",
+            "average_ticket_price": "$40",
+            "season_start": "March",
+            "playoffs_start": "October",
+            "venue": {
+                "venue_name": "Subaru Park",
+                "details": "Soccer-specific stadium located in Chester, Pennsylvania",
+                "address": "1 Stadium Dr, Chester, PA 19013, United States",
+                "geographic_coordinates": {
+                    "latitude": 39.8322,
+                    "longitude": -75.3656
+                }
+            }
+        }
+    ]
+}

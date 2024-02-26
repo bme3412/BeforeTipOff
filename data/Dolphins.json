@@ -1,0 +1,95 @@
+{
+    "city": "Miami",
+    "team": "Dolphins",
+    "venue": {
+        "name": "Hard Rock Stadium",
+        "average_ticket_price": "$86",
+        "season_start": "September",
+        "playoffs_start": "January",
+        "coordinates": {
+            "latitude": "25.9580",
+            "longitude": "-80.2389"
+        },
+        "nearby_amenities": {
+            "restaurants_bars": [
+                {
+                    "name": "Shula's Steak House",
+                    "description": "A upscale steakhouse named after Dolphins' famous coach Don Shula, located just 5 miles from the stadium.",
+                    "coordinates": {
+                        "latitude": "25.9354",
+                        "longitude": "-80.1626"
+                    }
+                },
+                {
+                    "name": "Bokampers",
+                    "description": "Sports bar owned by former Miami Dolphins player, located less than 10 miles from the stadium. Offers an extensive game-day menu.",
+                    "coordinates": {
+                        "latitude": "26.0801",
+                        "longitude": "-80.1147"
+                    }
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Stadium Hotel",
+                    "description": "The closest hotel to Hard Rock Stadium with a football field and sports bar on-site.",
+                    "coordinates": {
+                        "latitude": "25.9571",
+                        "longitude": "-80.2438"
+                    }
+                },
+                {
+                    "name": "Courtyard by Marriott Miami Aventura Mall",
+                    "description": "Located under 10 miles from the stadium, offers shuttle service to the games.",
+                    "coordinates": {
+                        "latitude": "25.9590",
+                        "longitude": "-80.1386"
+                    }
+                }
+            ],
+            "tourist_attractions": [
+                {
+                    "name": "Bayfront Park",
+                    "description": "Located in downtown Miami, often hosts pre-game festivities and live broadcasts of Dolphins games.",
+                    "coordinates": {
+                        "latitude": "25.7780",
+                        "longitude": "-80.1870"
+                    }
+                },
+                {
+                    "name": "Miami Seaquarium",
+                    "description": "A marine-life entertainment park that's a fun stop for families. It's even home to a dolphin show!",
+                    "coordinates": {
+                        "latitude": "25.7342",
+                        "longitude": "-80.1646"
+                    }
+                }
+            ],
+            "team_related_activities": [
+                "Visit the Miami Dolphins Walk of Fame at Hard Rock Stadium",
+                "Tour the Dolphins’ training facility in Davie"
+            ]
+        },
+        "public_transportation": {
+            "options": [
+                {
+                    "type": "Metrorail",
+                    "description": "Miami's rapid transit system. On game days, fans can take the Metrorail to the Earlington Heights station and transfer to the Metrobus Route 297 (Stadium Shuttle)."
+                },
+                {
+                    "type": "Uber/Rideshares",
+                    "description": "Hard Rock Stadium has a designated Rideshare Zone located in Lot 14 for convenient drop-off and pick-up."
+                }
+            ]
+        }
+    },
+    "ticket_purchasing_tips": {
+        "best_places_to_buy": [
+            "Official Miami Dolphins Website",
+            "Ticketmaster",
+            "NFL Ticket Exchange"
+        ],
+        "ways_to_save": "Look for presale codes or special promotional offers through email newsletters, try to purchase tickets as soon as they go on sale to avoid price hikes, attend mid-week games which are often cheaper.",
+        "avoiding_scalpers": "Avoid buying tickets from street vendors. Instead, opt for authorized ticket outlets and ensure you receive a receipt upon purchase."
+    }
+}
