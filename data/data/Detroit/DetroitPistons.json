@@ -1,21 +1,59 @@
 {
-    "city": "Detroit",
-    "team": "Pistons",
-    "venue": {
-      "name": "Little Caesars Arena",
-      "address": "2645 Woodward Ave, Detroit, MI 48201",
-      "website": "https://www.olympiaentertainment.com/venues/detail/little-caesars-arena",
-      "average_ticket_price": "$100",
-      "season_start": "October",
-      "playoffs_start": "April",
-      "coordinates": {
-        "latitude": "42.341024",
-        "longitude": "-83.055178"
+  "city": "Detroit",
+  "team": "Pistons",
+  "venue": {
+    "name": "Little Caesars Arena",
+    "address": "2645 Woodward Ave, Detroit, MI 48201",
+    "website": "https://www.313presents.com/venues-events/little-caesars-arena",
+    "average_ticket_price": "$120",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "42.341024",
+      "longitude": "-83.055527"
+    },
+    "best_seats_pricing": {
+      "Courtside": {
+        "Description": "Elite seating offering the closest view of the action, providing an immersive game day experience.",
+        "Sections": "Courtside",
+        "Estimated_Pricing_Range": "$1100 - $3200+",
+        "View_Quality": "Direct view at court level, offering the most engaging and dynamic experience.",
+        "Unique_Features": "Opportunities for direct interactions with players, visibility on live broadcasts.",
+        "Accessibility": "Priority access with some limitations for personal mobility devices.",
+        "Special_Perks": "Exclusive access to VIP clubs, complimentary gourmet dining, and personalized services."
       },
+      "Club Level": {
+        "Description": "Premium seating offering a fantastic view of the game from an elevated perspective, with added benefits.",
+        "Sections": "Club Level Sections",
+        "Estimated_Pricing_Range": "$260 - $850",
+        "View_Quality": "Elevated and central views ensuring a perfect sightline to the court.",
+        "Unique_Features": "Comfortable seating with additional legroom, less crowded for a more exclusive experience.",
+        "Accessibility": "Dedicated entrance for easier access, with nearby elevators and restrooms.",
+        "Special_Perks": "Access to exclusive lounges, gourmet dining options, and in-seat service."
+      },
+      "Upper Level": {
+        "Description": "A budget-friendly option that offers a bird's-eye view of the game, capturing the entire court.",
+        "Sections": "Upper Level Sections",
+        "Estimated_Pricing_Range": "$55 - $220",
+        "View_Quality": "Panoramic view of the court, ideal for fans who appreciate the game from a higher vantage point.",
+        "Unique_Features": "An affordable way to enjoy the excitement of Pistons basketball.",
+        "Accessibility": "Accessible seating available, with escalators and elevators to the upper levels.",
+        "Special_Perks": "Cost-effective, with access to standard arena amenities."
+      },
+      "Suite Level": {
+        "Description": "Luxurious private suites offering a blend of exclusivity and comfort with a premier view of the game.",
+        "Sections": "Suite Level",
+        "Estimated_Pricing_Range": "$1600 - $5200+",
+        "View_Quality": "Private and elevated viewing experience with unmatched sightlines to the court.",
+        "Unique_Features": "Suites equipped with plush seating, private restrooms, and customizable catering options.",
+        "Accessibility": "Exclusive access points with private elevators, ensuring ease of movement.",
+        "Special_Perks": "Personalized service, access to exclusive clubs, and priority booking for events."
+      }
+    },
       "nearby_amenities": {
         "restaurants_bars": [
           {
-            "name": "Mike's Pizza Bar",
+            "name": "Mikes Pizza Bar",
             "address": "2515 Woodward Ave, Detroit, MI 48201",
             "website": "http://www.mikespizzabardetroit.com/",
             "description": "Artisanal pizza place offering a sports bar environment, located within walking distance to Little Caesars Arena.",
@@ -35,13 +73,43 @@
             }
           },
           {
-            "name": "Kid Rock’s Made in Detroit",
+            "name": "Kid Rocks Made in Detroit",
             "address": "2645 Woodward Ave, Detroit, MI 48201",
             "website": "http://www.kidrocksdetroit.com/",
             "description": "A restaurant and bar featuring a menu inspired by Kid Rock’s Detroit roots, located inside Little Caesars Arena.",
             "coordinates": {
               "latitude": "42.341024",
               "longitude": "-83.055178"
+            }
+          },
+          {
+            "name": "The District Market",
+            "address": "2645 Woodward Ave, Detroit, MI 48201",
+            "website": "https://www.districtmarketdetroit.com/",
+            "description": "A marketplace offering a variety of local flavors and specialties, located inside Little Caesars Arena.",
+            "coordinates": {
+              "latitude": "42.341024",
+              "longitude": "-83.055527"
+            }
+          },
+          {
+            "name": "Iron Hill Brewery & Restaurant",
+            "address": "215 West 5th Street, Royal Oak, MI 48067",
+            "website": "https://www.ironhillbrewery.com/royal-oak-mi",
+            "description": "Craft brewery and restaurant offering a diverse menu and house-made beers, a short drive from downtown Detroit.",
+            "coordinates": {
+              "latitude": "42.487526",
+              "longitude": "-83.144648"
+            }
+          },
+          {
+            "name": "HopCat",
+            "address": "4265 Woodward Ave, Detroit, MI 48201",
+            "website": "https://www.hopcat.com/detroit",
+            "description": "Known for its extensive selection of craft beers and unique food items like 'Crack Fries,' HopCat is a favorite among locals.",
+            "coordinates": {
+              "latitude": "42.351222",
+              "longitude": "-83.062536"
             }
           }
         ],
@@ -65,6 +133,46 @@
               "latitude": "42.331599",
               "longitude": "-83.048847"
             }
+          },
+          {
+            "name": "Shinola Hotel",
+            "address": "1400 Woodward Ave, Detroit, MI 48226",
+            "website": "https://www.shinolahotel.com/",
+            "description": "Luxury hotel offering a blend of classic and modern design, featuring amenities such as a fitness center and on-site dining.",
+            "coordinates": {
+              "latitude": "42.335198",
+              "longitude": "-83.046752"
+            }
+          },
+          {
+            "name": "Detroit Foundation Hotel",
+            "address": "250 W Larned St, Detroit, MI 48226",
+            "website": "https://detroitfoundationhotel.com/",
+            "description": "Set in the former Detroit Fire Department Headquarters, this hotel combines historical charm with contemporary luxury.",
+            "coordinates": {
+              "latitude": "42.329176",
+              "longitude": "-83.045753"
+            }
+          },
+          {
+            "name": "The Westin Book Cadillac Detroit",
+            "address": "1114 Washington Blvd, Detroit, MI 48226",
+            "website": "https://www.marriott.com/hotels/travel/dtwcw-the-westin-book-cadillac-detroit/",
+            "description": "Historic luxury hotel that has been restored to its original grandeur, featuring upscale rooms and suites with city views.",
+            "coordinates": {
+              "latitude": "42.331441",
+              "longitude": "-83.048427"
+            }
+          },
+          {
+            "name": "Element Detroit at the Metropolitan",
+            "address": "33 John R St, Detroit, MI 48226",
+            "website": "https://www.marriott.com/hotels/travel/dtwel-element-detroit-at-the-metropolitan/",
+            "description": "Eco-friendly hotel in a renovated neo-Gothic building, offering modern design and healthy living options.",
+            "coordinates": {
+              "latitude": "42.334548",
+              "longitude": "-83.046259"
+            }
           }
         ],
         "tourist_attractions": [
@@ -87,6 +195,46 @@
               "latitude": "42.300097",
               "longitude": "-83.233777"
             }
+          },
+          {
+            "name": "Belle Isle Park",
+            "address": "99 Pleasure Dr, Detroit, MI 48207",
+            "website": "https://www.belleisleconservancy.org/",
+            "description": "A 982-acre island park in the Detroit River, featuring a zoo, greenhouse, maritime museum, and stunning views of the city skyline.",
+            "coordinates": {
+              "latitude": "42.331427",
+              "longitude": "-82.982213"
+            }
+          },
+          {
+            "name": "Motown Museum",
+            "address": "2648 W Grand Blvd, Detroit, MI 48208",
+            "website": "https://www.motownmuseum.org/",
+            "description": "Historic museum located in the original headquarters of Motown Records, showcasing the history and impact of the Motown record label.",
+            "coordinates": {
+              "latitude": "42.364504",
+              "longitude": "-83.088593"
+            }
+          },
+          {
+            "name": "Detroit Riverwalk",
+            "address": "1340 Atwater St, Detroit, MI 48207",
+            "website": "https://detroitriverfront.org/riverwalk",
+            "description": "A scenic 5.5-mile long path along the Detroit River, offering access to parks, restaurants, and beautiful city views.",
+            "coordinates": {
+              "latitude": "42.3314",
+              "longitude": "-83.0439"
+            }
+          },
+          {
+            "name": "Comerica Park",
+            "address": "2100 Woodward Ave, Detroit, MI 48201",
+            "website": "https://www.mlb.com/tigers/ballpark",
+            "description": "Home of the Detroit Tigers, this ballpark offers not just baseball games but also a carousel, a Ferris wheel, and a museum.",
+            "coordinates": {
+              "latitude": "42.339226",
+              "longitude": "-83.048583"
+            }
           }
         ],
         "team_related_activities": [
@@ -98,6 +246,25 @@
             "coordinates": {
               "latitude": "42.696884",
               "longitude": "-83.245773"
+            }
+          },
+          {
+            "name": "Little Caesars Arena Tours",
+            "address": "2645 Woodward Ave, Detroit, MI 48201",
+            "website": "https://www.313presents.com/venues-events/little-caesars-arena/tours",
+            "description": "Guided tours of the Pistons' home arena, offering fans a behind-the-scenes look at the state-of-the-art facility.",
+            "coordinates": {
+              "latitude": "42.341024",
+              "longitude": "-83.055527"
+            }
+          },
+          {
+            "name": "Pistons Game Day Experience",
+            "address": "2645 Woodward Ave, Detroit, MI 48201",
+            "description": "A pre-game fan zone featuring interactive games, live entertainment, and opportunities to meet Pistons legends.",
+            "coordinates": {
+              "latitude": "42.341024",
+              "longitude": "-83.055527"
             }
           }
         ]
@@ -111,6 +278,10 @@
           {
             "type": "Bus",
             "description": "Detroit's DDOT and SMART bus services provide routes that have stops near Little Caesars Arena, facilitating access from surrounding areas."
+          },
+          {
+            "type": "People Mover",
+            "description": "The Detroit People Mover is an automated light rail system circling downtown Detroit, with stations close to Little Caesars Arena, making it a convenient option for getting to the game."
           }
         ]
       },
@@ -130,6 +301,11 @@
             "name": "StubHub",
             "website": "https://www.stubhub.com/detroit-pistons-tickets/performer/4313/",
             "description": "Reliable secondary marketplace that offers verified resold Pistons tickets."
+          },
+          {
+            "name": "SeatGeek",
+            "website": "https://www.seatgeek.com/detroit-pistons-tickets",
+            "description": "A user-friendly platform that aggregates ticket listings from across the web, providing a wide selection of purchasing options."
           }
         ],
         "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",

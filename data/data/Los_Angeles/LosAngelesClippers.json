@@ -1,141 +1,304 @@
 {
-    "city": "Los Angeles",
-    "team": "Clippers",
-    "venue": {
-      "name": "Crypto.com Arena",
-      "address": "1111 S Figueroa St, Los Angeles, CA 90015",
-      "website": "https://www.cryptoarena.com/",
-      "average_ticket_price": "$150",
-      "season_start": "October",
-      "playoffs_start": "April",
-      "coordinates": {
-        "latitude": "34.043017",
-        "longitude": "-118.267254"
+  "city": "Los Angeles",
+  "team": "Clippers",
+  "venue": {
+    "name": "Crypto.com Arena",
+    "address": "1111 S Figueroa St, Los Angeles, CA 90015",
+    "website": "https://www.cryptoarena.com/",
+    "average_ticket_price": "$120",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "34.043017",
+      "longitude": "-118.267254"
+    },
+    "best_seats_pricing": {
+      "Courtside": {
+        "Description": "Front-row seats for an intense game experience, with direct views of the court.",
+        "Sections": "Courtside",
+        "Estimated_Pricing_Range": "$900 - $3000+",
+        "View_Quality": "Unobstructed court-level view, offering an immersive and interactive experience.",
+        "Unique_Features": "Opportunities for close player interactions and potential TV appearances.",
+        "Accessibility": "Convenient access with limited mobility device space.",
+        "Special_Perks": "Access to exclusive VIP lounges, complimentary gourmet dining, and premium beverages."
       },
-      "nearby_amenities": {
-        "restaurants_bars": [
-          {
-            "name": "Yard House",
-            "address": "800 W Olympic Blvd, Los Angeles, CA 90015",
-            "website": "https://www.yardhouse.com/locations/ca/los-angeles/los-angeles-la-live/8315",
-            "description": "A high-end sports bar with a huge menu of New American fare and an extensive list of draft beers.",
-            "coordinates": {
-              "latitude": "34.045286",
-              "longitude": "-118.266468"
-            }
-          },
-          {
-            "name": "Tom's Watch Bar",
-            "address": "1011 S Figueroa St B101, Los Angeles, CA 90015",
-            "website": "https://tomswatchbar.com/location/los-angeles/",
-            "description": "Known for its 360° viewing room, Tom's offers an immersive sports viewing experience with a wide variety of drinks and classic American dishes.",
-            "coordinates": {
-              "latitude": "34.044192",
-              "longitude": "-118.266293"
-            }
-          },
-          {
-            "name": "Fleming's Prime Steakhouse & Wine Bar",
-            "address": "800 W Olympic Blvd Suite A135, Los Angeles, CA 90015",
-            "website": "https://www.flemingssteakhouse.com/locations/ca/los-angeles",
-            "description": "Upscale steakhouse offering prime cuts of beef, a fine wine selection, and a sophisticated dining experience.",
-            "coordinates": {
-              "latitude": "34.045540",
-              "longitude": "-118.264410"
-            }
-          }
-        ],
-        "accommodations": [
-          {
-            "name": "JW Marriott Los Angeles L.A. LIVE",
-            "address": "900 W Olympic Blvd, Los Angeles, CA 90015",
-            "website": "https://www.marriott.com/hotels/travel/laxjw-jw-marriott-los-angeles-la-live/",
-            "description": "Luxury hotel offering refined rooms and suites, plus a rooftop pool, spa, and dining options, located near the Crypto.com Arena.",
-            "coordinates": {
-              "latitude": "34.045250",
-              "longitude": "-118.264570"
-            }
-          },
-          {
-            "name": "Hotel Figueroa",
-            "address": "939 S Figueroa St, Los Angeles, CA 90015",
-            "website": "https://www.hotelfigueroa.com/",
-            "description": "Historic hotel with unique, stylish rooms and suites, outdoor pool, and multiple dining venues, offering a blend of luxury and history.",
-            "coordinates": {
-              "latitude": "34.045830",
-              "longitude": "-118.263180"
-            }
-          }
-        ],
-        "tourist_attractions": [
-          {
-            "name": "The Grammy Museum",
-            "address": "800 W Olympic Blvd, Los Angeles, CA 90015",
-            "website": "https://www.grammymuseum.org/",
-            "description": "An interactive, educational museum devoted to the history and winners of the Grammy Awards.",
-            "coordinates": {
-              "latitude": "34.045598",
-              "longitude": "-118.267280"
-            }
-          },
-          {
-            "name": "Staples Center",
-            "address": "1111 S Figueroa St, Los Angeles, CA 90015",
-            "website": "N/A",
-            "description": "Iconic arena hosting the Los Angeles Lakers games, concerts, and other major events, synonymous with LA's sports and entertainment.",
-            "coordinates": {
-              "latitude": "34.043017",
-              "longitude": "-118.267254"
-            }
-          }
-        ],
-        "team_related_activities": [
-            {
-              "name": "Clippers Team Store",
-              "address": "Crypto.com Arena, 1111 S Figueroa St, Los Angeles, CA 90015",
-              "website": "https://www.clippersstore.com/",
-              "description": "Official merchandise store offering a wide selection of Clippers gear, from jerseys to memorabilia.",
-              "coordinates": {
-                "latitude": "34.043017",
-                "longitude": "-118.267254"
-              }
-          }
-        ]
+      "Club_Seats": {
+        "Description": "Elevated side-view seats with added comforts and amenities.",
+        "Sections": "Club Sections 101-104 and 111-114",
+        "Estimated_Pricing_Range": "$250 - $950",
+        "View_Quality": "Clear, elevated side views for an enhanced game-watching experience.",
+        "Unique_Features": "Spacious seating and additional legroom for comfort.",
+        "Accessibility": "Easy entry through dedicated entrances and close proximity to elevators.",
+        "Special_Perks": "Exclusive access to private clubs and in-seat service for food and drinks."
       },
-          "public_transportation": {
-            "options": [
-              {
-                "type": "Metro Rail",
-                "description": "The Pico Station on the Blue and Expo Lines is just a short walk from the arena, offering easy access to and from the game."
-              },
-              {
-                "type": "Bus",
-                "description": "Several LA Metro bus lines serve the downtown area, making it convenient to reach the Crypto.com Arena from various parts of the city."
-              }
-            ]
-          },
-          "ticket_purchasing_tips": {
-            "best_places_to_buy": [
-              {
-                "name": "Official Team Website",
-                "website": "https://www.nba.com/lakers/tickets",
-                "description": "The primary source for all ticket sales, offering guaranteed authenticity and secure transactions."
-              },
-              {
-                "name": "Ticketmaster",
-                "website": "https://www.ticketmaster.com/los-angeles-lakers-tickets/artist/805962",
-                "description": "Authorized ticketing partner offering a wide selection of seating options."
-              },
-              {
-                "name": "StubHub",
-                "website": "https://www.stubhub.com/los-angeles-lakers-tickets/performer/614/",
-                "description": "A reliable secondary marketplace for fans to buy and sell tickets securely."
-              }
-            ],
-            "ways_to_save": "Consider attending weekday games or looking for last-minute deals, as prices can drop closer to the event date.",
-            "avoiding_scalpers": "Purchase tickets only from official sources or reputable resellers to avoid counterfeit tickets."
+      "Center_Balcony": {
+        "Description": "Budget-friendly upper-level seats with a panoramic game view.",
+        "Sections": "Sections 301-304 and 318-321",
+        "Estimated_Pricing_Range": "$100 - $250",
+        "View_Quality": "Broad view of the court, perfect for fans who enjoy analyzing plays.",
+        "Unique_Features": "An affordable option for experiencing the game atmosphere.",
+        "Accessibility": "Elevator access to the balcony, with accessible seating options available.",
+        "Special_Perks": "An economical choice that still offers a complete view of the game's action."
+      },
+      "Loge_Level": {
+        "Description": "Near-courtside experience with a slightly raised vantage point for better views.",
+        "Sections": "Mid Court Sections 18-20 and 7-8; Corners Sections 16-17, 21-22, 25-26, and 5-6",
+        "Estimated_Pricing_Range": "$180 - $650",
+        "View_Quality": "Close to the court action with an elevated angle for better perspective.",
+        "Unique_Features": "A great mix of proximity, view quality, and affordability.",
+        "Accessibility": "Features wheelchair-accessible options and convenient amenities.",
+        "Special_Perks": "A balanced choice between cost, comfort, and view of the game."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Yard House",
+          "address": "800 W Olympic Blvd, Los Angeles, CA 90015",
+          "website": "https://www.yardhouse.com/locations/ca/los-angeles/los-angeles-la-live/8315",
+          "description": "A high-end sports bar with a huge menu of New American fare and an extensive list of draft beers.",
+          "coordinates": {
+            "latitude": "34.045286",
+            "longitude": "-118.266468"
+          }
+        },
+        {
+          "name": "Toms Watch Bar",
+          "address": "1011 S Figueroa St B101, Los Angeles, CA 90015",
+          "website": "https://tomswatchbar.com/location/los-angeles/",
+          "description": "Known for its 360° viewing room, Tom's offers an immersive sports viewing experience with a wide variety of drinks and classic American dishes.",
+          "coordinates": {
+            "latitude": "34.044192",
+            "longitude": "-118.266293"
+          }
+        },
+        {
+          "name": "Flemings Prime Steakhouse & Wine Bar",
+          "address": "800 W Olympic Blvd Suite A135, Los Angeles, CA 90015",
+          "website": "https://www.flemingssteakhouse.com/locations/ca/los-angeles",
+          "description": "Upscale steakhouse offering prime cuts of beef, a fine wine selection, and a sophisticated dining experience.",
+          "coordinates": {
+            "latitude": "34.045540",
+            "longitude": "-118.264410"
+          }
+        },
+        {
+          "name": "The Pantry Cafe",
+          "address": "877 S Figueroa St, Los Angeles, CA 90017",
+          "website": "http://www.pantrycafe.com",
+          "description": "Historic diner serving hearty American breakfasts & lunches 24/7 in a cozy, retro setting.",
+          "coordinates": {
+            "latitude": "34.045911",
+            "longitude": "-118.263184"
+          }
+        },
+        {
+          "name": "Broken Spanish",
+          "address": "1050 S Flower St, Los Angeles, CA 90015",
+          "website": "https://www.brokenspanish.com",
+          "description": "Contemporary restaurant offering an innovative take on traditional Mexican cuisine, with a focus on local and sustainable ingredients.",
+          "coordinates": {
+            "latitude": "34.041209",
+            "longitude": "-118.266808"
           }
         }
-      
+      ],
+      "accommodations": [
+        {
+          "name": "JW Marriott Los Angeles L.A. LIVE",
+          "address": "900 W Olympic Blvd, Los Angeles, CA 90015",
+          "website": "https://www.marriott.com/hotels/travel/laxjw-jw-marriott-los-angeles-la-live/",
+          "description": "Luxury hotel offering sophisticated accommodations with sweeping city views, located in the heart of the entertainment district.",
+          "coordinates": {
+            "latitude": "34.045249",
+            "longitude": "-118.264569"
+          }
+        },
+        {
+          "name": "Hotel Figueroa",
+          "address": "939 S Figueroa St, Los Angeles, CA 90015",
+          "website": "https://www.hotelfigueroa.com/",
+          "description": "Historic hotel known for its Spanish Colonial style, offering a unique stay experience near the Crypto.com Arena.",
+          "coordinates": {
+            "latitude": "34.045806",
+            "longitude": "-118.264582"
+          }
+        },
+        {
+          "name": "The Ritz-Carlton, Los Angeles",
+          "address": "900 W Olympic Blvd, Los Angeles, CA 90015",
+          "website": "https://www.ritzcarlton.com/en/hotels/california/los-angeles",
+          "description": "Opulent hotel providing luxury accommodations and amenities, with panoramic views of Los Angeles and the mountains beyond.",
+          "coordinates": {
+            "latitude": "34.044571",
+            "longitude": "-118.266125"
+          }
+        },
+        {
+          "name": "Courtyard by Marriott Los Angeles L.A. LIVE",
+          "address": "901 W Olympic Blvd, Los Angeles, CA 90015",
+          "website": "https://www.marriott.com/hotels/travel/laxld-courtyard-los-angeles-la-live/",
+          "description": "Contemporary hotel with comfortable rooms and convenient access to Los Angeles Lakers games and downtown attractions.",
+          "coordinates": {
+            "latitude": "34.0452",
+            "longitude": "-118.2641"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "The Grammy Museum",
+          "address": "800 W Olympic Blvd, Los Angeles, CA 90015",
+          "website": "https://www.grammymuseum.org/",
+          "description": "An interactive, educational museum devoted to the history and winners of the Grammy Awards.",
+          "coordinates": {
+            "latitude": "34.045598",
+            "longitude": "-118.267280"
+          }
+        },
+
+        {
+          "name": "L.A. Live",
+          "address": "800 W Olympic Blvd, Los Angeles, CA 90015",
+          "website": "https://www.lalive.com/",
+          "description": "Vibrant entertainment complex featuring restaurants, cinemas, music venues, and nightspots, a hub for dining and entertainment.",
+          "coordinates": {
+            "latitude": "34.0456",
+            "longitude": "-118.2673"
+          }
+        },
+        {
+          "name": "Los Angeles Convention Center",
+          "address": "1201 S Figueroa St, Los Angeles, CA 90015",
+          "website": "https://www.lacclink.com/",
+          "description": "Major convention and exhibition facility hosting numerous trade shows, conventions, and meetings, known for its architecture and events.",
+          "coordinates": {
+            "latitude": "34.0405",
+            "longitude": "-118.2698"
+          }
+        },
+        {
+          "name": "The Broad",
+          "address": "221 S Grand Ave, Los Angeles, CA 90012",
+          "website": "https://www.thebroad.org/",
+          "description": "Contemporary art museum offering an innovative collection of modern art works, free admission to its permanent galleries.",
+          "coordinates": {
+            "latitude": "34.0544",
+            "longitude": "-118.2506"
+          }
+        },
+        {
+          "name": "Walt Disney Concert Hall",
+          "address": "111 S Grand Ave, Los Angeles, CA 90012",
+          "website": "https://www.laphil.com/visit/la-phil-home/walt-disney-concert-hall",
+          "description": "Iconic, state-of-the-art concert hall known for its striking architecture and as the home of the Los Angeles Philharmonic.",
+          "coordinates": {
+            "latitude": "34.0553",
+            "longitude": "-118.2498"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Clippers Team Store",
+          "address": "Crypto.com Arena, 1111 S Figueroa St, Los Angeles, CA 90015",
+          "website": "https://www.clippersstore.com/",
+          "description": "Official merchandise store offering a wide selection of Clippers gear, from jerseys to memorabilia.",
+          "coordinates": {
+            "latitude": "34.043017",
+            "longitude": "-118.267254"
+          }
+        },
+        {
+          "name": "Clippers Fan Fest",
+          "address": "L.A. Live, 800 W Olympic Blvd, Los Angeles, CA 90015",
+          "website": "https://www.nba.com/clippers/fanfest",
+          "description": "Annual event to kick off the new season with player appearances, live music, and family-friendly activities.",
+          "coordinates": {
+            "latitude": "34.0453",
+            "longitude": "-118.2672"
+          }
+        },
+        {
+          "name": "Clippers Community Courts",
+          "address": "Various locations across Los Angeles",
+          "website": "https://www.nba.com/clippers/community/courts",
+          "description": "Basketball courts renovated by the Clippers Foundation, where fans can play and enjoy community events.",
+          "coordinates": {
+            "latitude": "34.0522",
+            "longitude": "-118.2437"
+          }
+        },
+        {
+          "name": "Clippers Viewing Parties",
+          "address": "Various locations in Los Angeles",
+          "website": "https://www.nba.com/clippers/viewing-parties",
+          "description": "Officially organized events at local bars and restaurants where fans can watch away games together.",
+          "coordinates": {
+            "latitude": "34.0522",
+            "longitude": "-118.2437"
+          }
+        },
+        {
+          "name": "LA Clippers Youth Basketball Camp",
+          "address": "Various locations throughout Greater Los Angeles",
+          "website": "https://www.nba.com/clippers/campsclinics",
+          "description": "Basketball camps and clinics for young fans to learn the game with professional coaching and potential player meet-and-greets.",
+          "coordinates": {
+            "latitude": "34.0522",
+            "longitude": "-118.2437"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "Metro Rail",
+          "description": "The Pico Station on the Blue and Expo Lines is just a short walk from the arena, offering easy access to and from the game."
+        },
+        {
+          "type": "Bus",
+          "description": "Several LA Metro bus lines serve the downtown area, making it convenient to reach the Crypto.com Arena from various parts of the city."
+        },
+        {
+          "type": "DASH Bus",
+          "description": "The DASH Downtown buses offer frequent, inexpensive service in downtown Los Angeles, including stops near the Crypto.com Arena."
+        },
+        {
+          "type": "Metrolink",
+          "description": "The nearby Union Station provides connections to Metrolink commuter trains, facilitating access from the broader Los Angeles County and surrounding areas."
+        },
+        {
+          "type": "Bike Share",
+          "description": "Metro Bike Share stations are available throughout downtown LA, offering a healthy and eco-friendly way to get to the arena."
+        },
+        {
+          "type": "Ride-Sharing",
+          "description": "Uber, Lyft, and other ride-sharing services offer convenient drop-off and pick-up locations near the arena."
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Team Website",
+          "website": "https://www.nba.com/clippers/tickets",
+          "description": "The primary source for all ticket sales, offering guaranteed authenticity and secure transactions."
+        },
+        {
+          "name": "Ticketmaster",
+          "website": "https://www.ticketmaster.com/los-angeles-clippers-tickets/artist/806043",
+          "description": "Authorized ticketing partner offering a wide selection of seating options."
+        },
+        {
+          "name": "StubHub",
+          "website": "https://www.stubhub.com/los-angeles-clippers-tickets/performer/7344/",
+          "description": "A reliable secondary marketplace for fans to buy and sell tickets securely."
+        }
+      ],
+      "ways_to_save": "Consider attending weekday games or looking for last-minute deals, as prices can drop closer to the event date.",
+      "avoiding_scalpers": "Purchase tickets only from official sources or reputable resellers to avoid counterfeit tickets."
     }
-        
+  }
+}

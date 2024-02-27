@@ -1,140 +1,325 @@
 {
-    "city": "Dallas",
-    "team": "Mavericks",
-    "venue": {
-      "name": "American Airlines Center",
-      "address": "2500 Victory Ave, Dallas, TX 75219",
-      "website": "https://www.americanairlinescenter.com/",
-      "average_ticket_price": "$125",
-      "season_start": "October",
-      "playoffs_start": "April",
-      "coordinates": {
-        "latitude": "32.790514",
-        "longitude": "-96.810356"
+  "city": "Dallas",
+  "team": "Mavericks",
+  "venue": {
+    "name": "American Airlines Center",
+    "address": "2500 Victory Ave, Dallas, TX 75219",
+    "website": "https://www.americanairlinescenter.com/",
+    "average_ticket_price": "$120",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "32.790514",
+      "longitude": "-96.810354"
+    },
+    "best_seats_pricing": {
+      "Courtside": {
+        "Description": "Premier seating offering an unrivaled view and experience, directly adjacent to the court.",
+        "Sections": "Courtside",
+        "Estimated_Pricing_Range": "$1200 - $4000+",
+        "View_Quality": "Unmatched court-level view, offering an immersive and dynamic experience.",
+        "Unique_Features": "Opportunities for interactions with players, high visibility on broadcasts.",
+        "Accessibility": "Convenient access with limited availability for personal mobility devices.",
+        "Special_Perks": "Access to exclusive VIP areas, complimentary high-end dining options, and premium services."
       },
-      "nearby_amenities": {
-        "restaurants_bars": [
-          {
-            "name": "Happiest Hour",
-            "address": "2616 Olive St, Dallas, TX 75201",
-            "website": "http://www.happiesthourdallas.com/",
-            "description": "Dallas' largest patio bar and lounge, featuring a rooftop deck with views of the Dallas skyline.",
-            "coordinates": {
-              "latitude": "32.788281",
-              "longitude": "-96.810318"
-            }
-          },
-          {
-            "name": "Shooters Dallas",
-            "address": "2500 Victory Ave, Dallas, TX 75219",
-            "website": "N/A",
-            "description": "A lively sports bar located within the American Airlines Center, offering classic American fare and a wide selection of beers.",
-            "coordinates": {
-              "latitude": "32.790514",
-              "longitude": "-96.810356"
-            }
-          },
-          {
-            "name": "The Owners Box",
-            "address": "555 S Lamar St, Dallas, TX 75202",
-            "website": "https://www.omnihotels.com/hotels/dallas/dining/the-owners-box",
-            "description": "A sports-centric bar at the Omni Dallas Hotel, offering innovative cocktails, local craft beers, and an impressive LED screen.",
-            "coordinates": {
-              "latitude": "32.775423",
-              "longitude": "-96.805387"
-            }
-          }
-        ],
-        "accommodations": [
-          {
-            "name": "W Dallas - Victory",
-            "address": "2440 Victory Park Ln, Dallas, TX 75219",
-            "website": "https://www.marriott.com/hotels/travel/dalwh-w-dallas-victory/",
-            "description": "Trendy hotel offering stylish rooms, a spa, and an infinity pool, located just steps from the American Airlines Center.",
-            "coordinates": {
-              "latitude": "32.787628",
-              "longitude": "-96.810357"
-            }
-          },
-          {
-            "name": "Omni Dallas Hotel",
-            "address": "555 S Lamar St, Dallas, TX 75202",
-            "website": "https://www.omnihotels.com/hotels/dallas",
-            "description": "Luxury hotel with a full-service spa, rooftop pool, and multiple dining options, offering views of the Dallas skyline.",
-            "coordinates": {
-              "latitude": "32.775423",
-              "longitude": "-96.805387"
-            }
-          }
-        ],
-        "tourist_attractions": [
-          {
-            "name": "Perot Museum of Nature and Science",
-            "address": "2201 N Field St, Dallas, TX 75201",
-            "website": "https://www.perotmuseum.org/",
-            "description": "A world of wonder, with five floors of interactive exhibits, an IMAX theater, and a children's museum.",
-            "coordinates": {
-              "latitude": "32.786816",
-              "longitude": "-96.806746"
-            }
-          },
-          {
-            "name": "Dallas World Aquarium",
-            "address": "1801 N Griffin St, Dallas, TX 75202",
-            "website": "https://dwazoo.com/",
-            "description": "An aquatic wonderland housing a vast array of marine life, from sharks to jellyfish, in a rainforest setting.",
-            "coordinates": {
-              "latitude": "32.783778",
-              "longitude": "-96.805518"
-            }
-          }
-        ],
-        "team_related_activities": [
-          {
-            "name": "Mavs Fan Shop",
-            "address": "2500 Victory Ave, Dallas, TX 75219",
-            "website": "https://mavsgear.com/",
-            "description": "Official store for Dallas Mavericks merchandise, located within the American Airlines Center.",
-            "coordinates": {
-              "latitude": "32.790514",
-              "longitude": "-96.810356"
-            }
-          }
-        ]
+      "Platinum Level": {
+        "Description": "Exclusive seats offering a superior view from the sides, enhanced by luxury amenities.",
+        "Sections": "Platinum Level Sections",
+        "Estimated_Pricing_Range": "$350 - $1000",
+        "View_Quality": "Elevated views with a perfect line of sight to the action on the court.",
+        "Unique_Features": "Luxurious seating with extra comfort, less crowded for a more private experience.",
+        "Accessibility": "VIP entry and access to private elevators and restrooms.",
+        "Special_Perks": "Entry to platinum clubs, in-seat service, and exclusive dining options."
       },
-      "public_transportation": {
-        "options": [
-          {
-            "type": "DART",
-            "description": "Dallas Area Rapid Transit (DART) offers light rail service with Victory Station located near the American Airlines Center, providing easy access from various parts of the city."
-          },
-          {
-            "type": "M-Line Trolley",
-            "description": "The M-Line Trolley provides free rides between the Uptown neighborhood and downtown Dallas, with stops near the American Airlines Center."
-          }
-        ]
+      "Terrace Level": {
+        "Description": "An affordable option providing a full view of the game from the upper levels.",
+        "Sections": "Terrace Level Sections",
+        "Estimated_Pricing_Range": "$90 - $250",
+        "View_Quality": "Broad view of the entire court, suitable for fans who enjoy an overview of the game.",
+        "Unique_Features": "Cost-effective choice for enjoying the game atmosphere without breaking the bank.",
+        "Accessibility": "Accessible seating options available, with elevators to the terrace level.",
+        "Special_Perks": "More budget-friendly, still offering access to amenities and the excitement of the game."
       },
-      "ticket_purchasing_tips": {
-        "best_places_to_buy": [
-          {
-            "name": "Official Team Website",
-            "website": "https://www.mavs.com/tickets/",
-            "description": "The primary source for all ticket sales, offering guaranteed authenticity."
-          },
-          {
-            "name": "Ticketmaster",
-            "website": "https://www.ticketmaster.com/dallas-mavericks-tickets/artist/806034",
-            "description": "Authorized ticketing partner offering authentic Mavericks tickets."
-          },
-          {
-            "name": "StubHub",
-            "website": "https://www.stubhub.com/dallas-mavericks-tickets/performer/614/",
-            "description": "Reliable secondary marketplace that offers verified resold Mavericks tickets."
-          }
-        ],
-        "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
-        "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+      "Flagship Level": {
+        "Description": "Combines the intimacy of courtside with the comfort of luxury suites, located just above the court level.",
+        "Sections": "Flagship Level Sections",
+        "Estimated_Pricing_Range": "$500 - $1500",
+        "View_Quality": "Near-court perspective with elevated views for an unparalleled viewing experience.",
+        "Unique_Features": "Exclusive mix of privacy and proximity to the game, premium seating options.",
+        "Accessibility": "Easy access with premium amenities close by, including dedicated restroom facilities.",
+        "Special_Perks": "Access to private lounges and dining areas, with top-tier in-seat service."
       }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Happiest Hour",
+          "address": "2616 Olive St, Dallas, TX 75201",
+          "website": "http://www.happiesthourdallas.com/",
+          "description": "Dallas' largest patio bar and lounge, featuring a rooftop deck with views of the Dallas skyline.",
+          "coordinates": {
+            "latitude": "32.788281",
+            "longitude": "-96.810318"
+          }
+        },
+        {
+          "name": "Shooters Dallas",
+          "address": "2500 Victory Ave, Dallas, TX 75219",
+          "description": "A lively sports bar located within the American Airlines Center, offering classic American fare and a wide selection of beers.",
+          "coordinates": {
+            "latitude": "32.790514",
+            "longitude": "-96.810356"
+          }
+        },
+        {
+          "name": "The Owners Box",
+          "address": "555 S Lamar St, Dallas, TX 75202",
+          "website": "https://www.omnihotels.com/hotels/dallas/dining/the-owners-box",
+          "description": "A sports-centric bar at the Omni Dallas Hotel, offering innovative cocktails, local craft beers, and an impressive LED screen.",
+          "coordinates": {
+            "latitude": "32.775423",
+            "longitude": "-96.805387"
+          }
+        },
+        {
+          "name": "Pecan Lodge",
+          "address": "2702 Main St, Dallas, TX 75226",
+          "website": "http://pecanlodge.com/",
+          "description": "Famous for its Texas barbecue, Pecan Lodge offers a hearty dining experience with smoked meats and southern sides.",
+          "coordinates": {
+            "latitude": "32.784392",
+            "longitude": "-96.783592"
+          }
+        },
+        {
+          "name": "El Fenix",
+          "address": "1601 McKinney Ave, Dallas, TX 75202",
+          "website": "https://www.elfenix.com/",
+          "description": "A landmark Mexican restaurant known for its Tex-Mex cuisine, offering a warm and festive atmosphere.",
+          "coordinates": {
+            "latitude": "32.784882",
+            "longitude": "-96.803097"
+          }
+        },
+        {
+          "name": "Medina Oven & Bar",
+          "address": "2304 Victory Park Ln, Dallas, TX 75219",
+          "website": "http://medinadallas.com/",
+          "description": "Offers a cozy ambiance with Moroccan and Mediterranean cuisine, perfect for a more intimate dining experience.",
+          "coordinates": {
+            "latitude": "32.787348",
+            "longitude": "-96.810333"
+          }
+        },
+        {
+          "name": "Saint Ann Restaurant & Bar",
+          "address": "2501 N Harwood St, Dallas, TX 75201",
+          "website": "https://www.saintanndallas.com/",
+          "description": "Set in a renovated historic school, this restaurant and bar serves New American cuisine in a chic, garden setting.",
+          "coordinates": {
+            "latitude": "32.788524",
+            "longitude": "-96.806033"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "W Dallas - Victory",
+          "address": "2440 Victory Park Ln, Dallas, TX 75219",
+          "website": "https://www.marriott.com/hotels/travel/dalwh-w-dallas-victory/",
+          "description": "Trendy hotel offering stylish rooms, a spa, and an infinity pool, located just steps from the American Airlines Center.",
+          "coordinates": {
+            "latitude": "32.787628",
+            "longitude": "-96.810357"
+          }
+        },
+        {
+          "name": "Omni Dallas Hotel",
+          "address": "555 S Lamar St, Dallas, TX 75202",
+          "website": "https://www.omnihotels.com/hotels/dallas",
+          "description": "Luxury hotel with a full-service spa, rooftop pool, and multiple dining options, offering views of the Dallas skyline.",
+          "coordinates": {
+            "latitude": "32.775423",
+            "longitude": "-96.805387"
+          }
+        },
+        {
+          "name": "Fairmont Dallas",
+          "address": "1717 N Akard St, Dallas, TX 75201",
+          "website": "https://www.fairmont.com/dallas/",
+          "description": "Elegant accommodations in the Arts District, featuring a rooftop pool and fine dining, within a short drive from the arena.",
+          "coordinates": {
+            "latitude": "32.786110",
+            "longitude": "-96.796880"
+          }
+        },
+        {
+          "name": "Hotel Crescent Court",
+          "address": "400 Crescent Ct, Dallas, TX 75201",
+          "website": "https://www.crescentcourt.com/",
+          "description": "Upscale hotel offering refined rooms and suites, a luxury spa, and a variety of dining options in Uptown Dallas.",
+          "coordinates": {
+            "latitude": "32.794768",
+            "longitude": "-96.804333"
+          }
+        },
+        {
+          "name": "The Joule",
+          "address": "1530 Main St, Dallas, TX 75201",
+          "website": "https://www.thejouledallas.com/",
+          "description": "A revitalized 1920s neo-Gothic landmark building transformed into a luxurious boutique hotel, featuring unique art installations and a rooftop pool.",
+          "coordinates": {
+            "latitude": "32.780880",
+            "longitude": "-96.799170"
+          }
+        },
+        {
+          "name": "Aloft Dallas Downtown",
+          "address": "1033 Young St, Dallas, TX 75202",
+          "website": "https://www.marriott.com/hotels/travel/dalal-aloft-dallas-downtown/",
+          "description": "Contemporary hotel with loft-inspired rooms and a vibrant social scene, located near the Kay Bailey Hutchison Convention Center.",
+          "coordinates": {
+            "latitude": "32.775778",
+            "longitude": "-96.804450"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "Perot Museum of Nature and Science",
+          "address": "2201 N Field St, Dallas, TX 75201",
+          "website": "https://www.perotmuseum.org/",
+          "description": "A world of wonder, with five floors of interactive exhibits, an IMAX theater, and a children's museum.",
+          "coordinates": {
+            "latitude": "32.786816",
+            "longitude": "-96.806746"
+          }
+        },
+        {
+          "name": "Dallas World Aquarium",
+          "address": "1801 N Griffin St, Dallas, TX 75202",
+          "website": "https://dwazoo.com/",
+          "description": "An aquatic wonderland housing a vast array of marine life, from sharks to jellyfish, in a rainforest setting.",
+          "coordinates": {
+            "latitude": "32.783778",
+            "longitude": "-96.805518"
+          }
+        },
+        {
+          "name": "Klyde Warren Park",
+          "address": "2012 Woodall Rodgers Fwy, Dallas, TX 75201",
+          "website": "https://www.klydewarrenpark.org/",
+          "description": "A vibrant green space over the Woodall Rodgers Freeway, featuring food trucks, a butterfly garden, and plenty of outdoor activities.",
+          "coordinates": {
+            "latitude": "32.789838",
+            "longitude": "-96.801611"
+          }
+        },
+        {
+          "name": "Dallas Museum of Art",
+          "address": "1717 N Harwood St, Dallas, TX 75201",
+          "website": "https://dma.org/",
+          "description": "One of the largest art museums in America, offering a vast collection spanning 5,000 years of history.",
+          "coordinates": {
+            "latitude": "32.787938",
+            "longitude": "-96.800739"
+          }
+        },
+        {
+          "name": "The Sixth Floor Museum at Dealey Plaza",
+          "address": "411 Elm St, Dallas, TX 75202",
+          "website": "https://www.jfk.org/",
+          "description": "A museum dedicated to presenting the life, death, and legacy of President John F. Kennedy at the historic site of his assassination.",
+          "coordinates": {
+            "latitude": "32.779667",
+            "longitude": "-96.808625"
+          }
+        },
+        {
+          "name": "Reunion Tower",
+          "address": "300 Reunion Blvd E, Dallas, TX 75207",
+          "website": "https://reuniontower.com/",
+          "description": "An iconic 561-foot observation tower offering panoramic views of Dallas, along with dining and entertainment.",
+          "coordinates": {
+            "latitude": "32.775778",
+            "longitude": "-96.808583"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Mavs Fan Shop",
+          "address": "2500 Victory Ave, Dallas, TX 75219",
+          "website": "https://mavsgear.com/",
+          "description": "Official store for Dallas Mavericks merchandise, located within the American Airlines Center.",
+          "coordinates": {
+            "latitude": "32.790514",
+            "longitude": "-96.810356"
+          }
+        },
+        {
+          "name": "Mavs Gaming Hub",
+          "address": "2909 Taylor St, Dallas, TX 75226",
+          "website": "https://mavsgaming.nba.com/",
+          "description": "Experience the thrill of eSports at the Mavs Gaming Hub, where fans can watch live NBA 2K League games and engage in various gaming activities.",
+          "coordinates": {
+            "latitude": "32.783527",
+            "longitude": "-96.783527"
+          }
+        },
+        {
+          "name": "Mavs Practice Facility Tours",
+          "description": "Take a behind-the-scenes tour of the Dallas Mavericks' state-of-the-art practice facility. Learn about the team's preparation routines and possibly catch a glimpse of your favorite players.",
+          "website": "https://www.mavs.com/"
+        },
+        {
+          "name": "Dallas Mavericks Bar Crawl",
+          "description": "Participate in a Mavericks-themed bar crawl event. Enjoy special promotions, meet fellow MFFLs (Mavs Fans For Life), and celebrate game days in a festive atmosphere across various bars in Dallas.",
+          "website": "https://www.mavs.com/"
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "DART",
+          "description": "Dallas Area Rapid Transit (DART) offers extensive light rail and bus service throughout Dallas, including direct access to the American Airlines Center via Victory Station on the Green and Orange lines, ensuring convenient access from various parts of the city and suburbs."
+        },
+        {
+          "type": "M-Line Trolley",
+          "description": "The M-Line Trolley provides free, eco-friendly rides connecting the Uptown neighborhood with downtown Dallas. It's a charming way to reach the vicinity of the American Airlines Center, with stops conveniently located for fans to enjoy nearby dining and entertainment before and after the game."
+        },
+        {
+          "type": "Trinity Railway Express (TRE)",
+          "description": "For fans coming from Fort Worth or the mid-cities, the TRE offers commuter rail service to Victory Station on game days, allowing for a stress-free journey to and from Mavericks games."
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Team Website",
+          "website": "https://www.mavs.com/tickets/",
+          "description": "The primary and most reliable source for all Mavericks ticket sales, offering guaranteed authenticity and the widest selection of seating options."
+        },
+        {
+          "name": "Ticketmaster",
+          "website": "https://www.ticketmaster.com/dallas-mavericks-tickets/artist/806034",
+          "description": "As the official ticketing partner for the Dallas Mavericks, Ticketmaster provides a secure and straightforward platform for purchasing authentic tickets, including exclusive presales for fans."
+        },
+        {
+          "name": "StubHub",
+          "website": "https://www.stubhub.com/dallas-mavericks-tickets/performer/614/",
+          "description": "A trusted secondary marketplace for fans to buy or sell Mavericks tickets. StubHub verifies all tickets for authenticity, ensuring a safe transaction and peace of mind."
+        },
+        {
+          "name": "SeatGeek",
+          "website": "https://www.seatgeek.com/dallas-mavericks-tickets",
+          "description": "Another reliable secondary ticketing option that aggregates tickets from various sources, offering a comprehensive view of available seating and prices for Mavericks games."
+        }
+      ],
+      "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+      "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
     }
   }
-  
+}
