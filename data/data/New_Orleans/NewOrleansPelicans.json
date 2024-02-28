@@ -1,139 +1,312 @@
 {
-    "city": "New Orleans",
-    "team": "Pelicans",
-    "venue": {
-        "name": "Smoothie King Center",
-        "address": "1501 Dave Dixon Dr, New Orleans, LA 70113",
-        "website": "https://www.smoothiekingcenter.com/",
-        "average_ticket_price": "$95",
-        "season_start": "October",
-        "playoffs_start": "April",
-        "coordinates": {
+  "city": "New Orleans",
+  "team": "Pelicans",
+  "venue": {
+    "name": "Smoothie King Center",
+    "address": "1501 Dave Dixon Dr, New Orleans, LA 70113",
+    "website": "https://www.smoothiekingcenter.com/",
+    "average_ticket_price": "$120",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "29.9490",
+      "longitude": "-90.0821"
+    },
+    "best_seats_pricing": {
+      "Courtside": {
+        "Description": "Front-row seats offering an unparalleled view and engagement with the game.",
+        "Sections": "Courtside",
+        "Estimated_Pricing_Range": "$1200 - $3500+",
+        "View_Quality": "Unmatched view at court level, placing fans in the heart of the action.",
+        "Unique_Features": "Opportunity for direct interaction with players and high chance of being featured on live television.",
+        "Accessibility": "Premium access with some restrictions for personal mobility devices.",
+        "Special_Perks": "Exclusive access to VIP clubs, complimentary high-end cuisine, and top-notch service."
+      },
+      "Club_Seats": {
+        "Description": "Elevated seats along the sideline that come with access to premium amenities for a superior viewing experience.",
+        "Sections": "VIP and Club Sections",
+        "Estimated_Pricing_Range": "$350 - $1100",
+        "View_Quality": "Optimal sideline perspective for a full view of the game.",
+        "Unique_Features": "Superior comfort with additional space and exclusive access areas.",
+        "Accessibility": "Easy entrance with dedicated access, close to elevators.",
+        "Special_Perks": "Admission to private lounges, premium dining options, and in-seat service."
+      },
+      "Skybox": {
+        "Description": "Private suites offering a plush setting for enjoying the game with guests.",
+        "Sections": "Skybox Suites",
+        "Estimated_Pricing_Range": "$1600 - $5000+",
+        "View_Quality": "Secluded and elevated, with sweeping views of the court.",
+        "Unique_Features": "Opulent seating, exclusive food and beverage service, and personalized attention.",
+        "Accessibility": "VIP entrance and private elevators for a seamless experience.",
+        "Special_Perks": "Maximum comfort and privacy, with access to elite clubs and priority booking for events."
+      },
+      "Upper_Level": {
+        "Description": "More economical seating choices that provide a broad view of the arena and the vibrant atmosphere of the game.",
+        "Sections": "Upper Level Sections",
+        "Estimated_Pricing_Range": "$60 - $250",
+        "View_Quality": "Elevated perspective, perfect for fans who appreciate a panoramic view of the game's dynamics.",
+        "Unique_Features": "A cost-effective way to be part of the Pelicans' fanbase and enjoy the excitement.",
+        "Accessibility": "Accessible seating available, with straightforward access to the upper levels via escalators and elevators.",
+        "Special_Perks": "An affordable option for experiencing the thrill of a live game, suitable for group outings."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Walk-Ons Bistreaux & Bar",
+          "address": "1009 Poydras St, New Orleans, LA 70112",
+          "website": "http://www.walk-ons.com/",
+          "description": "A lively sports bar offering a mix of Cajun and American dishes, known for its vibrant atmosphere.",
+          "coordinates": {
+            "latitude": "29.951060",
+            "longitude": "-90.071490"
+          }
+        },
+        {
+          "name": "Mannings Eat-Drink-Cheer",
+          "address": "519 Fulton St, New Orleans, LA 70130",
+          "website": "http://www.harrahsneworleans.com/restaurants/mannings.html",
+          "description": "Features a large selection of craft beers and classic American fare in a sports-themed setting.",
+          "coordinates": {
+            "latitude": "29.949097",
+            "longitude": "-90.066376"
+          }
+        },
+        {
+          "name": "Dragos Seafood Restaurant",
+          "address": "2 Poydras St, New Orleans, LA 70130",
+          "website": "https://www.dragosrestaurant.com/",
+          "description": "Famous for its charbroiled oysters, Drago's offers a taste of local seafood cuisine near the Smoothie King Center.",
+          "coordinates": {
+            "latitude": "29.949560",
+            "longitude": "-90.063980"
+          }
+        },
+        {
+          "name": "Borgne",
+          "address": "601 Loyola Ave, New Orleans, LA 70113",
+          "website": "https://www.borgnerestaurant.com/",
+          "description": "Chef John Besh's restaurant focusing on Louisiana seafood, offering a modern take on local cuisine.",
+          "coordinates": {
+            "latitude": "29.949100",
+            "longitude": "-90.075500"
+          }
+        },
+        {
+          "name": "Mothers Restaurant",
+          "address": "401 Poydras St, New Orleans, LA 70130",
+          "website": "https://www.mothersrestaurant.net/",
+          "description": "An iconic spot known for its po' boys and hearty New Orleans comfort food, a true taste of the city's culinary heritage.",
+          "coordinates": {
+            "latitude": "29.949900",
+            "longitude": "-90.066800"
+          }
+        },
+        {
+          "name": "Herbsaint",
+          "address": "701 St Charles Ave, New Orleans, LA 70130",
+          "website": "http://www.herbsaint.com/",
+          "description": "A flagship restaurant of Chef Donald Link, offering French-Southern cuisine with an emphasis on local ingredients.",
+          "coordinates": {
+            "latitude": "29.943700",
+            "longitude": "-90.070400"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Hyatt Regency New Orleans",
+          "address": "601 Loyola Ave, New Orleans, LA 70113",
+          "website": "https://www.hyatt.com/en-US/hotel/louisiana/hyatt-regency-new-orleans/msyrn",
+          "description": "This upscale hotel offers modern rooms and is conveniently located close to the Pelicans' venue.",
+          "coordinates": {
+            "latitude": "29.949222",
+            "longitude": "-90.075508"
+          }
+        },
+        {
+          "name": "Hilton New Orleans Riverside",
+          "address": "2 Poydras St, New Orleans, LA 70130",
+          "website": "https://www.hilton.com/en/hotels/msynhhv-hilton-new-orleans-riverside/",
+          "description": "Offers comfortable accommodations and easy access to both the Smoothie King Center and local attractions.",
+          "coordinates": {
+            "latitude": "29.949560",
+            "longitude": "-90.063980"
+          }
+        },
+        {
+          "name": "The Roosevelt New Orleans, A Waldorf Astoria Hotel",
+          "address": "130 Roosevelt Way, New Orleans, LA 70112",
+          "website": "https://www.hilton.com/en/hotels/msyrhwa-the-roosevelt-new-orleans/",
+          "description": "Luxurious and historic, this hotel offers elegant rooms, a rooftop bar, and a spa, located near the French Quarter.",
+          "coordinates": {
+            "latitude": "29.953400",
+            "longitude": "-90.071500"
+          }
+        },
+        {
+          "name": "Le Pavillon Hotel",
+          "address": "833 Poydras St, New Orleans, LA 70112",
+          "website": "https://www.lepavillon.com/",
+          "description": "Known for its classic luxury and historic charm, offering a unique stay in the heart of New Orleans.",
+          "coordinates": {
+            "latitude": "29.950200",
+            "longitude": "-90.072500"
+          }
+        },
+        {
+          "name": "Ace Hotel New Orleans",
+          "address": "600 Carondelet St, New Orleans, LA 70130",
+          "website": "https://www.acehotel.com/neworleans/",
+          "description": "A trendy hotel with a vibrant atmosphere, featuring live music and a rooftop pool, close to arts and entertainment districts.",
+          "coordinates": {
+            "latitude": "29.943900",
+            "longitude": "-90.072600"
+          }
+        },
+        {
+          "name": "The Ritz-Carlton, New Orleans",
+          "address": "921 Canal St, New Orleans, LA 70112",
+          "website": "https://www.ritzcarlton.com/en/hotels/new-orleans",
+          "description": "Set in the historic French Quarter, this luxury hotel offers refined rooms and a world-class spa.",
+          "coordinates": {
+            "latitude": "29.954700",
+            "longitude": "-90.070400"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "French Quarter",
+          "address": "New Orleans, LA",
+          "description": "The historic heart of New Orleans, known for its vibrant nightlife, colorful buildings, and jazz music.",
+          "coordinates": {
+            "latitude": "29.958443",
+            "longitude": "-90.064411"
+          }
+        },
+        {
+          "name": "National WWII Museum",
+          "address": "945 Magazine St, New Orleans, LA 70130",
+          "website": "https://www.nationalww2museum.org/",
+          "description": "A must-visit for history enthusiasts, offering immersive exhibits on the American experience in World War II.",
+          "coordinates": {
+            "latitude": "29.942722",
+            "longitude": "-90.070556"
+          }
+        },
+        {
+          "name": "Jackson Square",
+          "address": "701 Decatur St, New Orleans, LA 70116",
+          "description": "A historic park in the heart of the French Quarter, known for its beautiful landscapes, street artists, and the iconic St. Louis Cathedral.",
+          "coordinates": {
+            "latitude": "29.957445",
+            "longitude": "-90.063446"
+          }
+        },
+        {
+          "name": "Audubon Aquarium of the Americas",
+          "address": "1 Canal St, New Orleans, LA 70130",
+          "website": "https://audubonnatureinstitute.org/aquarium",
+          "description": "Features a vast array of aquatic life from the Americas and beyond, offering an immersive underwater experience.",
+          "coordinates": {
+            "latitude": "29.949960",
+            "longitude": "-90.063100"
+          }
+        },
+        {
+          "name": "Garden District",
+          "address": "New Orleans, LA",
+          "description": "Famous for its well-preserved antebellum mansions, lush gardens, and Southern charm, offering a glimpse into the city's rich history.",
+          "coordinates": {
+            "latitude": "29.927648",
+            "longitude": "-90.084352"
+          }
+        },
+        {
+          "name": "City Park",
+          "address": "1 Palm Dr, New Orleans, LA 70124",
+          "website": "https://neworleanscitypark.com/",
+          "description": "One of the nation's oldest urban parks, featuring beautiful landscapes, the New Orleans Museum of Art, and numerous outdoor activities.",
+          "coordinates": {
+            "latitude": "29.993393",
+            "longitude": "-90.098191"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Pelicans Team Shop at Smoothie King Center",
+          "address": "1501 Dave Dixon Dr, New Orleans, LA 70113",
+          "website": "https://www.pelicansteamstore.com/",
+          "description": "The official store for New Orleans Pelicans merchandise, located within the Smoothie King Center.",
+          "coordinates": {
             "latitude": "29.949023",
             "longitude": "-90.081364"
+          }
         },
-        "nearby_amenities": {
-            "restaurants_bars": [
-                {
-                    "name": "Walk-On's Bistreaux & Bar",
-                    "address": "1009 Poydras St, New Orleans, LA 70112",
-                    "website": "http://www.walk-ons.com/",
-                    "description": "A lively sports bar offering a mix of Cajun and American dishes, known for its vibrant atmosphere.",
-                    "coordinates": {
-                        "latitude": "29.951060",
-                        "longitude": "-90.071490"
-                    }
-                },
-                {
-                    "name": "Mannings Eat-Drink-Cheer",
-                    "address": "519 Fulton St, New Orleans, LA 70130",
-                    "website": "http://www.harrahsneworleans.com/restaurants/mannings.html",
-                    "description": "Features a large selection of craft beers and classic American fare in a sports-themed setting.",
-                    "coordinates": {
-                        "latitude": "29.949097",
-                        "longitude": "-90.066376"
-                    }
-                },
-                {
-                    "name": "Drago's Seafood Restaurant",
-                    "address": "2 Poydras St, New Orleans, LA 70130",
-                    "website": "https://www.dragosrestaurant.com/",
-                    "description": "Famous for its charbroiled oysters, Drago's offers a taste of local seafood cuisine near the Smoothie King Center.",
-                    "coordinates": {
-                        "latitude": "29.949560",
-                        "longitude": "-90.063980"
-                    }
-                }
-            ],
-            "accommodations": [
-                {
-                    "name": "Hyatt Regency New Orleans",
-                    "address": "601 Loyola Ave, New Orleans, LA 70113",
-                    "website": "https://www.hyatt.com/en-US/hotel/louisiana/hyatt-regency-new-orleans/msyrn",
-                    "description": "This upscale hotel offers modern rooms and is conveniently located close to the Pelicans' venue.",
-                    "coordinates": {
-                        "latitude": "29.949222",
-                        "longitude": "-90.075508"
-                    }
-                },
-                {
-                    "name": "Hilton New Orleans Riverside",
-                    "address": "2 Poydras St, New Orleans, LA 70130",
-                    "website": "https://www.hilton.com/en/hotels/msynhhv-hilton-new-orleans-riverside/",
-                    "description": "Offers comfortable accommodations and easy access to both the Smoothie King Center and local attractions.",
-                    "coordinates": {
-                        "latitude": "29.949560",
-                        "longitude": "-90.063980"
-                    }
-                }
-            ],
-            "tourist_attractions": [
-                {
-                    "name": "French Quarter",
-                    "address": "New Orleans, LA",
-                    "website": "N/A",
-                    "description": "The historic heart of New Orleans, known for its vibrant nightlife, colorful buildings, and jazz music.",
-                    "coordinates": {
-                        "latitude": "29.958443",
-                        "longitude": "-90.064411"
-                    }
-                },
-                {
-                    "name": "National WWII Museum",
-                    "address": "945 Magazine St, New Orleans, LA 70130",
-                    "website": "https://www.nationalww2museum.org/",
-                    "description": "A must-visit for history enthusiasts, offering immersive exhibits on the American experience in World War II.",
-                    "coordinates": {
-                        "latitude": "29.942722",
-                        "longitude": "-90.070556"
-                    }
-                }
-            ],
-            "team_related_activities": [
-                 {
-                    "name": "Pelicans Team Shop at Smoothie King Center",
-                    "address": "1501 Dave Dixon Dr, New Orleans, LA 70113",
-                    "website": "https://www.pelicansteamstore.com/",
-                    "description": "The official store for New Orleans Pelicans merchandise, located within the Smoothie King Center.",
-                    "coordinates": {
-                        "latitude": "29.949023",
-                        "longitude": "-90.081364"
-                    }
-                 }
-            ]
+        {
+          "name": "Pelicans Practice Facility Tour",
+          "address": "5800 Airline Dr, Metairie, LA 70003",
+          "website": "https://www.nba.com/pelicans/",
+          "description": "Exclusive tours of the Pelicans' state-of-the-art practice facility, offering fans a behind-the-scenes look at the team's preparation.",
+          "coordinates": {
+            "latitude": "29.984092",
+            "longitude": "-90.152852"
+          }
         },
-        "public_transportation": {
-            "options": [
-                {
-                    "type": "Streetcar",
-                    "description": "The New Orleans Streetcar Line has stops near the Smoothie King Center, offering a scenic route to the game."
-                },
-                {
-                    "type": "Bus",
-                    "description": "Several bus routes run through downtown New Orleans, providing convenient access to the venue."
-                }
-            ]
-        },
-        "ticket_purchasing_tips": {
-            "best_places_to_buy": [
-                {
-                    "name": "Official Team Website",
-                    "website": "https://www.nba.com/pelicans/tickets",
-                    "description": "The primary source for all ticket sales, offering guaranteed authenticity."
-                },
-                {
-                    "name": "Ticketmaster",
-                    "website": "https://www.ticketmaster.com/new-orleans-pelicans-tickets/artist/805910",
-                    "description": "Authorized ticketing partner offering authentic Pelicans tickets."
-                },
-                {
-                    "name": "StubHub",
-                    "website": "https://www.stubhub.com/new-orleans-pelicans-tickets/performer/614/",
-                    "description": "Reliable secondary marketplace that offers verified resold Pelicans tickets."
-                }
-            ],
-            "ways_to_save": "Buying tickets for weekday games can often save money. Group discounts may be available for large parties. Look out for promotional nights for additional savings.",
-            "avoiding_scalpers": "Ensure tickets are bought from verified sources to avoid scams. Secondary marketplaces with buyer guarantees are safer. Avoid purchasing printed tickets directly from sellers near the venue."
+        {
+          "name": "Pelicans Game Day Experience",
+          "address": "1501 Dave Dixon Dr, New Orleans, LA 70113",
+          "website": "https://www.smoothiekingcenter.com/events/pelicans",
+          "description": "Special game day packages that include pre-game activities, meet-and-greets with mascots, and exclusive access to certain areas of the Smoothie King Center.",
+          "coordinates": {
+            "latitude": "29.949023",
+            "longitude": "-90.081364"
+          }
         }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "Streetcar",
+          "description": "The New Orleans Streetcar Line has stops near the Smoothie King Center, offering a scenic route to the game."
+        },
+        {
+          "type": "Bus",
+          "description": "Several bus routes run through downtown New Orleans, providing convenient access to the venue."
+        },
+        {
+          "type": "Ride Share",
+          "description": "Uber and Lyft are widely available throughout New Orleans, offering easy and convenient transportation to and from Pelicans games."
+        },
+        {
+          "type": "Bicycle Share",
+          "description": "Blue Bikes New Orleans offers a healthy and environmentally friendly way to get to the Smoothie King Center, with several docking stations nearby."
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Team Website",
+          "website": "https://www.nba.com/pelicans/tickets",
+          "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+        },
+        {
+          "name": "Ticketmaster",
+          "website": "https://www.ticketmaster.com/new-orleans-pelicans-tickets/artist/805910",
+          "description": "Authorized ticketing partner offering authentic Pelicans tickets."
+        },
+        {
+          "name": "StubHub",
+          "website": "https://www.stubhub.com/new-orleans-pelicans-tickets/performer/614/",
+          "description": "Reliable secondary marketplace that offers verified resold Pelicans tickets."
+        }
+      ],
+      "ways_to_save": "Buying tickets for weekday games can often save money. Group discounts may be available for large parties. Look out for promotional nights for additional savings.",
+      "avoiding_scalpers": "Ensure tickets are bought from verified sources to avoid scams. Secondary marketplaces with buyer guarantees are safer. Avoid purchasing printed tickets directly from sellers near the venue."
     }
+  }
 }

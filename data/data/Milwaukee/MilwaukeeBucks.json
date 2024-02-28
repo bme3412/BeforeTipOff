@@ -1,56 +1,154 @@
 {
     "city": "Milwaukee",
-    "team": "Bucks",
-    "venue": {
-        "name": "Fiserv Forum",
-        "address": "1111 Vel R. Phillips Ave, Milwaukee, WI 53203",
-        "website": "https://www.fiservforum.com/",
-        "average_ticket_price": "$128",
-        "season_start": "October",
-        "playoffs_start": "April",
-        "coordinates": {
-            "latitude": "43.044920",
-            "longitude": "-87.917410"
-        },
+  "team": "Bucks",
+  "venue": {
+    "name": "Fiserv Forum",
+    "address": "1111 Vel R. Phillips Ave, Milwaukee, WI 53203",
+    "website": "https://www.fiservforum.com/",
+    "average_ticket_price": "$130",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "43.0449",
+      "longitude": "-87.9174"
+    },
+    "best_seats_pricing": {
+      "Courtside": {
+        "Description": "Premier seating right next to the action, offering an unparalleled view of the game.",
+        "Sections": "Courtside",
+        "Estimated_Pricing_Range": "$1000 - $3500+",
+        "View_Quality": "Direct court-level view for an immersive game experience.",
+        "Unique_Features": "Chance to interact with players and be seen on TV.",
+        "Accessibility": "Exclusive entry and premium amenities, including accessibility for all guests.",
+        "Special_Perks": "Access to private lounges, complimentary gourmet food, and personalized service."
+      },
+      "Club Seats": {
+        "Description": "Comfortable seating with excellent sightlines and access to exclusive club areas.",
+        "Sections": "Club Sections",
+        "Estimated_Pricing_Range": "$300 - $1000",
+        "View_Quality": "Great side court views, ensuring you don't miss any action.",
+        "Unique_Features": "Luxurious seating and access to private bars and dining areas.",
+        "Accessibility": "Priority access with convenient elevator service to club level.",
+        "Special_Perks": "Entry to exclusive club areas, high-end dining options, and in-seat wait service."
+      },
+      "Loft Suites": {
+        "Description": "Private suites offering a blend of intimacy, luxury, and panoramic views.",
+        "Sections": "Suite Level",
+        "Estimated_Pricing_Range": "$2500 - $5000+",
+        "View_Quality": "Elevated and secluded for a private group experience with a wide view of the arena.",
+        "Unique_Features": "Personalized catering service, comfortable seating, and a private restroom.",
+        "Accessibility": "Dedicated suite level entry with private elevators for an exclusive experience.",
+        "Special_Perks": "Top-tier amenities, including access to premium clubs and priority for event booking."
+      },
+      "Panorama Club": {
+        "Description": "An exclusive club offering breathtaking views of the court and the city skyline.",
+        "Sections": "Panorama Club",
+        "Estimated_Pricing_Range": "$200 - $700",
+        "View_Quality": "Unique overhead view that captures both the game and the vibrant atmosphere.",
+        "Unique_Features": "Access to an outdoor terrace and upscale lounge areas.",
+        "Accessibility": "Easy access with premium amenities designed for comfort and convenience.",
+        "Special_Perks": "Exclusive club access, gourmet dining options, and specialty cocktails."
+      }},
         "nearby_amenities": {
             "restaurants_bars": [
                 {
-                    "name": "The Mecca Sports Bar and Grill",
-                    "address": "1134 N Vel R. Phillips Ave, Milwaukee, WI 53203",
-                    "website": "https://themeccamke.com/",
-                    "description": "A large sports bar with massive screens for game days, located just steps from Fiserv Forum, offering a lively atmosphere for Bucks fans.",
+                    "name": "SafeHouse",
+                    "address": "779 N. Front St., Milwaukee, WI",
+                    "website": "https://www.safe-house.com",
+                    "description": "An iconic Milwaukee spy-themed hideaway featuring creative cocktails and casual fare in a quirky, dimly lit interior.",
                     "coordinates": {
-                        "latitude": "43.045036",
-                        "longitude": "-87.916374"
+                        "latitude": "",
+                        "longitude": ""
                     }
                 },
                 {
-                    "name": "Drink Wisconsinbly Pub",
-                    "address": "320 W Highland Ave, Milwaukee, WI 53203",
-                    "website": "http://www.drinkwi.pub/",
-                    "description": "Celebrating Wisconsin's culture, this pub offers local brews and spirits, with a festive vibe on game days, located in the entertainment district near Fiserv Forum.",
+                    "name": "Truth Lounge",
+                    "address": "1111 N. Old World 3rd St., Milwaukee, WI",
+                    "website": "https://www.facebook.com/truthloungemke",
+                    "description": "Great for happy hour or a post-event hang, featuring a small food menu of wings and snacks along with a large list of signature cocktails.",
                     "coordinates": {
-                        "latitude": "43.044789",
-                        "longitude": "-87.914303"
+                        "latitude": "",
+                        "longitude": ""
                     }
                 },
                 {
-                    "name": "Good City Brewing",
-                    "address": "333 W Juneau Ave, Milwaukee, WI 53203",
-                    "website": "https://www.goodcitybrewing.com/",
-                    "description": "A craft brewery with a rooftop offering great views and a variety of beers, a short walk from Fiserv Forum, perfect for pre-game and post-game gatherings.",
+                    "name": "Turning Tables Tavern & Eatery",
+                    "address": "1040 N. Vel R. Phillips Ave., Milwaukee, WI",
+                    "website": "https://www.turningtablesmke.com",
+                    "description": "Comfort food with dishes made from house-smoked meats, burgers, wings, and more, supporting a mission to train BIPOC food entrepreneurs.",
                     "coordinates": {
-                        "latitude": "43.045700",
-                        "longitude": "-87.914250"
+                        "latitude": "",
+                        "longitude": ""
+                    }
+                },
+                {
+                    "name": "Uncle Bucks",
+                    "address": "1125 N. Old World Third St., Milwaukee, WI",
+                    "website": "https://www.unclebucksonthird.com",
+                    "description": "Enjoy drinks or a full meal with a modern-industrial-meets-north-woods vibe. Menu options include appetizers, wings, salads, sandwiches, and entrees.",
+                    "coordinates": {
+                        "latitude": "",
+                        "longitude": ""
+                    }
+                },
+                {
+                    "name": "Whos on Third",
+                    "address": "1007 N. Old World 3rd St., Milwaukee, WI",
+                    "website": "https://www.whosonthirdmke.com",
+                    "description": "A low-key sports bar offering wings, cheese curds, craft beer, brats, and burgers.",
+                    "coordinates": {
+                        "latitude": "",
+                        "longitude": ""
+                    }
+                },
+                {
+                    "name": "3rd Street Market Hall",
+                    "address": "275 W. Wisconsin Ave., Milwaukee, WI",
+                    "website": "https://www.3rdstmarkethall.com",
+                    "description": "A downtown food hall offering a variety of cuisines, from burgers and custard to arepas, pierogi, tacos, sushi, ramen, and more, with activities available.",
+                    "coordinates": {
+                        "latitude": "",
+                        "longitude": ""
+                    }
+                },
+                {
+                    "name": "Maders",
+                    "address": "1041 N. Old World 3rd St., Milwaukee, WI",
+                    "website": "https://www.madersrestaurant.com",
+                    "description": "Milwaukee's oldest German restaurant, offering classic German dishes in an Old World atmosphere.",
+                    "coordinates": {
+                        "latitude": "",
+                        "longitude": ""
+                    }
+                },
+                {
+                    "name": "The King & I",
+                    "address": "830 N. Old World 3rd St., Milwaukee, WI",
+                    "website": "https://www.kingandirestaurant.com",
+                    "description": "A longtime Thai restaurant offering dishes like pad Thai and volcano chicken.",
+                    "coordinates": {
+                        "latitude": "",
+                        "longitude": ""
+                    }
+                },
+                {
+                    "name": "Oak Barrel Public House",
+                    "address": "1033 N. Old World 3rd St., Milwaukee, WI",
+                    "website": "https://www.oakbarrelmilwaukee.com",
+                    "description": "An American Public House serving pub fare with a twist, from tacos and burgers to pizza, complemented by whiskey drinks or craft brew.",
+                    "coordinates": {
+                        "latitude": "",
+                        "longitude": ""
                     }
                 }
-            ],
+            ]
+            ,
             "accommodations": [
                 {
                     "name": "Aloft Milwaukee Downtown",
                     "address": "1230 N Old World 3rd St, Milwaukee, WI 53212",
                     "website": "https://www.marriott.com/hotels/travel/mkeal-aloft-milwaukee-downtown/",
-                    "description": "A trendy hotel with modern rooms and a bar, located within walking distance to Fiserv Forum and Milwaukee's downtown attractions.",
+                    "description": "A trendy hotel featuring modern rooms with a vibrant social scene at the W XYZ bar. It's within walking distance to Fiserv Forum, offering amenities like a fitness center and indoor pool. The hotel also has pet-friendly policies, making it a great choice for travelers with pets.",
                     "coordinates": {
                         "latitude": "43.045250",
                         "longitude": "-87.914500"
@@ -60,47 +158,148 @@
                     "name": "SpringHill Suites by Marriott Milwaukee Downtown",
                     "address": "744 N 4th St, Milwaukee, WI 53203",
                     "website": "https://www.marriott.com/hotels/travel/mkesd-springhill-suites-milwaukee-downtown/",
-                    "description": "Comfortable suites and complimentary breakfast, conveniently located a short walk from Fiserv Forum, ideal for Bucks fans visiting the city.",
+                    "description": "Offers spacious suites with separate living areas and small kitchenettes. The complimentary breakfast is a highlight, along with free Wi-Fi and access to a fitness center. Its proximity to the Fiserv Forum makes it an excellent option for those attending events or games.",
                     "coordinates": {
                         "latitude": "43.042500",
                         "longitude": "-87.916700"
                     }
-                }
-            ],
-            "tourist_attractions": [
+                },
                 {
-                    "name": "Milwaukee Art Museum",
-                    "address": "700 N Art Museum Dr, Milwaukee, WI 53202",
-                    "website": "https://mam.org/",
-                    "description": "An iconic museum known for its architecturally significant building and extensive collection of artworks, a short drive from Fiserv Forum.",
+                    "name": "Hilton Milwaukee City Center",
+                    "address": "509 W Wisconsin Ave, Milwaukee, WI 53203",
+                    "website": "https://www.hilton.com/en/hotels/mkemhhf-hilton-milwaukee-city-center/",
+                    "description": "An iconic hotel offering elegant rooms and significant historical charm. Amenities include several dining options, a fitness center, and pet-friendly rooms. Its central location provides easy access to Fiserv Forum and other downtown attractions.",
                     "coordinates": {
-                        "latitude": "43.039900",
-                        "longitude": "-87.897000"
+                        "latitude": "43.038900",
+                        "longitude": "-87.919600"
                     }
                 },
                 {
-                    "name": "Harley-Davidson Museum",
-                    "address": "400 W Canal St, Milwaukee, WI 53201",
-                    "website": "https://www.harley-davidson.com/us/en/museum.html",
-                    "description": "Showcasing the history, culture, and engineering of Harley-Davidson motorcycles, this museum is a must-visit for enthusiasts, located a brief drive from the arena.",
+                    "name": "Hyatt Regency Milwaukee",
+                    "address": "333 W Kilbourn Ave, Milwaukee, WI 53203",
+                    "website": "https://www.hyatt.com/en-US/hotel/wisconsin/hyatt-regency-milwaukee/mkerm",
+                    "description": "This upscale hotel features modern rooms with city views, a farm-to-table restaurant, and a rooftop bar. It's conveniently located for guests attending events at Fiserv Forum, offering a shuttle service to nearby attractions.",
                     "coordinates": {
-                        "latitude": "43.031400",
-                        "longitude": "-87.916400"
+                        "latitude": "43.041500",
+                        "longitude": "-87.916800"
+                    }
+                },
+                {
+                    "name": "The Westin Milwaukee",
+                    "address": "550 N Van Buren St, Milwaukee, WI 53202",
+                    "website": "https://www.marriott.com/hotels/travel/mkewi-the-westin-milwaukee/",
+                    "description": "Offers luxurious accommodations with waterfront views, a fitness studio, and on-site dining options. Its serene environment and close proximity to the Fiserv Forum make it an attractive choice for those seeking comfort and convenience.",
+                    "coordinates": {
+                        "latitude": "43.042800",
+                        "longitude": "-87.905600"
+                    }
+                },
+                {
+                    "name": "Kimpton Journeyman Hotel",
+                    "address": "310 E Chicago St, Milwaukee, WI 53202",
+                    "website": "https://www.kimptonhotels.com/stay/kimpton-journeyman-hotel/milwaukee-wi",
+                    "description": "Located in the historic Third Ward, this boutique hotel features stylish rooms, a rooftop bar with city views, and a modern American restaurant. It's a bit further from Fiserv Forum but offers a unique, upscale experience.",
+                    "coordinates": {
+                        "latitude": "43.033900",
+                        "longitude": "-87.907300"
                     }
                 }
             ],
-            "team_related_activities": [
-                 {
-                    "name": "Bucks Pro Shop at Fiserv Forum",
-                    "address": "1111 Vel R. Phillips Ave, Milwaukee, WI 53203",
-                    "website": "https://shop.bucks.com/",
-                    "description": "The official store for Milwaukee Bucks merchandise, offering a wide selection of gear located within the Fiserv Forum.",
-                    "coordinates": {
-                        "latitude": "43.044920",
-                        "longitude": "-87.917410"
-                    }
-                 }
-            ]
+
+            "tourist_attractions": [
+    {
+        "name": "Pabst Theater",
+        "address": "144 E Wells St, Milwaukee, WI 53202",
+        "website": "https://www.pabsttheater.org/",
+        "description": "A historic theater known for its opulent interior and diverse lineup of live performances, ranging from music to comedy, just minutes from Fiserv Forum.",
+        "coordinates": {
+            "latitude": "43.042100",
+            "longitude": "-87.910600"
+        }
+    },
+    {
+        "name": "Milwaukee Public Market",
+        "address": "400 N Water St, Milwaukee, WI 53202",
+        "website": "https://www.milwaukeepublicmarket.org/",
+        "description": "A bustling market offering a variety of local foods, artisan products, and cooking classes, located in the Historic Third Ward, a short drive from the arena.",
+        "coordinates": {
+            "latitude": "43.035100",
+            "longitude": "-87.907800"
+        }
+    },
+    {
+        "name": "Milwaukee RiverWalk",
+        "address": "Milwaukee, WI",
+        "website": "",
+        "description": "A scenic walkway along the Milwaukee River, featuring art installations, bars, and restaurants, offering a picturesque view of the city's urban landscape.",
+        "coordinates": {
+            "latitude": "43.038900",
+            "longitude": "-87.906500"
+        }
+    },
+    {
+        "name": "Discovery World",
+        "address": "500 N Harbor Dr, Milwaukee, WI 53202",
+        "website": "https://www.discoveryworld.org/",
+        "description": "A science and technology museum that offers interactive exhibits, the Reiman Aquarium, and educational programs, situated on the downtown Milwaukee lakefront.",
+        "coordinates": {
+            "latitude": "43.036800",
+            "longitude": "-87.896600"
+        }
+    },
+    {
+        "name": "Historic Third Ward",
+        "address": "Milwaukee, WI",
+        "website": "https://www.historicthirdward.org/",
+        "description": "An area known for its vibrant arts scene, shopping, dining, and the Milwaukee Public Market. This neighborhood offers a unique blend of historic industrial architecture and modern living.",
+        "coordinates": {
+            "latitude": "43.033900",
+            "longitude": "-87.909500"
+        }
+    }
+],
+"team_related_activities": [
+    {
+        "name": "Bucks Pro Shop at Fiserv Forum",
+        "address": "1111 Vel R. Phillips Ave, Milwaukee, WI 53203",
+        "website": "https://shop.bucks.com/",
+        "description": "The official store for Milwaukee Bucks merchandise, offering a wide selection of gear located within the Fiserv Forum.",
+        "coordinates": {
+            "latitude": "43.044920",
+            "longitude": "-87.917410"
+        }
+    },
+    {
+        "name": "Bucks Game Day Experience",
+        "address": "Fiserv Forum, 1111 Vel R. Phillips Ave, Milwaukee, WI 53203",
+        "website": "https://www.nba.com/bucks/tickets/game-day-experience",
+        "description": "Enjoy a full Bucks game day experience with pre-game festivities, live entertainment, and the chance to see Bango, the Bucks mascot, in action.",
+        "coordinates": {
+            "latitude": "43.044920",
+            "longitude": "-87.917410"
+        }
+    },
+    {
+        "name": "Milwaukee Bucks Entertainment Block",
+        "address": "1133 N Vel R. Phillips Ave, Milwaukee, WI 53203",
+        "website": "https://www.deerdistrict.com/",
+        "description": "Adjacent to Fiserv Forum, this area features dining, shopping, and entertainment options, becoming a hub of activity on game days and hosting various fan events.",
+        "coordinates": {
+            "latitude": "43.045100",
+            "longitude": "-87.917600"
+        }
+    },
+    {
+        "name": "Bucks Viewing Parties",
+        "address": "Various locations in Deer District",
+        "website": "https://www.deerdistrict.com/events/",
+        "description": "Join other fans to watch away games at various bars and venues in the Deer District, offering a lively atmosphere with fellow supporters.",
+        "coordinates": {
+            "latitude": "43.045100",
+            "longitude": "-87.917600"
+        }
+    }
+]
         },
         "public_transportation": {
             "options": [

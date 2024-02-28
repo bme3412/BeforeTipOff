@@ -1,17 +1,55 @@
 {
     "city": "Toronto",
-    "team": "Raptors",
-    "venue": {
-        "name": "Scotiabank Arena",
-        "address": "40 Bay Street, Toronto, ON M5J 2X2, Canada",
-        "website": "https://www.scotiabankarena.com/",
-        "average_ticket_price": "$120",
-        "season_start": "October",
-        "playoffs_start": "April",
-        "coordinates": {
-            "latitude": "43.643466",
-            "longitude": "-79.379099"
-        },
+  "team": "Toronto Raptors",
+  "venue": {
+    "name": "Scotiabank Arena",
+    "address": "40 Bay St, Toronto, ON M5J 2X2, Canada",
+    "website": "https://www.scotiabankarena.com/",
+    "average_ticket_price": "$200",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "43.6435",
+      "longitude": "-79.3791"
+    },
+    "best_seats_pricing": {
+      "Courtside": {
+        "Description": "Exclusive courtside seating offering the closest view of the action and player interaction.",
+        "Sections": "Courtside",
+        "Estimated_Pricing_Range": "$3000 - $6000+",
+        "View_Quality": "Unmatched, up-close view of the game, offering a unique and immersive experience.",
+        "Unique_Features": "Chance for interactions with players, and visibility on television broadcasts.",
+        "Accessibility": "Premier access and amenities, including VIP entrances and concierge service.",
+        "Special_Perks": "Access to exclusive clubs and lounges, high-end dining options, and special event invitations."
+      },
+      "Lower Bowl": {
+        "Description": "Engaging views close to the court, combining excellent sightlines with the excitement of being near the game.",
+        "Sections": "Sections 101-120",
+        "Estimated_Pricing_Range": "$400 - $1000",
+        "View_Quality": "Clear, direct views of the court, enhancing the overall experience.",
+        "Unique_Features": "Enhanced seat comfort and additional benefits for a superior experience.",
+        "Accessibility": "Convenient entrance locations and accessibility features.",
+        "Special_Perks": "Exclusive access to certain areas and in-seat service for an enhanced game day."
+      },
+      "Upper Bowl": {
+        "Description": "Economical options with a bird's-eye view of the game, perfect for fans wanting to soak in the atmosphere.",
+        "Sections": "Sections 301-324",
+        "Estimated_Pricing_Range": "$75 - $250",
+        "View_Quality": "Wide-angle views that capture the excitement of Raptors games.",
+        "Unique_Features": "An affordable way to enjoy live basketball action and the vibrant game day atmosphere.",
+        "Accessibility": "Accessible seating with a variety of amenities close by.",
+        "Special_Perks": "A budget-friendly choice allowing fans to experience the thrill of a Raptors game live."
+      },
+      "Suites and Club Seats": {
+        "Description": "The pinnacle of luxury and exclusivity, offering the finest views and amenities.",
+        "Sections": "Suites and Club Seats",
+        "Estimated_Pricing_Range": "$4000 - $8000+ per event",
+        "View_Quality": "Elevated and private viewing experiences with superior sightlines.",
+        "Unique_Features": "Dedicated services, including private entry, upscale dining, and premium entertainment.",
+        "Accessibility": "VIP access with top-tier amenities and convenience for an unrivaled experience.",
+        "Special_Perks": "Perfect for hosting clients or enjoying a game in luxury, with options for custom catering and access to exclusive events."
+      }
+    },
         "nearby_amenities": {
             "restaurants_bars": [
                 {
@@ -43,30 +81,90 @@
                         "latitude": "43.642885",
                         "longitude": "-79.377319"
                     }
+                },
+                {
+                    "name": "Amsterdam Brewhouse",
+                    "address": "245 Queens Quay W, Toronto, ON M5J 2K9, Canada",
+                    "website": "https://amsterdambrewhouse.com/",
+                    "description": "A waterside brewpub offering house-made beers and a hearty Canadian menu, with scenic lake views.",
+                    "coordinates": {
+                        "latitude": "43.638763",
+                        "longitude": "-79.382573"
+                    }
+                },
+                {
+                    "name": "Steam Whistle Biergarten",
+                    "address": "255 Bremner Blvd Unit 7, Toronto, ON M5V 3M9, Canada",
+                    "website": "https://steamwhistle.ca/visit-us/biergarten/",
+                    "description": "A German-style beer garden located in the Roundhouse Park, offering a selection of craft beers and European inspired fare.",
+                    "coordinates": {
+                        "latitude": "43.641105",
+                        "longitude": "-79.386056"
+                    }
+                },
+                {
+                    "name": "Canoe Restaurant & Bar",
+                    "address": "66 Wellington St W 54th floor, Toronto, ON M5K 1H6, Canada",
+                    "website": "https://www.canoerestaurant.com/",
+                    "description": "Perched atop the TD Bank Tower, Canoe affords diners stunning city and lake views along with a menu of refined Canadian cuisine.",
+                    "coordinates": {
+                        "latitude": "43.647564",
+                        "longitude": "-79.381993"
+                    }
                 }
             ],
             "accommodations": [
                 {
-                    "name": "Delta Hotels by Marriott Toronto",
-                    "address": "75 Lower Simcoe St, Toronto, ON M5J 3A6, Canada",
-                    "website": "https://www.marriott.com/hotels/travel/yyzdl-delta-hotels-toronto/",
-                    "description": "A modern hotel with stunning views of the Toronto skyline and Lake Ontario, conveniently located near Scotiabank Arena.",
-                    "coordinates": {
-                        "latitude": "43.642547",
-                        "longitude": "-79.383110"
-                    }
+                  "name": "Delta Hotels by Marriott Toronto",
+                  "address": "75 Lower Simcoe St, Toronto, ON M5J 3A6, Canada",
+                  "website": "https://www.marriott.com/hotels/travel/yyzdl-delta-hotels-toronto/",
+                  "description": "A modern hotel with stunning views of the Toronto skyline and Lake Ontario, conveniently located near Scotiabank Arena.",
+                  "coordinates": {
+                    "latitude": "43.642547",
+                    "longitude": "-79.383110"
+                  }
                 },
                 {
-                    "name": "Fairmont Royal York",
-                    "address": "100 Front St W, Toronto, ON M5J 1E3, Canada",
-                    "website": "https://www.fairmont.com/royal-york-toronto/",
-                    "description": "An historic and luxurious hotel offering refined rooms and amenities, situated a short distance from Scotiabank Arena.",
-                    "coordinates": {
-                        "latitude": "43.645736",
-                        "longitude": "-79.381576"
-                    }
+                  "name": "Fairmont Royal York",
+                  "address": "100 Front St W, Toronto, ON M5J 1E3, Canada",
+                  "website": "https://www.fairmont.com/royal-york-toronto/",
+                  "description": "An historic and luxurious hotel offering refined rooms and amenities, situated a short distance from Scotiabank Arena.",
+                  "coordinates": {
+                    "latitude": "43.645736",
+                    "longitude": "-79.381576"
+                  }
+                },
+                {
+                  "name": "Hotel X Toronto by Library Hotel Collection",
+                  "address": "111 Princes' Blvd, Toronto, ON M6K 3C3, Canada",
+                  "website": "https://hotelxtoronto.com/",
+                  "description": "A unique luxury hotel with sports and entertainment facilities, offering panoramic views of Lake Ontario and the city skyline.",
+                  "coordinates": {
+                    "latitude": "43.632891",
+                    "longitude": "-79.418711"
+                  }
+                },
+                {
+                  "name": "The Westin Harbour Castle, Toronto",
+                  "address": "1 Harbour Sq, Toronto, ON M5J 1A6, Canada",
+                  "website": "https://www.marriott.com/hotels/travel/yyzwi-the-westin-harbour-castle-toronto/",
+                  "description": "This waterfront hotel offers guests a serene city escape with comfortable accommodations and stunning views of Lake Ontario.",
+                  "coordinates": {
+                    "latitude": "43.641375",
+                    "longitude": "-79.376488"
+                  }
+                },
+                {
+                  "name": "InterContinental Toronto Centre, an IHG Hotel",
+                  "address": "225 Front St W, Toronto, ON M5V 2X3, Canada",
+                  "website": "https://www.ihg.com/intercontinental/hotels/gb/en/toronto/yyzha/hoteldetail",
+                  "description": "A sophisticated downtown hotel that offers luxury accommodations and is adjacent to the Metro Toronto Convention Centre.",
+                  "coordinates": {
+                    "latitude": "43.644104",
+                    "longitude": "-79.385368"
+                  }
                 }
-            ],
+              ],
             "tourist_attractions": [
                 {
                     "name": "CN Tower",

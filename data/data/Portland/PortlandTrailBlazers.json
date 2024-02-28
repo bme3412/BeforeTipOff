@@ -1,139 +1,359 @@
 {
-    "city": "Portland",
-    "team": "Trail Blazers",
-    "venue": {
-        "name": "Moda Center",
-        "address": "1 N Center Court St, Portland, OR 97227",
-        "website": "https://www.rosequarter.com/moda-center/",
-        "average_ticket_price": "$100",
-        "season_start": "October",
-        "playoffs_start": "April",
-        "coordinates": {
+  "city": "Portland",
+  "team": "Trail Blazers",
+  "venue": {
+    "name": "Moda Center",
+    "address": "1 N Center Court St, Portland, OR 97227",
+    "website": "https://www.rosequarter.com/moda-center/",
+    "average_ticket_price": "$120",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "45.5316",
+      "longitude": "-122.6668"
+    },
+    "best_seats_pricing": {
+      "Courtside": {
+        "Description": "Exclusive access and unparalleled views for the ultimate Trail Blazers experience, directly on the court.",
+        "Sections": "Courtside",
+        "Estimated_Pricing_Range": "$1400 - $3600+",
+        "View_Quality": "Immediate court-level view, immersing fans in the heart of the action.",
+        "Unique_Features": "Interactions with players and a chance for media exposure.",
+        "Accessibility": "Premium access for all guests, including those with mobility needs.",
+        "Special_Perks": "Access to exclusive clubs, complimentary gourmet dining, and VIP services."
+      },
+      "Lower_Bowl": {
+        "Description": "Superior sightlines close to the action, offering the perfect blend of view and proximity.",
+        "Sections": "Sections 101-122",
+        "Estimated_Pricing_Range": "$300 - $900",
+        "View_Quality": "Unobstructed views of the court, ideal for a fully immersive game experience.",
+        "Unique_Features": "Comfortable seating with additional legroom and premium options.",
+        "Accessibility": "Convenient entrance with elevator and escalator access to the seating area.",
+        "Special_Perks": "Premium lounge access and in-seat service for an enhanced game day experience."
+      },
+      "Upper_Bowl": {
+        "Description": "Budget-friendly options with a panoramic view, perfect for fans wanting to soak in the game's atmosphere.",
+        "Sections": "Sections 301-334",
+        "Estimated_Pricing_Range": "$70 - $300",
+        "View_Quality": "Expansive view of the arena, capturing the game's energy and flow.",
+        "Unique_Features": "A cost-effective way to enjoy Trail Blazers games.",
+        "Accessibility": "Easy access, with nearby amenities and facilities.",
+        "Special_Perks": "A great choice for fans looking for an affordable way to experience the excitement."
+      },
+      "Suites_and_Club_Seats": {
+        "Description": "An exclusive, private viewing experience with top-tier amenities.",
+        "Sections": "Suites and Club Seats",
+        "Estimated_Pricing_Range": "$1700 - $5000+ per event",
+        "View_Quality": "Elevated and intimate viewing with luxurious seating.",
+        "Unique_Features": "Dedicated service, private entrances, and upscale dining options.",
+        "Accessibility": "VIP access directly to suites and club levels.",
+        "Special_Perks": "Perfect for private gatherings, with custom catering and access to exclusive areas."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Dr. Jack`s",
+          "address": "1 N Center Court St, Portland, OR 97227",
+          "website": "https://www.rosequarter.com/plan-your-visit/bars-restaurants",
+          "description": "Located within the Moda Center, offering a convenient dining option with a variety of foods and drinks.",
+          "coordinates": {
             "latitude": "45.531568",
             "longitude": "-122.666821"
+          }
         },
-        "nearby_amenities": {
-            "restaurants_bars": [
-                {
-                    "name": "Dr. Jack's",
-                    "address": "1 N Center Court St, Portland, OR 97227",
-                    "website": "N/A",
-                    "description": "Located within the Moda Center, offering a convenient dining option with a variety of foods and drinks.",
-                    "coordinates": {
-                        "latitude": "45.531568",
-                        "longitude": "-122.666821"
-                    }
-                },
-                {
-                    "name": "Spirit of 77",
-                    "address": "500 NE Martin Luther King Jr Blvd, Portland, OR 97232",
-                    "website": "http://spiritof77bar.com/",
-                    "description": "A sports bar with a lively atmosphere, known for its large projection screen and great selection of beers.",
-                    "coordinates": {
-                        "latitude": "45.533108",
-                        "longitude": "-122.662830"
-                    }
-                },
-                {
-                    "name": "Ex Novo Brewing Co.",
-                    "address": "2326 N Flint Ave, Portland, OR 97227",
-                    "website": "https://exnovobrew.com/",
-                    "description": "Offers a great selection of craft beers and delicious pub food, with a cozy atmosphere for pre-game gatherings.",
-                    "coordinates": {
-                        "latitude": "45.534362",
-                        "longitude": "-122.671633"
-                    }
-                }
-            ],
-            "accommodations": [
-                {
-                    "name": "Crowne Plaza Portland-Downtown Convention Center",
-                    "address": "1441 NE 2nd Ave, Portland, OR 97232",
-                    "website": "https://www.ihg.com/crowneplaza/hotels/us/en/portland/pdxne/hoteldetail",
-                    "description": "Offers modern rooms and excellent amenities, conveniently located near the Moda Center.",
-                    "coordinates": {
-                        "latitude": "45.531401",
-                        "longitude": "-122.661608"
-                    }
-                },
-                {
-                    "name": "Hotel Eastlund",
-                    "address": "1021 NE Grand Ave, Portland, OR 97232",
-                    "website": "https://hoteleastlund.com/",
-                    "description": "A boutique hotel with a rooftop restaurant offering panoramic views of the city, close to the Moda Center.",
-                    "coordinates": {
-                        "latitude": "45.531850",
-                        "longitude": "-122.661299"
-                    }
-                }
-            ],
-            "tourist_attractions": [
-                {
-                    "name": "Lan Su Chinese Garden",
-                    "address": "239 NW Everett St, Portland, OR 97209",
-                    "website": "https://lansugarden.org/",
-                    "description": "A beautiful and serene spot in the city, showcasing Chinese culture and garden design.",
-                    "coordinates": {
-                        "latitude": "45.525498",
-                        "longitude": "-122.673136"
-                    }
-                },
-                {
-                    "name": "Portland Art Museum",
-                    "address": "1219 SW Park Ave, Portland, OR 97205",
-                    "website": "https://portlandartmuseum.org/",
-                    "description": "The oldest art museum in the Pacific Northwest, offering an impressive array of art and exhibitions.",
-                    "coordinates": {
-                        "latitude": "45.516374",
-                        "longitude": "-122.683507"
-                    }
-                }
-            ],
-            "team_related_activities": [
-                 {
-                    "name": "Trail Blazers Team Store at Moda Center",
-                    "address": "1 N Center Court St, Portland, OR 97227",
-                    "website": "https://www.trailblazersfanshop.com/",
-                    "description": "The official store for Portland Trail Blazers merchandise, located within the Moda Center.",
-                    "coordinates": {
-                        "latitude": "45.531568",
-                        "longitude": "-122.666821"
-                    }
-                 }
-            ]
+        {
+          "name": "Spirit of 77",
+          "address": "500 NE Martin Luther King Jr Blvd, Portland, OR 97232",
+          "website": "http://spiritof77bar.com/",
+          "description": "A sports bar with a lively atmosphere, known for its large projection screen and great selection of beers.",
+          "coordinates": {
+            "latitude": "45.533108",
+            "longitude": "-122.662830"
+          }
         },
-        "public_transportation": {
-            "options": [
-                {
-                    "type": "Light Rail",
-                    "description": "The MAX Light Rail has stops near the Moda Center, including the Rose Quarter Transit Center, making it easily accessible."
-                },
-                {
-                    "type": "Bus",
-                    "description": "Numerous bus lines serve the Rose Quarter area, offering convenient access to the Moda Center."
-                }
-            ]
+        {
+          "name": "Ex Novo Brewing Co.",
+          "address": "2326 N Flint Ave, Portland, OR 97227",
+          "website": "https://exnovobrew.com/",
+          "description": "Offers a great selection of craft beers and delicious pub food, with a cozy atmosphere for pre-game gatherings.",
+          "coordinates": {
+            "latitude": "45.534362",
+            "longitude": "-122.671633"
+          }
         },
-        "ticket_purchasing_tips": {
-            "best_places_to_buy": [
-                {
-                    "name": "Official Team Website",
-                    "website": "https://www.nba.com/blazers/tickets",
-                    "description": "The primary source for all ticket sales, offering guaranteed authenticity."
-                },
-                {
-                    "name": "Ticketmaster",
-                    "website": "https://www.ticketmaster.com/portland-trail-blazers-tickets/artist/806025",
-                    "description": "Authorized ticketing partner offering authentic Trail Blazers tickets."
-                },
-                {
-                    "name": "StubHub",
-                    "website": "https://www.stubhub.com/portland-trail-blazers-tickets/performer/2767/",
-                    "description": "Reliable secondary marketplace that offers verified resold Trail Blazers tickets."
-                }
-            ],
-            "ways_to_save": "Tickets for weekday games may be less expensive than weekend games. Consider purchasing tickets in advance or looking for last-minute deals.",
-            "avoiding_scalpers": "Always buy tickets from verified sources to avoid counterfeit tickets. Utilize reputable secondary marketplaces that offer buyer protection. Be wary of purchasing tickets outside the venue."
+        {
+          "name": "Creo Chocolate",
+          "address": "122 NE Broadway St, Portland, OR",
+          "website": "https://creochocolate.com/",
+          "description": "A highly rated chocolate shop and cafe known for its unique chocolate experiences and high-quality products, located a short distance from the Moda Center.",
+          "coordinates": {
+            "latitude": "45.533690",
+            "longitude": "-122.666504"
+          }
+        },
+        {
+          "name": "Boxwood Cafe",
+          "address": "1441 NE 2nd Ave, Portland, OR",
+          "website": "https://www.boxwood-cafe.com/",
+          "description": "Located within the Crowne Plaza Downtown - Convention Center, offering a variety of American dishes in a comfortable setting.",
+          "coordinates": {
+            "latitude": "45.534290",
+            "longitude": "-122.667504"
+          }
+        },
+        {
+          "name": "Burgerville",
+          "address": "1135 NE M L King Blvd, Portland, OR",
+          "website": "https://www.burgerville.com/about/",
+          "description": "A regional fast-food chain known for its burgers, fries, and shakes made from locally sourced ingredients.",
+          "coordinates": {
+            "latitude": "45.533290",
+            "longitude": "-122.666704"
+          }
         }
+      ],
+      "accommodations": [
+        {
+          "name": "Crowne Plaza Portland-Downtown Convention Center",
+          "address": "1441 NE 2nd Ave, Portland, OR 97232",
+          "website": "https://www.ihg.com/crowneplaza/hotels/us/en/portland/pdxne/hoteldetail",
+          "description": "Offers modern rooms and excellent amenities, conveniently located near the Moda Center.",
+          "coordinates": {
+            "latitude": "45.531401",
+            "longitude": "-122.661608"
+          }
+        },
+        {
+          "name": "Hotel Eastlund",
+          "address": "1021 NE Grand Ave, Portland, OR 97232",
+          "website": "https://hoteleastlund.com/",
+          "description": "A boutique hotel with a rooftop restaurant offering panoramic views of the city, close to the Moda Center.",
+          "coordinates": {
+            "latitude": "45.531850",
+            "longitude": "-122.661299"
+          }
+        },
+        {
+          "name": "DoubleTree by Hilton Portland",
+          "address": "1000 NE Multnomah, Portland, OR 97232",
+          "website": "https://www.hilton.com/en/hotels/rllc-dt-doubletree-portland/",
+          "description": "Upscale, full-service hotel with a heated outdoor swimming pool, close to the Oregon Convention Center and Lloyd Center Mall.",
+          "coordinates": {
+            "latitude": "45.530354",
+            "longitude": "-122.661485"
+          }
+        },
+        {
+          "name": "Residence Inn by Marriott Portland Downtown/Pearl District",
+          "address": "1150 NW 9th Avenue, Portland, OR 97209",
+          "website": "https://www.marriott.com/hotels/travel/pdxpd-residence-inn-portland-downtown-pearl-district/",
+          "description": "Upscale, all-suite, extended-stay hotel with a heated indoor swimming pool and kitchen in every suite, located near Portland Union Station.",
+          "coordinates": {
+            "latitude": "45.529499",
+            "longitude": "-122.682632"
+          }
+        },
+        {
+          "name": "Canopy by Hilton Portland Pearl District",
+          "address": "425 NW 9th Avenue, Portland, OR 97209",
+          "website": "https://www.hilton.com/en/hotels/pdxpecy-canopy-portland-pearl-district/",
+          "description": "Upper-upscale, downtown hotel in the Pearl District with a 24-hour exercise room and free continental breakfast.",
+          "coordinates": {
+            "latitude": "45.526676",
+            "longitude": "-122.680517"
+          }
+        },
+        {
+          "name": "Hampton Inn & Suites Portland-Pearl District",
+          "address": "354 NW 9th Avenue, Portland, OR 97209",
+          "website": "https://www.hilton.com/en/hotels/pdxpdhx-hampton-suites-portland-pearl-district/",
+          "description": "Upper-midscale, downtown hotel with an indoor swimming pool and free hot breakfast buffet, located near the Pearl District.",
+          "coordinates": {
+            "latitude": "45.526958",
+            "longitude": "-122.680763"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "Lan Su Chinese Garden",
+          "address": "239 NW Everett St, Portland, OR 97209",
+          "website": "https://lansugarden.org/",
+          "description": "A beautiful and serene spot in the city, showcasing Chinese culture and garden design.",
+          "coordinates": {
+            "latitude": "45.525498",
+            "longitude": "-122.673136"
+          }
+        },
+        {
+          "name": "Portland Art Museum",
+          "address": "1219 SW Park Ave, Portland, OR 97205",
+          "website": "https://portlandartmuseum.org/",
+          "description": "The oldest art museum in the Pacific Northwest, offering an impressive array of art and exhibitions.",
+          "coordinates": {
+            "latitude": "45.516374",
+            "longitude": "-122.683507"
+          }
+        },
+        {
+          "name": "Powell`s City of Books",
+          "address": "1005 W Burnside St, Portland, OR 97209",
+          "website": "http://www.powells.com/",
+          "description": "The world's largest independent bookstore, offering new and used titles across a city block.",
+          "coordinates": {
+            "latitude": "45.523062",
+            "longitude": "-122.681328"
+          }
+        },
+        {
+          "name": "Portland Japanese Garden",
+          "address": "611 SW Kingston Ave, Portland, OR 97205",
+          "website": "https://japanesegarden.org/",
+          "description": "Spanning 12 acres with authentic Japanese garden designs that promote tranquility and harmony.",
+          "coordinates": {
+            "latitude": "45.519496",
+            "longitude": "-122.706844"
+          }
+        },
+        {
+          "name": "Oregon Museum of Science and Industry (OMSI)",
+          "address": "1945 SE Water Ave, Portland, OR 97214",
+          "website": "https://www.omsi.edu/",
+          "description": "A hands-on science museum with exhibits on technology, health, planet Earth, and more, including a submarine and a planetarium.",
+          "coordinates": {
+            "latitude": "45.508346",
+            "longitude": "-122.665847"
+          }
+        },
+        {
+          "name": "Forest Park",
+          "address": "NW 29th Ave and Upshur St to Newberry Rd, Portland, OR 97210",
+          "website": "https://www.portland.gov/parks/forest-park",
+          "description": "One of the country's largest urban parks, offering miles of trails for hiking and exploring the Northwest forest.",
+          "coordinates": {
+            "latitude": "45.587273",
+            "longitude": "-122.753874"
+          }
+        },
+        {
+          "name": "The Grotto",
+          "address": "8840 NE Skidmore St, Portland, OR 97220",
+          "website": "https://thegrotto.org/",
+          "description": "A Catholic sanctuary set among 62 acres of botanical gardens, offering a place for peace and reflection.",
+          "coordinates": {
+            "latitude": "45.553105",
+            "longitude": "-122.573080"
+          }
+        },
+        {
+          "name": "Oregon Zoo",
+          "address": "4001 SW Canyon Rd, Portland, OR 97221",
+          "website": "https://www.oregonzoo.org/",
+          "description": "Home to nearly 3,000 animals from around the world, with a focus on conservation and education.",
+          "coordinates": {
+            "latitude": "45.510136",
+            "longitude": "-122.715818"
+          }
+        },
+        {
+          "name": "Crystal Springs Rhododendron Garden",
+          "address": "5801 SE 28th Ave, Portland, OR 97202",
+          "website": "https://www.portland.gov/parks/crystal-springs-rhododendron-garden",
+          "description": "Features over 2,500 rhododendrons, azaleas, and other plants in a picturesque setting with water features.",
+          "coordinates": {
+            "latitude": "45.472354",
+            "longitude": "-122.635486"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Trail Blazers Team Store at Moda Center",
+          "address": "1 N Center Court St, Portland, OR 97227",
+          "website": "https://www.trailblazersfanshop.com/",
+          "description": "The official store for Portland Trail Blazers merchandise, located within the Moda Center.",
+          "coordinates": {
+            "latitude": "45.531568",
+            "longitude": "-122.666821"
+          }
+        },
+        {
+          "name": "Rip City Signings",
+          "description": "Attend autograph sessions with current and former Trail Blazers players. Check the team's official website for schedules and locations.",
+          "website": "https://www.nba.com/blazers/"
+        },
+        {
+          "name": "Spirit of 77",
+          "address": "500 NE Martin Luther King Jr Blvd, Portland, OR 97232",
+          "website": "http://spiritof77bar.com/",
+          "description": "A sports bar located near the Moda Center, known for its vibrant atmosphere during Trail Blazers games.",
+          "coordinates": {
+            "latitude": "45.533172",
+            "longitude": "-122.663688"
+          }
+        },
+        {
+          "name": "Blazers at Moda Center",
+          "description": "Experience the excitement of a live Portland Trail Blazers game at the Moda Center. Check the official NBA website for game schedules and tickets.",
+          "website": "https://www.nba.com/blazers/schedule"
+        },
+        {
+          "name": "Oregon Sports Hall of Fame & Museum",
+          "address": "4840 SW Western Ave, Beaverton, OR 97005",
+          "website": "http://oregonsportshall.org/",
+          "description": "Explore the history of sports in Oregon, including significant moments and memorabilia from the Trail Blazers' history.",
+          "coordinates": {
+            "latitude": "45.486212",
+            "longitude": "-122.803389"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "Light Rail",
+          "description": "The MAX Light Rail offers extensive connectivity to the Moda Center with three lines (Red, Blue, and Green) stopping at the Rose Quarter Transit Center. This central hub is just a short walk from the arena, providing a convenient and quick option for attendees traveling from various parts of the city and its suburbs, including direct routes from Portland International Airport via the Red Line."
+        },
+        {
+          "type": "Bus",
+          "description": "The Rose Quarter area is well-served by several TriMet bus lines, including routes 4, 8, 35, and 44, which stop at the Rose Quarter Transit Center. This network ensures efficient access from different neighborhoods, making the bus a versatile option for reaching the Moda Center."
+        },
+        {
+          "type": "Streetcar",
+          "description": "The Portland Streetcar's A and B loops offer additional access to the Moda Center area, with stops conveniently located within walking distance. This option is particularly useful for those coming from or going to the Pearl District, Northwest Portland, and Portland State University."
+        },
+        {
+          "type": "Bike Share",
+          "description": "Portland's Biketown bike share program features several stations near the Moda Center, providing a healthy, environmentally friendly way to get to the game. Bike lanes and paths connect the arena with the city, making cycling a viable option for fans."
+        },
+        {
+          "type": "Rideshare",
+          "description": "Uber, Lyft, and other rideshare services offer direct drop-off and pick-up locations near the Moda Center, providing a convenient option for those looking for a personal transportation solution without the need to park."
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Team Website",
+          "website": "https://www.nba.com/blazers/tickets",
+          "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+        },
+        {
+          "name": "Ticketmaster",
+          "website": "https://www.ticketmaster.com/portland-trail-blazers-tickets/artist/806025",
+          "description": "Authorized ticketing partner offering authentic Trail Blazers tickets."
+        },
+        {
+          "name": "StubHub",
+          "website": "https://www.stubhub.com/portland-trail-blazers-tickets/performer/2767/",
+          "description": "Reliable secondary marketplace that offers verified resold Trail Blazers tickets."
+        }
+      ],
+      "ways_to_save": "Tickets for weekday games may be less expensive than weekend games. Consider purchasing tickets in advance or looking for last-minute deals.",
+      "avoiding_scalpers": "Always buy tickets from verified sources to avoid counterfeit tickets. Utilize reputable secondary marketplaces that offer buyer protection. Be wary of purchasing tickets outside the venue."
     }
+  }
 }

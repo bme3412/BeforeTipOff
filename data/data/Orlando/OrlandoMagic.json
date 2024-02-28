@@ -1,0 +1,267 @@
+{
+  "city": "Orlando",
+  "team": "Magic",
+  "venue": {
+    "name": "Amway Center",
+    "address": "400 W Church St #200, Orlando, FL 32801",
+    "website": "https://www.amwaycenter.com/",
+    "average_ticket_price": "$90",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "28.539165",
+      "longitude": "-81.383611"
+    },
+    "best_seats_pricing": {
+      "Courtside": {
+        "Description": "Direct court access for an immersive game experience, with interactions and close-up action.",
+        "Sections": "Courtside",
+        "Estimated_Pricing_Range": "$1200 - $3000+",
+        "View_Quality": "Direct view at court level, engaging fans directly in the game's intensity.",
+        "Unique_Features": "Chance for close encounters with players and media visibility.",
+        "Accessibility": "Immediate court access, including accommodation for mobility devices.",
+        "Special_Perks": "Exclusive club access, complimentary upscale dining, and other VIP benefits."
+      },
+      "Lower_Bowl": {
+        "Description": "Great views near the court, blending proximity with a comprehensive view.",
+        "Sections": "Sections 105-107 and 115-117",
+        "Estimated_Pricing_Range": "$250 - $800",
+        "View_Quality": "Clear, unobstructed views of the court, capturing the game's essence.",
+        "Unique_Features": "Comfortable seating and extra space, avoiding the dense crowds.",
+        "Accessibility": "Convenient entry, with elevator and escalator access to the seating area.",
+        "Special_Perks": "Access to premium lounges and in-seat service for an enhanced experience."
+      },
+      "Upper_Bowl": {
+        "Description": "Economical seating with a comprehensive view, ideal for vibrant fans wanting to enjoy the game's atmosphere.",
+        "Sections": "Sections 209-219",
+        "Estimated_Pricing_Range": "$50 - $250",
+        "View_Quality": "Panoramic view of the court, perfect for witnessing the game's flow.",
+        "Unique_Features": "An affordable option to enjoy Magic games.",
+        "Accessibility": "Easy seating access, with nearby concessions and facilities.",
+        "Special_Perks": "A cost-effective choice for fans to experience the excitement of the game."
+      },
+      "Skybox_and_Suites": {
+        "Description": "An exclusive and private viewing experience with top-notch amenities.",
+        "Sections": "Suites",
+        "Estimated_Pricing_Range": "$1500 - $4500+ per event",
+        "View_Quality": "Elevated and secluded viewing with luxurious seating comfort.",
+        "Unique_Features": "Dedicated service, exclusive entrances, and gourmet dining.",
+        "Accessibility": "VIP access leading directly to suite levels.",
+        "Special_Perks": "Private gatherings, custom catering, and access to exclusive areas and services."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Ember",
+          "address": "42 W Central Blvd, Orlando, FL 32801",
+          "website": "https://www.emberorlando.com/",
+          "description": "A Mediterranean-inspired eatery offering a cozy outdoor space, known for its tapas and extensive wine list, great for pre-game gatherings.",
+          "coordinates": {
+            "latitude": "28.54083",
+            "longitude": "-81.37931"
+          }
+        },
+        {
+          "name": "The Boheme",
+          "address": "325 S Orange Ave, Orlando, FL 32801",
+          "website": "https://www.thebohemeorlando.com/",
+          "description": "Located in the Grand Bohemian Hotel, this upscale restaurant offers a unique artistic ambiance alongside exquisite American cuisine.",
+          "coordinates": {
+            "latitude": "28.53717",
+            "longitude": "-81.37953"
+          }
+        },
+        {
+          "name": "Ace Cafe Orlando",
+          "address": "100 W Livingston St, Orlando, FL 32801",
+          "website": "https://www.acecafeusa.com/",
+          "description": "A lively spot for car and bike enthusiasts, offering classic American diner fare with a side of live music and events.",
+          "coordinates": {
+            "latitude": "28.54545",
+            "longitude": "-81.38149"
+          }
+        },
+        {
+          "name": "Church Street Tavern",
+          "address": "120 W Church St, Orlando, FL 32801",
+          "website": "https://www.churchstreettavernorlando.com/",
+          "description": "A casual tavern located near the Amway Center, known for its local brews, burgers, and sports viewing atmosphere.",
+          "coordinates": {
+            "latitude": "28.54076",
+            "longitude": "-81.38102"
+          }
+        },
+        {
+          "name": "Hamburger Mary's",
+          "address": "110 W Church St, Orlando, FL 32801",
+          "website": "https://www.hamburgermarys.com/orlando",
+          "description": "A vibrant and inclusive burger restaurant famous for its entertaining drag shows, offering a fun and lively dining experience.",
+          "coordinates": {
+            "latitude": "28.54069",
+            "longitude": "-81.38096"
+          }
+        },
+        {
+          "name": "Artisan's Table",
+          "address": "22 E Pine St, Orlando, FL 32801",
+          "website": "https://www.artisanstableorlando.com/",
+          "description": "Creative American cuisine served in a relaxed setting, known for its innovative dishes and craft cocktails.",
+          "coordinates": {
+            "latitude": "28.54248",
+            "longitude": "-81.37905"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Grand Bohemian Hotel Orlando",
+          "address": "325 S Orange Ave, Orlando, FL 32801",
+          "website": "https://www.grandbohemianhotelorlando.com/",
+          "description": "An upscale, art-focused hotel with luxurious accommodations and amenities, located within walking distance of the Amway Center.",
+          "coordinates": {
+            "latitude": "28.5373",
+            "longitude": "-81.3793"
+          }
+        },
+        {
+          "name": "Aloft Orlando Downtown",
+          "address": "500 S Orange Ave, Orlando, FL 32801",
+          "website": "https://www.marriott.com/hotels/travel/mcoad-aloft-orlando-downtown/",
+          "description": "A modern, loft-inspired hotel featuring a lively social atmosphere, situated close to the Amway Center.",
+          "coordinates": {
+            "latitude": "28.5370",
+            "longitude": "-81.3794"
+          }
+        },
+        {
+          "name": "Embassy Suites by Hilton Orlando Downtown",
+          "address": "191 E Pine St, Orlando, FL 32801",
+          "website": "https://www.hilton.com/en/hotels/orloddt-embassy-suites-orlando-downtown/",
+          "description": "Comfortable all-suite hotel offering free breakfast and an evening reception, conveniently located near the Amway Center.",
+          "coordinates": {
+            "latitude": "28.5424",
+            "longitude": "-81.3770"
+          }
+        },
+        {
+          "name": "Marriott Orlando Downtown",
+          "address": "400 W Livingston St, Orlando, FL 32801",
+          "website": "https://www.marriott.com/hotels/travel/mcord-marriott-orlando-downtown/",
+          "description": "A sophisticated hotel with modern rooms and amenities, perfect for business and leisure travelers, located a short drive from the Amway Center.",
+          "coordinates": {
+            "latitude": "28.5520",
+            "longitude": "-81.3874"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "Walt Disney World Resort",
+          "address": "Orlando, FL 32830",
+          "website": "https://disneyworld.disney.go.com/",
+          "description": "The renowned resort featuring four theme parks, two water parks, and numerous hotels, offering entertainment for all ages.",
+          "coordinates": {
+            "latitude": "28.385233",
+            "longitude": "-81.563874"
+          }
+        },
+        {
+          "name": "Universal Orlando Resort",
+          "address": "6000 Universal Blvd, Orlando, FL 32819",
+          "website": "https://www.universalorlando.com/",
+          "description": "A vast entertainment complex housing Universal Studios, Islands of Adventure, and Volcano Bay, known for its immersive theme park experiences.",
+          "coordinates": {
+            "latitude": "28.474321",
+            "longitude": "-81.467819"
+          }
+        },
+        {
+          "name": "SeaWorld Orlando",
+          "address": "7007 Sea World Dr, Orlando, FL 32821",
+          "website": "https://seaworld.com/orlando/",
+          "description": "A marine zoological park offering up-close animal encounters, exhilarating rides, and live performances.",
+          "coordinates": {
+            "latitude": "28.411455",
+            "longitude": "-81.461705"
+          }
+        },
+        {
+          "name": "Orlando Science Center",
+          "address": "777 E Princeton St, Orlando, FL 32803",
+          "website": "https://www.osc.org/",
+          "description": "An interactive science museum that provides fun learning experiences through its hands-on exhibits and planetarium.",
+          "coordinates": {
+            "latitude": "28.572072",
+            "longitude": "-81.368873"
+          }
+        },
+        {
+          "name": "Lake Eola Park",
+          "address": "512 E Washington St, Orlando, FL 32801",
+          "website": "https://www.orlando.gov/Parks-the-Environment/Directory/Lake-Eola-Park",
+          "description": "A picturesque downtown park known for its beautiful lake, swan boats, and a scenic walking path, offering a peaceful escape in the city.",
+          "coordinates": {
+            "latitude": "28.543501",
+            "longitude": "-81.372124"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Amway Center Behind-the-Scenes Tour",
+          "address": "400 W Church St #200, Orlando, FL 32801",
+          "website": "https://www.amwaycenter.com/",
+          "description": "Dive into the heart of Orlando Magic's home with an exclusive tour that includes visits to private suites, the press box, and the Magic locker rooms.",
+          "coordinates": {
+            "latitude": "28.539335",
+            "longitude": "-81.383331"
+          }
+        },
+        {
+          "name": "Magic Fan Experience",
+          "address": "400 W Church St #200, Orlando, FL 32801",
+          "website": "https://www.nba.com/magic/",
+          "description": "Participate in unforgettable fan experiences with chances to meet Orlando Magic players and legends, get autographs, and attend exclusive team events.",
+          "coordinates": {
+            "latitude": "28.539335",
+            "longitude": "-81.383331"
+          }
+        }
+      ]
+    },
+      "public_transportation": {
+        "options": [
+          {
+            "type": "Bus",
+            "description": "LYNX bus service offers extensive routes throughout Orlando, including stops near the Amway Center, facilitating easy access to games and events."
+          },
+          {
+            "type": "SunRail",
+            "description": "The SunRail train has a station within walking distance of the Amway Center, providing a convenient option for reaching the venue from various parts of the Orlando metropolitan area."
+          }
+        ]
+      },
+      "ticket_purchasing_tips": {
+        "best_places_to_buy": [
+          {
+            "name": "Official Team Website",
+            "website": "https://www.nba.com/magic/tickets",
+            "description": "The go-to source for purchasing tickets directly, ensuring authenticity for Orlando Magic games."
+          },
+          {
+            "name": "Ticketmaster",
+            "website": "https://www.ticketmaster.com/orlando-magic-tickets/artist/805969",
+            "description": "An authorized ticketing partner for the Orlando Magic, offering a secure platform for buying genuine tickets."
+          },
+          {
+            "name": "StubHub",
+            "website": "https://www.stubhub.com/orlando-magic-tickets/performer/124/",
+            "description": "A reputable secondary marketplace for Magic tickets, with buyer protections and verified tickets."
+          }
+        ],
+      "ways_to_save": "To save on tickets, consider attending non-prime games against less popular teams. Early season and weekday games often have lower prices. Signing up for the Thunder's official newsletter can also provide access to exclusive discounts and promotions.",
+      "avoiding_scalpers": "Always use official team websites, authorized partners, or reputable secondary marketplaces for ticket purchases. This ensures ticket authenticity and avoids the risks associated with scalpers and fraudulent tickets."
+    }
+  }
+}
