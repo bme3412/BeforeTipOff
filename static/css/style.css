@@ -1,3 +1,4 @@
+/* Body Styles */
 body, html {
     font-size: 16px;
     font-family: 'Open Sans', sans-serif;
@@ -65,32 +66,55 @@ a:hover, a:focus {
     background-color: #34495E;
 }
 
-.navbar .user-actions {
-    display: flex;
-    justify-content: flex-end;
+.ad-text {
+    font-size: 18px; /* Slightly larger for more prominence */
+    color: #333;
+    text-align: right;
+    margin-right: 20px;
+    line-height: 1.6;
+    font-weight: 500; /* Increase weight for boldness */
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.1); /* Soft shadow for depth */
 }
 
+.ad-text p {
+    margin-bottom: 0; /* Remove default bottom margin */
+}
+
+.highlight {
+    color: #ff5733;
+    font-weight: bold;
+    text-transform: uppercase; /* Make highlighted text uppercase for emphasis */
+}
+
+/* Enhanced Highlighting for Selected Table Row */
+.highlighted {
+    background-color: #00FA9A; /* More green and vibrant, less seafoam */
+    color: #333; /* Dark text for contrast */
+    transition: background-color 0.3s ease; /* Smooth transition for visual feedback */
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.2); /* Enhanced text shadow for better visibility */
+}
+
+
+
+/* User Actions Styles */
 .user-actions {
     display: flex;
     flex-direction: column;
 }
 
 .user-actions a {
-    color: #AAB7C4; /* More subtle color for user action items */
-    margin: 0.5px 0; /* Even smaller space between links for compactness */
+    color: #AAB7C4;
+    margin: 0.5px 0;
     text-decoration: none;
-    padding: 0.4rem; /* Slightly less padding for a subtler appearance */
+    padding: 0.4rem;
     transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out;
     border-radius: 4px;
 }
 
 .user-actions a:hover {
-    color: #D6EAF8; /* Softer hover color for a subtle effect */
-    background-color: #2C3E50; /* Consistent with navbar but softer transition */
+    color: #D6EAF8;
+    background-color: #2C3E50;
 }
-
-
-
 
 /* Unified League Section Styles */
 .league-section {
@@ -124,41 +148,73 @@ a:hover, a:focus {
     border-radius: 4px;
 }
 
-
 /* Search Area Styles */
 .search-area {
-    background: #FFFFFF; /* White background for clarity */
-    border-radius: 8px; /* Rounded corners for a modern look */
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Bold yet subtle shadow for emphasis */
-    padding: 20px; /* Ample padding for a spacious layout */
-    display: flex; /* Flex display to align items */
-    justify-content: space-between; /* Space out the elements */
-    margin: 20px auto; /* Center the search area */
-    max-width: 1300px; /* Optimal width for focus */
-    border: 1px solid black /* Subtle border for additional highlight */
+    background: #FFFFFF;
+    border-radius: 8px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px auto;
+    max-width: 1300px;
+    border: 1px solid black;
 }
 
 .search-area form {
     display: flex;
     flex-wrap: wrap;
-    gap: 15px; /* Reduced gap for a tighter layout */
+    gap: 15px;
 }
 
-.input-group input, .input-group button, .date-range-group input, .date-range-group button {
+.input-group input,
+.input-group button,
+.date-range-group input,
+.date-range-group button,
+.city-search-group input,
+.city-search-group button {
     padding: 10px 15px;
-    border: 1px solid #dee2e6; /* Lighter border for inputs */
+    border: 1px solid #dee2e6;
     border-radius: 5px;
     font-size: 1rem;
 }
 
-.search-area button {
-    background-color: #007bff; /* Updated button color for consistency */
-    color: white;
-    border: none;
-    margin-right: 140px;
+.date-range-group,
+.city-search-group {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
 }
 
-.search-area button:hover {
+.date-range-group label,
+.city-search-group label {
+    margin-right: 10px;
+}
+
+.date-range-group input[type="date"] {
+    flex: 1;
+    margin-right: 10px;
+    padding: 10px 15px;
+    border: 2px solid #ff5733;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: border-color 0.3s ease;
+}
+
+.date-range-group button,
+.city-search-group button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+}
+
+.date-range-group button:hover,
+.city-search-group button:hover {
     background-color: #0056b3;
 }
 
@@ -257,6 +313,9 @@ aside {
     box-sizing: border-box; /* Includes padding and border in the element's total width */
     padding: 10px; /* Adjust as necessary for your design */
     margin: 0;
+
+    /* Highlighting or border outline */
+    border: 2px solid #ff5733; /* Adjust thickness and color as needed */
 }
 
 
