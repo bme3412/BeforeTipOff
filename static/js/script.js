@@ -14,6 +14,12 @@ document.addEventListener("DOMContentLoaded", function() {
             arena: clickedRow.cells[5].textContent,
         };
 
+        // New lines to set data-city and data-team attributes on the More Details button
+        const city = clickedRow.getAttribute('data-city');
+        const team = clickedRow.getAttribute('data-team');
+        moreDetailsButton.setAttribute('data-city', city);
+        moreDetailsButton.setAttribute('data-team', team);
+
         // Building the details HTML to display
         const detailsHtml = `
             <strong>Date:</strong> ${eventDetails.date}<br>
@@ -31,6 +37,12 @@ document.addEventListener("DOMContentLoaded", function() {
         // Setting the data-event-id attribute for the "More Details" button
         const eventId = clickedRow.dataset.eventId;
         moreDetailsButton.setAttribute('data-event-id', eventId);
+
+        // Highlight the clicked row and clear previous highlights
+        document.querySelectorAll('tbody tr').forEach(row => {
+            row.classList.remove('highlighted'); // Remove highlight from all rows
+        });
+        clickedRow.classList.add('highlighted'); // Add highlight to the clicked row
     }
 
     // Attaching click event listeners to table rows
@@ -43,6 +55,13 @@ document.addEventListener("DOMContentLoaded", function() {
     // Optional: Redirect to the event details page when the "More Details" button is clicked
     moreDetailsButton.addEventListener('click', function() {
         const eventId = this.getAttribute('data-event-id');
-        window.location.href = `/event-details/${eventId}`;
+        const city = this.getAttribute('data-city'); // Ensure these are being set
+        const team = this.getAttribute('data-team');
+        if(city && team && eventId) { // Check if values are not null
+            window.location.href = `/event-details/${city}/${team}/${eventId}`;
+        } else {
+            console.error('Missing data for event details URL');
+            // Optionally, handle this error with user feedback
+        }
     });
 });
