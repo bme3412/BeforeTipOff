@@ -1,0 +1,290 @@
+{
+    "city": "Boston",
+  "team": "Bruins",
+  "venue": {
+    "name": "TD Garden",
+    "address": "100 Legends Way, Boston, MA 02114",
+    "website": "https://www.tdgarden.com/",
+    "average_ticket_price": "$120",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "42.366303",
+      "longitude": "-71.062228"
+    },
+    "best_seats_pricing": {
+      "Rinkside": {
+        "Description": "Seats right next to the action for an unparalleled game experience.",
+        "Sections": "Rinkside",
+        "Estimated_Pricing_Range": "$800 - $3000+",
+        "View_Quality": "Direct court-level view, engaging and immersive experience.",
+        "Unique_Features": "Chance for player interactions, possibility of being seen on TV.",
+        "Accessibility": "Easy access, but limited space for personal mobility devices.",
+        "Special_Perks": "Exclusive access to the Courtside Club, complimentary dining and beverages."
+      },
+      "Club_Seats": {
+        "Description": "Offering a fantastic view of the game from the sides with added benefits.",
+        "Sections": "Club Sections 107-110 and 137-140",
+        "Estimated_Pricing_Range": "$250 - $800",
+        "View_Quality": "Elevated side views with clear line of sight to the court.",
+        "Unique_Features": "Wider seats with more leg room, less crowded sections.",
+        "Accessibility": "Dedicated entrance for easier access, nearby elevators.",
+        "Special_Perks": "Access to premium clubs and in-seat wait service."
+      },
+      "Center_Balcony": {
+        "Description": "Great overall view of the game from an elevated position.",
+        "Sections": "Sections 301-303 and 323-325",
+        "Estimated_Pricing_Range": "$100 - $250",
+        "View_Quality": "Panoramic view of the court, ideal for tactical analysis.",
+        "Unique_Features": "Affordable pricing for a comprehensive view of the action.",
+        "Accessibility": "Accessible seating available, elevators to balcony level.",
+        "Special_Perks": "More budget-friendly option with a full view of the court."
+      },
+      "Loge_Level": {
+        "Description": "Just above courtside, offering close views without being on the floor.",
+        "Sections": "Mid Court Sections 15-17 and 1-2; Corners Sections 13-14, 18-19, 22-23, and 3-4",
+        "Estimated_Pricing_Range": "$150 - $600",
+        "View_Quality": "Close to the action with a slightly elevated perspective.",
+        "Unique_Features": "Proximity to the court with a more accessible price point.",
+        "Accessibility": "Wheelchair-accessible seating and nearby amenities.",
+        "Special_Perks": "Good balance of price, view, and experience."
+      }
+    },
+      "nearby_amenities": {
+        "restaurants_bars": [
+            {
+              "name": "Halftime Pizza",
+              "address": "115 Causeway St, Boston, MA 02114",
+              "website": "N/A",
+              "description": "Famous for its large pizzas and close location to the TD Garden, perfect for a quick bite before the game.",
+              "coordinates": {
+                "latitude": "42.364611",
+                "longitude": "-71.062445"
+              }
+            },
+            {
+              "name": "Porters Bar & Grill",
+              "address": "173 Portland St, Boston, MA 02114",
+              "website": "http://www.portersbar.com/",
+              "description": "A cozy spot for Bruins fans to grab a drink or a meal, boasting a friendly atmosphere and sports on the TVs.",
+              "coordinates": {
+                "latitude": "42.364080",
+                "longitude": "-71.060940"
+              }
+            },
+            {
+              "name": "Alcove",
+              "address": "50 Lovejoy Wharf, West End, Boston, MA",
+              "website": "https://alcoveboston.com/",
+              "description": "A high-end dining spot with a focus on local sourcing, offering dishes like monkfish Milanese and blue crab-crusted halibut. Known for its cozy atmosphere and top-notch wine selections.",
+              "coordinates": {
+                "latitude": "42.3629",
+                "longitude": "-71.0605"
+              }
+            },
+            {
+              "name": "Banners Kitchen & Tap",
+              "address": "80 Causeway St., West End, Boston, MA",
+              "website": "https://www.bannerskitchenandtap.com",
+              "description": "Adjacent to TD Garden, known for its spacious venue, Topgolf Swing Suite, and enormous LED TV. Offers pub fare with some upgrades.",
+              "coordinates": {
+                "latitude": "42.3662",
+                "longitude": "-71.0604"
+              }
+            },
+            {
+              "name": "Bodega Canal",
+              "address": "57 Canal St., West End, Boston, MA",
+              "website": "https://www.bodegacanal.com",
+              "description": "A vibrant spot with a focus on Mexican cuisine, offering big plates perfect for pre-game dining. Known for its tequila, bottle service, and DJs.",
+              "coordinates": {
+                "latitude": "42.3640",
+                "longitude": "-71.0620"
+              }
+            },
+            {
+              "name": "Chilacates",
+              "address": "66 Staniford St., West End, Boston, MA",
+              "website": "https://www.chilacatesmx.com",
+              "description": "Counter-service offering tacos, burritos, and more with authentic Mexican fillings. A 2023 addition to the West End, perfect for quick and tasty meals.",
+              "coordinates": {
+                "latitude": "42.3631",
+                "longitude": "-71.0632"
+              }
+            },
+            {
+              "name": "Hurricanes at the Garden",
+              "address": "150 Canal Street, Boston, MA 02114",
+              "website": "https://www.hurricanesboston.com",
+              "description": "Boston’s ultimate sports-viewing destination near TD Garden. Offers buffalo wings, loaded waffle fries, and a suitable atmosphere for pre- and post-game celebrations.",
+              "coordinates": {
+                "latitude": "42.3650",
+                "longitude": "-71.0616"
+              }
+            }
+          ],
+        "accommodations": [
+          {
+            "name": "The Boxer Boston Hotel",
+            "address": "107 Merrimac St, Boston, MA 02114",
+            "website": "https://www.theboxerboston.com/",
+            "description": "Boutique hotel known for its unique architecture and close distance to TD Garden.",
+            "coordinates": {
+              "latitude": "42.363445",
+              "longitude": "-71.062694"
+            }
+          },
+          {
+            "name": "Kimpton Onyx Hotel",
+            "address": "155 Portland St, Boston, MA 02114",
+            "website": "https://www.onyxhotel.com/",
+            "description": "Stylish hotel offering comfortable accommodations and easy access to Celtics games and Boston’s attractions.",
+            "coordinates": {
+              "latitude": "42.364008",
+              "longitude": "-71.060497"
+            }
+          },
+          {
+            "name": "The Liberty, a Luxury Collection Hotel, Boston",
+            "address": "215 Charles St, Boston, MA 02114",
+            "website": "https://www.marriott.com/hotels/travel/boslc-the-liberty-a-luxury-collection-hotel-boston/",
+            "description": "Iconic hotel offering upscale accommodations in a historic building, formerly the Charles Street Jail.",
+            "coordinates": {
+              "latitude": "42.3616",
+              "longitude": "-71.0704"
+            }
+          },
+          {
+            "name": "Boston Marriott Long Wharf",
+            "address": "296 State St, Boston, MA 02109",
+            "website": "https://www.marriott.com/hotels/travel/boslw-boston-marriott-long-wharf/",
+            "description": "Waterfront hotel with easy access to the New England Aquarium, Faneuil Hall Marketplace, and TD Garden.",
+            "coordinates": {
+              "latitude": "42.3595",
+              "longitude": "-71.0514"
+            }
+          }
+        ],
+        "tourist_attractions": [
+          {
+            "name": "The Freedom Trail",
+            "address": "Boston, MA",
+            "website": "https://www.thefreedomtrail.org/",
+            "description": "A 2.5-mile-long path through downtown Boston, passing by 16 locations significant to the history of the United States.",
+            "coordinates": {
+              "latitude": "42.359800",
+              "longitude": "-71.059770"
+            }
+          },
+          {
+            "name": "Museum of Science",
+            "address": "1 Museum Of Science Driveway, Boston, MA 02114",
+            "website": "https://www.mos.org/",
+            "description": "Features over 700 interactive exhibits and several live presentations throughout the building every day.",
+            "coordinates": {
+              "latitude": "42.367794",
+              "longitude": "-71.070288"
+            }
+          },
+          {
+            "name": "Boston Common",
+            "address": "139 Tremont St, Boston, MA 02111",
+            "website": "https://www.boston.gov/parks/boston-common",
+            "description": "America's oldest public park, offering historic sites, a visitors center, and the starting point of the Freedom Trail.",
+            "coordinates": {
+              "latitude": "42.3554",
+              "longitude": "-71.0656"
+            }
+          },
+          {
+            "name": "New England Aquarium",
+            "address": "1 Central Wharf, Boston, MA 02110",
+            "website": "https://www.neaq.org/",
+            "description": "Home to thousands of aquatic animals, from striped pyjama sharks to little blue penguins, plus an IMAX theatre.",
+            "coordinates": {
+              "latitude": "42.3594",
+              "longitude": "-71.0497"
+            }
+          },
+          {
+            "name": "Fenway Park",
+            "address": "4 Jersey St, Boston, MA 02215",
+            "website": "https://www.mlb.com/redsox/ballpark",
+            "description": "Iconic ballpark and the home of the Boston Red Sox, offering tours that include the Green Monster seats.",
+            "coordinates": {
+              "latitude": "42.3467",
+              "longitude": "-71.0972"
+            }
+          }
+        ],
+        "team_related_activities": [
+            {
+              "name": "Bruins Fan Shop at TD Garden",
+              "address": "100 Legends Way, Boston, MA 02114",
+              "website": "https://bruinsstore.com/",
+              "description": "Official store for Boston Bruins merchandise, located within the TD Garden.",
+              "coordinates": {
+                "latitude": "42.366303",
+                "longitude": "-71.062228"
+              }
+            },
+            {
+              "name": "Bruins Hall of Fame Experience",
+              "address": "226 Causeway Street, Boston, MA 02114",
+              "website": "https://www.tdgarden.com/halloffame",
+              "description": "Interactive museum featuring Bruins history, player artifacts, and championship memorabilia.",
+              "coordinates": {
+                "latitude": "42.366500",
+                "longitude": "-71.062400"
+              }
+            },
+            {
+              "name": "Bruins Game Day Tours",
+              "address": "100 Legends Way, Boston, MA 02114",
+              "website": "https://www.tdgarden.com/tours",
+              "description": "Behind-the-scenes tours of the TD Garden on game days, including exclusive areas and player insights.",
+              "coordinates": {
+                "latitude": "42.366303",
+                "longitude": "-71.062228"
+              }
+            }
+          ]
+      },
+      "public_transportation": {
+        "options": [
+          {
+            "type": "Subway",
+            "description": "The Green Line and Orange Line at North Station stop directly beneath TD Garden, making it easily accessible from any part of the city.",
+            "map_link": "https://www.mbta.com/schedules/subway"
+          },
+          {
+            "type": "Commuter Rail",
+            "description": "North Station is also a major hub for the MBTA Commuter Rail, offering convenient access for those coming from outside Boston.",
+            "map_link": "https://www.mbta.com/schedules/commuter-rail"
+          }
+        ]
+      },
+      "ticket_purchasing_tips": {
+        "best_places_to_buy": [
+          {
+            "name": "Official Team Website",
+            "website": "https://www.nhl.com/bruins/tickets/",
+            "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+          },
+          {
+            "name": "Ticketmaster",
+            "website": "https://www.ticketmaster.com/boston-bruins-tickets/artist/805928",
+            "description": "Authorized ticketing partner offering authentic Bruins tickets."
+          },
+          {
+            "name": "StubHub",
+            "website": "https://www.stubhub.com/boston-bruins-tickets/performer/124",
+            "description": "Reliable secondary marketplace that offers verified resold Bruins tickets."
+          }
+        ],
+        "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+        "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+      }
+    }
+}
+  
