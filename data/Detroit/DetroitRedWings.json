@@ -1,0 +1,289 @@
+{
+  "city": "Detroit",
+  "team": "Red Wings",
+  "venue": {
+    "name": "Little Caesars Arena",
+    "address": "2645 Woodward Avenue, Detroit, MI 48201",
+    "website": "https://www.nhl.com/redwings/arena",
+    "average_ticket_price": "$115",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "42.341012",
+      "longitude": "-83.055178"
+    },
+    "best_seats_pricing": {
+      "Rinkside": {
+        "Description": "Seats right next to the action for an unparalleled game experience.",
+        "Sections": "Rinkside",
+        "Estimated_Pricing_Range": "$750 - $2800+",
+        "View_Quality": "Direct rink-level view, engaging and immersive experience.",
+        "Unique_Features": "Chance for player interactions, possibility of being seen on TV.",
+        "Accessibility": "Easy access, but limited space for personal mobility devices.",
+        "Special_Perks": "Exclusive access to clubs, complimentary dining and beverages."
+      },
+      "Club_Seats": {
+        "Description": "Offering a fantastic view of the game from the sides with added benefits.",
+        "Sections": "Club Sections",
+        "Estimated_Pricing_Range": "$200 - $750",
+        "View_Quality": "Elevated side views with clear line of sight to the rink.",
+        "Unique_Features": "Wider seats with more leg room, less crowded sections.",
+        "Accessibility": "Dedicated entrance for easier access, nearby elevators.",
+        "Special_Perks": "Access to premium clubs and in-seat wait service."
+      },
+      "Center_Balcony": {
+        "Description": "Great overall view of the game from an elevated position.",
+        "Sections": "Upper Bowl Sections",
+        "Estimated_Pricing_Range": "$90 - $200",
+        "View_Quality": "Panoramic view of the rink, ideal for tactical analysis.",
+        "Unique_Features": "Affordable pricing for a comprehensive view of the action.",
+        "Accessibility": "Accessible seating available, elevators to upper levels.",
+        "Special_Perks": "More budget-friendly option with a full view of the rink."
+      },
+      "Loge_Level": {
+        "Description": "Just above rinkside, offering close views without being on the ice.",
+        "Sections": "Lower Bowl Sections",
+        "Estimated_Pricing_Range": "$130 - $500",
+        "View_Quality": "Close to the action with a slightly elevated perspective.",
+        "Unique_Features": "Proximity to the rink with a more accessible price point.",
+        "Accessibility": "Wheelchair-accessible seating and nearby amenities.",
+        "Special_Perks": "Good balance of price, view, and experience."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Sports & Social Detroit",
+          "address": "28 Henry St, Detroit, MI 48201",
+          "website": "https://www.sportsandsocial.com/location/detroit/",
+          "description": "A lively sports bar located next to Little Caesars Arena, offering a wide range of pub fare, large TVs for game watching, and interactive gaming options.",
+          "coordinates": {
+            "latitude": "42.3410",
+            "longitude": "-83.0552"
+          }
+        },
+        {
+          "name": "Ironwood Grill Detroit",
+          "address": "2 Woodward Ave, Detroit, MI 48226",
+          "website": "N/A",
+          "description": "Known for its rustic vibe and hearty American cuisine, perfect for dining before or after Red Wings games. Offers an extensive selection of beers and cocktails.",
+          "coordinates": {
+            "latitude": "42.3313",
+            "longitude": "-83.0458"
+          }
+        },
+        {
+          "name": "Mike's Pizza Bar",
+          "address": "2515 Woodward Ave, Detroit, MI 48201",
+          "website": "https://www.mikespizzabardetroit.com/",
+          "description": "Artisanal pizzas and a wide beer selection in a venue celebrating Detroit's rich sports history, situated within walking distance of Little Caesars Arena.",
+          "coordinates": {
+            "latitude": "42.3412",
+            "longitude": "-83.0553"
+          }
+        },
+        {
+          "name": "District Market Detroit",
+          "address": "2645 Woodward Ave, Detroit, MI 48201",
+          "website": "https://www.districtmarketdetroit.com",
+          "description": "A gourmet marketplace offering a variety of food options, from fresh sandwiches to local delicacies, ideal for a quick bite before the game.",
+          "coordinates": {
+            "latitude": "42.3409",
+            "longitude": "-83.0551"
+          }
+        },
+        {
+          "name": "Kid Rock’s Made in Detroit",
+          "address": "2645 Woodward Ave, Detroit, MI 48201",
+          "website": "https://www.kidrockrestaurant.com",
+          "description": "A restaurant and bar that blends excellent food with the spirit of Detroit, featuring live music and a collection of memorabilia from Kid Rock.",
+          "coordinates": {
+            "latitude": "42.3408",
+            "longitude": "-83.0550"
+          }
+        },
+        {
+          "name": "The Skip",
+          "address": "The Belt, Detroit, MI 48226",
+          "website": "https://www.theskipdetroit.com",
+          "description": "A vibrant cocktail bar in the heart of Detroit, offering creative drinks and a lively atmosphere, perfect for pre- or post-game socializing.",
+          "coordinates": {
+            "latitude": "42.3342",
+            "longitude": "-83.0464"
+          }
+        },
+        {
+          "name": "Saucy Brew Works Detroit",
+          "address": "2671 John R St, Detroit, MI 48201",
+          "website": "https://www.saucybrewworks.com/detroit",
+          "description": "Craft brewery and pizza kitchen offering a cozy spot for fans to gather, eat, and drink before heading to the game at Little Caesars Arena.",
+          "coordinates": {
+            "latitude": "42.3418",
+            "longitude": "-83.0560"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "The Siren Hotel",
+          "address": "1509 Broadway St, Detroit, MI 48226",
+          "website": "https://www.thesirenhotel.com/",
+          "description": "A boutique hotel housed in the historic Wurlitzer Building, offering unique rooms and a close proximity to Little Caesars Arena.",
+          "coordinates": {
+            "latitude": "42.3358",
+            "longitude": "-83.0496"
+          }
+        },
+        {
+          "name": "Shinola Hotel",
+          "address": "1400 Woodward Ave, Detroit, MI 48226",
+          "website": "https://www.shinolahotel.com/",
+          "description": "Luxury accommodations with a thoughtfully curated design, located in the heart of Detroit's shopping district and near the arena.",
+          "coordinates": {
+            "latitude": "42.3350",
+            "longitude": "-83.0465"
+          }
+        },
+        {
+          "name": "Detroit Foundation Hotel",
+          "address": "250 W Larned St, Detroit, MI 48226",
+          "website": "https://www.detroitfoundationhotel.com/",
+          "description": "Set in the former Detroit Fire Department Headquarters, this hotel combines historic charm with modern luxury, close to sports and entertainment venues.",
+          "coordinates": {
+            "latitude": "42.3296",
+            "longitude": "-83.0457"
+          }
+        },
+        {
+          "name": "Aloft Detroit at The David Whitney",
+          "address": "One Park Avenue, Detroit, MI 48226",
+          "website": "https://www.marriott.com/hotels/travel/dtwal-aloft-detroit-at-the-david-whitney/",
+          "description": "Modern hotel in a restored historic building, offering comfortable accommodations and easy access to Little Caesars Arena and other downtown attractions.",
+          "coordinates": {
+            "latitude": "42.3314",
+            "longitude": "-83.0464"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "Detroit Institute of Arts",
+          "address": "5200 Woodward Ave, Detroit, MI 48202",
+          "website": "https://www.dia.org/",
+          "description": "One of the top art museums in the United States, featuring over 65,000 works of art, from ancient to modern times.",
+          "coordinates": {
+            "latitude": "42.3596",
+            "longitude": "-83.0649"
+          }
+        },
+        {
+          "name": "The Henry Ford Museum",
+          "address": "20900 Oakwood Blvd, Dearborn, MI 48124",
+          "website": "https://www.thehenryford.org/",
+          "description": "A large indoor and outdoor history museum complex that explores the American experience and innovation.",
+          "coordinates": {
+            "latitude": "42.3001",
+            "longitude": "-83.2340"
+          }
+        },
+        {
+          "name": "Motown Museum",
+          "address": "2648 W Grand Blvd, Detroit, MI 48208",
+          "website": "https://www.motownmuseum.org/",
+          "description": "Iconic museum located in the original house of Motown Records, showcasing the history and impact of Motown music.",
+          "coordinates": {
+            "latitude": "42.3641",
+            "longitude": "-83.0885"
+          }
+        },
+        {
+          "name": "Belle Isle Park",
+          "address": "99 Pleasure Dr, Detroit, MI 48207",
+          "website": "https://www.belleisleconservancy.org/",
+          "description": "A beautiful island park offering a zoo, greenhouse, maritime museum, and great views of Detroit and Windsor.",
+          "coordinates": {
+            "latitude": "42.3314",
+            "longitude": "-82.9755"
+          }
+        },
+        {
+          "name": "Detroit Riverwalk",
+          "address": "Detroit River, MI 48226",
+          "website": "https://detroitriverfront.org/riverwalk",
+          "description": "A scenic waterfront path offering stunning views, art installations, parks, and plazas along the Detroit River.",
+          "coordinates": {
+            "latitude": "42.3282",
+            "longitude": "-83.0405"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Red Wings Team Store at Little Caesars Arena",
+          "address": "2645 Woodward Ave, Detroit, MI 48201",
+          "website": "https://www.nhl.com/redwings/fans/team-store",
+          "description": "The official store for Detroit Red Wings merchandise, located within Little Caesars Arena. A must-visit for fans looking to gear up in Red Wings apparel and accessories.",
+          "coordinates": {
+            "latitude": "42.341012",
+            "longitude": "-83.055178"
+          }
+        },
+        {
+          "name": "Detroit Red Wings Hall of Fame",
+          "address": "19 Steve Yzerman Dr, Detroit, MI 48226",
+          "website": "N/A",
+          "description": "Dedicated to the illustrious history of the Red Wings, this hall of fame showcases the team's storied past, player jerseys, and Stanley Cup victories.",
+          "coordinates": {
+            "latitude": "42.325183",
+            "longitude": "-83.051474"
+          }
+        },
+        {
+          "name": "Red Wings Game Day Tours",
+          "address": "2645 Woodward Ave, Detroit, MI 48201",
+          "website": "https://www.nhl.com/redwings/fans/arena-tours",
+          "description": "Exclusive behind-the-scenes tours of Little Caesars Arena on game days. Fans can explore the locker room, VIP areas, and learn about the team's history and operations.",
+          "coordinates": {
+            "latitude": "42.341012",
+            "longitude": "-83.055178"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "Detroit People Mover",
+          "description": "The Grand Circus Park, Broadway, and Greektown stations are close to Little Caesars Arena, offering easy access from downtown Detroit.",
+          "map_link": "https://www.thepeoplemover.com/"
+        },
+        {
+          "type": "QLine Streetcar",
+          "description": "The QLine Streetcar runs along Woodward Ave, with stops conveniently located near Little Caesars Arena, facilitating access from the city.",
+          "map_link": "https://qlinedetroit.com/"
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Team Website",
+          "website": "https://www.nhl.com/redwings/tickets/",
+          "description": "The primary source for all ticket sales, offering guaranteed authenticity for Detroit Red Wings games."
+        },
+        {
+          "name": "Ticketmaster",
+          "website": "https://www.ticketmaster.com/detroit-red-wings-tickets/artist/805985",
+          "description": "Authorized ticketing partner providing authentic tickets for Red Wings games."
+        },
+        {
+          "name": "StubHub",
+          "website": "https://www.stubhub.com/detroit-red-wings-tickets/performer/96/",
+          "description": "A reliable secondary marketplace that offers verified resold tickets for Red Wings games."
+        }
+      ],
+      "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+      "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+    }
+  }
+}

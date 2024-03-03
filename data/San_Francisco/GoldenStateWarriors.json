@@ -1,139 +1,313 @@
 {
-    "city": "San Francisco",
-    "team": "Warriors",
-    "venue": {
-        "name": "Chase Center",
-        "address": "1 Warriors Way, San Francisco, CA 94158",
-        "website": "https://www.chasecenter.com/",
-        "average_ticket_price": "$150",
-        "season_start": "October",
-        "playoffs_start": "April",
-        "coordinates": {
+  "city": "San Francisco",
+  "team": "Golden State Warriors",
+  "venue": {
+    "name": "Chase Center",
+    "address": "1 Warriors Way, San Francisco, CA 94158",
+    "website": "https://www.chasecenter.com/",
+    "average_ticket_price": "$150",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "37.7680",
+      "longitude": "-122.3877"
+    },
+    "best_seats_pricing": {
+      "Courtside": {
+        "Description": "Immerse yourself in the action with seats right next to the court, offering an intimate view of the game.",
+        "Sections": "Courtside",
+        "Estimated_Pricing_Range": "$2500 - $5000+",
+        "View_Quality": "Direct line of sight to the game, providing an exclusive and engaging experience.",
+        "Unique_Features": "Opportunity for interactions with players and chances to be seen on live broadcasts.",
+        "Accessibility": "Top-tier accessibility for all guests, including premium entrance and amenities.",
+        "Special_Perks": "Access to private clubs and lounges, luxury dining options, and personalized concierge services."
+      },
+      "Lower Bowl": {
+        "Description": "Close to the action with superior sightlines, ideal for fans who prioritize a great view and proximity to the game.",
+        "Sections": "Sections 101-128",
+        "Estimated_Pricing_Range": "$300 - $800",
+        "View_Quality": "Clear, unobstructed views of the court for an immersive experience.",
+        "Unique_Features": "Premium seating comfort with added benefits for a more luxurious experience.",
+        "Accessibility": "Easy access with conveniently located entrances and facilities.",
+        "Special_Perks": "In-seat service and exclusive access areas for a more enjoyable game-day experience."
+      },
+      "Upper Bowl": {
+        "Description": "Affordable seating options offering a comprehensive view of the arena, perfect for fans who enjoy the vibrant atmosphere.",
+        "Sections": "Sections 201-234",
+        "Estimated_Pricing_Range": "$50 - $200",
+        "View_Quality": "Panoramic views that capture the dynamic atmosphere of a Warriors game.",
+        "Unique_Features": "A cost-effective way to be part of the Warriors' live action and excitement.",
+        "Accessibility": "Good accessibility with a range of nearby amenities for convenience.",
+        "Special_Perks": "A budget-friendly option for fans to experience the energy and thrill of attending a live game."
+      },
+      "Suites and Club Seats": {
+        "Description": "An unparalleled viewing experience with exclusive amenities for a memorable game day.",
+        "Sections": "Suites and Club Seats",
+        "Estimated_Pricing_Range": "$3000 - $7000+ per event",
+        "View_Quality": "Private and elevated views with luxurious seating and outstanding sightlines.",
+        "Unique_Features": "Dedicated entrance and service, upscale dining, and entertainment options.",
+        "Accessibility": "Exclusive access with VIP amenities and services for a hassle-free experience.",
+        "Special_Perks": "Ideal for entertaining clients or enjoying the game in an exclusive setting, with custom catering and access to private events."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Mission Rock Resort",
+          "address": "817 Terry A Francois Blvd, San Francisco, CA 94158",
+          "website": "http://www.missionrockresort.com/",
+          "description": "A waterfront restaurant and bar offering fresh seafood and beautiful views of the San Francisco Bay.",
+          "coordinates": {
+            "latitude": "37.762100",
+            "longitude": "-122.386640"
+          }
+        },
+        {
+          "name": "The Ramp Restaurant",
+          "address": "855 Terry A Francois Blvd, San Francisco, CA 94158",
+          "website": "http://www.theramprestaurant.com/",
+          "description": "A casual outdoor spot known for its brunch, live music, and scenic bay views.",
+          "coordinates": {
+            "latitude": "37.763480",
+            "longitude": "-122.388200"
+          }
+        },
+        {
+          "name": "Cockscomb",
+          "address": "564 4th St, San Francisco, CA 94107",
+          "website": "http://cockscombsf.com/",
+          "description": "A chic eatery offering a mix of Californian and American cuisine, with a focus on sustainable and local ingredients.",
+          "coordinates": {
+            "latitude": "37.779280",
+            "longitude": "-122.397670"
+          }
+        },
+        {
+          "name": "Marlowe",
+          "address": "500 Brannan St, San Francisco, CA 94107",
+          "description": "Best for lunch and location pre Giants game, serving American cuisine.",
+          "coordinates": {
+            "latitude": "37.779495",
+            "longitude": "-122.396775"
+          }
+        },
+        {
+          "name": "Philz Coffee",
+          "address": "201 Berry St, San Francisco, CA 94158",
+          "description": "Famous for its Mint Mojito Coffee among other unique blends.",
+          "coordinates": {
+            "latitude": "37.776329",
+            "longitude": "-122.392776"
+          }
+        },
+        {
+          "name": "ATwater Tavern",
+          "address": "295 Terry A Francois Blvd, San Francisco, CA 94158",
+          "description": "Great location for food and drinks, offering Seafood, American cuisine, and a bar/pub atmosphere.",
+          "coordinates": {
+            "latitude": "37.762124",
+            "longitude": "-122.387097"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Hotel VIA",
+          "address": "138 King St, San Francisco, CA 94107",
+          "website": "https://www.hotelviasf.com/",
+          "description": "Located near the waterfront, this upscale hotel features modern rooms and a rooftop bar with stunning views.",
+          "coordinates": {
+            "latitude": "37.779247",
+            "longitude": "-122.389275"
+          }
+        },
+        {
+          "name": "Hyatt Place San Francisco/Downtown",
+          "address": "701 3rd St, San Francisco, CA 94107",
+          "website": "https://www.hyatt.com/en-US/hotel/california/hyatt-place-san-francisco-downtown/sfozd",
+          "description": "A contemporary hotel offering comfortable accommodations and easy access to local attractions, including Chase Center.",
+          "coordinates": {
+            "latitude": "37.779650",
+            "longitude": "-122.392500"
+          }
+        },
+        {
+          "name": "Hotel Zephyr",
+          "address": "250 Beach St, San Francisco, CA 94133",
+          "website": "https://www.hotelzephyrsf.com/",
+          "description": "A fun and vibrant hotel offering a unique nautical theme, located near Fisherman's Wharf.",
+          "coordinates": {
+            "latitude": "37.807580",
+            "longitude": "-122.417650"
+          }
+        },
+        {
+          "name": "The St. Regis San Francisco",
+          "address": "125 3rd St, San Francisco, CA 94103",
+          "website": "https://www.marriott.com/hotels/travel/sfoxr-the-st-regis-san-francisco/",
+          "description": "Luxury hotel with refined rooms & suites, plus a posh spa, an indoor pool & a high-end restaurant.",
+          "coordinates": {
+            "latitude": "37.785630",
+            "longitude": "-122.400810"
+          }
+        },
+        {
+          "name": "InterContinental San Francisco",
+          "address": "888 Howard St, San Francisco, CA 94103",
+          "website": "https://sanfrancisco.intercontinental.com/",
+          "description": "An upscale hotel offering elegant accommodations with city views, plus a Michelin-starred restaurant.",
+          "coordinates": {
+            "latitude": "37.781330",
+            "longitude": "-122.404470"
+          }
+        },
+        {
+          "name": "Marriott Marquis San Francisco",
+          "address": "780 Mission St, San Francisco, CA 94103",
+          "website": "https://www.marriott.com/hotels/travel/sfodt-san-francisco-marriott-marquis/",
+          "description": "This high-rise hotel features modern rooms and a rooftop lounge with panoramic city views.",
+          "coordinates": {
+            "latitude": "37.784960",
+            "longitude": "-122.404050"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "Oracle Park",
+          "address": "24 Willie Mays Plaza, San Francisco, CA 94107",
+          "website": "https://www.mlb.com/giants/ballpark",
+          "description": "Home of the San Francisco Giants, this iconic ballpark offers tours and breathtaking views of the San Francisco Bay.",
+          "coordinates": {
+            "latitude": "37.778595",
+            "longitude": "-122.389270"
+          }
+        },
+        {
+          "name": "San Francisco Museum of Modern Art (SFMOMA)",
+          "address": "151 3rd St, San Francisco, CA 94103",
+          "website": "https://www.sfmoma.org/",
+          "description": "One of the largest museums of modern and contemporary art in the United States, featuring notable works from artists around the world.",
+          "coordinates": {
+            "latitude": "37.785719",
+            "longitude": "-122.400812"
+          }
+        },
+        {
+          "name": "Exploratorium",
+          "address": "Pier 15, San Francisco, CA 94111",
+          "website": "https://www.exploratorium.edu/",
+          "description": "An eye-opening, playful place to explore how the world works. Features hundreds of interactive exhibits in the realms of science, art, and human perception.",
+          "coordinates": {
+            "latitude": "37.801411",
+            "longitude": "-122.397673"
+          }
+        },
+        {
+          "name": "Ferry Building Marketplace",
+          "address": "1 Ferry Building, San Francisco, CA 94111",
+          "website": "https://www.ferrybuildingmarketplace.com/",
+          "description": "A historic ferry terminal transformed into a bustling marketplace featuring artisanal food, wine, and unique local shops.",
+          "coordinates": {
+            "latitude": "37.795490",
+            "longitude": "-122.393700"
+          }
+        },
+        {
+          "name": "Alcatraz Island",
+          "address": "San Francisco, CA 94133",
+          "website": "https://www.nps.gov/alca/index.htm",
+          "description": "The site of the first lighthouse and US-built fort on the West Coast, offering a close-up look at a historic and infamous federal prison long off-limits to the public.",
+          "coordinates": {
+            "latitude": "37.827000",
+            "longitude": "-122.423000"
+          }
+        },
+        {
+          "name": "Crissy Field",
+          "address": "1199 E Beach, San Francisco, CA 94129",
+          "website": "https://www.parksconservancy.org/parks/crissy-field",
+          "description": "A former military airfield transformed into a stunning recreational area with breathtaking views of the Golden Gate Bridge and access to beaches.",
+          "coordinates": {
+            "latitude": "37.804836",
+            "longitude": "-122.467752"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Warriors Team Store at Chase Center",
+          "address": "1 Warriors Way, San Francisco, CA 94158",
+          "website": "https://shop.warriors.com/",
+          "description": "The official store for Golden State Warriors merchandise, located within the Chase Center.",
+          "coordinates": {
             "latitude": "37.768021",
             "longitude": "-122.387566"
+          }
         },
-        "nearby_amenities": {
-            "restaurants_bars": [
-                {
-                    "name": "Mission Rock Resort",
-                    "address": "817 Terry A Francois Blvd, San Francisco, CA 94158",
-                    "website": "http://www.missionrockresort.com/",
-                    "description": "A waterfront restaurant and bar offering fresh seafood and beautiful views of the San Francisco Bay.",
-                    "coordinates": {
-                        "latitude": "37.762100",
-                        "longitude": "-122.386640"
-                    }
-                },
-                {
-                    "name": "The Ramp Restaurant",
-                    "address": "855 Terry A Francois Blvd, San Francisco, CA 94158",
-                    "website": "http://www.theramprestaurant.com/",
-                    "description": "A casual outdoor spot known for its brunch, live music, and scenic bay views.",
-                    "coordinates": {
-                        "latitude": "37.763480",
-                        "longitude": "-122.388200"
-                    }
-                },
-                {
-                    "name": "Cockscomb",
-                    "address": "564 4th St, San Francisco, CA 94107",
-                    "website": "http://cockscombsf.com/",
-                    "description": "A chic eatery offering a mix of Californian and American cuisine, with a focus on sustainable and local ingredients.",
-                    "coordinates": {
-                        "latitude": "37.779280",
-                        "longitude": "-122.397670"
-                    }
-                }
-            ],
-            "accommodations": [
-                {
-                    "name": "Hotel VIA",
-                    "address": "138 King St, San Francisco, CA 94107",
-                    "website": "https://www.hotelviasf.com/",
-                    "description": "Located near the waterfront, this upscale hotel features modern rooms and a rooftop bar with stunning views.",
-                    "coordinates": {
-                        "latitude": "37.779247",
-                        "longitude": "-122.389275"
-                    }
-                },
-                {
-                    "name": "Hyatt Place San Francisco/Downtown",
-                    "address": "701 3rd St, San Francisco, CA 94107",
-                    "website": "https://www.hyatt.com/en-US/hotel/california/hyatt-place-san-francisco-downtown/sfozd",
-                    "description": "A contemporary hotel offering comfortable accommodations and easy access to local attractions, including Chase Center.",
-                    "coordinates": {
-                        "latitude": "37.779650",
-                        "longitude": "-122.392500"
-                    }
-                }
-            ],
-            "tourist_attractions": [
-                {
-                    "name": "Oracle Park",
-                    "address": "24 Willie Mays Plaza, San Francisco, CA 94107",
-                    "website": "https://www.mlb.com/giants/ballpark",
-                    "description": "Home of the San Francisco Giants, this iconic ballpark offers tours and breathtaking views of the San Francisco Bay.",
-                    "coordinates": {
-                        "latitude": "37.778595",
-                        "longitude": "-122.389270"
-                    }
-                },
-                {
-                    "name": "San Francisco Museum of Modern Art (SFMOMA)",
-                    "address": "151 3rd St, San Francisco, CA 94103",
-                    "website": "https://www.sfmoma.org/",
-                    "description": "One of the largest museums of modern and contemporary art in the United States, featuring notable works from artists around the world.",
-                    "coordinates": {
-                        "latitude": "37.785719",
-                        "longitude": "-122.400812"
-                    }
-                }
-            ],
-            "team_related_activities": [
-                 {
-                    "name": "Warriors Team Store at Chase Center",
-                    "address": "1 Warriors Way, San Francisco, CA 94158",
-                    "website": "https://shop.warriors.com/",
-                    "description": "The official store for Golden State Warriors merchandise, located within the Chase Center.",
-                    "coordinates": {
-                        "latitude": "37.768021",
-                        "longitude": "-122.387566"
-                    }
-                 }
-            ]
+        {
+          "name": "Thrive City",
+          "address": "1 Warriors Way, San Francisco, CA 94158",
+          "website": "https://www.chasecenter.com/thrivecity",
+          "description": "A surrounding district of Chase Center offering year-round health and wellness programming, dining, and entertainment options.",
+          "coordinates": {
+            "latitude": "37.768026",
+            "longitude": "-122.387819"
+          }
         },
-        "public_transportation": {
-            "options": [
-                {
-                    "type": "Muni",
-                    "description": "The SF Muni Metro's T Third Line stops directly at the Chase Center, providing convenient access from various parts of the city."
-                },
-                {
-                    "type": "Bus",
-                    "description": "Several Muni bus routes, including the 22, 30, and 45 lines, offer service to the Chase Center area."
-                }
-            ]
+        {
+          "name": "Warriors Gate 6 Experience",
+          "address": "South St & Terry A Francois Blvd, San Francisco, CA 94158",
+          "description": "An interactive fan zone located at Gate 6 of the Chase Center, featuring pre-game activities, photo ops, and Warriors history exhibits.",
+          "coordinates": {
+            "latitude": "37.767500",
+            "longitude": "-122.386800"
+          }
         },
-        "ticket_purchasing_tips": {
-            "best_places_to_buy": [
-                {
-                    "name": "Official Team Website",
-                    "website": "https://www.nba.com/warriors/tickets",
-                    "description": "The primary source for all ticket sales, offering guaranteed authenticity."
-                },
-                {
-                    "name": "Ticketmaster",
-                    "website": "https://www.ticketmaster.com/golden-state-warriors-tickets/artist/805946",
-                    "description": "Authorized ticketing partner offering authentic Warriors tickets."
-                },
-                {
-                    "name": "StubHub",
-                    "website": "https://www.stubhub.com/golden-state-warriors-tickets/performer/7347/",
-                    "description": "Reliable secondary marketplace that offers verified resold Warriors tickets."
-                }
-            ],
-            "ways_to_save": "Consider purchasing tickets for weekday games, which may be priced lower than weekend games. Look for group discounts or special promotions. Check secondary markets close to game day for potential deals.",
-            "avoiding_scalpers": "Always buy tickets from verified sources to avoid counterfeit tickets. Use secondary marketplaces with buyer protections. Be cautious of buying tickets from sellers outside the venue."
+        {
+          "name": "Chase Center Tours",
+          "address": "1 Warriors Way, San Francisco, CA 94158",
+          "website": "https://www.chasecenter.com/tours",
+          "description": "Guided tours of the Chase Center, offering fans an exclusive look at the state-of-the-art arena, including areas typically off-limits to the public.",
+          "coordinates": {
+            "latitude": "37.768021",
+            "longitude": "-122.387566"
+          }
         }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "Muni",
+          "description": "The SF Muni Metro's T Third Line stops directly at the Chase Center, providing convenient access from various parts of the city."
+        },
+        {
+          "type": "Bus",
+          "description": "Several Muni bus routes, including the 22, 30, and 45 lines, offer service to the Chase Center area."
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Team Website",
+          "website": "https://www.nba.com/warriors/tickets",
+          "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+        },
+        {
+          "name": "Ticketmaster",
+          "website": "https://www.ticketmaster.com/golden-state-warriors-tickets/artist/805946",
+          "description": "Authorized ticketing partner offering authentic Warriors tickets."
+        },
+        {
+          "name": "StubHub",
+          "website": "https://www.stubhub.com/golden-state-warriors-tickets/performer/7347/",
+          "description": "Reliable secondary marketplace that offers verified resold Warriors tickets."
+        }
+      ],
+      "ways_to_save": "Consider purchasing tickets for weekday games, which may be priced lower than weekend games. Look for group discounts or special promotions. Check secondary markets close to game day for potential deals.",
+      "avoiding_scalpers": "Always buy tickets from verified sources to avoid counterfeit tickets. Use secondary marketplaces with buyer protections. Be cautious of buying tickets from sellers outside the venue."
     }
+  }
 }

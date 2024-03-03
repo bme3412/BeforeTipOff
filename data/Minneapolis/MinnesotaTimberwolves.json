@@ -1,139 +1,295 @@
 {
-    "city": "Minneapolis",
-    "team": "Timberwolves",
-    "venue": {
-        "name": "Target Center",
-        "address": "600 N 1st Ave, Minneapolis, MN 55403",
-        "website": "https://www.targetcenter.com/",
-        "average_ticket_price": "$110",
-        "season_start": "October",
-        "playoffs_start": "April",
-        "coordinates": {
+  "city": "Minneapolis",
+  "team": "Timberwolves",
+  "venue": {
+    "name": "Target Center",
+    "address": "600 N 1st Ave, Minneapolis, MN 55403",
+    "website": "https://www.targetcenter.com/",
+    "average_ticket_price": "$110",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "44.9790",
+      "longitude": "-93.2760"
+    },
+    "best_seats_pricing": {
+      "Courtside": {
+        "Description": "Front-row seats that provide an unparalleled viewing experience and close interaction with the game.",
+        "Sections": "Courtside",
+        "Estimated_Pricing_Range": "$1000 - $3000+",
+        "View_Quality": "Unmatched view at court level, placing fans right next to the action.",
+        "Unique_Features": "Opportunities for direct interaction with players and a high chance of being seen on live broadcasts.",
+        "Accessibility": "Premium access with considerations for personal mobility devices.",
+        "Special_Perks": "Exclusive access to VIP clubs, complimentary gourmet dining, and exceptional service."
+      },
+      "Club_Seats": {
+        "Description": "Comfortable seats with a sideline view, offering access to premium amenities for an enhanced game day experience.",
+        "Sections": "VIP and Club Sections",
+        "Estimated_Pricing_Range": "$300 - $1000",
+        "View_Quality": "Great sideline perspective for a comprehensive view of the game.",
+        "Unique_Features": "Enhanced comfort with more space and access to exclusive areas.",
+        "Accessibility": "Convenient entrance and proximity to elevators.",
+        "Special_Perks": "Access to private lounges, upscale dining options, and in-seat wait service."
+      },
+      "Skybox": {
+        "Description": "Luxurious private suites for entertaining guests in a plush setting with a panoramic view of the game.",
+        "Sections": "Skybox Suites",
+        "Estimated_Pricing_Range": "$1500 - $4500+",
+        "View_Quality": "Private and elevated, offering a comprehensive view of the arena.",
+        "Unique_Features": "Premium seating, exclusive catering service, and personalized attention.",
+        "Accessibility": "VIP entrance and elevators for a smooth experience.",
+        "Special_Perks": "Optimal comfort and privacy, with access to exclusive clubs and priority reservations for events."
+      },
+      "Upper_Level": {
+        "Description": "Affordable seating options that still offer a full view of the arena and the electrifying atmosphere of the game.",
+        "Sections": "Upper Level Sections",
+        "Estimated_Pricing_Range": "$50 - $200",
+        "View_Quality": "Higher perspective, ideal for fans wanting to capture the game's overall dynamics.",
+        "Unique_Features": "A budget-friendly way to join the Timberwolves' fan community and experience the game's energy.",
+        "Accessibility": "Accessible seating available, with easy upper level access via escalators and elevators.",
+        "Special_Perks": "A cost-effective choice for experiencing the excitement of a live game, perfect for group outings."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Kierans Irish Pub",
+          "address": "85 N 6th St, Minneapolis, MN 55403",
+          "website": "http://www.kierans.com/",
+          "description": "A lively spot known for its Irish fare and vibrant atmosphere, perfect for pre-game gatherings.",
+          "coordinates": {
+            "latitude": "44.979500",
+            "longitude": "-93.276400"
+          }
+        },
+        {
+          "name": "The Loon Cafe",
+          "address": "500 N 1st Ave, Minneapolis, MN 55403",
+          "website": "http://www.looncafe.com/",
+          "description": "Famous for its chili and proximity to the Target Center, offering a cozy spot for fans.",
+          "coordinates": {
+            "latitude": "44.980500",
+            "longitude": "-93.276900"
+          }
+        },
+        {
+          "name": "Pizza Luce",
+          "address": "119 N 4th St, Minneapolis, MN 55401",
+          "website": "https://pizzaluce.com/",
+          "description": "A favorite among locals for its unique pizza offerings and casual dining atmosphere.",
+          "coordinates": {
+            "latitude": "44.981100",
+            "longitude": "-93.277000"
+          }
+        },
+        {
+          "name": "Sneaky Petes",
+          "address": "14 N 5th St, Minneapolis, MN 55403",
+          "website": "https://www.sneakypetesbar.com/",
+          "description": "An energetic bar and nightclub offering a fun night out with live music and entertainment.",
+          "coordinates": {
+            "latitude": "44.981700",
+            "longitude": "-93.274900"
+          }
+        },
+        {
+          "name": "Cowboy Jacks",
+          "address": "126 N 5th St, Minneapolis, MN 55403",
+          "website": "https://www.theaftermidnightgroup.com/",
+          "description": "Known for its Western theme and rooftop patio, it's a great spot for drinks and views of the city.",
+          "coordinates": {
+            "latitude": "44.982000",
+            "longitude": "-93.275600"
+          }
+        },
+        {
+          "name": "The Capital Grille",
+          "address": "801 Hennepin Ave, Minneapolis, MN 55402",
+          "website": "https://www.thecapitalgrille.com/",
+          "description": "Upscale steakhouse offering fine dining with exceptional service, ideal for a more sophisticated pre-game or post-game meal.",
+          "coordinates": {
+            "latitude": "44.976600",
+            "longitude": "-93.276200"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Loews Minneapolis Hotel",
+          "address": "601 N 1st Ave, Minneapolis, MN 55403",
+          "website": "https://www.loewshotels.com/minneapolis-hotel",
+          "description": "A luxury hotel with sleek, contemporary rooms and easy access to Timberwolves games.",
+          "coordinates": {
+            "latitude": "44.978400",
+            "longitude": "-93.276500"
+          }
+        },
+        {
+          "name": "AC Hotel by Marriott Minneapolis Downtown",
+          "address": "401 Hennepin Ave, Minneapolis, MN 55401",
+          "website": "https://www.marriott.com/hotels/travel/mspar-ac-hotel-minneapolis-downtown/",
+          "description": "Stylish hotel offering comfortable lodging close to the basketball action.",
+          "coordinates": {
+            "latitude": "44.979400",
+            "longitude": "-93.263900"
+          }
+        },
+        {
+          "name": "The Marquette Hotel, Curio Collection by Hilton",
+          "address": "710 Marquette Ave, Minneapolis, MN 55402",
+          "website": "https://www.hilton.com/en/hotels/mspcuqq-the-marquette-hotel/",
+          "description": "Elegant hotel in the heart of downtown, offering spacious rooms and superior amenities.",
+          "coordinates": {
+            "latitude": "44.976900",
+            "longitude": "-93.268200"
+          }
+        },
+        {
+          "name": "W Minneapolis - The Foshay",
+          "address": "821 Marquette Ave, Minneapolis, MN 55402",
+          "website": "https://www.marriott.com/hotels/travel/mspwh-w-minneapolis-the-foshay/",
+          "description": "Iconic hotel with luxurious accommodations and a historic art deco design.",
+          "coordinates": {
+            "latitude": "44.976300",
+            "longitude": "-93.271500"
+          }
+        },
+        {
+          "name": "Hyatt Centric Downtown Minneapolis",
+          "address": "615 2nd Ave S, Minneapolis, MN 55402",
+          "website": "https://www.hyatt.com/en-US/hotel/minnesota/hyatt-centric-downtown-minneapolis/mspct",
+          "description": "Modern hotel featuring chic rooms and prime location for exploring downtown Minneapolis.",
+          "coordinates": {
+            "latitude": "44.976800",
+            "longitude": "-93.269900"
+          }
+        },
+        {
+          "name": "Aloft Minneapolis",
+          "address": "900 Washington Ave S, Minneapolis, MN 55415",
+          "website": "https://www.marriott.com/hotels/travel/mspal-aloft-minneapolis/",
+          "description": "Trendy hotel with vibrant, loft-inspired rooms in the heart of the Mill District.",
+          "coordinates": {
+            "latitude": "44.976700",
+            "longitude": "-93.255400"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "Minneapolis Sculpture Garden",
+          "address": "725 Vineland Pl, Minneapolis, MN 55403",
+          "website": "https://walkerart.org/visit/garden",
+          "description": "Famous outdoor sculpture park featuring the iconic 'Spoonbridge and Cherry' sculpture.",
+          "coordinates": {
+            "latitude": "44.969200",
+            "longitude": "-93.288900"
+          }
+        },
+        {
+          "name": "Mill City Museum",
+          "address": "704 S 2nd St, Minneapolis, MN 55401",
+          "website": "http://www.millcitymuseum.org/",
+          "description": "Built into the ruins of what was once the world's largest flour mill, this museum offers a glimpse into the industrial past.",
+          "coordinates": {
+            "latitude": "44.978100",
+            "longitude": "-93.259500"
+          }
+        },
+        {
+          "name": "Walker Art Center",
+          "address": "725 Vineland Pl, Minneapolis, MN 55403",
+          "website": "https://walkerart.org/",
+          "description": "A contemporary art center known for its visual, performing, and media arts exhibitions.",
+          "coordinates": {
+            "latitude": "44.968200",
+            "longitude": "-93.288900"
+          }
+        },
+        {
+          "name": "Target Field",
+          "address": "1 Twins Way, Minneapolis, MN 55403",
+          "website": "http://minnesota.twins.mlb.com/min/ballpark/",
+          "description": "Home of the Minnesota Twins, this ballpark offers tours and breathtaking views of the Minneapolis skyline.",
+          "coordinates": {
+            "latitude": "44.981700",
+            "longitude": "-93.277500"
+          }
+        },
+        {
+          "name": "Minnehaha Park",
+          "address": "4801 S Minnehaha Drive, Minneapolis, MN 55417",
+          "website": "https://www.minneapolisparks.org/parks__destinations/parks__lakes/minnehaha_regional_park/",
+          "description": "A popular park featuring majestic waterfalls, hiking trails, and historic sites.",
+          "coordinates": {
+            "latitude": "44.915400",
+            "longitude": "-93.211000"
+          }
+        },
+        {
+          "name": "Guthrie Theater",
+          "address": "818 S 2nd St, Minneapolis, MN 55415",
+          "website": "https://www.guthrietheater.org/",
+          "description": "A center for theater performance, production, education, and professional training in Minneapolis.",
+          "coordinates": {
+            "latitude": "44.977300",
+            "longitude": "-93.255200"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Timberwolves Team Store at Target Center",
+          "address": "600 N 1st Ave, Minneapolis, MN 55403",
+          "website": "https://timberwolvesteamstore.com/",
+          "description": "The official store for Minnesota Timberwolves merchandise, located within the Target Center.",
+          "coordinates": {
             "latitude": "44.979030",
             "longitude": "-93.276720"
-        },
-        "nearby_amenities": {
-            "restaurants_bars": [
-                {
-                    "name": "Kieran's Irish Pub",
-                    "address": "85 N 6th St, Minneapolis, MN 55403",
-                    "website": "http://www.kierans.com/",
-                    "description": "A lively spot known for its Irish fare and vibrant atmosphere, perfect for pre-game gatherings.",
-                    "coordinates": {
-                        "latitude": "44.979500",
-                        "longitude": "-93.276400"
-                    }
-                },
-                {
-                    "name": "The Loon Cafe",
-                    "address": "500 N 1st Ave, Minneapolis, MN 55403",
-                    "website": "http://www.looncafe.com/",
-                    "description": "Famous for its chili and proximity to the Target Center, offering a cozy spot for fans.",
-                    "coordinates": {
-                        "latitude": "44.980500",
-                        "longitude": "-93.276900"
-                    }
-                },
-                {
-                    "name": "Pizza Luce",
-                    "address": "119 N 4th St, Minneapolis, MN 55401",
-                    "website": "https://pizzaluce.com/",
-                    "description": "A favorite among locals for its unique pizza offerings and casual dining atmosphere.",
-                    "coordinates": {
-                        "latitude": "44.981100",
-                        "longitude": "-93.277000"
-                    }
-                }
-            ],
-            "accommodations": [
-                {
-                    "name": "Loews Minneapolis Hotel",
-                    "address": "601 N 1st Ave, Minneapolis, MN 55403",
-                    "website": "https://www.loewshotels.com/minneapolis-hotel",
-                    "description": "A luxury hotel with sleek, contemporary rooms and easy access to Timberwolves games.",
-                    "coordinates": {
-                        "latitude": "44.978400",
-                        "longitude": "-93.276500"
-                    }
-                },
-                {
-                    "name": "AC Hotel by Marriott Minneapolis Downtown",
-                    "address": "401 Hennepin Ave, Minneapolis, MN 55401",
-                    "website": "https://www.marriott.com/hotels/travel/mspar-ac-hotel-minneapolis-downtown/",
-                    "description": "Stylish hotel offering comfortable lodging close to the basketball action.",
-                    "coordinates": {
-                        "latitude": "44.979400",
-                        "longitude": "-93.263900"
-                    }
-                }
-            ],
-            "tourist_attractions": [
-                {
-                    "name": "Minneapolis Sculpture Garden",
-                    "address": "725 Vineland Pl, Minneapolis, MN 55403",
-                    "website": "https://walkerart.org/visit/garden",
-                    "description": "Famous outdoor sculpture park featuring the iconic 'Spoonbridge and Cherry' sculpture.",
-                    "coordinates": {
-                        "latitude": "44.969200",
-                        "longitude": "-93.288900"
-                    }
-                },
-                {
-                    "name": "Mill City Museum",
-                    "address": "704 S 2nd St, Minneapolis, MN 55401",
-                    "website": "http://www.millcitymuseum.org/",
-                    "description": "Built into the ruins of what was once the world's largest flour mill, this museum offers a glimpse into the industrial past.",
-                    "coordinates": {
-                        "latitude": "44.978100",
-                        "longitude": "-93.259500"
-                    }
-                }
-            ],
-            "team_related_activities": [
-                 {
-                    "name": "Timberwolves Team Store at Target Center",
-                    "address": "600 N 1st Ave, Minneapolis, MN 55403",
-                    "website": "https://timberwolvesteamstore.com/",
-                    "description": "The official store for Minnesota Timberwolves merchandise, located within the Target Center.",
-                    "coordinates": {
-                        "latitude": "44.979030",
-                        "longitude": "-93.276720"
-                    }
-                 }
-            ]
-        },
-        "public_transportation": {
-            "options": [
-                {
-                    "type": "Light Rail",
-                    "description": "The Blue and Green lines offer stops near Target Center, making it accessible from various parts of the city."
-                },
-                {
-                    "type": "Bus",
-                    "description": "Numerous bus lines run through downtown Minneapolis, providing easy access to the venue."
-                }
-            ]
-        },
-        "ticket_purchasing_tips": {
-            "best_places_to_buy": [
-                {
-                    "name": "Official Team Website",
-                    "website": "https://www.nba.com/timberwolves/tickets",
-                    "description": "The primary source for all ticket sales, offering guaranteed authenticity."
-                },
-                {
-                    "name": "Ticketmaster",
-                    "website": "https://www.ticketmaster.com/minnesota-timberwolves-tickets/artist/805988",
-                    "description": "Authorized ticketing partner offering authentic Timberwolves tickets."
-                },
-                {
-                    "name": "StubHub",
-                    "website": "https://www.stubhub.com/minnesota-timberwolves-tickets/performer/4313",
-                    "description": "Reliable secondary marketplace that offers verified resold Timberwolves tickets."
-                }
-            ],
-            "ways_to_save": "Consider attending weekday games for potentially lower prices. Look into group discounts for parties of 10 or more. Keep an eye out for last-minute deals close to game days.",
-            "avoiding_scalpers": "Purchase tickets exclusively from verified sources to prevent scams. Use secondary market websites that offer a buyer guarantee. Be cautious of purchasing printed tickets from sellers near the venue to avoid fakes."
+          }
         }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "Light Rail",
+          "description": "The Blue and Green lines offer stops near Target Center, making it accessible from various parts of the city."
+        },
+        {
+          "type": "Bus",
+          "description": "Numerous bus lines run through downtown Minneapolis, providing easy access to the venue."
+        },
+        {
+          "type": "Bike Share",
+          "description": "Minneapolis's bike share program, Nice Ride, offers stations throughout downtown, making it a convenient and eco-friendly way to get to the game."
+        },
+        {
+          "type": "Ride Share",
+          "description": "Uber, Lyft, and other ride-share services are widely available in Minneapolis for convenient travel to and from Timberwolves games."
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Team Website",
+          "website": "https://www.nba.com/timberwolves/tickets",
+          "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+        },
+        {
+          "name": "Ticketmaster",
+          "website": "https://www.ticketmaster.com/minnesota-timberwolves-tickets/artist/805988",
+          "description": "Authorized ticketing partner offering authentic Timberwolves tickets."
+        },
+        {
+          "name": "StubHub",
+          "website": "https://www.stubhub.com/minnesota-timberwolves-tickets/performer/4313",
+          "description": "Reliable secondary marketplace that offers verified resold Timberwolves tickets."
+        }
+      ],
+      "ways_to_save": "Consider attending weekday games for potentially lower prices. Look into group discounts for parties of 10 or more. Keep an eye out for last-minute deals close to game days.",
+      "avoiding_scalpers": "Purchase tickets exclusively from verified sources to prevent scams. Use secondary market websites that offer a buyer guarantee. Be cautious of purchasing printed tickets from sellers near the venue to avoid fakes."
     }
+  }
 }

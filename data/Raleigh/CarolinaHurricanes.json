@@ -1,0 +1,270 @@
+{
+  "city": "Raleigh",
+  "team": "Hurricanes",
+  "venue": {
+    "name": "PNC Arena",
+    "address": "1400 Edwards Mill Rd, Raleigh, NC 27607",
+    "website": "https://www.pncarena.com/",
+    "average_ticket_price": "$110",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "35.8036",
+      "longitude": "-78.7212"
+    },
+    "best_seats_pricing": {
+      "Rinkside": {
+        "Description": "Seats right next to the action for an unparalleled game experience.",
+        "Sections": "Rinkside",
+        "Estimated_Pricing_Range": "$750 - $2800+",
+        "View_Quality": "Direct ice-level view, engaging and immersive experience.",
+        "Unique_Features": "Chance for player interactions, possibility of being seen on TV.",
+        "Accessibility": "Easy access, but limited space for personal mobility devices.",
+        "Special_Perks": "Exclusive access to the Club Ledge, complimentary dining and beverages."
+      },
+      "Club_Seats": {
+        "Description": "Offering a fantastic view of the game from the sides with added benefits.",
+        "Sections": "Club Sections 105-108 and 122-125",
+        "Estimated_Pricing_Range": "$200 - $700",
+        "View_Quality": "Elevated side views with clear line of sight to the ice.",
+        "Unique_Features": "Wider seats with more leg room, less crowded sections.",
+        "Accessibility": "Dedicated entrance for easier access, nearby elevators.",
+        "Special_Perks": "Access to premium clubs and in-seat wait service."
+      },
+      "Center_Balcony": {
+        "Description": "Great overall view of the game from an elevated position.",
+        "Sections": "Sections 307-309 and 320-322",
+        "Estimated_Pricing_Range": "$80 - $200",
+        "View_Quality": "Panoramic view of the ice, ideal for tactical analysis.",
+        "Unique_Features": "Affordable pricing for a comprehensive view of the action.",
+        "Accessibility": "Accessible seating available, elevators to balcony level.",
+        "Special_Perks": "More budget-friendly option with a full view of the ice."
+      },
+      "Upper_Level": {
+        "Description": "Upper level seating providing a bird's-eye view of the game.",
+        "Sections": "Sections 301-306 and 310-319",
+        "Estimated_Pricing_Range": "$40 - $120",
+        "View_Quality": "High vantage point overlooking the entire ice surface.",
+        "Unique_Features": "Budget-friendly option with a good overall view.",
+        "Accessibility": "Elevators and escalators available, but higher seating level.",
+        "Special_Perks": "None"
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Backyard Bistro",
+          "address": "1235 Hurricane Alley Way, Raleigh, NC",
+          "website": "https://www.backyardbistro.com/",
+          "description": "A sports bar and grill located directly across from PNC Arena, serving BBQ, burgers, sandwiches, and ribs. A go-to spot for Canes fans on game days.",
+          "coordinates": {
+            "latitude": "35.8032",
+            "longitude": "-78.7219"
+          }
+        },
+        {
+          "name": "Spring Rolls",
+          "address": "5344 Wade Park Blvd Unit 280, Raleigh, NC",
+          "description": "Offering a fusion of Asian cuisines, including sushi and Chinese dishes, located near PNC Arena for a diverse dining experience.",
+          "coordinates": {
+            "latitude": "35.7918",
+            "longitude": "-78.7376"
+          }
+        },
+        {
+          "name": "Neomonde Mediterranean Raleigh",
+          "address": "3817 Beryl Rd, Raleigh, NC",
+          "website": "https://www.neomonde.com/",
+          "description": "A beloved Mediterranean spot offering Lebanese, Greek, and Middle Eastern dishes. A bit farther from the arena but worth the visit for its healthy and flavorful options.",
+          "coordinates": {
+            "latitude": "35.7864",
+            "longitude": "-78.6636"
+          }
+        },
+        {
+          "name": "Ole Time Barbecue",
+          "address": "6309 Hillsborough St, Raleigh, NC",
+          "website": "http://oletimebarbecue.com/",
+          "description": "A classic North Carolina barbecue joint with a casual atmosphere, offering smoked meats and traditional sides a short drive from PNC Arena.",
+          "coordinates": {
+            "latitude": "35.7914",
+            "longitude": "-78.7004"
+          }
+        },
+        {
+          "name": "Guasaca",
+          "address": "4025 Lake Boone Trl #104, Raleigh, NC",
+          "website": "https://www.guasaca.com/",
+          "description": "Known for its Venezuelan arepas and South American flavors, offering a unique and quick meal option for fans heading to the game.",
+          "coordinates": {
+            "latitude": "35.8111",
+            "longitude": "-78.7020"
+          }
+        },
+        {
+          "name": "The Oak",
+          "address": "4035 Lake Boone Trl Ste 115, Raleigh, NC",
+          "website": "https://theoakraleigh.com/",
+          "description": "A tavern offering a variety of American dishes and craft cocktails, providing a cozy setting for pre-game or post-game dining.",
+          "coordinates": {
+            "latitude": "35.8110",
+            "longitude": "-78.7019"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Westin Raleigh-Durham",
+          "address": "3931 Macaw Street, Raleigh, North Carolina 27617",
+          "website": "https://www.marriott.com/hotels/travel/rdudw-the-westin-raleigh-durham-airport-brier-creek/",
+          "description": "Minutes from PNC Arena in Brier Creek, offering wellness routines like rooftop sunrise yoga and Heavenly guestroom experiences.",
+          "coordinates": {
+            "latitude": "35.8728",
+            "longitude": "-78.7907"
+          }
+        },
+        {
+          "name": "Four Points by Sheraton Raleigh Arena",
+          "address": "1200 Hurricane Alley Way, Raleigh, North Carolina 27607",
+          "website": "https://www.marriott.com/hotels/travel/rdufp-four-points-raleigh-arena/",
+          "description": "Walking distance to PNC Arena, with oversized rooms, free Wi-Fi, outdoor pool, and an onsite restaurant.",
+          "coordinates": {
+            "latitude": "35.8037",
+            "longitude": "-78.7219"
+          }
+        },
+        {
+          "name": "Home2 Suites by Hilton Raleigh State Arena",
+          "address": "6825 Chapel Hill Road, Raleigh, North Carolina 27607",
+          "website": "https://www.hilton.com/en/hotels/rduhtht-home2-suites-raleigh-state-arena/",
+          "description": "1.5 miles from PNC Arena, this all-suites hotel offers complimentary breakfast, Wi-Fi, outdoor pool, and a 24-hour fitness center.",
+          "coordinates": {
+            "latitude": "35.7865",
+            "longitude": "-78.7463"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "North Carolina Museum of History",
+          "address": "5 E Edenton St, Raleigh, NC 27601",
+          "website": "https://www.ncmuseumofhistory.org/",
+          "description": "Showcases the state's past through exhibits on Native American culture, European colonization, the Civil War, and more.",
+          "coordinates": {
+            "latitude": "35.7808",
+            "longitude": "-78.6394"
+          }
+        },
+        {
+          "name": "North Carolina Museum of Natural Sciences",
+          "address": "11 W Jones St, Raleigh, NC 27601",
+          "website": "https://www.naturalsciences.org/",
+          "description": "Features exhibits on dinosaurs, coastal habitats, North Carolina's diverse ecosystems, and a living conservatory with butterflies and live animals.",
+          "coordinates": {
+            "latitude": "35.7804",
+            "longitude": "-78.6391"
+          }
+        },
+        {
+          "name": "Pullen Park",
+          "address": "520 Ashe Ave, Raleigh, NC 27606",
+          "website": "https://raleighnc.gov/places/pullen-park",
+          "description": "Oldest public park in North Carolina, offering pedal boats, a historic carousel, train rides, playgrounds, and picnic areas.",
+          "coordinates": {
+            "latitude": "35.7825",
+            "longitude": "-78.6612"
+          }
+        },
+        {
+          "name": "North Carolina Museum of Art",
+          "address": "2110 Blue Ridge Rd, Raleigh, NC 27607",
+          "website": "https://ncartmuseum.org/",
+          "description": "Features a diverse collection of artworks, outdoor sculptures, and a museum park with walking trails.",
+          "coordinates": {
+            "latitude": "35.7915",
+            "longitude": "-78.7070"
+          }
+        },
+        {
+          "name": "PNC Arena",
+          "address": "1400 Edwards Mill Rd, Raleigh, NC 27607",
+          "website": "https://www.pncarena.com/",
+          "description": "Home to the Carolina Hurricanes NHL team and host to various concerts, sporting events, and entertainment shows.",
+          "coordinates": {
+            "latitude": "35.8035",
+            "longitude": "-78.7212"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+            "name": "Hurricanes Team Store at PNC Arena",
+            "address": "1400 Edwards Mill Rd, Raleigh, NC 27607",
+            "website": "https://www.thecanesfanzone.com/",
+            "description": "Official store for Carolina Hurricanes merchandise, located within the PNC Arena.",
+            "coordinates": {
+              "latitude": "35.8035",
+              "longitude": "-78.7212"
+            }
+          },
+          {
+            "name": "Hurricanes Hall of Fame Experience",
+            "address": "1400 Edwards Mill Rd, Raleigh, NC 27607",
+            "website": "https://www.nhl.com/hurricanes/fans/hurricanes-hall-of-fame",
+            "description": "Interactive museum featuring Hurricanes history, player artifacts, and championship memorabilia.",
+            "coordinates": {
+              "latitude": "35.8035",
+              "longitude": "-78.7212"
+            }
+          },
+          {
+            "name": "Hurricanes Game Day Tours",
+            "address": "1400 Edwards Mill Rd, Raleigh, NC 27607",
+            "website": "https://www.nhl.com/hurricanes/fans/hurricanes-game-day-tours",
+            "description": "Behind-the-scenes tours of the PNC Arena on game days, including exclusive areas and player insights.",
+            "coordinates": {
+              "latitude": "35.8035",
+              "longitude": "-78.7212"
+            }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "Bus",
+          "description": "GoRaleigh bus service provides transportation to the PNC Arena.",
+          "map_link": "https://transloc.com/raleigh/",
+          "map_link_2": "https://transloc.com/raleigh/"
+        },
+        {
+          "type": "Rideshare",
+          "description": "Rideshare services like Uber and Lyft are available for convenient transportation to the PNC Arena.",
+          "map_link": "https://www.uber.com/",
+          "map_link_2": "https://www.lyft.com/"
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Team Website",
+          "website": "https://www.nhl.com/hurricanes/tickets/",
+          "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+        },
+        {
+          "name": "Ticketmaster",
+          "website": "https://www.ticketmaster.com/carolina-hurricanes-tickets/artist/805913",
+          "description": "Authorized ticketing partner offering authentic Hurricanes tickets."
+        },
+        {
+          "name": "StubHub",
+          "website": "https://www.stubhub.com/carolina-hurricanes-tickets/performer/4891",
+          "description": "Reliable secondary marketplace that offers verified resold Hurricanes tickets."
+        }
+      ],
+      "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+      "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+    }
+  }
+}

@@ -1,21 +1,59 @@
 {
     "city": "Memphis",
-    "team": "Grizzlies",
-    "venue": {
-        "name": "FedExForum",
-        "address": "191 Beale St, Memphis, TN 38103",
-        "website": "https://www.fedexforum.com/",
-        "average_ticket_price": "$80",
-        "season_start": "October",
-        "playoffs_start": "April",
-        "coordinates": {
-            "latitude": "35.138176",
-            "longitude": "-90.050539"
-        },
+"team": "Grizzlies",
+"venue": {
+  "name": "FedExForum",
+  "address": "191 Beale St, Memphis, TN 38103",
+  "website": "https://www.fedexforum.com/",
+  "average_ticket_price": "$90",
+  "season_start": "October",
+  "playoffs_start": "April",
+  "coordinates": {
+    "latitude": "35.138254",
+    "longitude": "-90.050738"
+  },
+  "best_seats_pricing": {
+    "Courtside": {
+      "Description": "Seats right next to the action for an unparalleled game experience.",
+      "Sections": "Courtside",
+      "Estimated_Pricing_Range": "$750 - $3000+",
+      "View_Quality": "Direct court-level view, engaging and immersive experience.",
+      "Unique_Features": "Chance for player interactions, possibility of being seen on TV.",
+      "Accessibility": "Easy access, but limited space for personal mobility devices.",
+      "Special_Perks": "Exclusive access to premium lounges, complimentary dining and beverages."
+    },
+    "Club_Seats": {
+      "Description": "Premium seating offering a fantastic view of the game from the sides.",
+      "Sections": "Club Level Sections",
+      "Estimated_Pricing_Range": "$250 - $800",
+      "View_Quality": "Elevated side views with clear line of sight to the court.",
+      "Unique_Features": "Wider seats with more leg room, less crowded sections.",
+      "Accessibility": "Dedicated entrance for easier access, nearby elevators.",
+      "Special_Perks": "Access to exclusive clubs and in-seat wait service."
+    },
+    "Terrace_Level": {
+      "Description": "Great overall view of the game from an elevated position.",
+      "Sections": "Upper Level Sections",
+      "Estimated_Pricing_Range": "$50 - $200",
+      "View_Quality": "Panoramic view of the court, ideal for enjoying the game.",
+      "Unique_Features": "Affordable pricing for a comprehensive view of the action.",
+      "Accessibility": "Accessible seating available, elevators to upper levels.",
+      "Special_Perks": "Budget-friendly option with a full view of the court."
+    },
+    "Plaza_Level": {
+      "Description": "Close to the action with a slightly elevated perspective.",
+      "Sections": "Lower Bowl Sections",
+      "Estimated_Pricing_Range": "$100 - $500",
+      "View_Quality": "Proximity to the court with great sightlines.",
+      "Unique_Features": "Good balance of price, view, and experience.",
+      "Accessibility": "Wheelchair-accessible seating and nearby amenities.",
+      "Special_Perks": "Excellent view points and convenient access to concessions."
+    }
+  },
         "nearby_amenities": {
             "restaurants_bars": [
                 {
-                    "name": "B.B. King's Blues Club",
+                    "name": "B.B. Kings Blues Club",
                     "address": "143 Beale St, Memphis, TN 38103",
                     "website": "https://www.bbkings.com/memphis/",
                     "description": "A renowned spot for live music and Southern cuisine, offering a vibrant atmosphere just steps from FedExForum.",
@@ -35,13 +73,43 @@
                     }
                 },
                 {
-                    "name": "Gus's World Famous Fried Chicken",
+                    "name": "Gus World Famous Fried Chicken",
                     "address": "310 S Front St, Memphis, TN 38103",
                     "website": "https://gusfriedchicken.com/",
                     "description": "Famous for its spicy fried chicken, this casual diner is a must-visit for foodies and a short walk from the arena.",
                     "coordinates": {
                         "latitude": "35.140007",
                         "longitude": "-90.053543"
+                    }
+                },
+                {
+                    "name": "Silky OSullivans",
+                    "address": "183 Beale St, Memphis, TN 38103",
+                    "website": "http://www.silkyosullivans.com/",
+                    "description": "An Irish pub known for its live goats and a diverse menu, including barbecue and seafood, perfect for a fun night out.",
+                    "coordinates": {
+                        "latitude": "35.139528",
+                        "longitude": "-90.053260"
+                    }
+                },
+                {
+                    "name": "Blues City Cafe",
+                    "address": "138 Beale St, Memphis, TN 38103",
+                    "website": "https://www.bluescitycafe.com/",
+                    "description": "Offers Memphis-style ribs, steaks, and catfish along with live blues music, encapsulating the spirit of Memphis.",
+                    "coordinates": {
+                        "latitude": "35.139925",
+                        "longitude": "-90.053462"
+                    }
+                },
+                {
+                    "name": "Rendezvous",
+                    "address": "52 S 2nd St, Memphis, TN 38103",
+                    "website": "https://www.hogsfly.com/",
+                    "description": "A historic Memphis barbecue joint located in a basement, famous for its dry-rubbed ribs that attract locals and tourists alike.",
+                    "coordinates": {
+                        "latitude": "35.143648",
+                        "longitude": "-90.051688"
                     }
                 }
             ],
@@ -65,6 +133,46 @@
                         "latitude": "35.144359",
                         "longitude": "-90.051897"
                     }
+                },
+                {
+                    "name": "Peabody Memphis",
+                    "address": "118 S 2nd St, Memphis, TN 38103",
+                    "website": "https://www.peabodymemphis.com/",
+                    "description": "Iconic hotel known for its charm and the famous Peabody Ducks, offering luxury stay and multiple dining options.",
+                    "coordinates": {
+                        "latitude": "35.142687",
+                        "longitude": "-90.051925"
+                    }
+                },
+                {
+                    "name": "Arrive Memphis",
+                    "address": "477 S Main St, Memphis, TN 38103",
+                    "website": "https://arrivehotels.com/memphis/",
+                    "description": "A modern hotel with a focus on community and local culture, featuring comfortable rooms and a popular on-site bar and restaurant.",
+                    "coordinates": {
+                        "latitude": "35.134106",
+                        "longitude": "-90.057830"
+                    }
+                },
+                {
+                    "name": "Hilton Garden Inn Memphis Downtown",
+                    "address": "201 Union Ave, Memphis, TN 38103",
+                    "website": "https://www.hilton.com/en/hotels/memdcgi-hilton-garden-inn-memphis-downtown/",
+                    "description": "Features comfortable rooms and suites, an indoor pool, and is conveniently located near FedExForum and Beale Street.",
+                    "coordinates": {
+                        "latitude": "35.142383",
+                        "longitude": "-90.052909"
+                    }
+                },
+                {
+                    "name": "The Central Station Memphis, Curio Collection by Hilton",
+                    "address": "545 S Main St, Memphis, TN 38103",
+                    "website": "https://www.hilton.com/en/hotels/memqqqq-the-central-station-memphis/",
+                    "description": "A beautifully renovated hotel in the historic Central Station building, offering unique rooms and a deep connection to the city's music culture.",
+                    "coordinates": {
+                        "latitude": "35.132736",
+                        "longitude": "-90.057912"
+                    }
                 }
             ],
             "tourist_attractions": [
@@ -87,30 +195,118 @@
                         "latitude": "35.134514",
                         "longitude": "-90.057036"
                     }
+                },
+                {
+                    "name": "Graceland",
+                    "address": "Elvis Presley Blvd, Memphis, TN 38116",
+                    "website": "https://www.graceland.com/",
+                    "description": "The home of Elvis Presley, the King of Rock 'n' Roll, Graceland is one of the most visited private homes in America with tours of the mansion, exhibits, and the Elvis Presley Car Museum.",
+                    "coordinates": {
+                        "latitude": "35.047691",
+                        "longitude": "-90.026049"
+                    }
+                },
+                {
+                    "name": "Memphis Zoo",
+                    "address": "2000 Prentiss Place, Memphis, TN 38112",
+                    "website": "https://www.memphiszoo.org/",
+                    "description": "Home to over 3,500 animals representing 500 species, the Memphis Zoo has been a staple of Overton Park for over 100 years and offers engaging exhibits and conservation programs.",
+                    "coordinates": {
+                        "latitude": "35.150104",
+                        "longitude": "-89.994424"
+                    }
+                },
+                {
+                    "name": "Stax Museum of American Soul Music",
+                    "address": "926 E McLemore Ave, Memphis, TN 38106",
+                    "website": "https://staxmuseum.com/",
+                    "description": "Dedicated to preserving the legacy of Stax Records and American soul music, this museum houses more than 2,000 exhibits related to the genre's history.",
+                    "coordinates": {
+                        "latitude": "35.115412",
+                        "longitude": "-90.034482"
+                    }
+                },
+                {
+                    "name": "Sun Studio",
+                    "address": "706 Union Ave, Memphis, TN 38103",
+                    "website": "https://www.sunstudio.com/",
+                    "description": "Known as the birthplace of rock 'n' roll, Sun Studio is a recording studio opened by Sam Phillips that discovered legends such as Elvis Presley, Johnny Cash, and Jerry Lee Lewis.",
+                    "coordinates": {
+                        "latitude": "35.139795",
+                        "longitude": "-90.037925"
+                    }
+                },
+                {
+                    "name": "Shelby Farms Park",
+                    "address": "6903 Great View Drive North, Memphis, TN 38134",
+                    "website": "https://www.shelbyfarmspark.org/",
+                    "description": "One of the largest urban parks in America, offering a range of outdoor activities including biking, paddle boating, and zip lining across its 4,500 acres.",
+                    "coordinates": {
+                        "latitude": "35.142096",
+                        "longitude": "-89.801285"
+                    }
+                },
+                {
+                    "name": "Mud Island River Park",
+                    "address": "125 N Front St, Memphis, TN 38103",
+                    "website": "http://www.mudisland.com/",
+                    "description": "Features a Riverwalk model of the Mississippi River, pedal boats, and a museum dedicated to the river's history and cultural significance.",
+                    "coordinates": {
+                        "latitude": "35.155927",
+                        "longitude": "-90.056758"
+                    }
                 }
             ],
             "team_related_activities": [
-                 {
+                {
                     "name": "Grizzlies Den by Fanatics at FedExForum",
                     "address": "191 Beale St, Memphis, TN 38103",
                     "website": "https://www.nba.com/grizzlies/fanzone/den",
-                    "description": "The official store for Memphis Grizzlies merchandise, offering a wide selection of jerseys, apparel, and accessories.",
+                    "description": "The official store for Memphis Grizzlies merchandise, offering a wide selection of jerseys, apparel, and accessories for fans of all ages. Located within the FedExForum, it's a must-visit for game-day gear.",
                     "coordinates": {
                         "latitude": "35.138176",
                         "longitude": "-90.050539"
                     }
-                 }
+                },
+                {
+                    "name": "FedExForum Arena Tours",
+                    "address": "191 Beale St, Memphis, TN 38103",
+                    "website": "https://www.fedexforum.com/arena-tours",
+                    "description": "Explore behind the scenes of the Grizzlies' home court. The tour offers fans an insider's look at the locker rooms, VIP areas, and the court itself. A great way to experience the arena beyond game day.",
+                    "coordinates": {
+                        "latitude": "35.138176",
+                        "longitude": "-90.050539"
+                    }
+                },
+                {
+                    "name": "Pre-Game Plaza Parties",
+                    "address": "Outside FedExForum, 191 Beale St, Memphis, TN 38103",
+                    "description": "Before select home games, the plaza outside FedExForum comes alive with music, games, and activities for fans of all ages. It's a great way to get into the spirit before heading in to watch the game.",
+                    "coordinates": {
+                        "latitude": "35.1381",
+                        "longitude": "-90.0505"
+                    }
+                }
             ]
+            
         },
         "public_transportation": {
             "options": [
                 {
                     "type": "Trolley",
-                    "description": "The Memphis Trolley offers service along Main Street and the Riverfront, with stops convenient to FedExForum."
+                    "description": "The Memphis Trolley offers service along Main Street and the Riverfront, with stops convenient to FedExForum. It's a scenic and enjoyable way to explore downtown Memphis, with day passes available for unlimited rides."
                 },
                 {
                     "type": "Bus",
-                    "description": "Multiple MATA bus lines serve the downtown area, providing easy access to FedExForum from across the city."
+                    "description": "Multiple MATA bus lines serve the downtown area, providing easy access to FedExForum from across the city. The 12, 13, and 40 lines have stops near the arena, with real-time tracking available on the MATA website."
+                },
+                {
+                    "type": "Ride Share",
+                    "description": "Uber and Lyft operate extensively throughout Memphis, offering a convenient and flexible option for getting to and from FedExForum. Designated pickup and drop-off zones ensure a smooth experience on game days."
+                },
+                {
+                    "type": "Bike Share",
+                    "description": "Explore Bike Share stations are located throughout downtown Memphis, offering a healthy and environmentally friendly way to get around. There's a station directly outside FedExForum, making it easy to bike to the game."
                 }
             ]
         },
@@ -119,17 +315,27 @@
                 {
                     "name": "Official Team Website",
                     "website": "https://www.nba.com/grizzlies/tickets",
-                    "description": "The primary source for all ticket sales, offering guaranteed authenticity and the best seat selections."
+                    "description": "The primary source for all ticket sales, offering guaranteed authenticity and the best seat selections. Check here first for promotions, season tickets, and single-game sales."
                 },
                 {
                     "name": "Ticketmaster",
                     "website": "https://www.ticketmaster.com/memphis-grizzlies-tickets/artist/806013",
-                    "description": "Authorized ticketing partner offering authentic Grizzlies tickets."
+                    "description": "Authorized ticketing partner offering authentic Grizzlies tickets, including exclusive presales and verified resale tickets."
                 },
                 {
                     "name": "StubHub",
                     "website": "https://www.stubhub.com/memphis-grizzlies-tickets/performer/2743/",
-                    "description": "Reliable secondary marketplace that offers verified resold Grizzlies tickets."
+                    "description": "Reliable secondary marketplace that offers verified resold Grizzlies tickets, often with competitive pricing for sold-out games."
+                },
+                {
+                    "name": "SeatGeek",
+                    "website": "https://www.seatgeek.com/memphis-grizzlies-tickets",
+                    "description": "A user-friendly platform for buying and selling tickets to Grizzlies games, featuring interactive seating charts to find the perfect view."
+                },
+                {
+                    "name": "NBA Ticket Exchange",
+                    "website": "https://www.nba.com/tickets",
+                    "description": "The official NBA resale marketplace, offering a safe and secure platform for buying and selling tickets to all Grizzlies games."
                 }
             ],
             "ways_to_save": "Consider attending games on weekdays for potentially lower ticket prices. Explore group discounts or promotional nights for additional savings. Last-minute ticket deals can also offer savings.",

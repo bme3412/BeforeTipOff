@@ -1,140 +1,311 @@
 {
-    "city": "Houston",
-    "team": "Rockets",
-    "venue": {
-      "name": "Toyota Center",
-      "address": "1510 Polk Street, Houston, TX 77002",
-      "website": "https://www.toyotacenter.com/",
-      "average_ticket_price": "$110",
-      "season_start": "October",
-      "playoffs_start": "April",
-      "coordinates": {
-        "latitude": "29.750764",
-        "longitude": "-95.362206"
+  "city": "Houston",
+  "team": "Rockets",
+  "venue": {
+    "name": "Toyota Center",
+    "address": "1510 Polk St, Houston, TX 77002",
+    "website": "https://www.toyotacenter.com/",
+    "average_ticket_price": "$130",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "29.750766",
+      "longitude": "-95.362488"
+    },
+    "best_seats_pricing": {
+      "Courtside": {
+        "Description": "Elite seating offering the closest view of the action, providing an immersive game day experience.",
+        "Sections": "Courtside",
+        "Estimated_Pricing_Range": "$1200 - $3500+",
+        "View_Quality": "Direct view at court level, offering the most engaging and dynamic experience.",
+        "Unique_Features": "Opportunities for direct interactions with players, visibility on live broadcasts.",
+        "Accessibility": "Priority access with some limitations for personal mobility devices.",
+        "Special_Perks": "Exclusive access to VIP clubs, complimentary gourmet dining, and personalized services."
       },
-      "nearby_amenities": {
-        "restaurants_bars": [
-          {
-            "name": "The Rustic",
-            "address": "1836 Polk St, Houston, TX 77003",
-            "website": "https://therustic.com/",
-            "description": "A lively spot with a backyard feel offering farm-to-table meals, live music, and a large selection of craft beers.",
-            "coordinates": {
-              "latitude": "29.752243",
-              "longitude": "-95.359417"
-            }
-          },
-          {
-            "name": "Huynh Restaurant",
-            "address": "912 St Emanuel St, Houston, TX 77003",
-            "website": "http://www.huynhrestauranthouston.com/",
-            "description": "Family-owned eatery serving homestyle Vietnamese dishes in a cozy and welcoming atmosphere.",
-            "coordinates": {
-              "latitude": "29.752022",
-              "longitude": "-95.354921"
-            }
-          },
-          {
-            "name": "Pappasito's Cantina",
-            "address": "1510 Polk St, Houston, TX 77002",
-            "website": "https://pappasitos.com/location/45",
-            "description": "A Tex-Mex favorite known for its lively ambiance and margaritas, located conveniently inside the Toyota Center.",
-            "coordinates": {
-              "latitude": "29.750764",
-              "longitude": "-95.362206"
-            }
-          }
-        ],
-        "accommodations": [
-          {
-            "name": "Hilton Americas-Houston",
-            "address": "1600 Lamar St, Houston, TX 77010",
-            "website": "https://www.hilton.com/en/hotels/houcvhh-hilton-americas-houston/",
-            "description": "Upscale hotel with a skybridge to Toyota Center, featuring modern rooms, a spa, and an Olympic-sized pool.",
-            "coordinates": {
-              "latitude": "29.753616",
-              "longitude": "-95.35783"
-            }
-          },
-          {
-            "name": "Hotel Alessandra",
-            "address": "1070 Dallas St, Houston, TX 77002",
-            "website": "https://www.hotelalessandra-houston.com/",
-            "description": "Luxury boutique hotel offering elegant accommodations, fine dining, and a rooftop pool with city views.",
-            "coordinates": {
-              "latitude": "29.7544",
-              "longitude": "-95.3639"
-            }
-          }
-        ],
-        "tourist_attractions": [
-          {
-            "name": "Discovery Green",
-            "address": "1500 McKinney St, Houston, TX 77010",
-            "website": "https://www.discoverygreen.com/",
-            "description": "An urban park in downtown Houston, providing green space, a lake, playgrounds, and public art installations.",
-            "coordinates": {
-              "latitude": "29.753993",
-              "longitude": "-95.359697"
-            }
-          },
-          {
-            "name": "Houston Museum of Natural Science",
-            "address": "5555 Hermann Park Dr, Houston, TX 77030",
-            "website": "http://www.hmns.org/",
-            "description": "A science museum that features a planetarium, butterfly center, and a wide array of exhibits on natural science topics.",
-            "coordinates": {
-              "latitude": "29.7216",
-              "longitude": "-95.3899"
-            }
-          }
-        ],
-        "team_related_activities": [
-          {
-            "name": "Rockets Shop",
-            "address": "1510 Polk Street, Houston, TX 77002",
-            "website": "https://rocketsshop.com/",
-            "description": "Official store for Houston Rockets merchandise, offering a wide range of apparel and accessories.",
-            "coordinates": {
-              "latitude": "29.750764",
-              "longitude": "-95.362206"
-            }
-          }
-        ]
+      "Club Level": {
+        "Description": "Premium seating offering a fantastic view of the game from an elevated perspective, with added benefits.",
+        "Sections": "Club Level Sections",
+        "Estimated_Pricing_Range": "$280 - $900",
+        "View_Quality": "Elevated and central views ensuring a perfect sightline to the court.",
+        "Unique_Features": "Comfortable seating with additional legroom, less crowded for a more exclusive experience.",
+        "Accessibility": "Dedicated entrance for easier access, with nearby elevators and restrooms.",
+        "Special_Perks": "Access to exclusive lounges, gourmet dining options, and in-seat service."
       },
-      "public_transportation": {
-        "options": [
-          {
-            "type": "METRORail",
-            "description": "The Red Line offers service to the Toyota Center, with the nearest station being the Convention District Station, providing easy access from various parts of the city."
-          },
-          {
-            "type": "Bus",
-            "description": "Several METRO bus lines serve the downtown area, with stops near the Toyota Center, facilitating access from wider areas."
-          }
-        ]
+      "Upper Level": {
+        "Description": "A budget-friendly option that offers a bird's-eye view of the game, capturing the entire court.",
+        "Sections": "Upper Level Sections",
+        "Estimated_Pricing_Range": "$60 - $250",
+        "View_Quality": "Panoramic view of the court, ideal for fans who appreciate the game from a higher vantage point.",
+        "Unique_Features": "An affordable way to enjoy the excitement of Rockets basketball.",
+        "Accessibility": "Accessible seating available, with escalators and elevators to the upper levels.",
+        "Special_Perks": "Cost-effective, with access to standard arena amenities."
       },
-      "ticket_purchasing_tips": {
-        "best_places_to_buy": [
-          {
-            "name": "Official Team Website",
-            "website": "https://www.nba.com/rockets/tickets/single-game",
-            "description": "The primary source for all ticket sales, offering guaranteed authenticity."
-          },
-          {
-            "name": "Ticketmaster",
-            "website": "https://www.ticketmaster.com/houston-rockets-tickets/artist/805966",
-            "description": "Authorized ticketing partner offering authentic Rockets tickets."
-          },
-          {
-            "name": "StubHub",
-            "website": "https://www.stubhub.com/houston-rockets-tickets/performer/274/",
-            "description": "Reliable secondary marketplace that offers verified resold Rockets tickets."
-          }
-        ],
-        "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
-        "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+      "Suite Level": {
+        "Description": "Luxurious private suites offering a blend of exclusivity and comfort with a premier view of the game.",
+        "Sections": "Suite Level",
+        "Estimated_Pricing_Range": "$1700 - $5500+",
+        "View_Quality": "Private and elevated viewing experience with unmatched sightlines to the court.",
+        "Unique_Features": "Suites equipped with plush seating, private restrooms, and customizable catering options.",
+        "Accessibility": "Exclusive access points with private elevators, ensuring ease of movement.",
+        "Special_Perks": "Personalized service, access to exclusive clubs, and priority booking for events."
       }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "The Rustic",
+          "address": "1836 Polk St, Houston, TX 77003",
+          "website": "https://therustic.com/",
+          "description": "A lively spot with a backyard feel offering farm-to-table meals, live music, and a large selection of craft beers.",
+          "coordinates": {
+            "latitude": "29.752243",
+            "longitude": "-95.359417"
+          }
+        },
+        {
+          "name": "Huynh Restaurant",
+          "address": "912 St Emanuel St, Houston, TX 77003",
+          "website": "http://www.huynhrestauranthouston.com/",
+          "description": "Family-owned eatery serving homestyle Vietnamese dishes in a cozy and welcoming atmosphere.",
+          "coordinates": {
+            "latitude": "29.752022",
+            "longitude": "-95.354921"
+          }
+        },
+        {
+          "name": "Pappasitos Cantina",
+          "address": "1510 Polk St, Houston, TX 77002",
+          "website": "https://pappasitos.com/location/45",
+          "description": "A Tex-Mex favorite known for its lively ambiance and margaritas, located conveniently inside the Toyota Center.",
+          "coordinates": {
+            "latitude": "29.750764",
+            "longitude": "-95.362206"
+          }
+        },
+        {
+          "name": "Xochi",
+          "address": "1777 Walker St, Houston, TX 77010",
+          "website": "https://www.xochihouston.com/",
+          "description": "Celebrated chef Hugo Ortega's outlet serving inventive Oaxacan cuisine in a sophisticated setting.",
+          "coordinates": {
+            "latitude": "29.752709",
+            "longitude": "-95.358483"
+          }
+        },
+        {
+          "name": "Franks Pizza",
+          "address": "417 Travis St, Houston, TX 77002",
+          "website": "http://www.frankspizza.com/",
+          "description": "Downtown pizzeria offering late-night slices and whole pies in a casual setting, perfect for post-game cravings.",
+          "coordinates": {
+            "latitude": "29.762888",
+            "longitude": "-95.362536"
+          }
+        },
+        {
+          "name": "Kulture",
+          "address": "701 Avenida de las Americas, Houston, TX 77010",
+          "website": "https://kulture-houston.com/",
+          "description": "An urban comfort kitchen serving a creative take on Southern and Caribbean flavors near Discovery Green.",
+          "coordinates": {
+            "latitude": "29.753643",
+            "longitude": "-95.359523"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Hilton Americas-Houston",
+          "address": "1600 Lamar St, Houston, TX 77010",
+          "website": "https://www.hilton.com/en/hotels/houcvhh-hilton-americas-houston/",
+          "description": "Upscale hotel with a skybridge to Toyota Center, featuring modern rooms, a spa, and an Olympic-sized pool.",
+          "coordinates": {
+            "latitude": "29.753616",
+            "longitude": "-95.35783"
+          }
+        },
+        {
+          "name": "Hotel Alessandra",
+          "address": "1070 Dallas St, Houston, TX 77002",
+          "website": "https://www.hotelalessandra-houston.com/",
+          "description": "Luxury boutique hotel offering elegant accommodations, fine dining, and a rooftop pool with city views.",
+          "coordinates": {
+            "latitude": "29.7544",
+            "longitude": "-95.3639"
+          }
+        },
+        {
+          "name": "Marriott Marquis Houston",
+          "address": "1777 Walker St, Houston, TX 77010",
+          "website": "https://www.marriott.com/hotels/travel/houmq-marriott-marquis-houston/",
+          "description": "This hotel features a Texas-shaped rooftop lazy river, extensive meeting space, and multiple dining options.",
+          "coordinates": {
+            "latitude": "29.752018",
+            "longitude": "-95.357804"
+          }
+        },
+        {
+          "name": "The Westin Houston Downtown",
+          "address": "1520 Texas Ave, Houston, TX 77002",
+          "website": "https://www.marriott.com/hotels/travel/houwi-the-westin-houston-downtown/",
+          "description": "Opposite Minute Maid Park, this hotel offers upscale accommodations with convenient access to Houston's sports venues.",
+          "coordinates": {
+            "latitude": "29.756905",
+            "longitude": "-95.355489"
+          }
+        },
+        {
+          "name": "Hampton Inn Houston-Downtown",
+          "address": "710 Crawford St, Houston, TX 77002",
+          "website": "https://www.hilton.com/en/hotels/houdthx-hampton-houston-downtown/",
+          "description": "Affordable and comfortable, with free breakfast and an outdoor pool, located close to Toyota Center and other attractions.",
+          "coordinates": {
+            "latitude": "29.754967",
+            "longitude": "-95.357677"
+          }
+        },
+        {
+          "name": "Four Seasons Hotel Houston",
+          "address": "1300 Lamar St, Houston, TX 77010",
+          "website": "https://www.fourseasons.com/houston/",
+          "description": "Five-star luxury hotel in downtown Houston, featuring a spa, fine dining, and elegantly appointed rooms.",
+          "coordinates": {
+            "latitude": "29.755888",
+            "longitude": "-95.365785"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "Discovery Green",
+          "address": "1500 McKinney St, Houston, TX 77010",
+          "website": "https://www.discoverygreen.com/",
+          "description": "An urban park in downtown Houston, providing green space, a lake, playgrounds, and public art installations.",
+          "coordinates": {
+            "latitude": "29.753993",
+            "longitude": "-95.359697"
+          }
+        },
+        {
+          "name": "Houston Museum of Natural Science",
+          "address": "5555 Hermann Park Dr, Houston, TX 77030",
+          "website": "http://www.hmns.org/",
+          "description": "A science museum that features a planetarium, butterfly center, and a wide array of exhibits on natural science topics.",
+          "coordinates": {
+            "latitude": "29.7216",
+            "longitude": "-95.3899"
+          }
+        },
+        {
+          "name": "Space Center Houston",
+          "address": "1601 E NASA Pkwy, Houston, TX 77058",
+          "website": "https://spacecenter.org/",
+          "description": "The Official Visitor Center of NASA Johnson Space Center, this is a must-visit for space enthusiasts, offering tram tours of the space center and numerous exhibits.",
+          "coordinates": {
+            "latitude": "29.5502",
+            "longitude": "-95.097"
+          }
+        },
+        {
+          "name": "The Menil Collection",
+          "address": "1533 Sul Ross St, Houston, TX 77006",
+          "website": "https://www.menil.org/",
+          "description": "A museum housing the private art collection of founders John and Dominique de Menil, featuring works from antiquity to the twentieth century.",
+          "coordinates": {
+            "latitude": "29.7375",
+            "longitude": "-95.3986"
+          }
+        },
+        {
+          "name": "Houston Zoo",
+          "address": "6200 Hermann Park Dr, Houston, TX 77030",
+          "website": "https://www.houstonzoo.org/",
+          "description": "Located in Hermann Park, the Houston Zoo is home to thousands of exotic animals from around the world.",
+          "coordinates": {
+            "latitude": "29.714049",
+            "longitude": "-95.390183"
+          }
+        },
+        {
+          "name": "Buffalo Bayou Park",
+          "address": "1800 Allen Pkwy & Memorial Dr, Houston, TX 77019",
+          "website": "https://buffalobayou.org/",
+          "description": "A sprawling urban park featuring scenic views, walking and biking trails, dog parks, and kayak rentals along Buffalo Bayou.",
+          "coordinates": {
+            "latitude": "29.7651",
+            "longitude": "-95.3986"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Rockets Shop",
+          "address": "1510 Polk Street, Houston, TX 77002",
+          "website": "https://rocketsshop.com/",
+          "description": "Official store for Houston Rockets merchandise, offering a wide range of apparel and accessories.",
+          "coordinates": {
+            "latitude": "29.750764",
+            "longitude": "-95.362206"
+          }
+        },
+        {
+          "name": "Toyota Center Tours",
+          "address": "1510 Polk Street, Houston, TX 77002",
+          "website": "https://www.toyotacenter.com/events/detail/tours",
+          "description": "Guided tours of the Toyota Center, providing fans with a behind-the-scenes look at the Rockets' home arena, including the locker rooms, luxury suites, and the court itself.",
+          "coordinates": {
+            "latitude": "29.750764",
+            "longitude": "-95.362206"
+          }
+        },
+        {
+          "name": "Rockets Fan Events",
+          "description": "Throughout the year, the Houston Rockets host various fan events, including meet-and-greets with players, autograph signings, and community outreach activities, offering fans unique opportunities to interact with the team.",
+          "website": "https://www.nba.com/rockets/"
+        },
+        {
+          "name": "Game Night Entertainment",
+          "address": "1510 Polk Street, Houston, TX 77002",
+          "description": "Experience the excitement of a Rockets game night with live entertainment, including performances by the Rockets Power Dancers, Clutch the Bear mascot shows, and fan participation games.",
+          "coordinates": {
+            "latitude": "29.750764",
+            "longitude": "-95.362206"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "METRORail",
+          "description": "The Red Line offers service to the Toyota Center, with the nearest station being the Convention District Station, providing easy access from various parts of the city."
+        },
+        {
+          "type": "Bus",
+          "description": "Several METRO bus lines serve the downtown area, with stops near the Toyota Center, facilitating access from wider areas."
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Team Website",
+          "website": "https://www.nba.com/rockets/tickets/single-game",
+          "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+        },
+        {
+          "name": "Ticketmaster",
+          "website": "https://www.ticketmaster.com/houston-rockets-tickets/artist/805966",
+          "description": "Authorized ticketing partner offering authentic Rockets tickets."
+        },
+        {
+          "name": "StubHub",
+          "website": "https://www.stubhub.com/houston-rockets-tickets/performer/274/",
+          "description": "Reliable secondary marketplace that offers verified resold Rockets tickets."
+        }
+      ],
+      "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+      "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
     }
   }
-  
+}

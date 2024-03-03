@@ -1,0 +1,289 @@
+{
+  "city": "Buffalo",
+  "team": "Sabres",
+  "venue": {
+    "name": "KeyBank Center",
+    "address": "1 Seymour H Knox III Plaza, Buffalo, NY 14203",
+    "website": "https://www.keybankcenter.com/",
+    "average_ticket_price": "$85",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "42.874253",
+      "longitude": "-78.876209"
+    },
+    "best_seats_pricing": {
+      "Rinkside": {
+        "Description": "Seats right next to the action for an unparalleled game experience.",
+        "Sections": "Rinkside",
+        "Estimated_Pricing_Range": "$600 - $2500+",
+        "View_Quality": "Direct rink-level view, engaging and immersive experience.",
+        "Unique_Features": "Chance for player interactions, possibility of being seen on TV.",
+        "Accessibility": "Easy access, but limited space for personal mobility devices.",
+        "Special_Perks": "Exclusive access to premium club areas, complimentary dining, and beverages."
+      },
+      "Club_Seats": {
+        "Description": "Offering a fantastic view of the game from the sides with added benefits.",
+        "Sections": "Club Level Sections",
+        "Estimated_Pricing_Range": "$200 - $700",
+        "View_Quality": "Elevated side views with clear line of sight to the ice.",
+        "Unique_Features": "Wider seats with more leg room, less crowded sections.",
+        "Accessibility": "Dedicated entrance for easier access, nearby elevators.",
+        "Special_Perks": "Access to exclusive club lounges and in-seat wait service."
+      },
+      "200_Level": {
+        "Description": "Great overall view of the game from an elevated position.",
+        "Sections": "Sections 200-228",
+        "Estimated_Pricing_Range": "$90 - $200",
+        "View_Quality": "Panoramic view of the rink, ideal for enjoying the game's flow.",
+        "Unique_Features": "Affordable pricing for a comprehensive view of the action.",
+        "Accessibility": "Accessible seating available, with easy access to amenities.",
+        "Special_Perks": "Cost-effective option with a satisfying view of the game."
+      },
+      "100_Level": {
+        "Description": "Close to the action, offering vivid views without being at rink level.",
+        "Sections": "Sections 100-122",
+        "Estimated_Pricing_Range": "$120 - $500",
+        "View_Quality": "Near rink with a slightly elevated perspective for better viewing.",
+        "Unique_Features": "Good balance between proximity to the ice and ticket price.",
+        "Accessibility": "Wheelchair-accessible seating and convenient access to concessions.",
+        "Special_Perks": "Great mix of price, comfort, and view."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "716 Food and Sport",
+          "address": "7 Scott St, Buffalo, NY 14203",
+          "website": "http://www.716foodandsport.com/",
+          "description": "A massive, sports-themed eatery known for its giant TV screen and a wide selection of beers, perfect for Sabres fans to catch the game or grab a bite.",
+          "coordinates": {
+            "latitude": "42.8749",
+            "longitude": "-78.8763"
+          }
+        },
+        {
+          "name": "Liberty Hound",
+          "address": "1 Naval Park Cove, Buffalo, NY 14202",
+          "website": "http://libertyhoundbuffalo.com/",
+          "description": "Situated close to the KeyBank Center, offering waterfront dining with a selection of seafood and American cuisine, great for a pre-game meal.",
+          "coordinates": {
+            "latitude": "42.8763",
+            "longitude": "-78.8769"
+          }
+        },
+        {
+          "name": "Pearl Street Grill & Brewery",
+          "address": "76 Pearl St, Buffalo, NY 14202",
+          "website": "https://www.pearlstreetgrill.com/",
+          "description": "A multi-level brewery and restaurant known for its house-made beers and hearty pub fare, boasting a lively atmosphere on game days.",
+          "coordinates": {
+            "latitude": "42.8864",
+            "longitude": "-78.8770"
+          }
+        },
+        {
+          "name": "Ballyhoo",
+          "address": "211 South Park Ave, Buffalo, NY 14204",
+          "website": "http://www.buffaloballyhoo.com/",
+          "description": "A cozy spot famous for its sausages, craft cocktails, and a great selection of local beers, ideal for a casual pre-game gathering.",
+          "coordinates": {
+            "latitude": "42.8768",
+            "longitude": "-78.8756"
+          }
+        },
+        {
+          "name": "The Swannie House",
+          "address": "170 Ohio St, Buffalo, NY 14203",
+          "website": "N/A",
+          "description": "One of Buffalo's oldest bars, offering a divey, no-frills atmosphere with classic pub grub, a stone's throw away from the arena.",
+          "coordinates": {
+            "latitude": "42.8752",
+            "longitude": "-78.8784"
+          }
+        },
+        {
+          "name": "Washington Square",
+          "address": "295 Washington St, Buffalo, NY 14203",
+          "website": "https://www.washingtonsquarebuffalo.com/",
+          "description": "Renowned for its relaxed vibe and an extensive beer list, this bar and grill serves up delicious American classics, making it a favorite among locals and visitors alike.",
+          "coordinates": {
+            "latitude": "42.8827",
+            "longitude": "-78.8736"
+          }
+        },
+        {
+          "name": "Soho Buffalo, NY",
+          "address": "64 W Chippewa St, Buffalo, NY 14202",
+          "website": "http://www.sohobuffalo.com/",
+          "description": "A popular bar and restaurant in the heart of Buffalo's entertainment district, offering a vibrant scene for post-game drinks and live music.",
+          "coordinates": {
+            "latitude": "42.8905",
+            "longitude": "-78.8755"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Curtiss Hotel",
+          "address": "210 Franklin St, Buffalo, NY 14202",
+          "website": "https://curtisshotel.com/",
+          "description": "A luxury boutique hotel offering unique architectural beauty and modern comforts, situated in downtown Buffalo close to the KeyBank Center.",
+          "coordinates": {
+            "latitude": "42.8895",
+            "longitude": "-78.8756"
+          }
+        },
+        {
+          "name": "Hotel at the Lafayette",
+          "address": "391 Washington St, Buffalo, NY 14203",
+          "website": "https://www.thehotellafayette.com/",
+          "description": "A historic hotel designed by America's first female professional architect, offering stylish accommodations near Buffalo's entertainment district and the KeyBank Center.",
+          "coordinates": {
+            "latitude": "42.8847",
+            "longitude": "-78.8743"
+          }
+        },
+        {
+          "name": "Aloft Buffalo Downtown",
+          "address": "500 Pearl St, Buffalo, NY 14202",
+          "website": "https://www.marriott.com/hotels/travel/bufal-aloft-buffalo-downtown/",
+          "description": "A contemporary hotel with vibrant decor and modern amenities, located in the heart of Buffalo, offering easy access to sporting events and city attractions.",
+          "coordinates": {
+            "latitude": "42.8904",
+            "longitude": "-78.8736"
+          }
+        },
+        {
+          "name": "Buffalo Marriott at LECOM HARBORCENTER",
+          "address": "95 Main St, Buffalo, NY 14203",
+          "website": "https://www.marriott.com/hotels/travel/bufbd-buffalo-marriott-harborcenter/",
+          "description": "Situated in the HARBORCENTER complex, this hotel offers stunning views of the city and lake, with direct access to the KeyBank Center for Sabres games.",
+          "coordinates": {
+            "latitude": "42.8763",
+            "longitude": "-78.8764"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "Canalside",
+          "address": "44 Prime St, Buffalo, NY 14202",
+          "website": "https://www.canalsidebuffalo.com/",
+          "description": "A revitalized historic waterfront district offering a wide range of outdoor activities, concerts, and festivals, with stunning views of Lake Erie.",
+          "coordinates": {
+            "latitude": "42.8760",
+            "longitude": "-78.8784"
+          }
+        },
+        {
+          "name": "Buffalo Museum of Science",
+          "address": "1020 Humboldt Pkwy, Buffalo, NY 14211",
+          "website": "https://www.sciencebuff.org/",
+          "description": "Features interactive exhibits on a variety of scientific topics, including biology, astronomy, and more, suitable for all ages.",
+          "coordinates": {
+            "latitude": "42.9057",
+            "longitude": "-78.8425"
+          }
+        },
+        {
+          "name": "Delaware Park",
+          "address": "Meadow Dr, Buffalo, NY 14214",
+          "website": "https://www.bfloparks.org/parks/delaware-park/",
+          "description": "Designed by Frederick Law Olmsted, this expansive park offers scenic beauty, a lake, walking paths, and sports facilities, serving as Buffalo's version of Central Park.",
+          "coordinates": {
+            "latitude": "42.9350",
+            "longitude": "-78.8673"
+          }
+        },
+        {
+          "name": "Buffalo and Erie County Naval & Military Park",
+          "address": "1 Naval Park Cove, Buffalo, NY 14202",
+          "website": "http://buffalonavalpark.org/",
+          "description": "America’s largest inland naval park, featuring several decommissioned US Naval vessels, including a submarine, destroyer, and cruiser.",
+          "coordinates": {
+            "latitude": "42.8768",
+            "longitude": "-78.8805"
+          }
+        },
+        {
+          "name": "Albright-Knox Art Gallery",
+          "address": "1285 Elmwood Ave, Buffalo, NY 14222",
+          "website": "https://www.albrightknox.org/",
+          "description": "A major hub for modern and contemporary art, housing an impressive collection of artworks from the 19th century to the present day.",
+          "coordinates": {
+            "latitude": "42.9356",
+            "longitude": "-78.8764"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Sabres Store at KeyBank Center",
+          "address": "1 Seymour H Knox III Plaza, Buffalo, NY 14203",
+          "website": "https://www.nhl.com/sabres/fans/sabres-store",
+          "description": "Official store for Buffalo Sabres merchandise, located within the KeyBank Center. A one-stop shop for all your Sabres apparel and memorabilia needs.",
+          "coordinates": {
+            "latitude": "42.874253",
+            "longitude": "-78.876209"
+          }
+        },
+        {
+          "name": "Buffalo Sports Hall of Fame",
+          "address": "KeyBank Center, Buffalo, NY 14203 (Inside the arena)",
+          "website": "N/A",
+          "description": "While not exclusively for the Sabres, the Buffalo Sports Hall of Fame showcases the city's rich sports history, including the Sabres' achievements, player artifacts, and memorabilia.",
+          "coordinates": {
+            "latitude": "42.874253",
+            "longitude": "-78.876209"
+          }
+        },
+        {
+          "name": "Sabres Game Day Tours",
+          "address": "1 Seymour H Knox III Plaza, Buffalo, NY 14203",
+          "website": "https://www.keybankcenter.com/events-tickets/arena-tours",
+          "description": "Explore KeyBank Center on game days with exclusive behind-the-scenes tours, offering fans a closer look at the home of the Sabres, including areas usually not open to the public.",
+          "coordinates": {
+            "latitude": "42.874253",
+            "longitude": "-78.876209"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "Metro Rail",
+          "description": "The NFTA Metro Rail runs directly to KeyBank Center with stops at Special Events (only open during events) and Seneca Street, making it easily accessible from throughout the city.",
+          "map_link": "http://www.nfta.com/metro/"
+        },
+        {
+          "type": "Bus",
+          "description": "Numerous bus routes operated by NFTA stop near KeyBank Center, providing convenient access for those coming from various parts of Buffalo and the surrounding suburbs.",
+          "map_link": "http://www.nfta.com/metro/routes_schedules/system_map.aspx"
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Team Website",
+          "website": "https://www.nhl.com/sabres/tickets/",
+          "description": "The primary source for all ticket sales, offering guaranteed authenticity for Sabres games."
+        },
+        {
+          "name": "Ticketmaster",
+          "website": "https://www.ticketmaster.com/buffalo-sabres-tickets/artist/805927",
+          "description": "Authorized ticketing partner providing authentic tickets for Sabres games."
+        },
+        {
+          "name": "StubHub",
+          "website": "https://www.stubhub.com/buffalo-sabres-tickets/performer/96/",
+          "description": "A reliable secondary marketplace that offers verified resold tickets for Sabres games."
+        }
+      ],
+      "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+      "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+    }
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "city": "Anaheim",
+  "team": "Ducks",
+  "venue": {
+    "name": "Honda Center",
+    "address": "2695 E Katella Ave, Anaheim, CA 92806",
+    "website": "https://www.hondacenter.com/",
+    "average_ticket_price": "$100",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "33.8078",
+      "longitude": "-117.8761"
+    },
+    "best_seats_pricing": {
+      "Rinkside": {
+        "Description": "Seats right next to the action for an unparalleled game experience.",
+        "Sections": "Rinkside",
+        "Estimated_Pricing_Range": "$800 - $3000+",
+        "View_Quality": "Direct ice-level view, engaging and immersive experience.",
+        "Unique_Features": "Chance for player interactions, possibility of being seen on TV.",
+        "Accessibility": "Easy access, but limited space for personal mobility devices.",
+        "Special_Perks": "Exclusive access to the Club Level, complimentary dining and beverages."
+      },
+      "Club_Seats": {
+        "Description": "Offering a fantastic view of the game from the sides with added benefits.",
+        "Sections": "Club Sections 201-206 and 218-223",
+        "Estimated_Pricing_Range": "$200 - $800",
+        "View_Quality": "Elevated side views with clear line of sight to the ice.",
+        "Unique_Features": "Wider seats with more leg room, less crowded sections.",
+        "Accessibility": "Dedicated entrance for easier access, nearby elevators.",
+        "Special_Perks": "Access to premium clubs and in-seat wait service."
+      },
+      "Center_Balcony": {
+        "Description": "Great overall view of the game from an elevated position.",
+        "Sections": "Sections 301-303 and 323-325",
+        "Estimated_Pricing_Range": "$100 - $250",
+        "View_Quality": "Panoramic view of the ice, ideal for tactical analysis.",
+        "Unique_Features": "Affordable pricing for a comprehensive view of the action.",
+        "Accessibility": "Accessible seating available, elevators to balcony level.",
+        "Special_Perks": "More budget-friendly option with a full view of the ice."
+      },
+      "Loge_Level": {
+        "Description": "Just above ice-level, offering close views without being on the ice.",
+        "Sections": "Center Ice Sections 405-406 and 414-415; Ends Sections 407-413",
+        "Estimated_Pricing_Range": "$150 - $600",
+        "View_Quality": "Close to the action with a slightly elevated perspective.",
+        "Unique_Features": "Proximity to the ice with a more accessible price point.",
+        "Accessibility": "Wheelchair-accessible seating and nearby amenities.",
+        "Special_Perks": "Good balance of price, view, and experience."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "The Catch Restaurant & Bar",
+          "address": "2100 E Katella Ave, Anaheim, CA 92806",
+          "website": "https://www.anaheimducks.com/arena/the-catch-restaurant-and-bar",
+          "description": "Located inside the Honda Center, offering a diverse menu with options for every taste, from burgers to seafood. Enjoy a meal before or after the game in a lively sports atmosphere.",
+          "coordinates": {
+            "latitude": "33.8071",
+            "longitude": "-117.8775"
+          }
+        },
+        {
+          "name": "Standing 'O' Sports Bar and Grill",
+          "address": "2695 E Katella Ave, Anaheim, CA 92806",
+          "website": "https://www.hondacenter.com/standing-o/",
+          "description": "Adjacent to the Honda Center, this sports bar offers classic American fare, cocktails, and multiple TVs broadcasting the latest sports events. Perfect for pre-game excitement or post-game celebrations.",
+          "coordinates": {
+            "latitude": "33.8080",
+            "longitude": "-117.8777"
+          }
+        },
+        {
+          "name": "The Blind Rabbit",
+          "address": "440 S Anaheim Blvd #104, Anaheim, CA 92805",
+          "website": "https://www.theblindrabbit.com/",
+          "description": "A speakeasy-style bar offering craft cocktails and a unique, intimate atmosphere. Located a short distance from the Honda Center, it's a great spot for a sophisticated drink before or after the game.",
+          "coordinates": {
+            "latitude": "33.8332",
+            "longitude": "-117.9122"
+          }
+        },
+        {
+          "name": "Rooftop Bar at FIFTH",
+          "address": "1650 S Harbor Blvd, Anaheim, CA 92802",
+          "website": "https://www.thefifthoc.com/",
+          "description": "Perched atop the Grand Legacy At The Park hotel, this rooftop bar offers panoramic views of Disneyland and the Anaheim skyline. Enjoy cocktails and small bites in a relaxed atmosphere.",
+          "coordinates": {
+            "latitude": "33.8085",
+            "longitude": "-117.9152"
+          }
+        },
+        {
+          "name": "The Blind Pig Kitchen + Bar",
+          "address": "31431 Santa Margarita Pkwy, Rancho Santa Margarita, CA 92688",
+          "website": "https://www.theblindpigoc.com/",
+          "description": "A gastropub featuring creative American cuisine and craft cocktails. While not in Anaheim, it's worth the drive for its unique menu and inviting ambiance.",
+          "coordinates": {
+            "latitude": "33.6401",
+            "longitude": "-117.5987"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Disneyland Hotel",
+          "address": "1150 W Magic Way, Anaheim, CA 92802",
+          "website": "https://disneyland.disney.go.com/hotels/disneyland-hotel/",
+          "description": "Iconic hotel located at the Disneyland Resort, offering themed rooms, multiple pools, and easy access to the Anaheim Ducks games and Disneyland attractions.",
+          "coordinates": {
+            "latitude": "33.8079",
+            "longitude": "-117.9187"
+          }
+        },
+        {
+          "name": "Sheraton Park Hotel at the Anaheim Resort",
+          "address": "1855 S Harbor Blvd, Anaheim, CA 92802",
+          "website": "https://www.marriott.com/hotels/travel/laxan-sheraton-park-hotel-at-the-anaheim-resort/",
+          "description": "Modern hotel offering comfortable accommodations and amenities such as a pool and fitness center. Conveniently located near the Honda Center and Disneyland Resort.",
+          "coordinates": {
+            "latitude": "33.8012",
+            "longitude": "-117.9152"
+          }
+        },
+        {
+          "name": "Hilton Anaheim",
+          "address": "777 W Convention Way, Anaheim, CA 92802",
+          "website": "https://www.hilton.com/en/hotels/snaahhh-hilton-anaheim/",
+          "description": "Large hotel with spacious rooms, multiple dining options, and amenities including a pool and fitness center. Close to the Honda Center and Disneyland Resort.",
+          "coordinates": {
+            "latitude": "33.8008",
+            "longitude": "-117.9153"
+          }
+        },
+        {
+          "name": "Hyatt Regency Orange County",
+          "address": "11999 Harbor Blvd, Garden Grove, CA 92840",
+          "website": "https://www.hyatt.com/en-US/hotel/california/hyatt-regency-orange-county/laxro",
+          "description": "Modern hotel with spacious rooms, multiple dining options, and amenities including a pool and fitness center. Conveniently located near the Honda Center and Disneyland Resort.",
+          "coordinates": {
+            "latitude": "33.7890",
+            "longitude": "-117.9166"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "Disneyland Park",
+          "address": "1313 Disneyland Dr, Anaheim, CA 92802",
+          "website": "https://disneyland.disney.go.com/",
+          "description": "The original Disney theme park, featuring classic attractions, entertainment, and beloved Disney characters.",
+          "coordinates": {
+            "latitude": "33.8121",
+            "longitude": "-117.9190"
+          }
+        },
+        {
+          "name": "Disney California Adventure Park",
+          "address": "1313 Disneyland Dr, Anaheim, CA 92802",
+          "website": "https://disneyland.disney.go.com/",
+          "description": "Adjacent to Disneyland, this park offers themed attractions, entertainment, and dining experiences inspired by California's culture and history.",
+          "coordinates": {
+            "latitude": "33.8087",
+            "longitude": "-117.9189"
+          }
+        },
+        {
+          "name": "Anaheim GardenWalk",
+          "address": "400 Disney Way, Anaheim, CA 92802",
+          "website": "https://thegardenwalk.com/",
+          "description": "Outdoor shopping, dining, and entertainment complex located near Disneyland Resort, featuring a variety of shops, restaurants, and entertainment venues.",
+          "coordinates": {
+            "latitude": "33.7969",
+            "longitude": "-117.9119"
+          }
+        },
+        {
+          "name": "Honda Center",
+          "address": "2695 E Katella Ave, Anaheim, CA 92806",
+          "website": "https://www.hondacenter.com/",
+          "description": "Home to the Anaheim Ducks hockey team and host to various concerts, sporting events, and live performances.",
+          "coordinates": {
+            "latitude": "33.8075",
+            "longitude": "-117.8772"
+          }
+        },
+        {
+          "name": "Angel Stadium of Anaheim",
+          "address": "2000 E Gene Autry Way, Anaheim, CA 92806",
+          "website": "https://www.mlb.com/angels/ballpark",
+          "description": "Home of the Los Angeles Angels baseball team, offering baseball games, stadium tours, and events.",
+          "coordinates": {
+            "latitude": "33.8003",
+            "longitude": "-117.8827"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Anaheim Ducks Team Store",
+          "address": "2695 E Katella Ave, Anaheim, CA 92806",
+          "website": "https://www.nhl.com/ducks/fans/team-store",
+          "description": "Official store for Anaheim Ducks merchandise, located near the Honda Center.",
+          "coordinates": {
+            "latitude": "33.8075",
+            "longitude": "-117.8772"
+          }
+        },
+        {
+          "name": "Anaheim Ducks Hall of Fame",
+          "address": "2695 E Katella Ave, Anaheim, CA 92806",
+          "website": "https://www.nhl.com/ducks/team/hall-of-fame",
+          "description": "Interactive museum featuring Anaheim Ducks history, player artifacts, and championship memorabilia.",
+          "coordinates": {
+            "latitude": "33.8075",
+            "longitude": "-117.8772"
+          }
+        },
+        {
+          "name": "Honda Center Tours",
+          "address": "2695 E Katella Ave, Anaheim, CA 92806",
+          "website": "https://www.hondacenter.com/tours",
+          "description": "Behind-the-scenes tours of the Honda Center on event days, including exclusive areas and player insights.",
+          "coordinates": {
+            "latitude": "33.8075",
+            "longitude": "-117.8772"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "Metrolink",
+          "description": "The Metrolink Orange County Line provides service to the Anaheim Regional Transportation Intermodal Center (ARTIC), which is located near the Honda Center.",
+          "map_link": "https://metrolinktrains.com/schedules/"
+        },
+        {
+          "type": "Anaheim Resort Transportation (ART)",
+          "description": "ART operates shuttle services connecting major attractions, hotels, and the Honda Center within Anaheim.",
+          "map_link": "https://rideart.org/routes-schedules"
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Team Website",
+          "website": "https://www.nhl.com/ducks/tickets",
+          "description": "The primary source for all Anaheim Ducks ticket sales, offering guaranteed authenticity."
+        },
+        {
+          "name": "Ticketmaster",
+          "website": "https://www.ticketmaster.com/anaheim-ducks-tickets/artist/805974",
+          "description": "Authorized ticketing partner offering authentic Anaheim Ducks tickets."
+        },
+        {
+          "name": "StubHub",
+          "website": "https://www.stubhub.com/anaheim-ducks-tickets/performer/7166",
+          "description": "Reliable secondary marketplace that offers verified resold Anaheim Ducks tickets."
+        }
+      ],
+      "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+      "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+    }
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "city": "Phoenix",
+  "team": "Coyotes",
+  "venue": {
+    "name": "Gila River Arena",
+    "address": "9400 W Maryland Ave, Glendale, AZ 85305",
+    "website": "https://www.gilariverarena.com/",
+    "average_ticket_price": "$85",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "33.5329",
+      "longitude": "-112.2613"
+    },
+    "best_seats_pricing": {
+      "Rinkside": {
+        "Description": "Seats right next to the action for an unparalleled game experience.",
+        "Sections": "Rinkside",
+        "Estimated_Pricing_Range": "$600 - $2500+",
+        "View_Quality": "Direct ice-level view, engaging and immersive experience.",
+        "Unique_Features": "Chance for player interactions, possibility of being seen on TV.",
+        "Accessibility": "Easy access, but limited space for personal mobility devices.",
+        "Special_Perks": "Exclusive access to the Club Level, complimentary dining and beverages."
+      },
+      "Club_Seats": {
+        "Description": "Offering a fantastic view of the game from the sides with added benefits.",
+        "Sections": "Club Sections 201-206 and 218-223",
+        "Estimated_Pricing_Range": "$120 - $600",
+        "View_Quality": "Elevated side views with clear line of sight to the ice.",
+        "Unique_Features": "Wider seats with more leg room, less crowded sections.",
+        "Accessibility": "Dedicated entrance for easier access, nearby elevators.",
+        "Special_Perks": "Access to premium clubs and in-seat wait service."
+      },
+      "Center_Balcony": {
+        "Description": "Great overall view of the game from an elevated position.",
+        "Sections": "Sections 301-303 and 323-325",
+        "Estimated_Pricing_Range": "$70 - $180",
+        "View_Quality": "Panoramic view of the ice, ideal for tactical analysis.",
+        "Unique_Features": "Affordable pricing for a comprehensive view of the action.",
+        "Accessibility": "Accessible seating available, elevators to balcony level.",
+        "Special_Perks": "More budget-friendly option with a full view of the ice."
+      },
+      "Loge_Level": {
+        "Description": "Just above ice-level, offering close views without being on the ice.",
+        "Sections": "Center Ice Sections 405-406 and 414-415; Ends Sections 407-413",
+        "Estimated_Pricing_Range": "$90 - $450",
+        "View_Quality": "Close to the action with a slightly elevated perspective.",
+        "Unique_Features": "Proximity to the ice with a more accessible price point.",
+        "Accessibility": "Wheelchair-accessible seating and nearby amenities.",
+        "Special_Perks": "Good balance of price, view, and experience."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Westgate Entertainment District",
+          "address": "6751 N Sunset Blvd, Glendale, AZ 85305",
+          "website": "https://www.westgateaz.com/",
+          "description": "A vibrant destination offering a variety of dining options, from casual eateries to upscale restaurants. Enjoy pre-game meals or post-game celebrations in a lively atmosphere.",
+          "coordinates": {
+            "latitude": "33.5315",
+            "longitude": "-112.2630"
+          }
+        },
+        {
+          "name": "The Social Tap",
+          "address": "6751 N Sunset Blvd, Suite E-110, Glendale, AZ 85305",
+          "website": "https://www.socialtapglendale.com/",
+          "description": "A modern gastropub with an extensive beer selection and a diverse menu featuring burgers, tacos, and more. Located near the Gila River Arena, it's a convenient spot for pre or post-game gatherings.",
+          "coordinates": {
+            "latitude": "33.5315",
+            "longitude": "-112.2630"
+          }
+        },
+        {
+          "name": "Opa Life Greek Café",
+          "address": "7822 N 12th St #10, Phoenix, AZ 85020",
+          "website": "https://www.opalifecafe.com/",
+          "description": "A cozy cafe serving authentic Greek cuisine, including gyros, souvlaki, and baklava. While not in Glendale, it's worth the drive for its delicious food and welcoming atmosphere.",
+          "coordinates": {
+            "latitude": "33.5624",
+            "longitude": "-112.0553"
+          }
+        },
+        {
+          "name": "Padre Murphy's",
+          "address": "4338 W Bell Rd, Glendale, AZ 85308",
+          "website": "https://www.padremurphy.com/",
+          "description": "A lively sports bar offering pub fare, a large selection of beers, and multiple TVs broadcasting sports events. Gather with friends for drinks and food before or after the game.",
+          "coordinates": {
+            "latitude": "33.6382",
+            "longitude": "-112.1394"
+          }
+        },
+        {
+          "name": "State 48 Brewery",
+          "address": "6770 N Sunrise Blvd, Suite G-100, Glendale, AZ 85305",
+          "website": "https://state48brewery.com/",
+          "description": "A local brewery offering craft beers and a menu of comfort food classics with a modern twist. Relax and unwind with a pint and a meal in a laid-back setting.",
+          "coordinates": {
+            "latitude": "33.5323",
+            "longitude": "-112.2650"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Arizona Grand Resort & Spa",
+          "address": "8000 S Arizona Grand Pkwy, Phoenix, AZ 85044",
+          "website": "https://www.arizonagrandresort.com/",
+          "description": "A luxurious resort offering spacious suites, a water park, golf course, spa, and multiple dining options. Located in Phoenix, it provides easy access to Gila River Arena and other attractions.",
+          "coordinates": {
+            "latitude": "33.3729",
+            "longitude": "-111.9754"
+          }
+        },
+        {
+          "name": "Pointe Hilton Tapatio Cliffs Resort",
+          "address": "11111 N 7th St, Phoenix, AZ 85020",
+          "website": "https://www.tapatiocliffshilton.com/",
+          "description": "A mountain resort offering scenic views, spacious accommodations, pools, tennis courts, and a golf course. Conveniently situated in Phoenix with easy access to Gila River Arena.",
+          "coordinates": {
+            "latitude": "33.5769",
+            "longitude": "-112.0672"
+          }
+        },
+        {
+          "name": "JW Marriott Phoenix Desert Ridge Resort & Spa",
+          "address": "5350 E Marriott Dr, Phoenix, AZ 85054",
+          "website": "https://www.marriott.com/hotels/travel/phxdr-jw-marriott-phoenix-desert-ridge-resort-and-spa/",
+          "description": "A luxury resort offering spacious rooms, multiple pools, a lazy river, golf course, and spa facilities. Located in Phoenix, it provides convenient access to Gila River Arena.",
+          "coordinates": {
+            "latitude": "33.6832",
+            "longitude": "-111.9689"
+          }
+        },
+        {
+          "name": "Hyatt Regency Scottsdale Resort & Spa at Gainey Ranch",
+          "address": "7500 E Doubletree Ranch Rd, Scottsdale, AZ 85258",
+          "website": "https://www.hyatt.com/en-US/hotel/arizona/hyatt-regency-scottsdale-resort-and-spa/scott",
+          "description": "A desert oasis offering luxurious accommodations, pools, a spa, golf courses, and dining options. Situated in Scottsdale, it offers convenient access to Gila River Arena.",
+          "coordinates": {
+            "latitude": "33.5648",
+            "longitude": "-111.9224"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "Disneyland Park",
+          "address": "1313 Disneyland Dr, Anaheim, CA 92802",
+          "website": "https://disneyland.disney.go.com/",
+          "description": "The original Disney theme park, featuring classic attractions, entertainment, and beloved Disney characters.",
+          "coordinates": {
+            "latitude": "33.8121",
+            "longitude": "-117.9190"
+          }
+        },
+        {
+          "name": "Disney California Adventure Park",
+          "address": "1313 Disneyland Dr, Anaheim, CA 92802",
+          "website": "https://disneyland.disney.go.com/",
+          "description": "Adjacent to Disneyland, this park offers themed attractions, entertainment, and dining experiences inspired by California's culture and history.",
+          "coordinates": {
+            "latitude": "33.8087",
+            "longitude": "-117.9189"
+          }
+        },
+        {
+          "name": "Anaheim GardenWalk",
+          "address": "400 Disney Way, Anaheim, CA 92802",
+          "website": "https://thegardenwalk.com/",
+          "description": "Outdoor shopping, dining, and entertainment complex located near Disneyland Resort, featuring a variety of shops, restaurants, and entertainment venues.",
+          "coordinates": {
+            "latitude": "33.7969",
+            "longitude": "-117.9119"
+          }
+        },
+        {
+          "name": "Honda Center",
+          "address": "2695 E Katella Ave, Anaheim, CA 92806",
+          "website": "https://www.hondacenter.com/",
+          "description": "Home to the Anaheim Ducks hockey team and host to various concerts, sporting events, and live performances.",
+          "coordinates": {
+            "latitude": "33.8075",
+            "longitude": "-117.8772"
+          }
+        },
+        {
+          "name": "Angel Stadium of Anaheim",
+          "address": "2000 E Gene Autry Way, Anaheim, CA 92806",
+          "website": "https://www.mlb.com/angels/ballpark",
+          "description": "Home of the Los Angeles Angels baseball team, offering baseball games, stadium tours, and events.",
+          "coordinates": {
+            "latitude": "33.8003",
+            "longitude": "-117.8827"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Anaheim Ducks Team Store",
+          "address": "2695 E Katella Ave, Anaheim, CA 92806",
+          "website": "https://www.nhl.com/ducks/fans/team-store",
+          "description": "Official store for Anaheim Ducks merchandise, located near the Honda Center.",
+          "coordinates": {
+            "latitude": "33.8075",
+            "longitude": "-117.8772"
+          }
+        },
+        {
+          "name": "Anaheim Ducks Hall of Fame",
+          "address": "2695 E Katella Ave, Anaheim, CA 92806",
+          "website": "https://www.nhl.com/ducks/team/hall-of-fame",
+          "description": "Interactive museum featuring Anaheim Ducks history, player artifacts, and championship memorabilia.",
+          "coordinates": {
+            "latitude": "33.8075",
+            "longitude": "-117.8772"
+          }
+        },
+        {
+          "name": "Honda Center Tours",
+          "address": "2695 E Katella Ave, Anaheim, CA 92806",
+          "website": "https://www.hondacenter.com/tours",
+          "description": "Behind-the-scenes tours of the Honda Center on event days, including exclusive areas and player insights.",
+          "coordinates": {
+            "latitude": "33.8075",
+            "longitude": "-117.8772"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+        "options": [
+            {
+                "type": "Valley Metro Rail",
+                "description": "The Valley Metro Rail provides service to the Gila River Arena via the Montebello/19th Ave Station.",
+                "map_link": "https://www.valleymetro.org/"
+            },
+            {
+                "type": "Glendale Urban Shuttle (GUS)",
+                "description": "GUS operates shuttle services connecting major attractions, hotels, and the Gila River Arena within Glendale.",
+                "map_link": "https://www.glendaleaz.com/publictransportation/GlendaleUrbanShuttle.cfm"
+            }
+        ]
+    },
+    "ticket_purchasing_tips": {
+        "best_places_to_buy": [
+            {
+                "name": "Official Team Website",
+                "website": "https://www.nhl.com/coyotes/tickets",
+                "description": "The primary source for all Arizona Coyotes ticket sales, offering guaranteed authenticity."
+            },
+            {
+                "name": "Ticketmaster",
+                "website": "https://www.ticketmaster.com/arizona-coyotes-tickets/artist/805958",
+                "description": "Authorized ticketing partner offering authentic Arizona Coyotes tickets."
+            },
+            {
+                "name": "StubHub",
+                "website": "https://www.stubhub.com/arizona-coyotes-tickets/performer/13406",
+                "description": "Reliable secondary marketplace that offers verified resold Arizona Coyotes tickets."
+            }
+        ],
+        "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+        "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+    }
+  }
+}

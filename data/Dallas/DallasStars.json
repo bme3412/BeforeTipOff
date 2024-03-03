@@ -1,0 +1,293 @@
+{
+    "city": "Dallas",
+    "team": "Stars",
+    "venue": {
+      "name": "American Airlines Center",
+      "address": "2500 Victory Avenue, Dallas, TX 75219",
+      "website": "https://www.americanairlinescenter.com/",
+      "average_ticket_price": "$110",
+      "season_start": "October",
+      "playoffs_start": "April",
+      "coordinates": {
+        "latitude": "32.790361",
+        "longitude": "-96.810023"
+      },
+      "best_seats_pricing": {
+        "Rinkside": {
+          "Description": "Seats right next to the action for an unparalleled game experience.",
+          "Sections": "Rinkside",
+          "Estimated_Pricing_Range": "$600 - $2500+",
+          "View_Quality": "Direct ice-level view, engaging and immersive experience.",
+          "Unique_Features": "Chance for player interactions, possibility of being seen on TV.",
+          "Accessibility": "Easy access, but limited space for personal mobility devices.",
+          "Special_Perks": "Exclusive access to the Platinum Level Clubs, complimentary dining and beverages."
+        },
+        "Club_Seats": {
+          "Description": "Offering a fantastic view of the game from the sides with added benefits.",
+          "Sections": "Club Sections 101-104 and 118-121",
+          "Estimated_Pricing_Range": "$200 - $700",
+          "View_Quality": "Elevated side views with clear line of sight to the ice.",
+          "Unique_Features": "Wider seats with more legroom, less crowded sections.",
+          "Accessibility": "Dedicated entrance for easier access, nearby elevators.",
+          "Special_Perks": "Access to premium clubs and in-seat wait service."
+        },
+        "Center_Balcony": {
+          "Description": "Great overall view of the game from an elevated position.",
+          "Sections": "Sections 301-303 and 323-325",
+          "Estimated_Pricing_Range": "$80 - $200",
+          "View_Quality": "Panoramic view of the ice, ideal for tactical analysis.",
+          "Unique_Features": "Affordable pricing for a comprehensive view of the action.",
+          "Accessibility": "Accessible seating available, elevators to balcony level.",
+          "Special_Perks": "More budget-friendly option with a full view of the ice."
+        },
+        "Loge_Level": {
+          "Description": "Just above rinkside, offering close views without being on the ice.",
+          "Sections": "Mid-Ice Sections 115-116 and 101-102; Corners Sections 109-110, 119-120, 113-114, and 105-106",
+          "Estimated_Pricing_Range": "$120 - $500",
+          "View_Quality": "Close to the action with a slightly elevated perspective.",
+          "Unique_Features": "Proximity to the ice with a more accessible price point.",
+          "Accessibility": "Wheelchair-accessible seating and nearby amenities.",
+          "Special_Perks": "Good balance of price, view, and experience."
+        }
+      },
+      "nearby_amenities": {
+        "restaurants_bars": [
+            {
+              "name": "ZaLat Pizza",
+              "address": "2519 N Fitzhugh Ave, Dallas, TX 75204",
+              "website": "https://zalatpizza.com/",
+              "description": "Famous for its creative pizzas and close location to the American Airlines Center, perfect for a quick bite before the game.",
+              "coordinates": {
+                "latitude": "32.805878",
+                "longitude": "-96.788991"
+              }
+            },
+            {
+              "name": "Hero",
+              "address": "3090 Olive St, Dallas, TX 75219",
+              "website": "https://herobyhg.com/",
+              "description": "A cozy spot for Stars fans to grab a drink or a meal, boasting a friendly atmosphere and sports on the TVs.",
+              "coordinates": {
+                "latitude": "32.798972",
+                "longitude": "-96.798822"
+              }
+            },
+            {
+              "name": "Five Sixty by Wolfgang Puck",
+              "address": "300 Reunion Blvd E, Dallas, TX 75207",
+              "website": "https://www.wolfgangpuck.com/dining/fivesixty-by-wolfgang-puck-dallas/",
+              "description": "A high-end dining spot with a focus on local sourcing, offering dishes like wagyu beef and miso black cod. Known for its stunning views and top-notch cuisine.",
+              "coordinates": {
+                "latitude": "32.775572",
+                "longitude": "-96.803268"
+              }
+            },
+            {
+              "name": "Hero",
+              "address": "3090 Olive St, Dallas, TX 75219",
+              "website": "https://herobyhg.com/",
+              "description": "Adjacent to American Airlines Center, known for its spacious venue and delicious menu options. Offers a relaxed atmosphere perfect for pre-game dining.",
+              "coordinates": {
+                "latitude": "32.798972",
+                "longitude": "-96.798822"
+              }
+            },
+            {
+              "name": "Meso Maya",
+              "address": "1611 McKinney Ave #100, Dallas, TX 75202",
+              "website": "https://www.mesomaya.com/",
+              "description": "A vibrant spot with a focus on Mexican cuisine, offering big plates perfect for pre-game dining. Known for its tequila selection and lively atmosphere.",
+              "coordinates": {
+                "latitude": "32.788051",
+                "longitude": "-96.800725"
+              }
+            },
+            {
+              "name": "Velvet Taco",
+              "address": "2700 Olive St, Dallas, TX 75219",
+              "website": "https://www.velvettaco.com/",
+              "description": "Counter-service offering tacos, burritos, and more with unique fillings. A great addition to the area, perfect for quick and tasty meals before the game.",
+              "coordinates": {
+                "latitude": "32.796486",
+                "longitude": "-96.798769"
+              }
+            },
+            {
+              "name": "Victory Tavern",
+              "address": "2501 N Houston St, Dallas, TX 75219",
+              "website": "https://www.victorytavern.com/",
+              "description": "Dallas’s ultimate sports-viewing destination near the American Airlines Center. Offers classic American dishes and a suitable atmosphere for pre- and post-game celebrations.",
+              "coordinates": {
+                "latitude": "32.790670",
+                "longitude": "-96.812684"
+              }
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "The Joule, Dallas",
+              "address": "1530 Main St, Dallas, TX 75201",
+              "website": "https://www.thejouledallas.com/",
+              "description": "Luxury hotel known for its unique architecture and close distance to the American Airlines Center.",
+              "coordinates": {
+                "latitude": "32.780007",
+                "longitude": "-96.797247"
+              }
+            },
+            {
+              "name": "The Adolphus, Autograph Collection",
+              "address": "1321 Commerce St, Dallas, TX 75202",
+              "website": "https://www.marriott.com/hotels/travel/dalak-the-adolphus-autograph-collection/",
+              "description": "Historic hotel offering elegant accommodations and easy access to Dallas Stars games and Dallas’s attractions.",
+              "coordinates": {
+                "latitude": "32.780395",
+                "longitude": "-96.800174"
+              }
+            },
+            {
+              "name": "The Ritz-Carlton, Dallas",
+              "address": "2121 McKinney Ave, Dallas, TX 75201",
+              "website": "https://www.ritzcarlton.com/en/hotels/dallas",
+              "description": "Iconic hotel offering upscale accommodations in the heart of Dallas, known for its luxurious amenities.",
+              "coordinates": {
+                "latitude": "32.794726",
+                "longitude": "-96.801431"
+              }
+            },
+            {
+              "name": "Omni Dallas Hotel",
+              "address": "555 S Lamar St, Dallas, TX 75202",
+              "website": "https://www.omnihotels.com/hotels/dallas",
+              "description": "Downtown hotel with easy access to the Dallas World Aquarium, Dealey Plaza, and the American Airlines Center.",
+              "coordinates": {
+                "latitude": "32.7775",
+                "longitude": "-96.8058"
+              }
+            }
+          ]
+        ,
+        "tourist_attractions": [
+            {
+              "name": "The Sixth Floor Museum at Dealey Plaza",
+              "address": "411 Elm St, Dallas, TX 75202",
+              "website": "https://www.jfk.org/",
+              "description": "A museum located on the sixth floor of the Dallas County Administration Building in downtown Dallas, Texas, overlooking Dealey Plaza at the intersection of Elm and Houston Streets. It examines the life, times, death, and legacy of President John F. Kennedy.",
+              "coordinates": {
+                "latitude": "32.7785",
+                "longitude": "-96.8088"
+              }
+            },
+            {
+              "name": "Dallas Museum of Art",
+              "address": "1717 N Harwood St, Dallas, TX 75201",
+              "website": "https://dma.org/",
+              "description": "A major art museum located in the Arts District of downtown Dallas, Texas, along Woodall Rodgers Freeway between St. Paul and Harwood Streets.",
+              "coordinates": {
+                "latitude": "32.7876",
+                "longitude": "-96.8007"
+              }
+            },
+            {
+              "name": "Klyde Warren Park",
+              "address": "2012 Woodall Rodgers Fwy, Dallas, TX 75201",
+              "website": "https://www.klydewarrenpark.org/",
+              "description": "A 5.2-acre public park in downtown Dallas, Texas. The park is over the Woodall Rodgers Freeway, and opened in 2012. It is named for Klyde Warren, the young son of billionaire Kelcy Warren.",
+              "coordinates": {
+                "latitude": "32.7897",
+                "longitude": "-96.8015"
+              }
+            },
+            {
+              "name": "Perot Museum of Nature and Science",
+              "address": "2201 N Field St, Dallas, TX 75201",
+              "website": "https://www.perotmuseum.org/",
+              "description": "A natural history and science museum located in Dallas, Texas. It consists of two campuses: the primary campus located in Victory Park, and a secondary campus in Fair Park.",
+              "coordinates": {
+                "latitude": "32.7868",
+                "longitude": "-96.8065"
+              }
+            },
+            {
+              "name": "Dallas Arboretum and Botanical Garden",
+              "address": "8525 Garland Rd, Dallas, TX 75218",
+              "website": "https://www.dallasarboretum.org/",
+              "description": "A 66-acre botanical garden located at 8525 Garland Road in East Dallas, Dallas, Texas, on the southeastern shore of White Rock Lake.",
+              "coordinates": {
+                "latitude": "32.8219",
+                "longitude": "-96.7170"
+              }
+            }
+          ]
+        ,
+        "team_related_activities": [
+            {
+              "name": "Stars Fan Shop at American Airlines Center",
+              "address": "2500 Victory Ave, Dallas, TX 75219",
+              "website": "https://stars.nhl.com/fans/fan-shops",
+              "description": "Official store for Dallas Stars merchandise, located within the American Airlines Center.",
+              "coordinates": {
+                "latitude": "32.790361",
+                "longitude": "-96.810023"
+              }
+            },
+            {
+              "name": "Stars Hall of Fame Experience",
+              "address": "2500 Victory Ave, Dallas, TX 75219",
+              "website": "https://www.nhl.com/stars/fans/hall-of-fame",
+              "description": "Interactive museum featuring Stars history, player artifacts, and championship memorabilia.",
+              "coordinates": {
+                "latitude": "32.790361",
+                "longitude": "-96.810023"
+              }
+            },
+            {
+              "name": "Stars Game Day Tours",
+              "address": "2500 Victory Ave, Dallas, TX 75219",
+              "website": "https://www.nhl.com/stars/fans/game-day-tours",
+              "description": "Behind-the-scenes tours of the American Airlines Center on game days, including exclusive areas and player insights.",
+              "coordinates": {
+                "latitude": "32.790361",
+                "longitude": "-96.810023"
+              }
+            }
+          ]
+        
+      },
+      "public_transportation": {
+        "options": [
+          {
+            "type": "Light Rail",
+            "description": "The DART Green Line and Orange Line at Victory Station provide direct access to the American Airlines Center, making it easily accessible from various parts of Dallas.",
+            "map_link": "https://www.dart.org/maps/printrailmap.asp"
+          },
+          {
+            "type": "Commuter Rail",
+            "description": "DART's Trinity Railway Express (TRE) serves Victory Station as well, offering convenient access for those coming from outside Dallas.",
+            "map_link": "https://www.dart.org/maps/printrailmap.asp"
+          }
+        ]
+      },
+      "ticket_purchasing_tips": {
+        "best_places_to_buy": [
+          {
+            "name": "Official Team Website",
+            "website": "https://www.nhl.com/stars/tickets/",
+            "description": "The primary source for all Dallas Stars ticket sales, offering guaranteed authenticity."
+          },
+          {
+            "name": "Ticketmaster",
+            "website": "https://www.ticketmaster.com/dallas-stars-tickets/artist/805988",
+            "description": "Authorized ticketing partner offering authentic Dallas Stars tickets."
+          },
+          {
+            "name": "StubHub",
+            "website": "https://www.stubhub.com/dallas-stars-tickets/performer/131",
+            "description": "Reliable secondary marketplace that offers verified resold Dallas Stars tickets."
+          }
+        ],
+        "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+        "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+      }
+    }
+}
+  

@@ -1,17 +1,54 @@
 {
-    "city": "Miami",
-    "team": "Heat",
-    "venue": {
-        "name": "Kaseya Center",
-        "address": "601 Biscayne Blvd, Miami, FL 33132",
-        "website": "https://www.ftxarena.com/",
-        "average_ticket_price": "$150",
-        "season_start": "October",
-        "playoffs_start": "April",
-        "coordinates": {
-            "latitude": "25.781389",
-            "longitude": "-80.187778"
-        },
+  "city": "Miami",
+  "team": "Heat",
+  "venue": {
+    "name": "Kaseya Center",
+    "address": "601 Biscayne Blvd, Miami, FL 33132",
+    "website": "https://www.ftxarena.com/",
+    "average_ticket_price": "$120",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "25.7814",
+      "longitude": "-80.187"
+    },
+    "best_seats_pricing": {
+      "Courtside": {
+        "Description": "Exclusive seats at floor level, providing an up-close and personal view of the high-paced action.",
+        "Sections": "Courtside",
+        "Estimated_Pricing_Range": "$1200 - $4000+",
+        "View_Quality": "Unmatched court-level perspective, offering an intense and engaging experience.",
+        "Unique_Features": "Opportunity for direct interaction with players and visibility on live broadcasts.",
+        "Accessibility": "Premier access with some limitations for personal mobility devices.",
+        "Special_Perks": "Access to VIP lounges, complimentary premium dining options, and personal service."
+      },
+      "Club_Seats": {
+        "Description": "Elevated side-line views with premium amenities, combining comfort with an exceptional viewing experience.",
+        "Sections": "VIP and Club Sections",
+        "Estimated_Pricing_Range": "$350 - $1200",
+        "View_Quality": "Optimal side views ensuring a full perspective of the game.",
+        "Unique_Features": "Extra comfort with spacious seating and exclusive access areas.",
+        "Accessibility": "Easy entrance with dedicated access, close to elevators for convenience.",
+        "Special_Perks": "Admittance to private clubs, superior dining experiences, and in-seat service."
+      },
+      "Skybox": {
+        "Description": "Private viewing suites offering a luxurious and intimate setting for watching the game.",
+        "Sections": "Skybox Suites",
+        "Estimated_Pricing_Range": "$2000 - $5000+",
+        "View_Quality": "Elevated and private viewing experience with panoramic views of the entire arena.",
+        "Unique_Features": "Suites equipped with luxury seating, exclusive catering options, and personal attendant service.",
+        "Accessibility": "VIP entrance with private elevators, ensuring seamless access.",
+        "Special_Perks": "Highest level of comfort and exclusivity, with access to premium clubs and priority booking for events."
+      },
+      "Upper_Level": {
+        "Description": "A more economical choice offering a bird's-eye view of the game, capturing the atmosphere of the arena.",
+        "Sections": "300 Level Sections",
+        "Estimated_Pricing_Range": "$60 - $250",
+        "View_Quality": "Wide-angle view from above, ideal for fans who enjoy seeing game formations.",
+        "Unique_Features": "An accessible way to be part of the excitement with the Heat community.",
+        "Accessibility": "Accessible seating options available, with escalators and elevators to upper levels.",
+        "Special_Perks": "Cost-effective, perfect for enjoying the game with family and friends."
+      }},
         "nearby_amenities": {
             "restaurants_bars": [
                 {
@@ -43,6 +80,46 @@
                         "latitude": "25.7729",
                         "longitude": "-80.2005"
                     }
+                },
+                {
+                    "name": "Casa Tua Cucina",
+                    "address": "70 SW 7th St, Miami, FL 33130",
+                    "website": "https://www.casatuacucina.com/",
+                    "description": "An upscale Italian market and restaurant offering a variety of gourmet dishes and wines, perfect for a luxurious pre-game meal.",
+                    "coordinates": {
+                        "latitude": "25.7684",
+                        "longitude": "-80.1938"
+                    }
+                },
+                {
+                    "name": "Komodo",
+                    "address": "801 Brickell Ave, Miami, FL 33131",
+                    "website": "https://www.komodomiami.com/",
+                    "description": "A trendy three-story lounge and restaurant that blends Southeast Asian cuisine with a South Florida vibe, ideal for fans looking to dine in style.",
+                    "coordinates": {
+                        "latitude": "25.7679",
+                        "longitude": "-80.1893"
+                    }
+                },
+                {
+                    "name": "Batch Gastropub",
+                    "address": "30 SW 12th St, Miami, FL 33130",
+                    "website": "https://www.batchgastropub.com/",
+                    "description": "A popular gastropub offering a wide selection of craft beers, cocktails, and hearty American dishes, with plenty of screens to catch up on pre-game shows.",
+                    "coordinates": {
+                        "latitude": "25.7617",
+                        "longitude": "-80.1942"
+                    }
+                },
+                {
+                    "name": "Blackbird Ordinary",
+                    "address": "729 SW 1st Ave, Miami, FL 33130",
+                    "website": "https://www.blackbirdordinary.com/",
+                    "description": "Known for its creative cocktails and lively atmosphere, this bar is a great spot for Heat fans to gather before heading to the arena.",
+                    "coordinates": {
+                        "latitude": "25.7675",
+                        "longitude": "-80.1963"
+                    }
                 }
             ],
             "accommodations": [
@@ -64,6 +141,46 @@
                     "coordinates": {
                         "latitude": "25.772",
                         "longitude": "-80.185"
+                    }
+                },
+                {
+                    "name": "Kimpton EPIC Hotel",
+                    "address": "270 Biscayne Blvd Way, Miami, FL 33131",
+                    "website": "https://www.epichotel.com/",
+                    "description": "This upscale hotel offers stunning views of the city and water, a rooftop pool, and luxury amenities, located within walking distance to the arena.",
+                    "coordinates": {
+                        "latitude": "25.7704",
+                        "longitude": "-80.1893"
+                    }
+                },
+                {
+                    "name": "YVE Hotel Miami",
+                    "address": "146 Biscayne Blvd, Miami, FL 33132",
+                    "website": "https://www.yvehotelmiami.com/",
+                    "description": "A boutique hotel with modern, bright rooms, located in the heart of downtown Miami, offering easy access to FTX Arena.",
+                    "coordinates": {
+                        "latitude": "25.7749",
+                        "longitude": "-80.1883"
+                    }
+                },
+                {
+                    "name": "JW Marriott Marquis Miami",
+                    "address": "255 Biscayne Blvd Way, Miami, FL 33131",
+                    "website": "https://www.marriott.com/hotels/travel/miamj-jw-marriott-marquis-miami/",
+                    "description": "This luxury hotel features high-end accommodations, a pool, spa, and several dining options, just a short distance from the arena.",
+                    "coordinates": {
+                        "latitude": "25.7715",
+                        "longitude": "-80.1894"
+                    }
+                },
+                {
+                    "name": "Hilton Miami Downtown",
+                    "address": "1601 Biscayne Blvd, Miami, FL 33132",
+                    "website": "https://www.hilton.com/en/hotels/miamhhf-hilton-miami-downtown/",
+                    "description": "Offering panoramic views of Biscayne Bay and the city, this hotel is known for its comfortable rooms and proximity to FTX Arena.",
+                    "coordinates": {
+                        "latitude": "25.790654",
+                        "longitude": "-80.188835"
                     }
                 }
             ],
@@ -87,11 +204,61 @@
                         "latitude": "25.7854",
                         "longitude": "-80.1863"
                     }
+                },
+                {
+                    "name": "Bayfront Park",
+                    "address": "301 North Biscayne Boulevard, Miami, FL 33132",
+                    "website": "https://www.bayfrontparkmiami.com/",
+                    "description": "A sprawling green space offering scenic views of Biscayne Bay, live events, and a range of outdoor activities, located near FTX Arena.",
+                    "coordinates": {
+                        "latitude": "25.774",
+                        "longitude": "-80.186"
+                    }
+                },
+                {
+                    "name": "Miami Children's Museum",
+                    "address": "980 MacArthur Causeway, Miami, FL 33132",
+                    "website": "https://www.miamichildrensmuseum.org/",
+                    "description": "An interactive museum designed for children, featuring educational exhibits and activities, located on Watson Island.",
+                    "coordinates": {
+                        "latitude": "25.7849",
+                        "longitude": "-80.176"
+                    }
+                },
+                {
+                    "name": "Jungle Island",
+                    "address": "1111 Parrot Jungle Trail, Miami, FL 33132",
+                    "website": "https://www.jungleisland.com/",
+                    "description": "An eco-adventure park offering animal encounters, zip lines, and a tropical atmosphere, situated on Watson Island.",
+                    "coordinates": {
+                        "latitude": "25.7853",
+                        "longitude": "-80.175"
+                    }
+                },
+                {
+                    "name": "Wynwood Walls",
+                    "address": "2520 NW 2nd Ave, Miami, FL 33127",
+                    "website": "https://thewynwoodwalls.com/",
+                    "description": "An outdoor museum showcasing large-scale works by some of the world’s best-known street artists, located in the vibrant Wynwood neighborhood.",
+                    "coordinates": {
+                        "latitude": "25.801",
+                        "longitude": "-80.199"
+                    }
+                },
+                {
+                    "name": "Vizcaya Museum and Gardens",
+                    "address": "3251 S Miami Ave, Miami, FL 33129",
+                    "website": "https://www.vizcaya.org/",
+                    "description": "A National Historic Landmark featuring a stunning Italian Renaissance-style villa, beautiful gardens, and art collections, located in Coconut Grove.",
+                    "coordinates": {
+                        "latitude": "25.7464",
+                        "longitude": "-80.211"
+                    }
                 }
             ],
             "team_related_activities": [
                  {
-                    "name": "Miami Heat Store at FTX Arena",
+                    "name": "Miami Heat Store at Kaseya Center",
                     "address": "601 Biscayne Blvd, Miami, FL 33132",
                     "website": "https://www.themiamiheatstore.com/",
                     "description": "Official store for Miami Heat merchandise, offering a wide selection of gear located within the FTX Arena.",
@@ -106,30 +273,44 @@
             "options": [
                 {
                     "type": "Metromover",
-                    "description": "The free Metromover has several stops near FTX Arena, providing convenient access from various parts of downtown Miami."
+                    "description": "A convenient, free automated people mover system with multiple stops in downtown Miami, including near FTX Arena. It's a great option for getting around the downtown area without a car."
                 },
                 {
                     "type": "MetroRail",
-                    "description": "The MetroRail's Government Center station connects to the Metromover, facilitating access from the broader Miami area."
+                    "description": "Miami's elevated rapid transit system connects the city to key areas, including the suburbs. For fans coming from outside downtown, the MetroRail offers a seamless connection to the Metromover at Government Center station."
+                },
+                {
+                    "type": "Brightline",
+                    "description": "A high-speed train service connecting Miami with Fort Lauderdale and West Palm Beach. The MiamiCentral station is just a short Metromover ride away from FTX Arena."
+                },
+                {
+                    "type": "Bus",
+                    "description": "Miami-Dade County's bus service offers extensive routes covering the greater Miami area, with several lines stopping near FTX Arena."
                 }
             ]
+        
         },
         "ticket_purchasing_tips": {
             "best_places_to_buy": [
                 {
                     "name": "Official Team Website",
                     "website": "https://www.nba.com/heat/tickets/",
-                    "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+                    "description": "The safest option for purchasing tickets, directly from the team's official site ensures authenticity and access to exclusive deals."
                 },
                 {
                     "name": "Ticketmaster",
                     "website": "https://www.ticketmaster.com/miami-heat-tickets/artist/805966",
-                    "description": "Authorized ticketing partner offering authentic Heat tickets."
+                    "description": "As the official ticketing partner of the NBA, Ticketmaster provides a secure platform for buying authentic tickets to Heat games."
                 },
                 {
                     "name": "StubHub",
                     "website": "https://www.stubhub.com/miami-heat-tickets/performer/6142",
-                    "description": "Reliable secondary marketplace that offers verified resold Heat tickets."
+                    "description": "A trusted secondary marketplace for fans to buy and sell tickets. StubHub guarantees the authenticity of tickets and offers protection policies."
+                },
+                {
+                    "name": "SeatGeek",
+                    "website": "https://www.seatgeek.com/miami-heat-tickets",
+                    "description": "Another reputable secondary ticketing marketplace that aggregates listings from various sources, offering a wide selection of seating options and prices."
                 }
             ],
             "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",

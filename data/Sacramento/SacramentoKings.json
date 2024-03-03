@@ -1,139 +1,285 @@
 {
-    "city": "Sacramento",
-    "team": "Kings",
-    "venue": {
-        "name": "Golden 1 Center",
-        "address": "500 David J Stern Walk, Sacramento, CA 95814",
-        "website": "https://www.golden1center.com/",
-        "average_ticket_price": "$105",
-        "season_start": "October",
-        "playoffs_start": "April",
-        "coordinates": {
+  "city": "Sacramento",
+  "team": "Kings",
+  "venue": {
+    "name": "Golden 1 Center",
+    "address": "500 David J Stern Walk, Sacramento, CA 95814",
+    "website": "https://www.golden1center.com/",
+    "average_ticket_price": "$150",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "38.5801",
+      "longitude": "-121.4997"
+    },
+    "best_seats_pricing": {
+      "Courtside": {
+        "Description": "Immersive experience with direct court access, offering unparalleled views and interaction opportunities with the Kings.",
+        "Sections": "Courtside",
+        "Estimated_Pricing_Range": "$1600 - $3800+",
+        "View_Quality": "Direct, on-the-court perspective, offering an intimate connection with the game.",
+        "Unique_Features": "Potential for player interactions and high visibility for televised broadcasts.",
+        "Accessibility": "Top-notch accessibility for all guests, including premium entry and accommodations for those with mobility needs.",
+        "Special_Perks": "Exclusive access to private clubs, complimentary fine dining, and first-class VIP services."
+      },
+      "Lower_Bowl": {
+        "Description": "Close-to-action seating providing excellent sightlines and an engaging game-viewing experience.",
+        "Sections": "Sections 106-119",
+        "Estimated_Pricing_Range": "$350 - $950",
+        "View_Quality": "Clear, unobstructed views of the game, offering a thrilling experience.",
+        "Unique_Features": "Enhanced comfort with additional space and premium seating options.",
+        "Accessibility": "Easy access via elevators and escalators, ensuring a seamless experience for all fans.",
+        "Special_Perks": "Access to exclusive lounges and in-seat service, elevating the game day experience."
+      },
+      "Upper_Bowl": {
+        "Description": "Affordable seating options with a wide view of the arena, ideal for fans who enjoy the communal atmosphere of Kings games.",
+        "Sections": "Sections 201-220",
+        "Estimated_Pricing_Range": "$80 - $320",
+        "View_Quality": "Broad view of the entire arena, capturing the dynamic atmosphere and excitement.",
+        "Unique_Features": "An economical choice for fans to partake in the Kings' games.",
+        "Accessibility": "Conveniently accessible, with a wide range of nearby amenities.",
+        "Special_Perks": "A fantastic option for those seeking an accessible and enjoyable NBA experience at a reasonable price."
+      },
+      "Suites_and_Club_Seats": {
+        "Description": "Luxurious, private viewing options with exclusive benefits and amenities for an unparalleled game day experience.",
+        "Sections": "Suites and Club Seats",
+        "Estimated_Pricing_Range": "$1800 - $5200+ per event",
+        "View_Quality": "Private, elevated viewing areas offering a unique and intimate perspective of the game.",
+        "Unique_Features": "Personalized services, dedicated entrances, and gourmet dining options.",
+        "Accessibility": "Priority VIP access, ensuring a smooth and premium experience from arrival to departure.",
+        "Special_Perks": "Ideal for hosting private events or enjoying the game in an exclusive setting, with bespoke catering options and access to VIP areas."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Sauced BBQ & Spirits",
+          "address": "1028 7th St, Sacramento, CA 95814",
+          "website": "https://www.saucedbbqandspirits.com/",
+          "description": "A lively spot known for its Southern BBQ, craft cocktails, and extensive beer selection, located a short walk from Golden 1 Center.",
+          "coordinates": {
+            "latitude": "38.580279",
+            "longitude": "-121.496330"
+          }
+        },
+        {
+          "name": "Punch Bowl Social Sacramento",
+          "address": "500 J St, Sacramento, CA 95814",
+          "website": "https://punchbowlsocial.com/location/sacramento",
+          "description": "An entertainment venue offering a gastro-diner, cocktails, bowling, and arcade games, situated right next to the Golden 1 Center.",
+          "coordinates": {
+            "latitude": "38.580090",
+            "longitude": "-121.498309"
+          }
+        },
+        {
+          "name": "Ella Dining Room and Bar",
+          "address": "1131 K St, Sacramento, CA 95814",
+          "website": "https://www.elladiningroomandbar.com/",
+          "description": "An upscale restaurant featuring a seasonal menu with local ingredients, known for its elegant atmosphere.",
+          "coordinates": {
+            "latitude": "38.578198",
+            "longitude": "-121.491837"
+          }
+        },
+        {
+          "name": "The Bank",
+          "address": "629 J St, Sacramento, CA 95814",
+          "website": "https://thebank629j.com/",
+          "description": "A unique culinary and entertainment venue housed in a historic bank building, offering multiple food vendors and bars.",
+          "coordinates": {
+            "latitude": "38.5816",
+            "longitude": "-121.4969"
+          }
+        },
+        {
+          "name": "Revival at The Sawyer",
+          "address": "500 J St, Sacramento, CA 95814",
+          "website": "https://www.revivalsacramento.com/",
+          "description": "Located atop The Sawyer, a Kimpton Hotel, this chic bar offers craft cocktails and stunning views of the Golden 1 Center and downtown Sacramento.",
+          "coordinates": {
+            "latitude": "38.5801",
+            "longitude": "-121.4983"
+          }
+        },
+        {
+          "name": "Mikuni Japanese Restaurant & Sushi Bar",
+          "address": "1530 J St, Sacramento, CA 95814",
+          "website": "https://mikunisushi.com/locations/sacramento/",
+          "description": "A popular spot for sushi and Japanese cuisine, known for its creative rolls and vibrant atmosphere.",
+          "coordinates": {
+            "latitude": "38.5771",
+            "longitude": "-121.4881"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Kimpton Sawyer Hotel",
+          "address": "500 J St, Sacramento, CA 95814",
+          "website": "https://www.thesawyerhotel.com/",
+          "description": "A contemporary hotel offering luxurious rooms with views of downtown Sacramento, located adjacent to Golden 1 Center.",
+          "coordinates": {
+            "latitude": "38.580071",
+            "longitude": "-121.498258"
+          }
+        },
+        {
+          "name": "Hyatt Regency Sacramento",
+          "address": "1209 L St, Sacramento, CA 95814",
+          "website": "https://www.hyatt.com/en-US/hotel/california/hyatt-regency-sacramento/sacra",
+          "description": "Features modern accommodations and high-end amenities, situated close to the California State Capitol and Golden 1 Center.",
+          "coordinates": {
+            "latitude": "38.576600",
+            "longitude": "-121.489960"
+          }
+        },
+        {
+          "name": "Sheraton Grand Sacramento Hotel",
+          "address": "1230 J St, Sacramento, CA 95814",
+          "website": "https://www.marriott.com/hotels/travel/sacsi-sheraton-grand-sacramento-hotel/",
+          "description": "A refined hotel with upscale rooms and facilities, located within a historic building a few blocks from Golden 1 Center.",
+          "coordinates": {
+            "latitude": "38.5784",
+            "longitude": "-121.4899"
+          }
+        },
+        {
+          "name": "The Citizen Hotel, Autograph Collection",
+          "address": "926 J St, Sacramento, CA 95814",
+          "website": "https://www.marriott.com/hotels/travel/sacak-the-citizen-hotel-autograph-collection/",
+          "description": "This boutique hotel combines historic charm with modern luxury, offering unique accommodations near the Golden 1 Center.",
+          "coordinates": {
+            "latitude": "38.5789",
+            "longitude": "-121.4913"
+          }
+        },
+        {
+          "name": "HI Sacramento Hostel",
+          "address": "925 H St, Sacramento, CA 95814",
+          "website": "https://www.hiusa.org/hostels/california/sacramento/sacramento",
+          "description": "An affordable and historic hostel option, set in a Victorian mansion within walking distance of Golden 1 Center, offering shared and private rooms.",
+          "coordinates": {
+            "latitude": "38.5812",
+            "longitude": "-121.4928"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "California State Capitol Museum",
+          "address": "1315 10th St, Sacramento, CA 95814",
+          "website": "http://capitolmuseum.ca.gov/",
+          "description": "Offers a mix of historical artifacts and exhibits on California's rich history, set in a beautiful park.",
+          "coordinates": {
+            "latitude": "38.576587",
+            "longitude": "-121.493675"
+          }
+        },
+        {
+          "name": "Old Sacramento Waterfront",
+          "address": "1014 2nd St, Sacramento, CA 95814",
+          "website": "https://www.oldsacramento.com/",
+          "description": "A historic area with shops, museums, and dining, offering a glimpse into the Gold Rush era.",
+          "coordinates": {
+            "latitude": "38.583073",
+            "longitude": "-121.504530"
+          }
+        },
+        {
+          "name": "Crocker Art Museum",
+          "address": "216 O St, Sacramento, CA 95814",
+          "website": "https://www.crockerart.org/",
+          "description": "Showcases a diverse range of art collections, including California art, European master drawings, and international ceramics.",
+          "coordinates": {
+            "latitude": "38.5773",
+            "longitude": "-121.5067"
+          }
+        },
+        {
+          "name": "Sacramento Zoo",
+          "address": "3930 W Land Park Dr, Sacramento, CA 95822",
+          "website": "https://www.saczoo.org/",
+          "description": "A 14.3-acre zoo that features over 140 species of exotic and endangered animals, great for family outings.",
+          "coordinates": {
+            "latitude": "38.5393",
+            "longitude": "-121.5013"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Kings Team Store at Golden 1 Center",
+          "address": "500 David J Stern Walk, Sacramento, CA 95814",
+          "website": "https://www.kingsteamstore.com/",
+          "description": "The official store for Sacramento Kings merchandise, located within Golden 1 Center.",
+          "coordinates": {
             "latitude": "38.580205",
             "longitude": "-121.499488"
+          }
         },
-        "nearby_amenities": {
-            "restaurants_bars": [
-                {
-                    "name": "Sauced BBQ & Spirits",
-                    "address": "1028 7th St, Sacramento, CA 95814",
-                    "website": "https://www.saucedbbqandspirits.com/",
-                    "description": "A lively spot known for its Southern BBQ, craft cocktails, and extensive beer selection, located a short walk from Golden 1 Center.",
-                    "coordinates": {
-                        "latitude": "38.580279",
-                        "longitude": "-121.496330"
-                    }
-                },
-                {
-                    "name": "Punch Bowl Social Sacramento",
-                    "address": "500 J St, Sacramento, CA 95814",
-                    "website": "https://punchbowlsocial.com/location/sacramento",
-                    "description": "An entertainment venue offering a gastro-diner, cocktails, bowling, and arcade games, situated right next to the Golden 1 Center.",
-                    "coordinates": {
-                        "latitude": "38.580090",
-                        "longitude": "-121.498309"
-                    }
-                },
-                {
-                    "name": "Ella Dining Room and Bar",
-                    "address": "1131 K St, Sacramento, CA 95814",
-                    "website": "https://www.elladiningroomandbar.com/",
-                    "description": "An upscale restaurant featuring a seasonal menu with local ingredients, known for its elegant atmosphere.",
-                    "coordinates": {
-                        "latitude": "38.578198",
-                        "longitude": "-121.491837"
-                    }
-                }
-            ],
-            "accommodations": [
-                {
-                    "name": "Kimpton Sawyer Hotel",
-                    "address": "500 J St, Sacramento, CA 95814",
-                    "website": "https://www.thesawyerhotel.com/",
-                    "description": "A contemporary hotel offering luxurious rooms with views of downtown Sacramento, located adjacent to Golden 1 Center.",
-                    "coordinates": {
-                        "latitude": "38.580071",
-                        "longitude": "-121.498258"
-                    }
-                },
-                {
-                    "name": "Hyatt Regency Sacramento",
-                    "address": "1209 L St, Sacramento, CA 95814",
-                    "website": "https://www.hyatt.com/en-US/hotel/california/hyatt-regency-sacramento/sacra",
-                    "description": "Features modern accommodations and high-end amenities, situated close to the California State Capitol and Golden 1 Center.",
-                    "coordinates": {
-                        "latitude": "38.576600",
-                        "longitude": "-121.489960"
-                    }
-                }
-            ],
-            "tourist_attractions": [
-                {
-                    "name": "California State Capitol Museum",
-                    "address": "1315 10th St, Sacramento, CA 95814",
-                    "website": "http://capitolmuseum.ca.gov/",
-                    "description": "Offers a mix of historical artifacts and exhibits on California's rich history, set in a beautiful park.",
-                    "coordinates": {
-                        "latitude": "38.576587",
-                        "longitude": "-121.493675"
-                    }
-                },
-                {
-                    "name": "Old Sacramento Waterfront",
-                    "address": "1014 2nd St, Sacramento, CA 95814",
-                    "website": "https://www.oldsacramento.com/",
-                    "description": "A historic area with shops, museums, and dining, offering a glimpse into the Gold Rush era.",
-                    "coordinates": {
-                        "latitude": "38.583073",
-                        "longitude": "-121.504530"
-                    }
-                }
-            ],
-            "team_related_activities": [
-                 {
-                    "name": "Kings Team Store at Golden 1 Center",
-                    "address": "500 David J Stern Walk, Sacramento, CA 95814",
-                    "website": "https://www.kingsteamstore.com/",
-                    "description": "The official store for Sacramento Kings merchandise, located within Golden 1 Center.",
-                    "coordinates": {
-                        "latitude": "38.580205",
-                        "longitude": "-121.499488"
-                    }
-                 }
-            ]
+        {
+          "name": "Golden 1 Center Tours",
+          "address": "500 David J Stern Walk, Sacramento, CA 95814",
+          "website": "https://www.golden1center.com/visit/tours",
+          "description": "Get a behind-the-scenes look at the state-of-the-art arena, including areas typically off-limits on game days.",
+          "coordinates": {
+            "latitude": "38.5801",
+            "longitude": "-121.4997"
+          }
         },
-        "public_transportation": {
-            "options": [
-                {
-                    "type": "Light Rail",
-                    "description": "Sacramento Regional Transit District's Light Rail services have stations near Golden 1 Center, providing easy access from various parts of the city."
-                },
-                {
-                    "type": "Bus",
-                    "description": "Multiple RT bus lines run through downtown Sacramento, stopping near Golden 1 Center."
-                }
-            ]
-        },
-        "ticket_purchasing_tips": {
-            "best_places_to_buy": [
-                {
-                    "name": "Official Team Website",
-                    "website": "https://www.nba.com/kings/tickets",
-                    "description": "The primary source for all ticket sales, offering guaranteed authenticity."
-                },
-                {
-                    "name": "Ticketmaster",
-                    "website": "https://www.ticketmaster.com/sacramento-kings-tickets/artist/806013",
-                    "description": "Authorized ticketing partner offering authentic Kings tickets."
-                },
-                {
-                    "name": "StubHub",
-                    "website": "https://www.stubhub.com/sacramento-kings-tickets/performer/2743/",
-                    "description": "Reliable secondary marketplace that offers verified resold Kings tickets."
-                }
-            ],
-            "ways_to_save": "Consider attending games on weekdays to find potentially lower ticket prices. Look into group discounts for larger parties. Monitor for promotional nights with special offers.",
-            "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. Use reputable secondary marketplaces with buyer protection. Be cautious of buying tickets from sellers outside the venue."
+        {
+          "name": "Sacramento Kings Experience Center",
+          "address": "660 J St, Sacramento, CA 95814",
+          "website": "https://www.nba.com/kings/experience",
+          "description": "An interactive center that offers fans a virtual reality experience of the Kings' games and a sneak peek into future developments.",
+          "coordinates": {
+            "latitude": "38.5803",
+            "longitude": "-121.4999"
+          }
         }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "Light Rail",
+          "description": "Sacramento Regional Transit District's Light Rail services have stations near Golden 1 Center, providing easy access from various parts of the city. Key stations include St Rose of Lima Park and Cathedral Square."
+        },
+        {
+          "type": "Bus",
+          "description": "Multiple RT bus lines run through downtown Sacramento, stopping near Golden 1 Center. Popular lines include 30, 38, 62, and 86, which offer convenient schedules on game days."
+        },
+        {
+          "type": "Bike Share",
+          "description": "Sacramento's bike share program, Jump, offers an eco-friendly and fun way to get to the Golden 1 Center. There are several bike stations located around downtown Sacramento."
+        },
+        {
+          "type": "Rideshare",
+          "description": "Lyft and Uber provide convenient rideshare options with drop-off and pick-up zones designated around the Golden 1 Center."
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Team Website",
+          "website": "https://www.nba.com/kings/tickets",
+          "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+        },
+        {
+          "name": "Ticketmaster",
+          "website": "https://www.ticketmaster.com/sacramento-kings-tickets/artist/806013",
+          "description": "Authorized ticketing partner offering authentic Kings tickets."
+        },
+        {
+          "name": "StubHub",
+          "website": "https://www.stubhub.com/sacramento-kings-tickets/performer/2743/",
+          "description": "Reliable secondary marketplace that offers verified resold Kings tickets."
+        }
+      ],
+      "ways_to_save": "Consider attending games on weekdays to find potentially lower ticket prices. Look into group discounts for larger parties. Monitor for promotional nights with special offers.",
+      "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. Use reputable secondary marketplaces with buyer protection. Be cautious of buying tickets from sellers outside the venue."
     }
+  }
 }

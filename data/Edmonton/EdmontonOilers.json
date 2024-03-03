@@ -1,0 +1,349 @@
+{
+  "city": "Edmonton",
+  "team": "Oilers",
+  "venue": {
+    "name": "Rogers Place",
+    "address": "10220 104 Ave NW, Edmonton, AB T5J 0H6, Canada",
+    "website": "https://www.rogersplace.com/",
+    "average_ticket_price": "$110",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "53.5461",
+      "longitude": "-113.4979"
+    },
+    "best_seats_pricing": {
+      "Rinkside": {
+        "Description": "Seats right next to the action for an unparalleled game experience.",
+        "Sections": "Rinkside",
+        "Estimated_Pricing_Range": "$800 - $3000+",
+        "View_Quality": "Direct ice-level view, engaging and immersive experience.",
+        "Unique_Features": "Chance for player interactions, possibility of being seen on TV.",
+        "Accessibility": "Easy access, but limited space for personal mobility devices.",
+        "Special_Perks": "Exclusive access to the Ice Club, complimentary dining and beverages."
+      },
+      "Club_Seats": {
+        "Description": "Offering a fantastic view of the game from the sides with added benefits.",
+        "Sections": "Club Sections 107-110 and 137-140",
+        "Estimated_Pricing_Range": "$250 - $800",
+        "View_Quality": "Elevated side views with clear line of sight to the ice.",
+        "Unique_Features": "Wider seats with more leg room, less crowded sections.",
+        "Accessibility": "Dedicated entrance for easier access, nearby elevators.",
+        "Special_Perks": "Access to premium clubs and in-seat wait service."
+      },
+      "Center_Balcony": {
+        "Description": "Great overall view of the game from an elevated position.",
+        "Sections": "Sections 301-303 and 323-325",
+        "Estimated_Pricing_Range": "$100 - $250",
+        "View_Quality": "Panoramic view of the ice, ideal for tactical analysis.",
+        "Unique_Features": "Affordable pricing for a comprehensive view of the action.",
+        "Accessibility": "Accessible seating available, elevators to balcony level.",
+        "Special_Perks": "More budget-friendly option with a full view of the ice."
+      },
+      "Loge_Level": {
+        "Description": "Just above courtside, offering close views without being on the ice.",
+        "Sections": "Mid Ice Sections 15-17 and 1-2; Corners Sections 13-14, 18-19, 22-23, and 3-4",
+        "Estimated_Pricing_Range": "$150 - $600",
+        "View_Quality": "Close to the action with a slightly elevated perspective.",
+        "Unique_Features": "Proximity to the ice with a more accessible price point.",
+        "Accessibility": "Wheelchair-accessible seating and nearby amenities.",
+        "Special_Perks": "Good balance of price, view, and experience."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Rogers Place",
+          "address": "10220 104 Ave NW, Edmonton, AB T5J 0H6",
+          "website": "https://www.rogersplace.com/dining",
+          "description": "At the heart of Edmonton's entertainment district, Rogers Place itself offers a variety of dining options within and around the arena, catering to all tastes.",
+          "coordinates": {
+            "latitude": "53.546124",
+            "longitude": "-113.493823"
+          }
+        },
+        {
+          "name": "Mercer Tavern",
+          "address": "10363 104 St NW, Edmonton, AB T5J 1B9",
+          "website": "http://www.mercertavern.com/",
+          "description": "A historic tavern near Rogers Place, offering a selection of local craft beers and classic pub fare in a lively atmosphere.",
+          "coordinates": {
+            "latitude": "53.545273",
+            "longitude": "-113.499847"
+          }
+        },
+        {
+          "name": "The Canadian Brewhouse",
+          "address": "10338 109 St NW, Edmonton, AB T5J 1N3",
+          "website": "https://www.thecanadianbrewhouse.com/",
+          "description": "A well-loved chain with a vibrant atmosphere, serving a wide variety of beers and hearty Canadian dishes, just a short walk from the game.",
+          "coordinates": {
+            "latitude": "53.544389",
+            "longitude": "-113.510739"
+          }
+        },
+        {
+          "name": "Rostizado",
+          "address": "10359 104 St NW, Edmonton, AB T5J 1B9",
+          "website": "http://www.rostizado.com/",
+          "description": "Offering modern Mexican cuisine in a chic setting, Rostizado is known for its innovative dishes and cocktails, situated in the historic Mercer Warehouse.",
+          "coordinates": {
+            "latitude": "53.545198",
+            "longitude": "-113.499526"
+          }
+        },
+        {
+          "name": "CRAFT Beer Market",
+          "address": "10013 101A Ave NW, Edmonton, AB T5J 0C3",
+          "website": "https://www.craftbeermarket.ca/edmonton",
+          "description": "Features a vast selection of craft beers and a diverse menu in a spacious setting, ideal for gatherings and pre-game dining.",
+          "coordinates": {
+            "latitude": "53.541362",
+            "longitude": "-113.488666"
+          }
+        },
+        {
+          "name": "Tres Carnales Taquería",
+          "address": "10119 100A St NW, Edmonton, AB T5J 0R5",
+          "website": "http://www.trescarnales.com/",
+          "description": "Authentic and lively, this downtown spot is celebrated for its tacos and Mexican street food, offering a taste of Mexico in Edmonton.",
+          "coordinates": {
+            "latitude": "53.540780",
+            "longitude": "-113.488213"
+          }
+        },
+        {
+          "name": "DOSC",
+          "address": "10190 104 St NW, Edmonton, AB T5J 1A7",
+          "website": "https://www.dosc.ca/",
+          "description": "A unique blend of steakhouse and café, DOSC delights with craft cocktails and sophisticated dining near Rogers Place.",
+          "coordinates": {
+            "latitude": "53.545700",
+            "longitude": "-113.499092"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "The Westin Edmonton",
+          "address": "10135 100 St NW, Edmonton, AB T5J 0N7, Canada",
+          "website": "https://www.marriott.com/hotels/travel/yegwi-the-westin-edmonton/",
+          "description": "A contemporary hotel offering upscale rooms, a fitness center, and dining, conveniently located in downtown Edmonton.",
+          "coordinates": {
+            "latitude": "53.541067",
+            "longitude": "-113.495388"
+          }
+        },
+        {
+          "name": "Courtyard by Marriott Edmonton Downtown",
+          "address": "1 Thornton Ct, Edmonton, AB T5J 2E7, Canada",
+          "website": "https://www.marriott.com/hotels/travel/yegcy-courtyard-edmonton-downtown/",
+          "description": "Modern hotel offering stylish rooms, a fitness center, and dining options, close to Rogers Place and downtown attractions.",
+          "coordinates": {
+            "latitude": "53.543943",
+            "longitude": "-113.489125"
+          }
+        },
+        {
+          "name": "Matrix Hotel",
+          "address": "10640 100 Ave NW, Edmonton, AB T5J 3N8, Canada",
+          "website": "https://www.matrixedmonton.com/",
+          "description": "A chic, modern hotel offering sleek rooms, a fitness center, and dining options, within walking distance to Rogers Place and downtown Edmonton.",
+          "coordinates": {
+            "latitude": "53.542648",
+            "longitude": "-113.502441"
+          }
+        },
+        {
+          "name": "Fairmont Hotel Macdonald",
+          "address": "10065 100 St NW, Edmonton, AB T5J 0N6, Canada",
+          "website": "https://www.fairmont.com/macdonald-edmonton/",
+          "description": "A historic luxury hotel offering elegant rooms, fine dining, and breathtaking views of the North Saskatchewan River valley, located near downtown Edmonton.",
+          "coordinates": {
+            "latitude": "53.541888",
+            "longitude": "-113.493525"
+          }
+        },
+        {
+          "name": "Union Bank Inn",
+          "address": "10053 Jasper Ave NW, Edmonton, AB T5J 1S5, Canada",
+          "website": "https://www.unionbankinn.com/",
+          "description": "A boutique hotel offering upscale rooms, dining, and event spaces, situated in the heart of downtown Edmonton, within walking distance to Rogers Place.",
+          "coordinates": {
+            "latitude": "53.540953",
+            "longitude": "-113.497219"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "Fort Edmonton Park",
+          "address": "7000 143 Street NW, Edmonton, Alberta",
+          "website": "https://www.fortedmontonpark.ca",
+          "description": "A living history museum offering an immersive glimpse into Edmonton's past with reconstructed historical buildings and engaging activities.",
+          "coordinates": {
+            "latitude": "53.5016",
+            "longitude": "-113.5833"
+          }
+        },
+        {
+          "name": "Whyte Avenue",
+          "address": "Whyte Avenue, Edmonton, Alberta",
+          "website": "Not specified",
+          "description": "A vibrant neighborhood known for its arts and culture, shopping, dining, and entertainment in the Old Strathcona area.",
+          "coordinates": {
+            "latitude": "53.5182",
+            "longitude": "-113.4970"
+          }
+        },
+        {
+          "name": "Muttart Conservatory",
+          "address": "9626 96A Street NW, Edmonton, Alberta",
+          "website": "https://www.edmonton.ca",
+          "description": "Features four glass pyramids with plants from different ecosystems around the world.",
+          "coordinates": {
+            "latitude": "53.5326",
+            "longitude": "-113.4759"
+          }
+        },
+        {
+          "name": "Alberta Legislature Building",
+          "address": "10800 97 Ave NW, Edmonton, Alberta",
+          "website": "https://www.assembly.ab.ca",
+          "description": "A historic site and government hub with guided tours available, set in picturesque grounds.",
+          "coordinates": {
+            "latitude": "53.5336",
+            "longitude": "-113.5070"
+          }
+        },
+        {
+          "name": "Art Gallery of Alberta",
+          "address": "2 Sir Winston Churchill Square, Edmonton, Alberta",
+          "website": "https://www.youraga.ca",
+          "description": "A modern art museum featuring a wide range of exhibitions and collections, emphasizing Western Canada.",
+          "coordinates": {
+            "latitude": "53.5451",
+            "longitude": "-113.4887"
+          }
+        },
+        {
+          "name": "University of Alberta Botanic Garden",
+          "address": "botanicgarden.ualberta.ca",
+          "website": "https://www.botanicgarden.ualberta.ca",
+          "description": "A vast garden area offering a variety of plant species and themed gardens, including the Aga Khan Garden.",
+          "coordinates": {
+            "latitude": "53.4370",
+            "longitude": "-113.6280"
+          }
+        },
+        {
+          "name": "Royal Alberta Museum",
+          "address": "9810 103a Ave NW, Edmonton, Alberta",
+          "website": "https://royalalbertamuseum.ca",
+          "description": "Expansive galleries exploring Alberta's natural and human history, including a Children's Gallery.",
+          "coordinates": {
+            "latitude": "53.5458",
+            "longitude": "-113.4883"
+          }
+        },
+        {
+          "name": "Elk Island National Park",
+          "address": "1- 54401 Range Road 203, Fort Saskatchewan, Alberta",
+          "website": "https://www.pc.gc.ca",
+          "description": "A national park offering a refuge for wildlife, outdoor activities, and a chance to see the Northern Lights.",
+          "coordinates": {
+            "latitude": "53.5932",
+            "longitude": "-112.8660"
+          }
+        },
+        {
+          "name": "TELUS World of Science",
+          "address": "11211 142 Street NW, Edmonton, Alberta",
+          "website": "https://telusworldofscienceedmonton.ca",
+          "description": "Features interactive exhibits on science and technology, an observatory, and an IMAX theatre.",
+          "coordinates": {
+            "latitude": "53.5461",
+            "longitude": "-113.5683"
+          }
+        },
+        {
+          "name": "Edmonton Valley Zoo",
+          "address": "13315 Buena Vista Road, Edmonton, Alberta",
+          "website": "https://www.edmonton.ca",
+          "description": "A family-oriented zoo focusing on conservation research, with over 350 animals representing 100 species.",
+          "coordinates": {
+            "latitude": "53.4967",
+            "longitude": "-113.5794"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Rogers Place Tours",
+          "address": "10220 104 Ave NW, Edmonton, AB T5J 0H6",
+          "website": "https://www.rogersplace.com",
+          "description": "Explore Rogers Place with guided tours that showcase the state-of-the-art facilities, including the Oilers Hall of Fame, featuring memorabilia from the Oilers' glory years.",
+          "coordinates": {
+            "latitude": "53.5461",
+            "longitude": "-113.4989"
+          }
+        },
+        {
+          "name": "Ford Hall Public Art",
+          "address": "10220 104 Ave NW, Edmonton, AB T5J 0H6",
+          "website": "https://www.rogersplace.com",
+          "description": "Experience the artistic side of Rogers Place in Ford Hall, featuring the 'Iron Foot Place' mosaic by renowned Aboriginal artist Alex Janvier, among other public art pieces.",
+          "coordinates": {
+            "latitude": "53.5461",
+            "longitude": "-113.4989"
+          }
+        },
+        {
+          "name": "Ice District",
+          "address": "10220 104 Ave NW, Edmonton, AB T5J 0H6",
+          "website": "https://www.icedistrict.com",
+          "description": "Rogers Place is part of the vibrant Ice District, offering dining, entertainment, and shopping options, including the Grand Villa Casino and the Molson Canadian Hockey House.",
+          "coordinates": {
+            "latitude": "53.5461",
+            "longitude": "-113.4989"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "LRT",
+          "description": "The Edmonton LRT system provides easy access to Rogers Place, with several stations conveniently located near the arena.",
+          "map_link": "https://www.edmonton.ca/ets/transit-system-map.aspx"
+        },
+        {
+          "type": "Bus",
+          "description": "Edmonton's extensive bus network serves Rogers Place, ensuring straightforward access from various parts of the city.",
+          "map_link": "https://www.edmonton.ca/ets/route-schedules-maps.aspx"
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Edmonton Oilers Website",
+          "website": "https://www.nhl.com/oilers/tickets",
+          "description": "The primary source for all Oilers ticket sales, offering guaranteed authenticity and the best selection of seats."
+        },
+        {
+          "name": "Ticketmaster",
+          "website": "https://www.ticketmaster.ca/edmonton-oilers-tickets/artist/805993",
+          "description": "Authorized ticketing partner for the Edmonton Oilers, providing a secure platform for purchasing official tickets."
+        },
+        {
+          "name": "StubHub",
+          "website": "https://www.stubhub.com/edmonton-oilers-tickets/performer/96/",
+          "description": "A reliable secondary marketplace for Oilers tickets, offering a fanProtect guarantee."
+        }
+      ],
+      "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+      "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+    }
+  }
+}

@@ -1,0 +1,319 @@
+{
+    "city": "Denver",
+    "team": "Avalanche",
+    "venue": {
+      "name": "Ball Arena",
+      "address": "1000 Chopper Cir, Denver, CO 80204",
+      "website": "https://www.ballarenadenver.com/",
+      "average_ticket_price": "$110",
+      "season_start": "October",
+      "playoffs_start": "April",
+      "coordinates": {
+        "latitude": "39.7487",
+        "longitude": "-105.0077"
+      },
+      "best_seats_pricing": {
+        "Rinkside": {
+          "Description": "Seats right next to the action for an unparalleled game experience.",
+          "Sections": "Rinkside",
+          "Estimated_Pricing_Range": "$800 - $3000+",
+          "View_Quality": "Direct ice-level view, engaging and immersive experience.",
+          "Unique_Features": "Chance for player interactions, possibility of being seen on TV.",
+          "Accessibility": "Easy access, but limited space for personal mobility devices.",
+          "Special_Perks": "Exclusive access to the Ice Club, complimentary dining and beverages."
+        },
+        "Club_Seats": {
+          "Description": "Offering a fantastic view of the game from the sides with added benefits.",
+          "Sections": "Club Sections 107-110 and 137-140",
+          "Estimated_Pricing_Range": "$250 - $800",
+          "View_Quality": "Elevated side views with clear line of sight to the ice.",
+          "Unique_Features": "Wider seats with more leg room, less crowded sections.",
+          "Accessibility": "Dedicated entrance for easier access, nearby elevators.",
+          "Special_Perks": "Access to premium clubs and in-seat wait service."
+        },
+        "Center_Balcony": {
+          "Description": "Great overall view of the game from an elevated position.",
+          "Sections": "Sections 301-303 and 323-325",
+          "Estimated_Pricing_Range": "$100 - $250",
+          "View_Quality": "Panoramic view of the ice, ideal for tactical analysis.",
+          "Unique_Features": "Affordable pricing for a comprehensive view of the action.",
+          "Accessibility": "Accessible seating available, elevators to balcony level.",
+          "Special_Perks": "More budget-friendly option with a full view of the ice."
+        },
+        "Loge_Level": {
+          "Description": "Just above courtside, offering close views without being on the ice.",
+          "Sections": "Mid Ice Sections 15-17 and 1-2; Corners Sections 13-14, 18-19, 22-23, and 3-4",
+          "Estimated_Pricing_Range": "$150 - $600",
+          "View_Quality": "Close to the action with a slightly elevated perspective.",
+          "Unique_Features": "Proximity to the ice with a more accessible price point.",
+          "Accessibility": "Wheelchair-accessible seating and nearby amenities.",
+          "Special_Perks": "Good balance of price, view, and experience."
+        }
+      },
+      "nearby_amenities": {
+        "restaurants_bars": [
+            {
+              "name": "Brooklyns Denver",
+              "address": "901 Auraria Pkwy, Denver, CO 80204",
+              "website": "http://www.brooklynsrestaurants.com/",
+              "description": "Laid-back sports bar with a large selection of beers and classic American eats, located near Ball Arena.",
+              "coordinates": {
+                "latitude": "39.746839",
+                "longitude": "-105.007706"
+              }
+            },
+            {
+              "name": "Elitch Gardens Theme & Water Park",
+              "address": "2000 Elitch Cir, Denver, CO 80204",
+              "website": "https://www.elitchgardens.com/",
+              "description": "An amusement park offering various dining options, from quick snacks to sit-down meals, besides its thrilling rides and attractions.",
+              "coordinates": {
+                "latitude": "39.748369",
+                "longitude": "-105.010482"
+              }
+            },
+            {
+              "name": "Pepsi Center",
+              "address": "1000 Chopper Cir, Denver, CO 80204",
+              "description": "Enjoy pre-game or post-game meals and drinks right at the venue of the game for a seamless experience.",
+              "coordinates": {
+                "latitude": "39.748656",
+                "longitude": "-105.007602"
+              }
+            },
+            {
+              "name": "Euclid Hall Bar & Kitchen",
+              "address": "1317 14th St, Denver, CO 80202",
+              "website": "http://www.euclidhall.com/",
+              "description": "Innovative tavern for high-end pub grub and a comprehensive beer selection, situated in a historic building.",
+              "coordinates": {
+                "latitude": "39.747595",
+                "longitude": "-104.999897"
+              }
+            },
+            {
+              "name": "Protos Pizza",
+              "address": "2401 15th St, Denver, CO 80202",
+              "website": "https://protospizza.com/",
+              "description": "Casual pizzeria offering thin-crust pies in a friendly, laid-back setting, great for a quick bite before the game.",
+              "coordinates": {
+                "latitude": "39.758248",
+                "longitude": "-105.009865"
+              }
+            },
+            {
+              "name": "My Brothers Bar",
+              "address": "2376 15th St, Denver, CO 80202",
+              "website": "N/A",
+              "description": "The oldest bar in Denver, known for its juicy burgers and historic ambiance, without a sign out front but full of character inside.",
+              "coordinates": {
+                "latitude": "39.756212",
+                "longitude": "-105.009880"
+              }
+            },
+            {
+              "name": "Aquarium Restaurant",
+              "address": "700 Water St, Denver, CO 80211",
+              "website": "https://www.aquariumrestaurants.com/aquariumdenver/",
+              "description": "Dine alongside a 50,000-gallon aquarium, offering a unique underwater dining experience with a variety of seafood dishes.",
+              "coordinates": {
+                "latitude": "39.752498",
+                "longitude": "-105.013668"
+              }
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Hotel Indigo Denver Downtown",
+              "address": "1801 Wewatta St, Denver, CO 80202",
+              "website": "https://www.ihg.com/hotelindigo/hotels/us/en/denver/denws/hoteldetail",
+              "description": "A stylish hotel with modern rooms, a fitness center, and easy access to Ball Arena and downtown attractions.",
+              "coordinates": {
+                "latitude": "39.753564",
+                "longitude": "-105.001963"
+              }
+            },
+            {
+              "name": "The Crawford Hotel",
+              "address": "1701 Wynkoop St, Denver, CO 80202",
+              "website": "https://www.thecrawfordhotel.com/",
+              "description": "Located in the historic Union Station, this hotel offers luxury accommodations and a unique stay experience in the heart of Denver.",
+              "coordinates": {
+                "latitude": "39.753173",
+                "longitude": "-105.000107"
+              }
+            },
+            {
+              "name": "The Maven Hotel",
+              "address": "1850 Wazee St, Denver, CO 80202",
+              "website": "https://www.themavenhotel.com/",
+              "description": "A contemporary and art-filled hotel located in the Dairy Block, offering innovative design and a vibrant atmosphere.",
+              "coordinates": {
+                "latitude": "39.753139",
+                "longitude": "-104.997657"
+              }
+            },
+            {
+              "name": "Kimpton Hotel Born",
+              "address": "1600 Wewatta St, Denver, CO 80202",
+              "website": "https://www.hotelborndenver.com/",
+              "description": "Anchoring Denver’s revitalized Union Station neighborhood, this hotel offers a modern, chic stay with unique, handcrafted touches.",
+              "coordinates": {
+                "latitude": "39.753205",
+                "longitude": "-105.001828"
+              }
+            },
+            {
+              "name": "The Oxford Hotel",
+              "address": "1600 17th St, Denver, CO 80202",
+              "website": "https://www.theoxfordhotel.com/",
+              "description": "Denver's most historic hotel, offering luxurious accommodations that blend historic details with modern comfort, just steps away from Union Station.",
+              "coordinates": {
+                "latitude": "39.752079",
+                "longitude": "-104.999513"
+              }
+            },
+            {
+              "name": "SpringHill Suites by Marriott Denver Downtown",
+              "address": "1190 Auraria Pkwy Suite A, Denver, CO 80204",
+              "website": "https://www.marriott.com/hotels/travel/densd-springhill-suites-denver-downtown/",
+              "description": "Spacious suites and vibrant lobbies offer flexible spaces perfect for working, meeting, or relaxing in Denver.",
+              "coordinates": {
+                "latitude": "39.745115",
+                "longitude": "-105.007153"
+              }
+            }
+          ],
+          "tourist_attractions": [
+            {
+              "name": "Denver Art Museum",
+              "address": "100 W 14th Ave Pkwy, Denver, CO 80204",
+              "website": "https://www.denverartmuseum.org/",
+              "description": "One of the largest art museums between the West Coast and Chicago, known for its collection of American Indian art.",
+              "coordinates": {
+                "latitude": "39.737512",
+                "longitude": "-104.989864"
+              }
+            },
+            {
+              "name": "Larimer Square",
+              "address": "1430 Larimer St, Denver, CO 80202",
+              "website": "https://www.larimersquare.com/",
+              "description": "Denver's most historic block, offering chic shopping, dining, and nightlife in beautifully restored Victorian buildings.",
+              "coordinates": {
+                "latitude": "39.747988",
+                "longitude": "-104.999756"
+              }
+            },
+            {
+              "name": "Denver Botanic Gardens",
+              "address": "1007 York St, Denver, CO 80206",
+              "website": "https://www.botanicgardens.org/",
+              "description": "A lush oasis in the city, featuring native plants and international collections, along with year-round events.",
+              "coordinates": {
+                "latitude": "39.732004",
+                "longitude": "-104.960255"
+              }
+            },
+            {
+              "name": "Red Rocks Park and Amphitheatre",
+              "address": "18300 W Alameda Pkwy, Morrison, CO 80465",
+              "website": "https://www.redrocksonline.com/",
+              "description": "A world-famous outdoor venue and natural amphitheater set within a stunning geological wonder, hosting concerts and events.",
+              "coordinates": {
+                "latitude": "39.6654",
+                "longitude": "-105.2057"
+              }
+            },
+            {
+              "name": "Union Station",
+              "address": "1701 Wynkoop St, Denver, CO 80202",
+              "website": "https://unionstationindenver.com/",
+              "description": "A historic landmark that has been transformed into a bustling hub with restaurants, bars, and shops, serving as the gateway to the city.",
+              "coordinates": {
+                "latitude": "39.753173",
+                "longitude": "-105.000107"
+              }
+            },
+            {
+              "name": "Coors Field",
+              "address": "2001 Blake St, Denver, CO 80205",
+              "website": "https://www.mlb.com/rockies/ballpark",
+              "description": "Home of the Colorado Rockies, offering tours that provide a behind-the-scenes look at one of Major League Baseball's most famous ballparks.",
+              "coordinates": {
+                "latitude": "39.755882",
+                "longitude": "-104.994178"
+              }
+            }
+          ],
+        "team_related_activities":  [
+            {
+              "name": "Avalanche Team Store at Ball Arena",
+              "address": "1000 Chopper Cir, Denver, CO 80204",
+              "website": "https://avalancheteamstore.com/",
+              "description": "Official store for Colorado Avalanche merchandise, located within Ball Arena.",
+              "coordinates": {
+                "latitude": "39.7487",
+                "longitude": "-105.0077"
+              }
+            },
+            {
+              "name": "Avalanche Hall of Fame Experience",
+              "address": "1000 Chopper Cir, Denver, CO 80204",
+              "website": "https://www.ballarenadenver.com/halloffame",
+              "description": "Interactive museum featuring Avalanche history, player artifacts, and championship memorabilia, located within Ball Arena.",
+              "coordinates": {
+                "latitude": "39.7487",
+                "longitude": "-105.0077"
+              }
+            },
+            {
+              "name": "Avalanche Game Day Tours",
+              "address": "1000 Chopper Cir, Denver, CO 80204",
+              "website": "https://www.ballarenadenver.com/tours",
+              "description": "Behind-the-scenes tours of Ball Arena on game days, including exclusive areas and player insights.",
+              "coordinates": {
+                "latitude": "39.7487",
+                "longitude": "-105.0077"
+              }
+            }
+          ]
+      },
+      "public_transportation": {
+        "options": [
+          {
+            "type": "Light Rail",
+            "description": "The RTD Light Rail C, E, and W lines serve Union Station, which is a short walk from Ball Arena.",
+            "map_link": "https://www.rtd-denver.com/services/lightrail"
+          },
+          {
+            "type": "Bus",
+            "description": "Multiple RTD bus routes serve the area around Ball Arena, providing convenient access to the venue.",
+            "map_link": "https://www.rtd-denver.com/services/bus"
+          }
+        ]
+      },
+      "ticket_purchasing_tips": {
+        "best_places_to_buy": [
+          {
+            "name": "Official Team Website",
+            "website": "https://www.nhl.com/avalanche/tickets/",
+            "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+          },
+          {
+            "name": "Ticketmaster",
+            "website": "https://www.ticketmaster.com/colorado-avalanche-tickets/artist/805986",
+            "description": "Authorized ticketing partner offering authentic Avalanche tickets."
+          },
+          {
+            "name": "StubHub",
+            "website": "https://www.stubhub.com/colorado-avalanche-tickets/performer/4587",
+            "description": "Reliable secondary marketplace that offers verified resold Avalanche tickets."
+          }
+        ],
+        "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+        "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+      }
+    }
+}
+  

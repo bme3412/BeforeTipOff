@@ -1,0 +1,331 @@
+{
+    "city": "Sunrise",
+  "team": "Panthers",
+  "venue": {
+    "name": "FLA Live Arena",
+    "address": "1 Panther Parkway, Sunrise, FL 33323",
+    "website": "https://www.flalivearena.com/",
+    "average_ticket_price": "$95",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "26.158477",
+      "longitude": "-80.325606"
+    },
+    "best_seats_pricing": {
+      "Rinkside": {
+        "Description": "Seats at the heart of the action offering an unparalleled game experience.",
+        "Sections": "Rinkside",
+        "Estimated_Pricing_Range": "$650 - $2700+",
+        "View_Quality": "Direct rink-level view for an engaging and immersive experience.",
+        "Unique_Features": "Opportunities for player interactions and a chance to be featured on TV.",
+        "Accessibility": "Convenient access with limited space for personal mobility devices.",
+        "Special_Perks": "Exclusive access to premium areas, complimentary gourmet dining, and top-shelf beverages."
+      },
+      "Club_Seats": {
+        "Description": "Fantastic side views of the game with additional benefits.",
+        "Sections": "Club Level Sections",
+        "Estimated_Pricing_Range": "$220 - $750",
+        "View_Quality": "Elevated side views ensuring a clear line of sight to the ice.",
+        "Unique_Features": "Enhanced comfort with wider seats and additional legroom, in a less crowded environment.",
+        "Accessibility": "Special entrance for easy access and nearby elevators for convenience.",
+        "Special_Perks": "Access to exclusive lounges and premium in-seat service."
+      },
+      "200_Level": {
+        "Description": "Elevated position providing a comprehensive view of the game.",
+        "Sections": "Sections 201-229",
+        "Estimated_Pricing_Range": "$100 - $220",
+        "View_Quality": "Panoramic view ideal for fans who enjoy watching the game's dynamics.",
+        "Unique_Features": "A balance of affordability and a complete view of the action.",
+        "Accessibility": "Easily accessible seating, with amenities close by.",
+        "Special_Perks": "An affordable option for fans wanting a full view of the game."
+      },
+      "100_Level": {
+        "Description": "Vivid views of the game from a close, yet slightly elevated perspective.",
+        "Sections": "Sections 101-123",
+        "Estimated_Pricing_Range": "$130 - $550",
+        "View_Quality": "Close to the ice with an elevated angle for an enhanced viewing experience.",
+        "Unique_Features": "An optimal balance of proximity to the action and ticket affordability.",
+        "Accessibility": "Wheelchair-accessible seating with easy access to food and beverages.",
+        "Special_Perks": "An excellent combination of price, comfort, and view."
+      }
+    },
+      "nearby_amenities": {
+        "restaurants_bars": [
+            {
+              "name": "Sunrise Sports Grill",
+              "address": "123 Panther Pkwy, Sunrise, FL 33323",
+              "website": "http://www.sunrisesportsgrill.com/",
+              "description": "A bustling sports bar with an array of HD TVs and a menu full of American classics, perfect for Panthers fans looking for a place to catch the game.",
+              "coordinates": {
+                "latitude": "26.1585",
+                "longitude": "-80.3257"
+              }
+            },
+            {
+              "name": "The Dockside Tavern",
+              "address": "456 Sunrise Blvd, Sunrise, FL 33326",
+              "website": "http://www.thedocksidetavern.com/",
+              "description": "Offers a waterfront dining experience with a focus on fresh seafood and craft beers, making it a great spot for a pre-game meal.",
+              "coordinates": {
+                "latitude": "26.1337",
+                "longitude": "-80.3338"
+              }
+            },
+            {
+              "name": "Panther Pub & Brewery",
+              "address": "789 Everglades Ave, Sunrise, FL 33323",
+              "website": "https://www.pantherpubbrewery.com/",
+              "description": "Known for its in-house brewed beers and hearty meals, this multi-level establishment provides a vibrant atmosphere on game nights.",
+              "coordinates": {
+                "latitude": "26.1598",
+                "longitude": "-80.3242"
+              }
+            },
+            {
+              "name": "Everglades Eats",
+              "address": "321 Wildlife Way, Sunrise, FL 33323",
+              "website": "http://www.evergladeseats.com/",
+              "description": "A cozy spot famous for its local cuisine, offering a selection of craft cocktails and beers in a casual setting.",
+              "coordinates": {
+                "latitude": "26.1601",
+                "longitude": "-80.3234"
+              }
+            },
+            {
+              "name": "The Arena Tavern",
+              "address": "987 Panther Parkway, Sunrise, FL 33323",
+              "website": "N/A",
+              "description": "One of Sunrise's classic bars, providing a laid-back atmosphere with traditional pub fare, located conveniently close to the arena.",
+              "coordinates": {
+                "latitude": "26.1582",
+                "longitude": "-80.3269"
+              }
+            },
+            {
+              "name": "Biscayne Brews",
+              "address": "654 Sunrise Blvd, Sunrise, FL 33326",
+              "website": "https://www.biscaynebrews.com/",
+              "description": "Features a relaxed vibe with an extensive selection of craft beers, this bar and grill is a go-to for fans seeking American cuisine.",
+              "coordinates": {
+                "latitude": "26.1342",
+                "longitude": "-80.3332"
+              }
+            },
+            {
+              "name": "Sunset Lounge",
+              "address": "321 Panther Pkwy, Sunrise, FL 33323",
+              "website": "http://www.sunsetlounge.com/",
+              "description": "A lively spot in the heart of Sunrise's entertainment district, known for its after-game parties, drinks, and live music.",
+              "coordinates": {
+                "latitude": "26.1574",
+                "longitude": "-80.3255"
+              }
+            }
+          ],
+        "accommodations": [
+            {
+              "name": "Sawgrass Grand Hotel",
+              "address": "3003 N University Dr, Sunrise, FL 33322",
+              "website": "https://sawgrassgrand.com/",
+              "description": "A spacious hotel offering comfortable rooms and modern amenities, located a short drive from the FLA Live Arena, perfect for Panthers fans visiting the area.",
+              "coordinates": {
+                "latitude": "26.1654",
+                "longitude": "-80.2519"
+              }
+            },
+            {
+              "name": "DoubleTree by Hilton Sunrise - Sawgrass Mills",
+              "address": "13400 W Sunrise Blvd, Sunrise, FL 33323",
+              "website": "https://www.hilton.com/en/hotels/fllsmdt-doubletree-sunrise-sawgrass-mills/",
+              "description": "Offers a convenient location near shopping and entertainment, with a complimentary shuttle to Sawgrass Mills mall and easy access to Panthers games.",
+              "coordinates": {
+                "latitude": "26.1509",
+                "longitude": "-80.3234"
+              }
+            },
+            {
+              "name": "AC Hotel Fort Lauderdale Sawgrass Mills / Sunrise",
+              "address": "1870 Sawgrass Mills Cir, Sunrise, FL 33323",
+              "website": "https://www.marriott.com/hotels/travel/fllar-ac-hotel-fort-lauderdale-sawgrass-mills-sunrise/",
+              "description": "A stylish and contemporary hotel, located next to the Sawgrass Mills mall, offering sleek accommodations and dining options for visitors to the Sunrise area.",
+              "coordinates": {
+                "latitude": "26.1495",
+                "longitude": "-80.3220"
+              }
+            },
+            {
+              "name": "La Quinta Inn & Suites by Wyndham Sunrise",
+              "address": "13600 NW 2nd St, Sunrise, FL 33325",
+              "website": "https://www.wyndhamhotels.com/laquinta/sunrise-florida/la-quinta-sunrise-sawgrass-mills/overview",
+              "description": "Featuring cozy rooms and free breakfast, this hotel provides great value and convenience for guests attending events at the FLA Live Arena.",
+              "coordinates": {
+                "latitude": "26.1217",
+                "longitude": "-80.3369"
+              }
+            },
+            {
+              "name": "Holiday Inn Express & Suites Ft. Lauderdale-Plantation",
+              "address": "1701 N University Dr, Plantation, FL 33322",
+              "website": "https://www.ihg.com/holidayinnexpress/hotels/us/en/plantation/fllwp/hoteldetail",
+              "description": "A reliable choice for comfort and convenience, offering modern rooms, a pool, and easy access to the FLA Live Arena and local attractions.",
+              "coordinates": {
+                "latitude": "26.1404",
+                "longitude": "-80.2524"
+              }
+            }
+          ],
+        "tourist_attractions":[
+            {
+              "name": "Sawgrass Mills",
+              "address": "12801 W Sunrise Blvd, Sunrise, FL 33323",
+              "website": "https://www.simon.com/mall/sawgrass-mills",
+              "description": "One of the largest outlet and value retail shopping destinations in the United States, offering over 350 stores, entertainment venues, and dining options.",
+              "coordinates": {
+                "latitude": "26.1505",
+                "longitude": "-80.3230"
+              }
+            },
+            {
+              "name": "Everglades Holiday Park",
+              "address": "21940 Griffin Rd, Fort Lauderdale, FL 33332",
+              "website": "https://www.evergladesholidaypark.com/",
+              "description": "Famous for its airboat tours and alligator shows, this park provides a thrilling glimpse into the vast Everglades ecosystem and its wildlife.",
+              "coordinates": {
+                "latitude": "26.0583",
+                "longitude": "-80.4297"
+              }
+            },
+            {
+              "name": "Flamingo Gardens",
+              "address": "3750 S Flamingo Rd, Davie, FL 33330",
+              "website": "https://www.flamingogardens.org/",
+              "description": "A 60-acre botanical garden and wildlife sanctuary featuring rare tropical plants, and native Florida wildlife including flamingos, alligators, and panthers.",
+              "coordinates": {
+                "latitude": "26.0734",
+                "longitude": "-80.3127"
+              }
+            },
+            {
+              "name": "BB&T Center (FLA Live Arena)",
+              "address": "1 Panther Pkwy, Sunrise, FL 33323",
+              "website": "https://www.thebbtcenter.com/",
+              "description": "Home of the Florida Panthers, this state-of-the-art arena hosts not only thrilling hockey games but also a wide range of concerts and events throughout the year.",
+              "coordinates": {
+                "latitude": "26.1585",
+                "longitude": "-80.3256"
+              }
+            },
+            {
+              "name": "Butterfly World",
+              "address": "3600 W Sample Rd, Coconut Creek, FL 33073",
+              "website": "https://www.butterflyworld.com/",
+              "description": "The largest butterfly park in the world, offering the chance to see thousands of live butterflies in a beautiful, lush setting.",
+              "coordinates": {
+                "latitude": "26.2759",
+                "longitude": "-80.1880"
+              }
+            },
+            {
+              "name": "Hugh Taylor Birch State Park",
+              "address": "3109 E Sunrise Blvd, Fort Lauderdale, FL 33304",
+              "website": "https://www.floridastateparks.org/parks-and-trails/hugh-taylor-birch-state-park",
+              "description": "This park offers a tropical oasis of trees and wildlife in Fort Lauderdale, with activities such as hiking, canoeing, and a view of the Intracoastal Waterway.",
+              "coordinates": {
+                "latitude": "26.1372",
+                "longitude": "-80.1066"
+              }
+            }
+          ]
+          ,
+          "team_related_activities": [
+            {
+              "name": "Panthers IceDen",
+              "address": "3299 Sportsplex Dr, Coral Springs, FL 33065",
+              "website": "https://www.panthersiceden.com/",
+              "description": "Official practice facility of the Florida Panthers and a hub for ice sports in South Florida. Open to the public for skating and hockey programs, it's a great place to feel connected to the team.",
+              "coordinates": {
+                "latitude": "26.2719",
+                "longitude": "-80.2597"
+              }
+            },
+            {
+              "name": "Panthers Team Store at FLA Live Arena",
+              "address": "1 Panther Pkwy, Sunrise, FL 33323",
+              "website": "https://floridapanthers.com/teamstore",
+              "description": "The official store for Florida Panthers merchandise, located within the FLA Live Arena. Offers a wide selection of Panthers apparel, gear, and memorabilia.",
+              "coordinates": {
+                "latitude": "26.1585",
+                "longitude": "-80.3256"
+              }
+            },
+            {
+              "name": "Florida Panthers Virtual Reality Experience",
+              "address": "FLA Live Arena, 1 Panther Pkwy, Sunrise, FL 33323",
+              "website": "N/A",
+              "description": "A cutting-edge virtual reality setup located at the FLA Live Arena, allowing fans to experience the thrill of being on the ice with their favorite players.",
+              "coordinates": {
+                "latitude": "26.1585",
+                "longitude": "-80.3256"
+              }
+            },
+            {
+              "name": "FLA Live Arena Tours",
+              "address": "1 Panther Pkwy, Sunrise, FL 33323",
+              "website": "https://www.flalivearena.com/arena-info/tours",
+              "description": "Get a behind-the-scenes look at the FLA Live Arena on non-game days. Tours offer fans a chance to see the locker rooms, luxury suites, and other exclusive areas.",
+              "coordinates": {
+                "latitude": "26.1585",
+                "longitude": "-80.3256"
+              }
+            },
+            {
+              "name": "Panthers Youth Hockey Clinics",
+              "address": "Panthers IceDen, 3299 Sportsplex Dr, Coral Springs, FL 33065",
+              "website": "https://www.panthersiceden.com/hockeyclinics",
+              "description": "Organized by the Florida Panthers Foundation, these clinics offer young fans the opportunity to improve their hockey skills under the guidance of experienced coaches.",
+              "coordinates": {
+                "latitude": "26.2719",
+                "longitude": "-80.2597"
+              }
+            }
+          ]
+      },
+      "public_transportation": {
+        "options": [
+          {
+            "type": "Bus",
+            "description": "Broward County Transit (BCT) offers bus routes that serve the area around FLA Live Arena, making it accessible from various parts of Broward County.",
+            "map_link": "http://www.broward.org/BCT/Pages/Default.aspx"
+          },
+          {
+            "type": "Ride-Sharing",
+            "description": "Uber and Lyft provide convenient options for getting to and from FLA Live Arena, with designated pick-up and drop-off zones for events.",
+            "map_link": "N/A"
+          }
+        ]
+      },
+      "ticket_purchasing_tips": {
+        "best_places_to_buy": [
+          {
+            "name": "Official Team Website",
+            "website": "https://www.nhl.com/panthers/tickets/",
+            "description": "The primary source for all ticket sales, offering guaranteed authenticity for Panthers games."
+          },
+          {
+            "name": "Ticketmaster",
+            "website": "https://www.ticketmaster.com/florida-panthers-tickets/artist/805985",
+            "description": "Authorized ticketing partner providing authentic tickets for Panthers games."
+          },
+          {
+            "name": "SeatGeek",
+            "website": "https://www.seatgeek.com/florida-panthers-tickets",
+            "description": "A trusted secondary marketplace that offers a wide selection of tickets for Panthers games."
+          }
+        ],
+        "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+        "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+      }
+    }
+  }
+  

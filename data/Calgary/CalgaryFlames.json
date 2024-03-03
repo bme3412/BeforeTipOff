@@ -1,0 +1,248 @@
+{
+    "city": "Calgary",
+    "team": "Flames",
+    "venue": {
+      "name": "Scotiabank Saddledome",
+      "address": "555 Saddledome Rise SE, Calgary, AB T2G 2W1, Canada",
+      "website": "https://www.scotiabanksaddledome.com/",
+      "average_ticket_price": "$110",
+      "season_start": "October",
+      "playoffs_start": "April",
+      "coordinates": {
+        "latitude": "51.0376",
+        "longitude": "-114.0519"
+      },
+      "best_seats_pricing": {
+        "Rinkside": {
+          "Description": "Seats right next to the action for an unparalleled game experience.",
+          "Sections": "Rinkside",
+          "Estimated_Pricing_Range": "$700 - $2500+",
+          "View_Quality": "Direct ice-level view, engaging and immersive experience.",
+          "Unique_Features": "Chance for player interactions, possibility of being seen on TV.",
+          "Accessibility": "Easy access, but limited space for personal mobility devices.",
+          "Special_Perks": "Exclusive access to the Club Level, complimentary dining and beverages."
+        },
+        "Club_Seats": {
+          "Description": "Offering a fantastic view of the game from the sides with added benefits.",
+          "Sections": "Club Sections 201-206 and 218-223",
+          "Estimated_Pricing_Range": "$150 - $700",
+          "View_Quality": "Elevated side views with clear line of sight to the ice.",
+          "Unique_Features": "Wider seats with more leg room, less crowded sections.",
+          "Accessibility": "Dedicated entrance for easier access, nearby elevators.",
+          "Special_Perks": "Access to premium clubs and in-seat wait service."
+        },
+        "Center_Balcony": {
+          "Description": "Great overall view of the game from an elevated position.",
+          "Sections": "Sections 301-303 and 323-325",
+          "Estimated_Pricing_Range": "$80 - $200",
+          "View_Quality": "Panoramic view of the ice, ideal for tactical analysis.",
+          "Unique_Features": "Affordable pricing for a comprehensive view of the action.",
+          "Accessibility": "Accessible seating available, elevators to balcony level.",
+          "Special_Perks": "More budget-friendly option with a full view of the ice."
+        },
+        "Loge_Level": {
+          "Description": "Just above ice-level, offering close views without being on the ice.",
+          "Sections": "Center Ice Sections 405-406 and 414-415; Ends Sections 407-413",
+          "Estimated_Pricing_Range": "$100 - $500",
+          "View_Quality": "Close to the action with a slightly elevated perspective.",
+          "Unique_Features": "Proximity to the ice with a more accessible price point.",
+          "Accessibility": "Wheelchair-accessible seating and nearby amenities.",
+          "Special_Perks": "Good balance of price, view, and experience."
+        }
+      },
+      "nearby_amenities": {
+        "restaurants_bars": [
+            {
+              "name": "Blanco Cantina",
+              "address": "723 17 Ave SW, Calgary, AB T2S 0B7",
+              "website": "https://blancocantina.ca/",
+              "description": "A lively Mexican restaurant offering tacos, burritos, and tequila cocktails. Perfect for pre-game dining with its vibrant atmosphere and flavorful dishes.",
+              "coordinates": {
+                "latitude": "51.0372",
+                "longitude": "-114.0752"
+              }
+            },
+            {
+              "name": "The Unicorn",
+              "address": "223 8 Ave SW, Calgary, AB T2P 1B7",
+              "website": "https://unicorncalgary.com/",
+              "description": "A casual pub with a wide selection of craft beers and pub fare. Enjoy classic dishes in a relaxed atmosphere, perfect for grabbing a drink before or after the game.",
+              "coordinates": {
+                "latitude": "51.0457",
+                "longitude": "-114.0675"
+              }
+            },
+            {
+              "name": "Native Tongues Taqueria",
+              "address": "235 12 Ave SW, Calgary, AB T2R 1H7",
+              "website": "https://nativetongues.ca/",
+              "description": "Authentic Mexican cuisine featuring tacos, ceviche, and margaritas in a trendy setting. Known for its lively ambiance and delicious, freshly-made dishes.",
+              "coordinates": {
+                "latitude": "51.0411",
+                "longitude": "-114.0651"
+              }
+            },
+            {
+              "name": "Local Public Eatery",
+              "address": "310 8 Ave SW, Calgary, AB T2P 1C3",
+              "website": "https://www.localpubliceatery.com/",
+              "description": "A modern pub offering a diverse menu of pub grub, burgers, and drinks. Enjoy a casual dining experience with friends before heading to the game.",
+              "coordinates": {
+                "latitude": "51.0451",
+                "longitude": "-114.0679"
+              }
+            },
+            {
+              "name": "Anejo Restaurant",
+              "address": "2116 4 St SW, Calgary, AB T2S 1W7",
+              "website": "https://www.anejo.ca/",
+              "description": "Upscale Mexican cuisine featuring creative dishes and a vast selection of tequila. Enjoy a sophisticated dining experience with a modern twist on traditional Mexican flavors.",
+              "coordinates": {
+                "latitude": "51.0318",
+                "longitude": "-114.0656"
+              }
+            },
+            {
+              "name": "Ship & Anchor Pub",
+              "address": "534 17 Ave SW, Calgary, AB T2S 0B1",
+              "website": "https://shipandanchor.com/",
+              "description": "A popular pub known for its extensive beer selection, hearty pub fare, and live music. Gather with friends for a casual meal and drinks before or after the game.",
+              "coordinates": {
+                "latitude": "51.0373",
+                "longitude": "-114.0676"
+              }
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Hotel Arts",
+              "address": "119 12 Ave SW, Calgary, AB T2R 0G8",
+              "website": "https://hotelarts.ca/",
+              "description": "A boutique hotel offering modern accommodations and upscale amenities in downtown Calgary. Enjoy stylish rooms and easy access to the Scotiabank Saddledome and other attractions.",
+              "coordinates": {
+                "latitude": "51.0415",
+                "longitude": "-114.0645"
+              }
+            },
+            {
+              "name": "Fairmont Palliser",
+              "address": "133 9 Ave SW, Calgary, AB T2P 2M3",
+              "website": "https://www.fairmont.com/palliser-calgary/",
+              "description": "Historic luxury hotel featuring elegant rooms and exceptional service. Located in downtown Calgary, close to the Scotiabank Saddledome and various dining and entertainment options.",
+              "coordinates": {
+                "latitude": "51.0463",
+                "longitude": "-114.0622"
+              }
+            },
+            {
+              "name": "Hotel Le Germain Calgary",
+              "address": "899 Centre St SW, Calgary, AB T2G 1B8",
+              "website": "https://www.legermainhotels.com/en/calgary/",
+              "description": "Chic boutique hotel offering sophisticated accommodations and personalized service. Situated in downtown Calgary, with convenient access to the Scotiabank Saddledome and local attractions.",
+              "coordinates": {
+                "latitude": "51.0455",
+                "longitude": "-114.0672"
+              }
+            },
+            {
+              "name": "Calgary Marriott Downtown Hotel",
+              "address": "110 9 Ave SE, Calgary, AB T2G 5A6",
+              "website": "https://www.marriott.com/hotels/travel/yycdt-calgary-marriott-downtown-hotel/",
+              "description": "Modern hotel located in the heart of downtown Calgary, offering comfortable rooms and convenient access to the Scotiabank Saddledome, shopping, and dining destinations.",
+              "coordinates": {
+                "latitude": "51.0453",
+                "longitude": "-114.0609"
+              }
+            }
+          ],
+        "tourist_attractions":  [
+            {
+              "name": "Calgary Tower",
+              "address": "101 9 Ave SW, Calgary, AB T2P 1J9",
+              "website": "https://www.calgarytower.com/",
+              "description": "An iconic observation tower offering panoramic views of Calgary and the surrounding Rocky Mountains.",
+              "coordinates": {
+                "latitude": "51.0451",
+                "longitude": "-114.0635"
+              }
+            },
+            {
+              "name": "Calgary Zoo",
+              "address": "210 St. George's Drive NE, Calgary, AB T2E 7V6",
+              "website": "https://www.calgaryzoo.com/",
+              "description": "A large zoo featuring over 1,000 animals from around the world, including endangered species and interactive exhibits.",
+              "coordinates": {
+                "latitude": "51.0486",
+                "longitude": "-114.0301"
+              }
+            },
+            {
+              "name": "Heritage Park Historical Village",
+              "address": "1900 Heritage Dr SW, Calgary, AB T2V 2X3",
+              "website": "https://www.heritagepark.ca/",
+              "description": "Canada's largest living history museum, offering exhibits, historic buildings, and activities depicting life in Western Canada from the 1860s to the 1950s.",
+              "coordinates": {
+                "latitude": "50.9863",
+                "longitude": "-114.1218"
+              }
+            },
+            {
+              "name": "Calgary Riverwalk",
+              "address": "Calgary, AB",
+              "website": "https://www.calgary.ca/CSPS/Parks/Pages/Locations/Downtown-parks/RiverWalk.aspx",
+              "description": "A scenic pathway along the Bow River, offering walking, biking, and jogging routes with beautiful views of downtown Calgary.",
+              "coordinates": {
+                "latitude": "51.0486",
+                "longitude": "-114.0708"
+              }
+            },
+            {
+              "name": "TELUS Spark",
+              "address": "220 St Georges Dr NE, Calgary, AB T2E 5T2",
+              "website": "https://www.sparkscience.ca/",
+              "description": "A science museum with interactive exhibits, multimedia presentations, and an outdoor park, designed to inspire curiosity and exploration.",
+              "coordinates": {
+                "latitude": "51.0530",
+                "longitude": "-114.0270"
+              }
+            }
+          ]
+      },
+      "public_transportation": {
+        "options": [
+          {
+            "type": "C-Train",
+            "description": "Calgary's light rail transit system provides convenient access to the Scotiabank Saddledome via the Victoria Park/Stampede station.",
+            "map_link": "https://www.calgarytransit.com/maps/route-maps"
+          },
+          {
+            "type": "Bus",
+            "description": "Several bus routes serve the vicinity of the Scotiabank Saddledome, providing additional transportation options for fans.",
+            "map_link": "https://www.calgarytransit.com/maps/route-maps"
+          }
+        ]
+      },
+      "ticket_purchasing_tips": {
+        "best_places_to_buy": [
+          {
+            "name": "Official Team Website",
+            "website": "https://www.nhl.com/flames/tickets",
+            "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+          },
+          {
+            "name": "Ticketmaster",
+            "website": "https://www.ticketmaster.ca/calgary-flames-tickets/artist/806028",
+            "description": "Authorized ticketing partner offering authentic Flames tickets."
+          },
+          {
+            "name": "StubHub",
+            "website": "https://www.stubhub.ca/calgary-flames-tickets/performer/6188/",
+            "description": "Reliable secondary marketplace that offers verified resold Flames tickets."
+          }
+        ],
+        "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+        "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+      }
+    }
+}
+  

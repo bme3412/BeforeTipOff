@@ -1,17 +1,55 @@
 {
     "city": "Indianapolis",
-    "team": "Pacers",
-    "venue": {
-      "name": "Gainbridge Fieldhouse",
-      "address": "125 S. Pennsylvania St., Indianapolis, IN 46204",
-      "website": "https://www.gainbridgefieldhouse.com/",
-      "average_ticket_price": "$95",
-      "season_start": "October",
-      "playoffs_start": "April",
-      "coordinates": {
-        "latitude": "39.763925",
-        "longitude": "-86.155503"
+  "team": "Pacers",
+  "venue": {
+    "name": "Gainbridge Fieldhouse",
+    "address": "125 S. Pennsylvania St., Indianapolis, IN 46204",
+    "website": "https://www.gainbridgefieldhouse.com/",
+    "average_ticket_price": "$130", 
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "39.763890",
+      "longitude": "-86.155556"
+    },
+    "best_seats_pricing": {
+      "Courtside": {
+        "Description": "Elite seating offering the closest view of the action, providing an immersive game day experience.",
+        "Sections": "Courtside",
+        "Estimated_Pricing_Range": "$1200 - $3500+",
+        "View_Quality": "Direct view at court level, offering the most engaging and dynamic experience.",
+        "Unique_Features": "Opportunities for direct interactions with players, visibility on live broadcasts.",
+        "Accessibility": "Priority access with some limitations for personal mobility devices.",
+        "Special_Perks": "Exclusive access to VIP clubs, complimentary gourmet dining, and personalized services."
       },
+      "Club Level": {
+        "Description": "Premium seating offering a fantastic view of the game from an elevated perspective, with added benefits.",
+        "Sections": "Club Level Sections",
+        "Estimated_Pricing_Range": "$280 - $900",
+        "View_Quality": "Elevated and central views ensuring a perfect sightline to the court.",
+        "Unique_Features": "Comfortable seating with additional legroom, less crowded for a more exclusive experience.",
+        "Accessibility": "Dedicated entrance for easier access, with nearby elevators and restrooms.",
+        "Special_Perks": "Access to exclusive lounges, gourmet dining options, and in-seat service."
+      },
+      "Upper Level": {
+        "Description": "A budget-friendly option that offers a bird's-eye view of the game, capturing the entire court.",
+        "Sections": "Upper Level Sections",
+        "Estimated_Pricing_Range": "$60 - $250",
+        "View_Quality": "Panoramic view of the court, ideal for fans who appreciate the game from a higher vantage point.",
+        "Unique_Features": "An affordable way to enjoy the excitement of Pacers basketball.",
+        "Accessibility": "Accessible seating available, with escalators and elevators to the upper levels.",
+        "Special_Perks": "Cost-effective, with access to standard arena amenities."
+      },
+      "Suite Level": {
+        "Description": "Luxurious private suites offering a blend of exclusivity and comfort with a premier view of the game.",
+        "Sections": "Suite Level",
+        "Estimated_Pricing_Range": "$1700 - $5500+",
+        "View_Quality": "Private and elevated viewing experience with unmatched sightlines to the court.",
+        "Unique_Features": "Suites equipped with plush seating, private restrooms, and customizable catering options.",
+        "Accessibility": "Exclusive access points with private elevators, ensuring ease of movement.",
+        "Special_Perks": "Personalized service, access to exclusive clubs, and priority booking for events."
+      }
+    },
       "nearby_amenities": {
         "restaurants_bars": [
           {
@@ -43,6 +81,26 @@
               "latitude": "39.764",
               "longitude": "-86.158"
             }
+          },
+          {
+            "name": "Slippery Noodle Inn",
+            "address": "372 S Meridian St, Indianapolis, IN 46225",
+            "website": "http://www.slipperynoodle.com/",
+            "description": "Indiana's oldest bar offering live blues nightly, a wide selection of beers, and a historical atmosphere.",
+            "coordinates": {
+              "latitude": "39.7614",
+              "longitude": "-86.1581"
+            }
+          },
+          {
+            "name": "Harry & Izzy's",
+            "address": "153 S Illinois St, Indianapolis, IN 46225",
+            "website": "https://www.harryandizzys.com/",
+            "description": "An upscale American grill offering a diverse menu, famous for its steaks and seafood, close to Gainbridge Fieldhouse.",
+            "coordinates": {
+              "latitude": "39.7648",
+              "longitude": "-86.1595"
+            }
           }
         ],
         "accommodations": [
@@ -64,6 +122,46 @@
             "coordinates": {
               "latitude": "39.765",
               "longitude": "-86.155"
+            }
+          },
+          {
+            "name": "Conrad Indianapolis",
+            "address": "50 W Washington St, Indianapolis, IN 46204",
+            "website": "https://www.hilton.com/en/hotels/indcici-conrad-indianapolis/",
+            "description": "Elegant hotel featuring refined rooms and suites, an upscale restaurant, and a spa, a short walk to Gainbridge Fieldhouse.",
+            "coordinates": {
+              "latitude": "39.768",
+              "longitude": "-86.158"
+            }
+          },
+          {
+            "name": "The Alexander",
+            "address": "333 S Delaware St, Indianapolis, IN 46204",
+            "website": "https://www.thealexander.com/",
+            "description": "A boutique hotel with contemporary art and design, offering unique rooms and dining experiences, near Gainbridge Fieldhouse.",
+            "coordinates": {
+              "latitude": "39.759",
+              "longitude": "-86.153"
+            }
+          },
+          {
+            "name": "Courtyard by Marriott Indianapolis Downtown",
+            "address": "601 West Washington Street, Indianapolis, IN 46204",
+            "website": "https://www.marriott.com/hotels/travel/indcd-courtyard-indianapolis-downtown/",
+            "description": "Comfortable and convenient hotel with modern rooms, close to major attractions including Gainbridge Fieldhouse.",
+            "coordinates": {
+              "latitude": "39.7685",
+              "longitude": "-86.169"
+            }
+          },
+          {
+            "name": "Hilton Indianapolis Hotel & Suites",
+            "address": "120 W Market St, Indianapolis, IN 46204",
+            "website": "https://www.hilton.com/en/hotels/indinhf-hilton-indianapolis-hotel-and-suites/",
+            "description": "Upscale hotel in downtown Indianapolis offering spacious rooms, an indoor pool, and dining options, near Gainbridge Fieldhouse.",
+            "coordinates": {
+              "latitude": "39.7689",
+              "longitude": "-86.159"
             }
           }
         ],
@@ -87,6 +185,56 @@
               "latitude": "39.7954",
               "longitude": "-86.234"
             }
+          },
+          {
+            "name": "Children's Museum of Indianapolis",
+            "address": "3000 N Meridian St, Indianapolis, IN 46208",
+            "website": "https://www.childrensmuseum.org/",
+            "description": "The world's largest children's museum, offering interactive exhibits spanning the arts, sciences, and humanities.",
+            "coordinates": {
+              "latitude": "39.8107",
+              "longitude": "-86.1581"
+            }
+          },
+          {
+            "name": "White River State Park",
+            "address": "801 W Washington St, Indianapolis, IN 46204",
+            "website": "https://www.whiteriverstatepark.org/",
+            "description": "A sprawling urban park featuring green spaces, trails, and major attractions including the Indianapolis Zoo and Eiteljorg Museum.",
+            "coordinates": {
+              "latitude": "39.768",
+              "longitude": "-86.170"
+            }
+          },
+          {
+            "name": "Eiteljorg Museum of American Indians and Western Art",
+            "address": "500 W Washington St, Indianapolis, IN 46204",
+            "website": "https://www.eiteljorg.org/",
+            "description": "Museum showcasing a vast collection of Native American art, as well as Western American paintings and sculptures.",
+            "coordinates": {
+              "latitude": "39.7685",
+              "longitude": "-86.1678"
+            }
+          },
+          {
+            "name": "Indiana State Museum",
+            "address": "650 W Washington St, Indianapolis, IN 46204",
+            "website": "https://www.indianamuseum.org/",
+            "description": "A museum offering exhibits on the science, art, culture, and history of Indiana from prehistoric times to the present day.",
+            "coordinates": {
+              "latitude": "39.7689",
+              "longitude": "-86.1696"
+            }
+          },
+          {
+            "name": "NCAA Hall of Champions",
+            "address": "700 W Washington St, Indianapolis, IN 46204",
+            "website": "https://www.ncaahallofchampions.org/",
+            "description": "A two-level museum devoted to collegiate athletics, celebrating the history and heritage of NCAA sports.",
+            "coordinates": {
+              "latitude": "39.767",
+              "longitude": "-86.166"
+            }
           }
         ],
         "team_related_activities": [
@@ -99,6 +247,26 @@
               "latitude": "39.763925",
               "longitude": "-86.155503"
             }
+          },
+          {
+            "name": "Pacers Foundation Golf Outing",
+            "address": "Various Locations",
+            "website": "https://www.nba.com/pacers/community/pacers-foundation-golf",
+            "description": "Annual golf event where fans can play alongside Pacers legends and current players to raise funds for community projects.",
+            "coordinates": {
+              "latitude": "",
+              "longitude": ""
+            }
+          },
+          {
+            "name": "Bankers Life Fieldhouse Tours",
+            "address": "125 S. Pennsylvania St., Indianapolis, IN 46204",
+            "website": "https://www.bankerslifefieldhouse.com/arena-tours/",
+            "description": "Guided tours of the Pacers' home arena, offering fans a behind-the-scenes look at the team's facilities.",
+            "coordinates": {
+              "latitude": "39.763925",
+              "longitude": "-86.155503"
+            }
           }
         ]
       },
@@ -106,11 +274,15 @@
         "options": [
           {
             "type": "IndyGo Bus",
-            "description": "Indianapolis's public bus service, IndyGo, has multiple lines serving the downtown area, with stops convenient for Gainbridge Fieldhouse attendees."
+            "description": "IndyGo, Indianapolis's public bus service, operates numerous routes across the city. Routes 3, 10, 37, and 38 directly serve the downtown area, making stops near Gainbridge Fieldhouse, providing convenient access for event attendees."
           },
           {
             "type": "Red Line",
-            "description": "The IndyGo Red Line provides rapid transit service through the heart of Indianapolis, offering easy access to the Fieldhouse."
+            "description": "The IndyGo Red Line is a bus rapid transit service that slices through Indianapolis from Broad Ripple through downtown to the University of Indianapolis, offering efficient and frequent stops, including near the Fieldhouse, facilitating easy access for visitors."
+          },
+          {
+            "type": "BlueIndy",
+            "description": "While no longer operational, visitors might still find references to BlueIndy, the electric car-sharing service. For alternative green transportation, consider using bike-share programs or electric scooters available throughout downtown."
           }
         ]
       },
@@ -119,21 +291,26 @@
           {
             "name": "Official Team Website",
             "website": "https://www.nba.com/pacers/tickets/",
-            "description": "The primary source for all ticket sales, offering guaranteed authenticity and the best selection of seats."
+            "description": "Direct source for purchasing tickets, ensuring authenticity and a wide selection of seating options for all games and events at Gainbridge Fieldhouse."
           },
           {
             "name": "Ticketmaster",
             "website": "https://www.ticketmaster.com/indiana-pacers-tickets/artist/805966",
-            "description": "Authorized ticketing partner offering authentic Pacers tickets."
+            "description": "An authorized ticketing partner for the Pacers, providing a secure platform for buying original tickets."
           },
           {
             "name": "StubHub",
             "website": "https://www.stubhub.com/indiana-pacers-tickets/performer/2742/",
-            "description": "Reliable secondary marketplace that offers verified resold Pacers tickets."
+            "description": "A reputable secondary market for Pacers tickets, offering a fan protect guarantee to ensure ticket validity."
+          },
+          {
+            "name": "SeatGeek",
+            "website": "https://www.seatgeek.com/indiana-pacers-tickets",
+            "description": "Another trusted secondary marketplace that aggregates tickets from all over, providing a wide range of pricing and seating options."
           }
         ],
-        "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
-        "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+        "ways_to_save": "Consider attending weekday games for potentially lower prices compared to weekend matchups. Look into season or partial season ticket packages if you plan to attend multiple games, which can offer savings per game. Sign up for Pacers newsletters or follow them on social media for special promotions or last-minute deals.",
+        "avoiding_scalpers": "To prevent falling victim to ticket fraud, purchase only through recommended official sites or verified resellers. Be cautious of deals that seem too good to be true, especially from unofficial sellers near the venue. Utilize secure payment methods that offer purchase protection."
       }
     }
   }

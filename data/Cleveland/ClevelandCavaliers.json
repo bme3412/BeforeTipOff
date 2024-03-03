@@ -1,140 +1,302 @@
 {
-    "city": "Cleveland",
-    "team": "Cavaliers",
-    "venue": {
-      "name": "Rocket Mortgage FieldHouse",
-      "address": "1 Center Court, Cleveland, OH 44115",
-      "website": "https://www.rocketmortgagefieldhouse.com/",
-      "average_ticket_price": "$115",
-      "season_start": "October",
-      "playoffs_start": "April",
-      "coordinates": {
-        "latitude": "41.496480",
-        "longitude": "-81.688213"
+  "city": "Cleveland",
+  "team": "Cavaliers",
+  "venue": {
+    "name": "Rocket Mortgage FieldHouse",
+    "address": "1 Center Court, Cleveland, OH 44115",
+    "website": "https://www.rocketmortgagefieldhouse.com/",
+    "average_ticket_price": "$115",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "41.496480",
+      "longitude": "-81.688213"
+    },
+    "best_seats_pricing": {
+      "Courtside": {
+        "Description": "Seats right next to the action for an unparalleled game experience.",
+        "Sections": "Courtside",
+        "Estimated_Pricing_Range": "$1000 - $3500+",
+        "View_Quality": "Direct court-level view, engaging and immersive experience.",
+        "Unique_Features": "Chance for player interactions, possibility of being seen on TV.",
+        "Accessibility": "Easy access, but limited space for personal mobility devices.",
+        "Special_Perks": "Exclusive access to premium lounges, complimentary dining and beverages."
       },
-      "nearby_amenities": {
-        "restaurants_bars": [
-          {
-            "name": "The Clevelander Bar & Grill",
-            "address": "834 Huron Rd E, Cleveland, OH 44115",
-            "website": "http://www.clevelanderbar.com/",
-            "description": "A popular sports bar known for its lively atmosphere and proximity to the FieldHouse, offering a wide range of pub fare.",
-            "coordinates": {
-              "latitude": "41.497808",
-              "longitude": "-81.688736"
-            }
-          },
-          {
-            "name": "Lola Bistro",
-            "address": "2058 E 4th St, Cleveland, OH 44115",
-            "website": "http://lolabistro.com/",
-            "description": "Owned by celebrity chef Michael Symon, offering high-end New American cuisine in a chic setting.",
-            "coordinates": {
-              "latitude": "41.498556",
-              "longitude": "-81.690313"
-            }
-          },
-          {
-            "name": "Bar 32",
-            "address": "100 Lakeside Ave E, Cleveland, OH 44114",
-            "website": "https://www.hilton.com/en/hotels/clechhf-hilton-cleveland-downtown/dining/bar-32/",
-            "description": "An upscale lounge located in the Hilton, offering stunning views of Lake Erie along with craft cocktails and small plates.",
-            "coordinates": {
-              "latitude": "41.503490",
-              "longitude": "-81.694359"
-            }
-          }
-        ],
-        "accommodations": [
-          {
-            "name": "Hilton Cleveland Downtown",
-            "address": "100 Lakeside Ave E, Cleveland, OH 44114",
-            "website": "https://www.hilton.com/en/hotels/clechhf-hilton-cleveland-downtown/",
-            "description": "Modern hotel with lake views, an indoor pool, and a rooftop bar, located within walking distance to the FieldHouse.",
-            "coordinates": {
-              "latitude": "41.503490",
-              "longitude": "-81.694359"
-            }
-          },
-          {
-            "name": "Drury Plaza Hotel Cleveland Downtown",
-            "address": "1380 E 6th St, Cleveland, OH 44114",
-            "website": "https://druryhotels.com/locations/cleveland-oh/drury-plaza-hotel-cleveland-downtown",
-            "description": "Comfortable accommodations in a renovated historic building, offering free breakfast and evening snacks.",
-            "coordinates": {
-              "latitude": "41.499320",
-              "longitude": "-81.691596"
-            }
-          }
-        ],
-        "tourist_attractions": [
-          {
-            "name": "Rock & Roll Hall of Fame",
-            "address": "1100 Rock and Roll Blvd, Cleveland, OH 44114",
-            "website": "https://www.rockhall.com/",
-            "description": "Iconic museum documenting the history of rock music, with a vast collection of artifacts and interactive exhibits.",
-            "coordinates": {
-              "latitude": "41.508518",
-              "longitude": "-81.695506"
-            }
-          },
-          {
-            "name": "Cleveland Museum of Art",
-            "address": "11150 East Blvd, Cleveland, OH 44106",
-            "website": "https://www.clevelandart.org/",
-            "description": "Renowned for its significant art collections spanning 6,000 years, offering free admission to the public.",
-            "coordinates": {
-              "latitude": "41.509126",
-              "longitude": "-81.611360"
-            }
-          }
-        ],
-        "team_related_activities": [
-          {
-            "name": "Cavaliers Team Shop",
-            "address": "1 Center Court, Cleveland, OH 44115",
-            "website": "https://teamshop.cavaliers.com/",
-            "description": "Official store for Cleveland Cavaliers merchandise, located within the Rocket Mortgage FieldHouse.",
-            "coordinates": {
-              "latitude": "41.496480",
-              "longitude": "-81.688213"
-            }
-          }
-        ]
+      "Club_Seats": {
+        "Description": "Offering a fantastic view of the game from the sides with added benefits.",
+        "Sections": "Club Sections 101-104 and 121-124",
+        "Estimated_Pricing_Range": "$300 - $900",
+        "View_Quality": "Elevated side views with clear line of sight to the court.",
+        "Unique_Features": "Wider seats with more leg room, less crowded sections.",
+        "Accessibility": "Dedicated entrance for easier access, nearby elevators.",
+        "Special_Perks": "Access to exclusive clubs and in-seat wait service."
       },
-      "public_transportation": {
-        "options": [
-          {
-            "type": "RTA",
-            "description": "The Greater Cleveland Regional Transit Authority (RTA) offers multiple bus and rail lines that connect to the FieldHouse, including a HealthLine and Red Line Rapid Transit."
-          },
-          {
-            "type": "Trolley",
-            "description": "Free trolley services are available in downtown Cleveland, offering an easy way to get to the FieldHouse from various downtown locations."
-          }
-        ]
+      "Center_Balcony": {
+        "Description": "Great overall view of the game from an elevated position.",
+        "Sections": "Sections 301-304 and 321-324",
+        "Estimated_Pricing_Range": "$120 - $300",
+        "View_Quality": "Panoramic view of the court, ideal for tactical analysis.",
+        "Unique_Features": "Affordable pricing for a comprehensive view of the action.",
+        "Accessibility": "Accessible seating available, elevators to balcony level.",
+        "Special_Perks": "More budget-friendly option with a full view of the court."
       },
-      "ticket_purchasing_tips": {
-        "best_places_to_buy": [
-          {
-            "name": "Official Team Website",
-            "website": "https://www.nba.com/cavaliers/tickets/",
-            "description": "The primary source for all ticket sales, offering guaranteed authenticity."
-          },
-          {
-            "name": "Ticketmaster",
-            "website": "https://www.ticketmaster.com/cleveland-cavaliers-tickets/artist/805927",
-            "description": "Authorized ticketing partner offering authentic Cavaliers tickets."
-          },
-          {
-            "name": "StubHub",
-            "website": "https://www.stubhub.com/cleveland-cavaliers-tickets/performer/2767/",
-            "description": "Reliable secondary marketplace that offers verified resold Cavaliers tickets."
-          }
-        ],
-        "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
-        "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+      "Loge_Level": {
+        "Description": "Just above courtside, offering close views without being on the floor.",
+        "Sections": "Mid Court Sections 101-102 and 111-112; Corners Sections 109-110, 113-114, 119-120, and 103-104",
+        "Estimated_Pricing_Range": "$200 - $700",
+        "View_Quality": "Close to the action with a slightly elevated perspective.",
+        "Unique_Features": "Proximity to the court with a more accessible price point.",
+        "Accessibility": "Wheelchair-accessible seating and nearby amenities.",
+        "Special_Perks": "Good balance of price, view, and experience."
       }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "The Clevelander Bar & Grill",
+          "address": "834 Huron Rd E, Cleveland, OH 44115",
+          "website": "http://www.clevelanderbar.com/",
+          "description": "A popular sports bar known for its lively atmosphere and proximity to the FieldHouse, offering a wide range of pub fare.",
+          "coordinates": {
+            "latitude": "41.497808",
+            "longitude": "-81.688736"
+          }
+        },
+        {
+          "name": "Lola Bistro",
+          "address": "2058 E 4th St, Cleveland, OH 44115",
+          "website": "http://lolabistro.com/",
+          "description": "Owned by celebrity chef Michael Symon, offering high-end New American cuisine in a chic setting.",
+          "coordinates": {
+            "latitude": "41.498556",
+            "longitude": "-81.690313"
+          }
+        },
+        {
+          "name": "Bar 32",
+          "address": "100 Lakeside Ave E, Cleveland, OH 44114",
+          "website": "https://www.hilton.com/en/hotels/clechhf-hilton-cleveland-downtown/dining/bar-32/",
+          "description": "An upscale lounge located in the Hilton, offering stunning views of Lake Erie along with craft cocktails and small plates.",
+          "coordinates": {
+            "latitude": "41.503490",
+            "longitude": "-81.694359"
+          }
+        },
+        {
+          "name": "Mabel's BBQ",
+          "address": "2050 E 4th St, Cleveland, OH 44115",
+          "website": "http://mabelsbbq.com/",
+          "description": "Another gem from chef Michael Symon, this BBQ joint puts a Cleveland spin on smoked meats, paired with Eastern European sides.",
+          "coordinates": {
+            "latitude": "41.498582",
+            "longitude": "-81.690262"
+          }
+        },
+        {
+          "name": "Greenhouse Tavern",
+          "address": "2038 E 4th St, Cleveland, OH 44115",
+          "website": "http://thegreenhousetavern.com/",
+          "description": "Eco-conscious eatery known for its innovative approach to French and American cuisine, featuring locally sourced ingredients.",
+          "coordinates": {
+            "latitude": "41.498522",
+            "longitude": "-81.690067"
+          }
+        },
+        {
+          "name": "East 4th Street Tavern",
+          "address": "2073 E 4th St, Cleveland, OH 44115",
+          "website": "https://www.east4thstreet.com/",
+          "description": "A bustling hub of nightlife and dining, offering a variety of cuisines and experiences all in one pedestrian-friendly street.",
+          "coordinates": {
+            "latitude": "41.498424",
+            "longitude": "-81.690108"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Hilton Cleveland Downtown",
+          "address": "100 Lakeside Ave E, Cleveland, OH 44114",
+          "website": "https://www.hilton.com/en/hotels/clechhf-hilton-cleveland-downtown/",
+          "description": "Modern hotel with lake views, an indoor pool, and a rooftop bar, located within walking distance to the FieldHouse.",
+          "coordinates": {
+            "latitude": "41.503490",
+            "longitude": "-81.694359"
+          }
+        },
+        {
+          "name": "Drury Plaza Hotel Cleveland Downtown",
+          "address": "1380 E 6th St, Cleveland, OH 44114",
+          "website": "https://druryhotels.com/locations/cleveland-oh/drury-plaza-hotel-cleveland-downtown",
+          "description": "Comfortable accommodations in a renovated historic building, offering free breakfast and evening snacks.",
+          "coordinates": {
+            "latitude": "41.499320",
+            "longitude": "-81.691596"
+          }
+        },
+        {
+          "name": "The Westin Cleveland Downtown",
+          "address": "777 St Clair Ave NE, Cleveland, OH 44114",
+          "website": "https://www.marriott.com/hotels/travel/clewi-the-westin-cleveland-downtown/",
+          "description": "Upscale hotel featuring refined rooms with city and lake views, a farm-to-table restaurant, and extensive event spaces.",
+          "coordinates": {
+            "latitude": "41.504776",
+            "longitude": "-81.694356"
+          }
+        },
+        {
+          "name": "Hyatt Regency Cleveland at The Arcade",
+          "address": "420 Superior Ave E, Cleveland, OH 44114",
+          "website": "https://www.hyatt.com/en-US/hotel/ohio/hyatt-regency-cleveland-at-the-arcade/cleve",
+          "description": "Historic hotel located in a landmark building, offering elegant rooms and easy access to downtown attractions.",
+          "coordinates": {
+            "latitude": "41.499834",
+            "longitude": "-81.690547"
+          }
+        },
+        {
+          "name": "Aloft Cleveland Downtown",
+          "address": "1111 W 10th St, Cleveland, OH 44113",
+          "website": "https://www.marriott.com/hotels/travel/cleal-aloft-cleveland-downtown/",
+          "description": "Trendy hotel with industrial-chic decor, located in the Flats East Bank entertainment district with views of the Cuyahoga River.",
+          "coordinates": {
+            "latitude": "41.499485",
+            "longitude": "-81.704717"
+          }
+        },
+        {
+          "name": "Kimpton Schofield Hotel",
+          "address": "2000 E 9th St, Cleveland, OH 44115",
+          "website": "https://www.theschofieldhotel.com/",
+          "description": "Boutique hotel in a historic building, offering stylish accommodations with a local flair, situated near cultural attractions.",
+          "coordinates": {
+            "latitude": "41.500742",
+            "longitude": "-81.686789"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "Rock & Roll Hall of Fame",
+          "address": "1100 Rock and Roll Blvd, Cleveland, OH 44114",
+          "website": "https://www.rockhall.com/",
+          "description": "Iconic museum documenting the history of rock music, with a vast collection of artifacts and interactive exhibits.",
+          "coordinates": {
+            "latitude": "41.508518",
+            "longitude": "-81.695506"
+          }
+        },
+        {
+          "name": "Cleveland Museum of Art",
+          "address": "11150 East Blvd, Cleveland, OH 44106",
+          "website": "https://www.clevelandart.org/",
+          "description": "Renowned for its significant art collections spanning 6,000 years, offering free admission to the public.",
+          "coordinates": {
+            "latitude": "41.509126",
+            "longitude": "-81.611360"
+          }
+        },
+        {
+          "name": "Cleveland Metroparks Zoo",
+          "address": "3900 Wildlife Way, Cleveland, OH 44109",
+          "website": "https://www.clevelandmetroparks.com/zoo",
+          "description": "Expansive zoo featuring a wide range of animals from around the globe, conservation programs, and family-friendly activities.",
+          "coordinates": {
+            "latitude": "41.445934",
+            "longitude": "-81.712613"
+          }
+        },
+        {
+          "name": "West Side Market",
+          "address": "1979 W 25th St, Cleveland, OH 44113",
+          "website": "http://www.westsidemarket.org/",
+          "description": "Historic public market offering a diverse selection of fresh foods, baked goods, meats, and specialty items from local vendors.",
+          "coordinates": {
+            "latitude": "41.484576",
+            "longitude": "-81.702002"
+          }
+        },
+        {
+          "name": "Great Lakes Science Center",
+          "address": "601 Erieside Ave, Cleveland, OH 44114",
+          "website": "https://greatscience.com/",
+          "description": "Interactive museum focused on science, technology, and the environment, with engaging exhibits and an OMNIMAX theater.",
+          "coordinates": {
+            "latitude": "41.507433",
+            "longitude": "-81.696734"
+          }
+        },
+        {
+          "name": "Cleveland Botanical Garden",
+          "address": "11030 East Blvd, Cleveland, OH 44106",
+          "website": "https://holdenfg.org/cleveland-botanical-garden/",
+          "description": "Features beautiful themed gardens, exotic glasshouse environments from Madagascar and Costa Rica, and seasonal butterfly exhibits.",
+          "coordinates": {
+            "latitude": "41.510094",
+            "longitude": "-81.610058"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Cavaliers Team Shop",
+          "address": "1 Center Court, Cleveland, OH 44115",
+          "website": "https://teamshop.cavaliers.com/",
+          "description": "Official store for Cleveland Cavaliers merchandise, located within the Rocket Mortgage FieldHouse.",
+          "coordinates": {
+            "latitude": "41.496480",
+            "longitude": "-81.688213"
+          }
+        },
+        {
+          "name": "Cavaliers Watch Parties",
+          "description": "Join fellow fans at local bars and restaurants or at the Rocket Mortgage FieldHouse for live watch parties of away games, featuring live entertainment, giveaways, and appearances by mascots and cheerleaders.",
+          "website": "https://www.cavaliers.com/"
+        },
+        {
+          "name": "Rocket Mortgage FieldHouse Tours",
+          "address": "1 Center Court, Cleveland, OH 44115",
+          "website": "https://www.rocketmortgagefieldhouse.com/",
+          "description": "Explore the home of the Cavaliers with guided tours that offer behind-the-scenes access to the arena, including the Cavaliers locker room, the exclusive clubs, and premium seating areas.",
+          "coordinates": {
+            "latitude": "41.496480",
+            "longitude": "-81.688213"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "RTA",
+          "description": "The Greater Cleveland Regional Transit Authority (RTA) offers multiple bus and rail lines that connect to the Rocket Mortgage FieldHouse, including the HealthLine on Euclid Avenue and the Red Line Rapid Transit, which has a stop at the Tower City Station, just a short walk from the FieldHouse."
+        },
+        {
+          "type": "Trolley",
+          "description": "Free trolley services are available in downtown Cleveland, offering an easy and convenient way to get to the Rocket Mortgage FieldHouse from various downtown locations. The trolleys operate on multiple lines, including the B-Line and E-Line, during morning and evening rush hours."
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Team Website",
+          "website": "https://www.nba.com/cavaliers/tickets/",
+          "description": "The primary source for all ticket sales, offering guaranteed authenticity and the best selection of seats for Cavaliers games and other events at the Rocket Mortgage FieldHouse."
+        },
+        {
+          "name": "Ticketmaster",
+          "website": "https://www.ticketmaster.com/cleveland-cavaliers-tickets/artist/805927",
+          "description": "Authorized ticketing partner for the Cavaliers, offering a secure platform to purchase authentic tickets for home games."
+        },
+        {
+          "name": "StubHub",
+          "website": "https://www.stubhub.com/cleveland-cavaliers-tickets/performer/2767/",
+          "description": "A reliable secondary marketplace that offers verified resold tickets for Cavaliers games, often providing options when primary tickets are sold out."
+        }
+      ],
+      "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+      "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
     }
   }
-  
+}

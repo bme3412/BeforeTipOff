@@ -1,140 +1,330 @@
 {
-    "city": "Denver",
-    "team": "Nuggets",
-    "venue": {
-      "name": "Ball Arena",
-      "address": "1000 Chopper Cir, Denver, CO 80204",
-      "website": "https://www.ballarena.com/",
-      "average_ticket_price": "$120",
-      "season_start": "October",
-      "playoffs_start": "April",
-      "coordinates": {
-        "latitude": "39.748656",
-        "longitude": "-105.007602"
+  "city": "Denver",
+  "team": "Nuggets",
+  "venue": {
+    "name": "Ball Arena",
+    "address": "1000 Chopper Cir, Denver, CO 80204",
+    "website": "https://www.ballarena.com/",
+    "average_ticket_price": "$110",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "39.748656",
+      "longitude": "-105.007602"
+    },
+    "best_seats_pricing": {
+      "Courtside": {
+        "Description": "Elite seating offering the closest view of the action, providing an immersive game day experience.",
+        "Sections": "Courtside",
+        "Estimated_Pricing_Range": "$1000 - $3000+",
+        "View_Quality": "Direct view at court level, offering the most engaging and dynamic experience.",
+        "Unique_Features": "Opportunities for direct interactions with players, visibility on live broadcasts.",
+        "Accessibility": "Priority access with some limitations for personal mobility devices.",
+        "Special_Perks": "Exclusive access to VIP clubs, complimentary gourmet dining, and personalized services."
       },
-      "nearby_amenities": {
-        "restaurants_bars": [
-          {
-            "name": "Brooklyn's Denver",
-            "address": "901 Auraria Pkwy, Denver, CO 80204",
-            "website": "http://www.brooklynsrestaurants.com/",
-            "description": "Laid-back sports bar with a large selection of beers and classic American eats, located near Ball Arena.",
-            "coordinates": {
-              "latitude": "39.746839",
-              "longitude": "-105.007706"
-            }
-          },
-          {
-            "name": "Elitch Gardens Theme & Water Park",
-            "address": "2000 Elitch Cir, Denver, CO 80204",
-            "website": "https://www.elitchgardens.com/",
-            "description": "An amusement park offering various dining options, from quick snacks to sit-down meals, besides its thrilling rides and attractions.",
-            "coordinates": {
-              "latitude": "39.748369",
-              "longitude": "-105.010482"
-            }
-          },
-          {
-            "name": "Pepsi Center",
-            "address": "1000 Chopper Cir, Denver, CO 80204",
-            "website": "N/A",
-            "description": "Enjoy pre-game or post-game meals and drinks right at the venue of the game for a seamless experience.",
-            "coordinates": {
-              "latitude": "39.748656",
-              "longitude": "-105.007602"
-            }
-          }
-        ],
-        "accommodations": [
-          {
-            "name": "Hotel Indigo Denver Downtown",
-            "address": "1801 Wewatta St, Denver, CO 80202",
-            "website": "https://www.ihg.com/hotelindigo/hotels/us/en/denver/denws/hoteldetail",
-            "description": "A stylish hotel with modern rooms, a fitness center, and easy access to Ball Arena and downtown attractions.",
-            "coordinates": {
-              "latitude": "39.753564",
-              "longitude": "-105.001963"
-            }
-          },
-          {
-            "name": "The Crawford Hotel",
-            "address": "1701 Wynkoop St, Denver, CO 80202",
-            "website": "https://www.thecrawfordhotel.com/",
-            "description": "Located in the historic Union Station, this hotel offers luxury accommodations and a unique stay experience in the heart of Denver.",
-            "coordinates": {
-              "latitude": "39.753173",
-              "longitude": "-105.000107"
-            }
-          }
-        ],
-        "tourist_attractions": [
-          {
-            "name": "Denver Art Museum",
-            "address": "100 W 14th Ave Pkwy, Denver, CO 80204",
-            "website": "https://www.denverartmuseum.org/",
-            "description": "One of the largest art museums between the West Coast and Chicago, known for its collection of American Indian art.",
-            "coordinates": {
-              "latitude": "39.737512",
-              "longitude": "-104.989864"
-            }
-          },
-          {
-            "name": "Larimer Square",
-            "address": "1430 Larimer St, Denver, CO 80202",
-            "website": "https://www.larimersquare.com/",
-            "description": "Denver's most historic block, offering chic shopping, dining, and nightlife in beautifully restored Victorian buildings.",
-            "coordinates": {
-              "latitude": "39.747988",
-              "longitude": "-104.999756"
-            }
-          }
-        ],
-        "team_related_activities": [
-          {
-            "name": "Nuggets Team Store",
-            "address": "1000 Chopper Cir, Denver, CO 80204",
-            "website": "https://www.nuggetsteamstore.com/",
-            "description": "Official store for Denver Nuggets merchandise, located within Ball Arena.",
-            "coordinates": {
-              "latitude": "39.748656",
-              "longitude": "-105.007602"
-            }
-          }
-        ]
+      "Club Level": {
+        "Description": "Premium seating offering a fantastic view of the game from an elevated perspective, with added benefits.",
+        "Sections": "Club Level Sections",
+        "Estimated_Pricing_Range": "$250 - $800",
+        "View_Quality": "Elevated and central views ensuring a perfect sightline to the court.",
+        "Unique_Features": "Comfortable seating with additional legroom, less crowded for a more exclusive experience.",
+        "Accessibility": "Dedicated entrance for easier access, with nearby elevators and restrooms.",
+        "Special_Perks": "Access to exclusive lounges, gourmet dining options, and in-seat service."
       },
-      "public_transportation": {
-        "options": [
-          {
-            "type": "RTD Light Rail",
-            "description": "Denver's RTD light rail has several lines that stop at the Ball Arena/Elitch Gardens station, offering easy access to games."
-          },
-          {
-            "type": "Bus",
-            "description": "Several RTD bus routes stop near Ball Arena, providing convenient access from various parts of the city."
-          }
-        ]
+      "Upper Level": {
+        "Description": "A budget-friendly option that offers a bird's-eye view of the game, capturing the entire court.",
+        "Sections": "Upper Level Sections",
+        "Estimated_Pricing_Range": "$50 - $200",
+        "View_Quality": "Panoramic view of the court, ideal for fans who appreciate the game from a higher vantage point.",
+        "Unique_Features": "An affordable way to enjoy the excitement of Nuggets basketball.",
+        "Accessibility": "Accessible seating available, with escalators and elevators to the upper levels.",
+        "Special_Perks": "Cost-effective, with access to standard arena amenities."
       },
-      "ticket_purchasing_tips": {
-        "best_places_to_buy": [
-          {
-            "name": "Official Team Website",
-            "website": "https://www.nba.com/nuggets/tickets/single-game",
-            "description": "The primary source for all ticket sales, offering guaranteed authenticity."
-          },
-          {
-            "name": "Ticketmaster",
-            "website": "https://www.ticketmaster.com/denver-nuggets-tickets/artist/805927",
-            "description": "Authorized ticketing partner offering authentic Nuggets tickets."
-          },
-          {
-            "name": "StubHub",
-            "website": "https://www.stubhub.com/denver-nuggets-tickets/performer/2746/",
-            "description": "Reliable secondary marketplace that offers verified resold Nuggets tickets."
-          }
-        ],
-        "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
-        "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+      "Suite Level": {
+        "Description": "Luxurious private suites offering a blend of exclusivity and comfort with a premier view of the game.",
+        "Sections": "Suite Level",
+        "Estimated_Pricing_Range": "$1500 - $5000+",
+        "View_Quality": "Private and elevated viewing experience with unmatched sightlines to the court.",
+        "Unique_Features": "Suites equipped with plush seating, private restrooms, and customizable catering options.",
+        "Accessibility": "Exclusive access points with private elevators, ensuring ease of movement.",
+        "Special_Perks": "Personalized service, access to exclusive clubs, and priority booking for events."
       }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Brooklyns Denver",
+          "address": "901 Auraria Pkwy, Denver, CO 80204",
+          "website": "http://www.brooklynsrestaurants.com/",
+          "description": "Laid-back sports bar with a large selection of beers and classic American eats, located near Ball Arena.",
+          "coordinates": {
+            "latitude": "39.746839",
+            "longitude": "-105.007706"
+          }
+        },
+        {
+          "name": "Elitch Gardens Theme & Water Park",
+          "address": "2000 Elitch Cir, Denver, CO 80204",
+          "website": "https://www.elitchgardens.com/",
+          "description": "An amusement park offering various dining options, from quick snacks to sit-down meals, besides its thrilling rides and attractions.",
+          "coordinates": {
+            "latitude": "39.748369",
+            "longitude": "-105.010482"
+          }
+        },
+        {
+          "name": "Pepsi Center",
+          "address": "1000 Chopper Cir, Denver, CO 80204",
+          "description": "Enjoy pre-game or post-game meals and drinks right at the venue of the game for a seamless experience.",
+          "coordinates": {
+            "latitude": "39.748656",
+            "longitude": "-105.007602"
+          }
+        },
+        {
+          "name": "Euclid Hall Bar & Kitchen",
+          "address": "1317 14th St, Denver, CO 80202",
+          "website": "http://www.euclidhall.com/",
+          "description": "Innovative tavern for high-end pub grub and a comprehensive beer selection, situated in a historic building.",
+          "coordinates": {
+            "latitude": "39.747595",
+            "longitude": "-104.999897"
+          }
+        },
+        {
+          "name": "Protos Pizza",
+          "address": "2401 15th St, Denver, CO 80202",
+          "website": "https://protospizza.com/",
+          "description": "Casual pizzeria offering thin-crust pies in a friendly, laid-back setting, great for a quick bite before the game.",
+          "coordinates": {
+            "latitude": "39.758248",
+            "longitude": "-105.009865"
+          }
+        },
+        {
+          "name": "My Brothers Bar",
+          "address": "2376 15th St, Denver, CO 80202",
+          "website": "N/A",
+          "description": "The oldest bar in Denver, known for its juicy burgers and historic ambiance, without a sign out front but full of character inside.",
+          "coordinates": {
+            "latitude": "39.756212",
+            "longitude": "-105.009880"
+          }
+        },
+        {
+          "name": "Aquarium Restaurant",
+          "address": "700 Water St, Denver, CO 80211",
+          "website": "https://www.aquariumrestaurants.com/aquariumdenver/",
+          "description": "Dine alongside a 50,000-gallon aquarium, offering a unique underwater dining experience with a variety of seafood dishes.",
+          "coordinates": {
+            "latitude": "39.752498",
+            "longitude": "-105.013668"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Hotel Indigo Denver Downtown",
+          "address": "1801 Wewatta St, Denver, CO 80202",
+          "website": "https://www.ihg.com/hotelindigo/hotels/us/en/denver/denws/hoteldetail",
+          "description": "A stylish hotel with modern rooms, a fitness center, and easy access to Ball Arena and downtown attractions.",
+          "coordinates": {
+            "latitude": "39.753564",
+            "longitude": "-105.001963"
+          }
+        },
+        {
+          "name": "The Crawford Hotel",
+          "address": "1701 Wynkoop St, Denver, CO 80202",
+          "website": "https://www.thecrawfordhotel.com/",
+          "description": "Located in the historic Union Station, this hotel offers luxury accommodations and a unique stay experience in the heart of Denver.",
+          "coordinates": {
+            "latitude": "39.753173",
+            "longitude": "-105.000107"
+          }
+        },
+        {
+          "name": "The Maven Hotel",
+          "address": "1850 Wazee St, Denver, CO 80202",
+          "website": "https://www.themavenhotel.com/",
+          "description": "A contemporary and art-filled hotel located in the Dairy Block, offering innovative design and a vibrant atmosphere.",
+          "coordinates": {
+            "latitude": "39.753139",
+            "longitude": "-104.997657"
+          }
+        },
+        {
+          "name": "Kimpton Hotel Born",
+          "address": "1600 Wewatta St, Denver, CO 80202",
+          "website": "https://www.hotelborndenver.com/",
+          "description": "Anchoring Denver’s revitalized Union Station neighborhood, this hotel offers a modern, chic stay with unique, handcrafted touches.",
+          "coordinates": {
+            "latitude": "39.753205",
+            "longitude": "-105.001828"
+          }
+        },
+        {
+          "name": "The Oxford Hotel",
+          "address": "1600 17th St, Denver, CO 80202",
+          "website": "https://www.theoxfordhotel.com/",
+          "description": "Denver's most historic hotel, offering luxurious accommodations that blend historic details with modern comfort, just steps away from Union Station.",
+          "coordinates": {
+            "latitude": "39.752079",
+            "longitude": "-104.999513"
+          }
+        },
+        {
+          "name": "SpringHill Suites by Marriott Denver Downtown",
+          "address": "1190 Auraria Pkwy Suite A, Denver, CO 80204",
+          "website": "https://www.marriott.com/hotels/travel/densd-springhill-suites-denver-downtown/",
+          "description": "Spacious suites and vibrant lobbies offer flexible spaces perfect for working, meeting, or relaxing in Denver.",
+          "coordinates": {
+            "latitude": "39.745115",
+            "longitude": "-105.007153"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "Denver Art Museum",
+          "address": "100 W 14th Ave Pkwy, Denver, CO 80204",
+          "website": "https://www.denverartmuseum.org/",
+          "description": "One of the largest art museums between the West Coast and Chicago, known for its collection of American Indian art.",
+          "coordinates": {
+            "latitude": "39.737512",
+            "longitude": "-104.989864"
+          }
+        },
+        {
+          "name": "Larimer Square",
+          "address": "1430 Larimer St, Denver, CO 80202",
+          "website": "https://www.larimersquare.com/",
+          "description": "Denver's most historic block, offering chic shopping, dining, and nightlife in beautifully restored Victorian buildings.",
+          "coordinates": {
+            "latitude": "39.747988",
+            "longitude": "-104.999756"
+          }
+        },
+        {
+          "name": "Denver Botanic Gardens",
+          "address": "1007 York St, Denver, CO 80206",
+          "website": "https://www.botanicgardens.org/",
+          "description": "A lush oasis in the city, featuring native plants and international collections, along with year-round events.",
+          "coordinates": {
+            "latitude": "39.732004",
+            "longitude": "-104.960255"
+          }
+        },
+        {
+          "name": "Red Rocks Park and Amphitheatre",
+          "address": "18300 W Alameda Pkwy, Morrison, CO 80465",
+          "website": "https://www.redrocksonline.com/",
+          "description": "A world-famous outdoor venue and natural amphitheater set within a stunning geological wonder, hosting concerts and events.",
+          "coordinates": {
+            "latitude": "39.6654",
+            "longitude": "-105.2057"
+          }
+        },
+        {
+          "name": "Union Station",
+          "address": "1701 Wynkoop St, Denver, CO 80202",
+          "website": "https://unionstationindenver.com/",
+          "description": "A historic landmark that has been transformed into a bustling hub with restaurants, bars, and shops, serving as the gateway to the city.",
+          "coordinates": {
+            "latitude": "39.753173",
+            "longitude": "-105.000107"
+          }
+        },
+        {
+          "name": "Coors Field",
+          "address": "2001 Blake St, Denver, CO 80205",
+          "website": "https://www.mlb.com/rockies/ballpark",
+          "description": "Home of the Colorado Rockies, offering tours that provide a behind-the-scenes look at one of Major League Baseball's most famous ballparks.",
+          "coordinates": {
+            "latitude": "39.755882",
+            "longitude": "-104.994178"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Nuggets Team Store",
+          "address": "1000 Chopper Cir, Denver, CO 80204",
+          "website": "https://www.nuggetsteamstore.com/",
+          "description": "Official store for Denver Nuggets merchandise, located within Ball Arena.",
+          "coordinates": {
+            "latitude": "39.748656",
+            "longitude": "-105.007602"
+          }
+        },
+        {
+          "name": "Ball Arena Tours",
+          "address": "1000 Chopper Cir, Denver, CO 80204",
+          "website": "https://www.ballarena.com/",
+          "description": "Go behind the scenes with a tour of Ball Arena, home of the Nuggets. Experience the locker rooms, luxury suites, and get a feel for the game day atmosphere.",
+          "coordinates": {
+            "latitude": "39.748656",
+            "longitude": "-105.007602"
+          }
+        },
+        {
+          "name": "Nuggets Game Day Experience",
+          "description": "Join fellow fans at pre-game festivities outside Ball Arena on game days. Enjoy live music, food trucks, and interactive games leading up to tip-off.",
+          "website": "https://www.nba.com/nuggets/"
+        },
+        {
+          "name": "Nuggets Youth Clinics",
+          "description": "Engage with the sport by participating in youth clinics hosted by the Nuggets. These clinics offer coaching, drills, and skills development for young basketball enthusiasts.",
+          "website": "https://www.nba.com/nuggets/youthbasketball/clinics"
+        },
+        {
+          "name": "Watch Party Locations",
+          "description": "For away games, join the official Nuggets watch parties at selected bars and restaurants around Denver. Enjoy the game with fellow fans, special promotions, and the chance to win Nuggets gear.",
+          "website": "https://www.nba.com/nuggets/"
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "RTD Light Rail",
+          "description": "The Regional Transportation District (RTD) Denver's light rail system includes several lines servicing the Ball Arena/Elitch Gardens station, such as the C, E, and W lines. This provides fans with a seamless journey to and from Nuggets games and other events at Ball Arena."
+        },
+        {
+          "type": "Bus",
+          "description": "RTD Denver also operates numerous bus routes with stops close to Ball Arena. Key routes include the 1, 15, 20, 31, and 44, among others, facilitating easy access from different areas of the city and surrounding communities."
+        },
+        {
+          "type": "Ride Share",
+          "description": "Uber, Lyft, and other ride-sharing services offer convenient options for getting to and from Ball Arena, with designated drop-off and pick-up areas to streamline the experience on game days and event nights."
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Team Website",
+          "website": "https://www.nba.com/nuggets/tickets/single-game",
+          "description": "Direct from the source, the Denver Nuggets' official website is the go-to spot for purchasing single-game tickets, season passes, and special package deals, ensuring fans receive authentic tickets."
+        },
+        {
+          "name": "Ticketmaster",
+          "website": "https://www.ticketmaster.com/denver-nuggets-tickets/artist/805927",
+          "description": "As an authorized ticketing partner, Ticketmaster offers a secure platform for fans to buy genuine Nuggets tickets, including real-time availability for all home games."
+        },
+        {
+          "name": "Altitude Tickets",
+          "website": "https://www.altitudetickets.com/",
+          "description": "The official ticketing partner for Ball Arena events, Altitude Tickets provides another reliable avenue for securing your spot at Nuggets games, with a user-friendly interface for selecting seats."
+        },
+        {
+          "name": "StubHub",
+          "website": "https://www.stubhub.com/denver-nuggets-tickets/performer/2746/",
+          "description": "For those looking to purchase or sell tickets on the secondary market, StubHub verifies all tickets for authenticity, offering a safe option for fans to find tickets to sold-out games."
+        }
+      ],
+      "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+      "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
     }
   }
-  
+}

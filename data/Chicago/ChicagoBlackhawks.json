@@ -1,0 +1,324 @@
+{"city": "Chicago",
+"team": "Blackhawks",
+"venue": {
+  "name": "United Center",
+  "address": "1901 W Madison St, Chicago, IL 60612",
+  "website": "https://www.unitedcenter.com/",
+  "average_ticket_price": "$130",
+  "season_start": "October",
+  "playoffs_start": "April",
+  "coordinates": {
+    "latitude": "41.880683",
+    "longitude": "-87.674177"
+  },
+  "best_seats_pricing": {
+    "Iceside": {
+      "Description": "Seats right next to the rink for an unparalleled game experience.",
+      "Sections": "Iceside",
+      "Estimated_Pricing_Range": "$1000 - $3500+",
+      "View_Quality": "Direct rink-side view, engaging and immersive experience.",
+      "Unique_Features": "Chance for player interactions, possibility of being shown on TV.",
+      "Accessibility": "Easy access, but limited space for personal mobility devices.",
+      "Special_Perks": "Exclusive access to premium lounges, complimentary dining and beverages."
+    },
+    "Club_Seats": {
+      "Description": "Offering a fantastic view of the game from the sides with added benefits.",
+      "Sections": "Club Sections 101-104 and 121-124",
+      "Estimated_Pricing_Range": "$300 - $900",
+      "View_Quality": "Elevated side views with clear line of sight to the rink.",
+      "Unique_Features": "Wider seats with more legroom, less crowded sections.",
+      "Accessibility": "Dedicated entrance for easier access, nearby elevators.",
+      "Special_Perks": "Access to exclusive clubs and in-seat wait service."
+    },
+    "Center_Balcony": {
+      "Description": "Great overall view of the game from an elevated position.",
+      "Sections": "Sections 301-304 and 321-324",
+      "Estimated_Pricing_Range": "$120 - $300",
+      "View_Quality": "Panoramic view of the rink, ideal for tactical analysis.",
+      "Unique_Features": "Affordable pricing for a comprehensive view of the action.",
+      "Accessibility": "Accessible seating available, elevators to balcony level.",
+      "Special_Perks": "More budget-friendly option with a full view of the rink."
+    },
+    "Loge_Level": {
+      "Description": "Just above rink-side, offering close views without being on the ice.",
+      "Sections": "Mid Rink Sections 101-102 and 111-112; Corners Sections 109-110, 113-114, 119-120, and 103-104",
+      "Estimated_Pricing_Range": "$200 - $700",
+      "View_Quality": "Close to the action with a slightly elevated perspective.",
+      "Unique_Features": "Proximity to the rink with a more accessible price point.",
+      "Accessibility": "Wheelchair-accessible seating and nearby amenities.",
+      "Special_Perks": "Good balance of price, view, and experience."
+    }
+  },
+        "nearby_amenities": {
+          "restaurants_bars": [
+            {
+              "name": "The Ogden Chicago",
+              "address": "1659 W Ogden Ave, Chicago, IL 60612",
+              "website": "http://www.theogdenchicago.com/",
+              "description": "A sports bar with an extensive beer list and upscale bar food, located a short walk from the United Center.",
+              "coordinates": {
+                "latitude": "41.8781136",
+                "longitude": "-87.6739357"
+              }
+            },
+            {
+              "name": "Billy Goat Tavern",
+              "address": "1535 W Madison St, Chicago, IL 60607",
+              "website": "http://www.billygoattavern.com/",
+              "description": "Iconic Chicago tavern known for its cheezborgers, cheezborgers, no fries, chips, and its Saturday Night Live skit.",
+              "coordinates": {
+                "latitude": "41.881318",
+                "longitude": "-87.663662"
+              }
+            },
+            {
+              "name": "Kaiser Tiger",
+              "address": "1415 W Randolph St, Chicago, IL 60607",
+              "website": "http://www.kaisertiger.com/",
+              "description": "Sausage, bacon, and beer are the specialties at this bar and restaurant with a spacious outdoor patio.",
+              "coordinates": {
+                "latitude": "41.884176",
+                "longitude": "-87.662003"
+              }
+            },
+            {
+              "name": "Madison Street Tavern",
+              "address": "1020 W Madison St, Chicago, IL 60607",
+              "website": "http://www.madisonstreettavern.com/",
+              "description": "Lively tavern offering a wide selection of beers, classic American fare, and multiple TVs for game viewing.",
+              "coordinates": {
+                "latitude": "41.881532",
+                "longitude": "-87.653308"
+              }
+            },
+            {
+              "name": "Randolph Tavern",
+              "address": "188 W Randolph St, Chicago, IL 60601",
+              "website": "http://www.randolphtavern.com/",
+              "description": "Gastropub with a cozy atmosphere offering craft beers, cocktails, and a creative menu, ideal for pre-game dining.",
+              "coordinates": {
+                "latitude": "41.884587",
+                "longitude": "-87.633880"
+              }
+            },
+            {
+              "name": "City Winery",
+              "address": "1200 W Randolph St, Chicago, IL 60607",
+              "website": "http://www.citywinery.com/chicago/",
+              "description": "Unique venue combining a fully functioning winery with intimate concerts, food & wine classes, and fine dining.",
+              "coordinates": {
+                "latitude": "41.884639",
+                "longitude": "-87.657029"
+              }
+            }
+          ],
+            "accommodations": [
+                {
+                  "name": "Ace Hotel Chicago",
+                  "address": "311 N Morgan St, Chicago, IL 60607",
+                  "website": "https://www.acehotel.com/chicago/",
+                  "description": "Trendy hotel in the West Loop with unique rooms, a great rooftop bar, and close proximity to the United Center.",
+                  "coordinates": {
+                    "latitude": "41.887576",
+                    "longitude": "-87.652359"
+                  }
+                },
+                {
+                  "name": "Hoxton Chicago",
+                  "address": "200 N Green St, Chicago, IL 60607",
+                  "website": "https://thehoxton.com/illinois/chicago/hotels",
+                  "description": "Located in the heart of the Fulton Market District, offering cozy rooms, a rooftop pool, and multiple dining options.",
+                  "coordinates": {
+                    "latitude": "41.885632",
+                    "longitude": "-87.648451"
+                  }
+                },
+                {
+                  "name": "Hyatt House Chicago/West Loop-Fulton Market",
+                  "address": "105 N May St, Chicago, IL 60607",
+                  "website": "https://www.hyatt.com/en-US/hotel/illinois/hyatt-house-chicago-west-loop-fulton-market/chixw",
+                  "description": "Modern extended-stay hotel with spacious rooms, a seasonal rooftop pool, and convenient access to the United Center.",
+                  "coordinates": {
+                    "latitude": "41.883893",
+                    "longitude": "-87.652550"
+                  }
+                },
+                {
+                  "name": "Nobu Hotel Chicago",
+                  "address": "155 N Peoria St, Chicago, IL 60607",
+                  "website": "https://www.nobuhotels.com/chicago",
+                  "description": "Luxury hotel in the West Loop offering elegantly designed rooms, a rooftop bar, and the renowned Nobu restaurant.",
+                  "coordinates": {
+                    "latitude": "41.884789",
+                    "longitude": "-87.649498"
+                  }
+                },
+                {
+                  "name": "Soho House Chicago",
+                  "address": "113-125 N Green St, Chicago, IL 60607",
+                  "website": "https://www.sohohousechicago.com/",
+                  "description": "Exclusive members' club with rooms available to non-members, featuring an indoor pool, gym, spa, and cinema.",
+                  "coordinates": {
+                    "latitude": "41.884550",
+                    "longitude": "-87.648717"
+                  }
+                },
+                {
+                  "name": "The Publishing House Bed and Breakfast",
+                  "address": "108 N May St, Chicago, IL 60607",
+                  "website": "http://publishinghousebnb.com/",
+                  "description": "Charming B&B in the West Loop offering a cozy, home-away-from-home atmosphere with gourmet breakfast included.",
+                  "coordinates": {
+                    "latitude": "41.883976",
+                    "longitude": "-87.652676"
+                  }
+                }
+              ],
+            "tourist_attractions": [
+                {
+                  "name": "Willis Tower Skydeck",
+                  "address": "233 S Wacker Dr, Chicago, IL 60606",
+                  "website": "https://theskydeck.com/",
+                  "description": "Offering spectacular views from the 103rd floor of one of the world's tallest buildings.",
+                  "coordinates": {
+                    "latitude": "41.878876",
+                    "longitude": "-87.635915"
+                  }
+                },
+                {
+                  "name": "Millennium Park",
+                  "address": "201 E Randolph St, Chicago, IL 60602",
+                  "website": "https://www.chicago.gov/city/en/depts/dca/supp_info/millennium_park.html",
+                  "description": "A public park located in the Loop community area of Chicago, known for its innovative art, architecture, and landscape design.",
+                  "coordinates": {
+                    "latitude": "41.882552",
+                    "longitude": "-87.622551"
+                  }
+                },
+                {
+                  "name": "Navy Pier",
+                  "address": "600 E Grand Ave, Chicago, IL 60611",
+                  "website": "https://navypier.org/",
+                  "description": "A Chicago landmark featuring 50 acres of attractions, including parks, gardens, shops, restaurants, family attractions, and exhibition facilities.",
+                  "coordinates": {
+                    "latitude": "41.891752",
+                    "longitude": "-87.609116"
+                  }
+                },
+                {
+                  "name": "Art Institute of Chicago",
+                  "address": "111 S Michigan Ave, Chicago, IL 60603",
+                  "website": "https://www.artic.edu/",
+                  "description": "One of the oldest and largest art museums in the United States, known for its curatorial efforts and popularity among visitors.",
+                  "coordinates": {
+                    "latitude": "41.879585",
+                    "longitude": "-87.623713"
+                  }
+                },
+                {
+                  "name": "The Field Museum",
+                  "address": "1400 S Lake Shore Dr, Chicago, IL 60605",
+                  "website": "https://www.fieldmuseum.org/",
+                  "description": "A natural history museum in Chicago, Illinois, and one of the largest such museums in the world.",
+                  "coordinates": {
+                    "latitude": "41.866261",
+                    "longitude": "-87.617516"
+                  }
+                },
+                {
+                  "name": "Shedd Aquarium",
+                  "address": "1200 S Lake Shore Dr, Chicago, IL 60605",
+                  "website": "https://www.sheddaquarium.org/",
+                  "description": "An indoor public aquarium in Chicago, Illinois, that opened on May 30, 1930. The aquarium contains 32,000 animals.",
+                  "coordinates": {
+                    "latitude": "41.867573",
+                    "longitude": "-87.614038"
+                  }
+                },
+                {
+                  "name": "Chicago Riverwalk",
+                  "address": "Chicago Riverwalk, Chicago, IL 60601",
+                  "website": "https://www.chicagoriverwalk.us/",
+                  "description": "A pedestrian waterfront located on the south bank of the Chicago River in downtown Chicago, known for its recreational and pedestrian-friendly environment.",
+                  "coordinates": {
+                    "latitude": "41.8872",
+                    "longitude": "-87.6254"
+                  }
+                }
+              ],
+            "team_related_activities": [
+                {
+                  "name": "Blackhawks Team Store at United Center",
+                  "address": "1901 W Madison St, Chicago, IL 60612",
+                  "website": "https://shop.blackhawks.com/",
+                  "description": "Official store for Chicago Blackhawks merchandise, located within the United Center.",
+                  "coordinates": {
+                    "latitude": "41.880683",
+                    "longitude": "-87.674147"
+                  }
+                },
+                {
+                  "name": "Stan Mikita Statue",
+                  "address": "United Center, 1901 W Madison St, Chicago, IL 60612",
+                  "description": "Iconic statue of Stan Mikita, located outside the United Center.",
+                  "coordinates": {
+                    "latitude": "41.880621",
+                    "longitude": "-87.674212"
+                  }
+                },
+                {
+                  "name": "Chicago Blackhawks Game Experience",
+                  "description": "Attend a live game at the United Center to experience the excitement of Chicago Blackhawks hockey.",
+                  "coordinates": {
+                    "latitude": "41.880683",
+                    "longitude": "-87.674177"
+                  }
+                },
+                {
+                  "name": "United Center Arena Tour",
+                  "address": "1901 W Madison St, Chicago, IL 60612",
+                  "website": "https://www.unitedcenter.com/arena-tours/",
+                  "description": "Explore behind the scenes of the United Center, home of the Chicago Blackhawks, including areas typically closed to the public.",
+                  "coordinates": {
+                    "latitude": "41.880683",
+                    "longitude": "-87.674177"
+                  }
+                }
+              ]
+        },
+        "public_transportation": {
+            "options": [
+              {
+                "type": "CTA Bus",
+                "description": "Several Chicago Transit Authority bus lines provide service directly to the United Center."
+              },
+              {
+                "type": "CTA Train",
+                "description": "The nearest CTA train stops are at Ashland (Green and Pink Lines) and Illinois Medical District (Blue Line), both within walking distance."
+              }
+            ]
+          },
+          "ticket_purchasing_tips": {
+            "best_places_to_buy": [
+              {
+                "name": "Official Team Website",
+                "website": "https://www.nhl.com/blackhawks/tickets",
+                "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+              },
+              {
+                "name": "Ticketmaster",
+                "website": "https://www.ticketmaster.com/chicago-blackhawks-tickets/artist/805921",
+                "description": "Authorized ticketing partner offering authentic Blackhawks tickets."
+              },
+              {
+                "name": "StubHub",
+                "website": "https://www.stubhub.com/chicago-blackhawks-tickets/performer/3667/",
+                "description": "Reliable secondary marketplace that offers verified resold Blackhawks tickets."
+              }
+            ],
+          "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+          "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+        }
+      }
+    }
+    

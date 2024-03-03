@@ -1,140 +1,335 @@
 {
-    "city": "Atlanta",
-    "team": "Hawks",
-    "venue": {
-      "name": "State Farm Arena",
-      "address": "1 State Farm Drive, Atlanta, GA 30303",
-      "website": "https://www.statefarmarena.com/",
-      "average_ticket_price": "$110",
-      "season_start": "October",
-      "playoffs_start": "April",
-      "coordinates": {
-        "latitude": "33.757289",
-        "longitude": "-84.396324"
+  "city": "Atlanta",
+  "team": "Hawks",
+  "venue": {
+    "name": "State Farm Arena",
+    "address": "1 State Farm Drive, Atlanta, GA 30303",
+    "website": "https://www.statefarmarena.com/",
+    "average_ticket_price": "$110",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "33.757289",
+      "longitude": "-84.396324"
+    },
+    "best_seats_pricing": {
+      "Courtside": {
+        "Description": "Seats right next to the action for an unparalleled game experience.",
+        "Sections": "Courtside",
+        "Estimated_Pricing_Range": "$900 - $3500+",
+        "View_Quality": "Direct court-level view, engaging and immersive experience.",
+        "Unique_Features": "Chance for player interactions, possibility of being seen on TV.",
+        "Accessibility": "Easy access, but limited space for personal mobility devices.",
+        "Special_Perks": "Exclusive access to the Courtside Club, complimentary dining and beverages."
       },
-      "nearby_amenities": {
+      "Club_Seats": {
+        "Description": "Offering a fantastic view of the game from the sides with added benefits.",
+        "Sections": "Club Sections 101-104 and 118-121",
+        "Estimated_Pricing_Range": "$260 - $850",
+        "View_Quality": "Elevated side views with clear line of sight to the court.",
+        "Unique_Features": "Wider seats with more leg room, less crowded sections.",
+        "Accessibility": "Dedicated entrance for easier access, nearby elevators.",
+        "Special_Perks": "Access to premium clubs and in-seat wait service."
+      },
+      "Center_Balcony": {
+        "Description": "Great overall view of the game from an elevated position.",
+        "Sections": "Sections 201-203 and 213-215",
+        "Estimated_Pricing_Range": "$110 - $300",
+        "View_Quality": "Panoramic view of the court, ideal for tactical analysis.",
+        "Unique_Features": "Affordable pricing for a comprehensive view of the action.",
+        "Accessibility": "Accessible seating available, elevators to balcony level.",
+        "Special_Perks": "More budget-friendly option with a full view of the court."
+      },
+      "Loge_Level": {
+        "Description": "Just above courtside, offering close views without being on the floor.",
+        "Sections": "Mid Court Sections 105-107 and 115-117; Corners Sections 103-104, 108-109, 112-113, and 116-117",
+        "Estimated_Pricing_Range": "$160 - $650",
+        "View_Quality": "Close to the action with a slightly elevated perspective.",
+        "Unique_Features": "Proximity to the court with a more accessible price point.",
+        "Accessibility": "Wheelchair-accessible seating and nearby amenities.",
+        "Special_Perks": "Good balance of price, view, and experience."
+      }
+    },
+
+    "nearby_amenities": {
         "restaurants_bars": [
-          {
-            "name": "Stats Brewpub",
-            "address": "300 Marietta St NW, Atlanta, GA 30313",
-            "website": "http://www.statsatl.com/",
-            "description": "A spacious sports bar with multiple TVs, a rooftop bar, and a unique beer tap system at select tables.",
-            "coordinates": {
-              "latitude": "33.758056",
-              "longitude": "-84.395556"
+            {
+              "name": "Stats Brewpub",
+              "address": "300 Marietta St NW, Atlanta, GA 30313",
+              "website": "http://www.statsatl.com/",
+              "description": "A spacious sports bar with multiple TVs, a rooftop bar, and a unique beer tap system at select tables.",
+              "coordinates": {
+                "latitude": "33.758056",
+                "longitude": "-84.395556"
+              }
+            },
+            {
+              "name": "Twin Smokers BBQ",
+              "address": "300 Marietta St NW, Atlanta, GA 30313",
+              "website": "http://www.twinsmokersbbq.com/",
+              "description": "Offers a selection of regional BBQ favorites and house-made sauces, perfect for a pre-game meal.",
+              "coordinates": {
+                "latitude": "33.7581",
+                "longitude": "-84.3955"
+              }
+            },
+            {
+              "name": "Der Biergarten",
+              "address": "300 Marietta St NW, Atlanta, GA 30313",
+              "website": "http://www.derbiergarten.com/",
+              "description": "Provides an authentic German beer garden experience with a variety of beers on tap and traditional German fare.",
+              "coordinates": {
+                "latitude": "33.7582",
+                "longitude": "-84.3957"
+              }
+            },
+            {
+              "name": "Maxs Coal Oven Pizzeria",
+              "address": "300 Marietta St NW, Atlanta, GA 30313",
+              "website": "http://www.maxsatl.com/",
+              "description": "Known for its traditional coal oven pizzas, offering a cozy atmosphere for dining.",
+              "coordinates": {
+                "latitude": "33.7583",
+                "longitude": "-84.3958"
+              }
+            },
+            {
+              "name": "Game X",
+              "address": "275 Baker St NW, Atlanta, GA 30313",
+              "website": "http://www.gamexatl.com/",
+              "description": "A high-tech arcade with a wide range of games, perfect for families or a casual outing with friends.",
+              "coordinates": {
+                "latitude": "33.7621",
+                "longitude": "-84.3959"
+              }
+            },
+            {
+              "name": "Glenns Kitchen",
+              "address": "110 Marietta St NW, Atlanta, GA 30303",
+              "website": "http://www.glennskitchenatl.com/",
+              "description": "Offers Southern comfort food with a modern twist, located in a convenient downtown location.",
+              "coordinates": {
+                "latitude": "33.7602",
+                "longitude": "-84.3877"
+              }
             }
-          },
-          {
-            "name": "Twin Smokers BBQ",
-            "address": "300 Marietta St NW, Atlanta, GA 30313",
-            "website": "http://www.twinsmokersbbq.com/",
-            "description": "Offers a selection of regional BBQ favorites and house-made sauces, perfect for a pre-game meal.",
-            "coordinates": {
-              "latitude": "33.7581",
-              "longitude": "-84.3955"
+          ],
+          "accommodations": [
+            {
+              "name": "Omni Atlanta Hotel at CNN Center",
+              "address": "100 CNN Center, Atlanta, GA 30303",
+              "website": "https://www.omnihotels.com/hotels/atlanta-cnn-center",
+              "description": "Luxury hotel connected to the State Farm Arena via a covered walkway, offering convenient access to games.",
+              "coordinates": {
+                "latitude": "33.7577",
+                "longitude": "-84.3944"
+              }
+            },
+            {
+              "name": "Glenn Hotel, Autograph Collection",
+              "address": "110 Marietta St NW, Atlanta, GA 30303",
+              "website": "https://www.marriott.com/hotels/travel/atlgg-glenn-hotel-autograph-collection/",
+              "description": "Boutique hotel offering unique rooms and a rooftop bar with views of the city, located a short walk from the arena.",
+              "coordinates": {
+                "latitude": "33.7574",
+                "longitude": "-84.3951"
+              }
+            },
+            {
+              "name": "Hilton Atlanta",
+              "address": "255 Courtland St NE, Atlanta, GA 30303",
+              "website": "https://www.hilton.com/en/hotels/atlahhh-hilton-atlanta/",
+              "description": "Modern hotel with upscale amenities, including tennis courts and a jogging track, minutes from the arena.",
+              "coordinates": {
+                "latitude": "33.7619",
+                "longitude": "-84.3833"
+              }
+            },
+            {
+              "name": "The Westin Peachtree Plaza, Atlanta",
+              "address": "210 Peachtree St NW, Atlanta, GA 30303",
+              "website": "https://www.marriott.com/hotels/travel/atlwep-the-westin-peachtree-plaza-atlanta/",
+              "description": "Iconic hotel towering above the city, offering stunning views from floor-to-ceiling windows, close to attractions.",
+              "coordinates": {
+                "latitude": "33.7595",
+                "longitude": "-84.3876"
+              }
+            },
+            {
+              "name": "Aloft Atlanta Downtown",
+              "address": "300 Ted Turner Dr NW, Atlanta, GA 30308",
+              "website": "https://www.marriott.com/hotels/travel/atlad-aloft-atlanta-downtown/",
+              "description": "Trendy hotel with a vibrant social scene, located within walking distance to the arena and downtown attractions.",
+              "coordinates": {
+                "latitude": "33.7645",
+                "longitude": "-84.3884"
+              }
             }
-          },
-          {
-            "name": "Der Biergarten",
-            "address": "300 Marietta St NW, Atlanta, GA 30313",
-            "website": "http://www.derbiergarten.com/",
-            "description": "Provides an authentic German beer garden experience with a variety of beers on tap and traditional German fare.",
-            "coordinates": {
-              "latitude": "33.7582",
-              "longitude": "-84.3957"
+          ],
+          "tourist_attractions": [
+            {
+              "name": "Centennial Olympic Park",
+              "address": "265 Park Ave W NW, Atlanta, GA 30313",
+              "website": "https://www.gwcca.org/centennial-olympic-park/",
+              "description": "Iconic park created for the 1996 Olympics, featuring the Fountain of Rings and numerous outdoor concerts and events.",
+              "coordinates": {
+                "latitude": "33.760347",
+                "longitude": "-84.393541"
+              }
+            },
+            {
+              "name": "Georgia Aquarium",
+              "address": "225 Baker St NW, Atlanta, GA 30313",
+              "website": "https://www.georgiaaquarium.org/",
+              "description": "One of the world's largest aquariums, with thousands of animals and an immersive aquatic experience.",
+              "coordinates": {
+                "latitude": "33.7634",
+                "longitude": "-84.3951"
+              }
+            },
+            {
+              "name": "World of Coca-Cola",
+              "address": "121 Baker St NW, Atlanta, GA 30313",
+              "website": "https://www.worldofcoca-cola.com/",
+              "description": "Museum showcasing the history of The Coca-Cola Company with memorabilia, exhibits, and tastings.",
+              "coordinates": {
+                "latitude": "33.7629",
+                "longitude": "-84.3927"
+              }
+            },
+            {
+              "name": "Atlanta Botanical Garden",
+              "address": "1345 Piedmont Avenue NE, Atlanta, GA 30309",
+              "website": "https://atlantabg.org/",
+              "description": "Features beautiful plant collections, spectacular exhibitions, and a canopy walk suspended in the trees.",
+              "coordinates": {
+                "latitude": "33.7904",
+                "longitude": "-84.3733"
+              }
+            },
+            {
+              "name": "High Museum of Art",
+              "address": "1280 Peachtree St NE, Atlanta, GA 30309",
+              "website": "https://high.org/",
+              "description": "Leading art museum in the Southeastern United States, offering an extensive collection of contemporary and classic art.",
+              "coordinates": {
+                "latitude": "33.7901",
+                "longitude": "-84.3857"
+              }
+            },
+            {
+              "name": "Martin Luther King Jr. National Historical Park",
+              "address": "450 Auburn Ave NE, Atlanta, GA 30312",
+              "website": "https://www.nps.gov/malu/index.htm",
+              "description": "Includes several buildings that played a critical role in the life of Dr. Martin Luther King Jr., including his childhood home.",
+              "coordinates": {
+                "latitude": "33.7563",
+                "longitude": "-84.3722"
+              }
             }
-          }
-        ],
-        "accommodations": [
-          {
-            "name": "Omni Atlanta Hotel at CNN Center",
-            "address": "100 CNN Center, Atlanta, GA 30303",
-            "website": "https://www.omnihotels.com/hotels/atlanta-cnn-center",
-            "description": "Luxury hotel connected to the State Farm Arena via a covered walkway, offering convenient access to games.",
-            "coordinates": {
-              "latitude": "33.7577",
-              "longitude": "-84.3944"
+          ],
+          "team_related_activities": [
+            {
+              "name": "Hawks Shop at State Farm Arena",
+              "address": "1 State Farm Drive, Atlanta, GA 30303",
+              "website": "https://hawksshop.com/",
+              "description": "Official store for Atlanta Hawks merchandise, located within the State Farm Arena.",
+              "coordinates": {
+                "latitude": "33.757289",
+                "longitude": "-84.396324"
+              }
+            },
+            {
+              "name": "Atlanta Hawks Fan Experience",
+              "address": "State Farm Arena, 1 State Farm Drive, Atlanta, GA 30303",
+              "website": "https://www.nba.com/hawks/experience",
+              "description": "An immersive fan experience offering behind-the-scenes tours, meet-and-greets, and game day packages at the State Farm Arena.",
+              "coordinates": {
+                "latitude": "33.7573",
+                "longitude": "-84.3963"
+              }
+            },
+            {
+              "name": "College Football Hall of Fame",
+              "address": "250 Marietta St NW, Atlanta, GA 30313",
+              "website": "https://www.cfbhall.com/",
+              "description": "Interactive exhibit space celebrating college football history, with a section dedicated to players who later joined the NFL, including some Atlanta Hawks stars.",
+              "coordinates": {
+                "latitude": "33.7603",
+                "longitude": "-84.3957"
+              }
+            },
+            {
+              "name": "The Battery Atlanta",
+              "address": "800 Battery Ave SE, Atlanta, GA 30339",
+              "website": "https://batteryatl.com/",
+              "description": "A vibrant entertainment district featuring dining, shopping, and cultural events, known for hosting Atlanta Hawks fan gatherings and watch parties.",
+              "coordinates": {
+                "latitude": "33.8876",
+                "longitude": "-84.4710"
+              }
+            },
+            {
+              "name": "SkyView Atlanta",
+              "address": "168 Luckie St NW, Atlanta, GA 30303",
+              "website": "https://www.skyviewatlanta.com/",
+              "description": "Giant Ferris wheel offering panoramic views of downtown Atlanta, including the State Farm Arena. A favorite among sports fans for a unique view of the city.",
+              "coordinates": {
+                "latitude": "33.7623",
+                "longitude": "-84.3927"
+              }
             }
-          },
-          {
-            "name": "Glenn Hotel, Autograph Collection",
-            "address": "110 Marietta St NW, Atlanta, GA 30303",
-            "website": "https://www.marriott.com/hotels/travel/atlgg-glenn-hotel-autograph-collection/",
-            "description": "Boutique hotel offering unique rooms and a rooftop bar with views of the city, located a short walk from the arena.",
-            "coordinates": {
-              "latitude": "33.7574",
-              "longitude": "-84.3951"
-            }
-          }
-        ],
-        "tourist_attractions": [
-          {
-            "name": "Centennial Olympic Park",
-            "address": "265 Park Ave W NW, Atlanta, GA 30313",
-            "website": "https://www.gwcca.org/centennial-olympic-park/",
-            "description": "Iconic park created for the 1996 Olympics, featuring the Fountain of Rings and numerous outdoor concerts and events.",
-            "coordinates": {
-              "latitude": "33.760347",
-              "longitude": "-84.393541"
-            }
-          },
-          {
-            "name": "Georgia Aquarium",
-            "address": "225 Baker St NW, Atlanta, GA 30313",
-            "website": "https://www.georgiaaquarium.org/",
-            "description": "One of the world's largest aquariums, with thousands of animals and an immersive aquatic experience.",
-            "coordinates": {
-              "latitude": "33.7634",
-              "longitude": "-84.3951"
-            }
-          }
-        ],
-        "team_related_activities": [
-          {
-            "name": "Hawks Shop at State Farm Arena",
-            "address": "1 State Farm Drive, Atlanta, GA 30303",
-            "website": "https://hawksshop.com/",
-            "description": "Official store for Atlanta Hawks merchandise, located within the State Farm Arena.",
-            "coordinates": {
-              "latitude": "33.757289",
-              "longitude": "-84.396324"
-            }
-          }
-        ]
-      },
-      "public_transportation": {
+          ]
+    },
+    "public_transportation": {
         "options": [
           {
             "type": "MARTA",
-            "description": "The MARTA train has a stop at the Dome/GWCC/Philips Arena/CNN Center Station, providing easy access to the State Farm Arena."
+            "description": "The MARTA train has a stop at the Dome/GWCC/Philips Arena/CNN Center Station, providing easy access to the State Farm Arena.",
+            "map_link": "https://www.itsmarta.com/Dome-GWCC-Philips-Arena-station.aspx"
           },
           {
             "type": "Bus",
-            "description": "Multiple Atlanta bus routes stop near the State Farm Arena, making it accessible from various parts of the city."
+            "description": "Multiple Atlanta bus routes stop near the State Farm Arena, making it accessible from various parts of the city.",
+            "map_link": "https://www.itsmarta.com/bus-routes.aspx"
+          },
+          {
+            "type": "Streetcar",
+            "description": "The Atlanta Streetcar has a stop at Centennial Olympic Park, which is a short walk from the State Farm Arena.",
+            "map_link": "https://streetcar.atlantaga.gov/"
+          },
+          {
+            "type": "Bike Share",
+            "description": "Relay Bike Share stations are located throughout downtown Atlanta, offering a convenient and eco-friendly transportation option.",
+            "map_link": "https://relaybikeshare.com/"
+          },
+          {
+            "type": "Rideshare",
+            "description": "Uber, Lyft, and other rideshare services offer direct transportation to the State Farm Arena, with designated drop-off and pick-up areas.",
+            "map_link": "https://www.statefarmarena.com/plan-your-visit/directions-parking"
           }
         ]
       },
-      "ticket_purchasing_tips": {
-        "best_places_to_buy": [
-          {
-            "name": "Official Team Website",
-            "website": "https://www.nba.com/hawks/tickets/",
-            "description": "The primary source for all ticket sales, offering guaranteed authenticity."
-          },
-          {
-            "name": "Ticketmaster",
-            "website": "https://www.ticketmaster.com/atlanta-hawks-tickets/artist/805896",
-            "description": "Authorized ticketing partner offering authentic Hawks tickets."
-          },
-          {
-            "name": "StubHub",
-            "website": "https://www.stubhub.com/atlanta-hawks-tickets/performer/6146/",
-            "description": "Reliable secondary marketplace that offers verified resold Hawks tickets."
-          }
-        ],
-        "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
-        "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
-      }
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Team Website",
+          "website": "https://www.nba.com/hawks/tickets/",
+          "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+        },
+        {
+          "name": "Ticketmaster",
+          "website": "https://www.ticketmaster.com/atlanta-hawks-tickets/artist/805896",
+          "description": "Authorized ticketing partner offering authentic Hawks tickets."
+        },
+        {
+          "name": "StubHub",
+          "website": "https://www.stubhub.com/atlanta-hawks-tickets/performer/6146/",
+          "description": "Reliable secondary marketplace that offers verified resold Hawks tickets."
+        }
+      ],
+      "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+      "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
     }
   }
-  
+}
