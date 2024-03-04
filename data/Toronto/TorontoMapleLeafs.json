@@ -1,0 +1,259 @@
+{
+  "city": "Toronto",
+  "team": "Maple Leafs",
+  "venue": {
+    "name": "Scotiabank Arena",
+    "address": "40 Bay St, Toronto, ON M5J 2X2, Canada",
+    "website": "https://www.scotiabankarena.com",
+    "average_ticket_price": "$200",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "43.6435",
+      "longitude": "-79.3791"
+    },
+    "best_seats_pricing": {
+      "Rinkside": {
+        "Description": "Seats right next to the action for an unparalleled game experience.",
+        "Sections": "Rinkside",
+        "Estimated_Pricing_Range": "$900 - $4000+",
+        "View_Quality": "Direct ice-level view, engaging and immersive experience.",
+        "Unique_Features": "Chance for player interactions, possibility of being seen on TV.",
+        "Accessibility": "Easy access, but limited space for personal mobility devices.",
+        "Special_Perks": "Exclusive access to the Scotiabank Arena Club, complimentary dining and beverages."
+      },
+      "Club_Seats": {
+        "Description": "Offering a fantastic view of the game from the sides with added benefits.",
+        "Sections": "Club Sections 107-109 and 118-120",
+        "Estimated_Pricing_Range": "$400 - $1200",
+        "View_Quality": "Elevated side views with clear line of sight to the ice.",
+        "Unique_Features": "Wider seats with more leg room, less crowded sections.",
+        "Accessibility": "Dedicated entrance for easier access, nearby elevators.",
+        "Special_Perks": "Access to exclusive clubs and in-seat wait service."
+      },
+      "Center_Balcony": {
+        "Description": "Great overall view of the game from an elevated position.",
+        "Sections": "Sections 320-322 and 301-303",
+        "Estimated_Pricing_Range": "$150 - $400",
+        "View_Quality": "Panoramic view of the ice, ideal for tactical analysis.",
+        "Unique_Features": "Affordable pricing for a comprehensive view of the action.",
+        "Accessibility": "Accessible seating available, elevators to balcony level.",
+        "Special_Perks": "More budget-friendly option with a full view of the game."
+      },
+      "Loge_Level": {
+        "Description": "Just above rink level, offering close views without being on the ice.",
+        "Sections": "Mid Ice Sections 107-109 and 118-120; Corners Sections 104-106, 110-117, and 121-123",
+        "Estimated_Pricing_Range": "$250 - $700",
+        "View_Quality": "Close to the action with a slightly elevated perspective.",
+        "Unique_Features": "Proximity to the ice with a more accessible price point.",
+        "Accessibility": "Wheelchair-accessible seating and nearby amenities.",
+        "Special_Perks": "Good balance of price, view, and experience."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Real Sports Bar & Grill",
+          "address": "15 York St, Toronto, ON M5J 0A3, Canada",
+          "website": "http://realsports.ca/BarAndGrill/Toronto/",
+          "description": "A massive upscale sports bar with numerous HD TVs and a wide selection of beers and pub fare, located near Scotiabank Arena.",
+          "coordinates": {
+            "latitude": "43.642566",
+            "longitude": "-79.380692"
+          }
+        },
+        {
+          "name": "The Rec Room",
+          "address": "255 Bremner Blvd, Toronto, ON M5V 3M9, Canada",
+          "website": "https://www.therecroom.com/",
+          "description": "A large entertainment venue offering dining, gaming, and live entertainment, a short walk from Scotiabank Arena.",
+          "coordinates": {
+            "latitude": "43.641599",
+            "longitude": "-79.386872"
+          }
+        },
+        {
+          "name": "Harbour 60 Toronto",
+          "address": "60 Harbour St, Toronto, ON M5J 1B7, Canada",
+          "website": "http://www.harbour60.com/",
+          "description": "An upscale steakhouse known for its exceptional service and prime cuts of meat, located in close proximity to the arena.",
+          "coordinates": {
+            "latitude": "43.642885",
+            "longitude": "-79.377319"
+          }
+        },
+        {
+          "name": "Amsterdam Brewhouse",
+          "address": "245 Queens Quay W, Toronto, ON M5J 2K9, Canada",
+          "website": "https://amsterdambrewhouse.com/",
+          "description": "A waterside brewpub offering house-made beers and a hearty Canadian menu, with scenic lake views.",
+          "coordinates": {
+            "latitude": "43.638763",
+            "longitude": "-79.382573"
+          }
+        },
+        {
+          "name": "Steam Whistle Biergarten",
+          "address": "255 Bremner Blvd Unit 7, Toronto, ON M5V 3M9, Canada",
+          "website": "https://steamwhistle.ca/visit-us/biergarten/",
+          "description": "A German-style beer garden located in the Roundhouse Park, offering a selection of craft beers and European inspired fare.",
+          "coordinates": {
+            "latitude": "43.641105",
+            "longitude": "-79.386056"
+          }
+        },
+        {
+          "name": "Canoe Restaurant & Bar",
+          "address": "66 Wellington St W 54th floor, Toronto, ON M5K 1H6, Canada",
+          "website": "https://www.canoerestaurant.com/",
+          "description": "Perched atop the TD Bank Tower, Canoe affords diners stunning city and lake views along with a menu of refined Canadian cuisine.",
+          "coordinates": {
+            "latitude": "43.647564",
+            "longitude": "-79.381993"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Delta Hotels by Marriott Toronto",
+          "address": "75 Lower Simcoe St, Toronto, ON M5J 3A6, Canada",
+          "website": "https://www.marriott.com/hotels/travel/yyzdl-delta-hotels-toronto/",
+          "description": "A modern hotel with stunning views of the Toronto skyline and Lake Ontario, conveniently located near Scotiabank Arena.",
+          "coordinates": {
+            "latitude": "43.642547",
+            "longitude": "-79.383110"
+          }
+        },
+        {
+          "name": "Fairmont Royal York",
+          "address": "100 Front St W, Toronto, ON M5J 1E3, Canada",
+          "website": "https://www.fairmont.com/royal-york-toronto/",
+          "description": "An historic and luxurious hotel offering refined rooms and amenities, situated a short distance from Scotiabank Arena.",
+          "coordinates": {
+            "latitude": "43.645736",
+            "longitude": "-79.381576"
+          }
+        },
+        {
+          "name": "Hotel X Toronto by Library Hotel Collection",
+          "address": "111 Princes' Blvd, Toronto, ON M6K 3C3, Canada",
+          "website": "https://hotelxtoronto.com/",
+          "description": "A unique luxury hotel with sports and entertainment facilities, offering panoramic views of Lake Ontario and the city skyline.",
+          "coordinates": {
+            "latitude": "43.632891",
+            "longitude": "-79.418711"
+          }
+        },
+        {
+          "name": "The Westin Harbour Castle, Toronto",
+          "address": "1 Harbour Sq, Toronto, ON M5J 1A6, Canada",
+          "website": "https://www.marriott.com/hotels/travel/yyzwi-the-westin-harbour-castle-toronto/",
+          "description": "This waterfront hotel offers guests a serene city escape with comfortable accommodations and stunning views of Lake Ontario.",
+          "coordinates": {
+            "latitude": "43.641375",
+            "longitude": "-79.376488"
+          }
+        },
+        {
+          "name": "InterContinental Toronto Centre, an IHG Hotel",
+          "address": "225 Front St W, Toronto, ON M5V 2X3, Canada",
+          "website": "https://www.ihg.com/intercontinental/hotels/gb/en/toronto/yyzha/hoteldetail",
+          "description": "A sophisticated downtown hotel that offers luxury accommodations and is adjacent to the Metro Toronto Convention Centre.",
+          "coordinates": {
+            "latitude": "43.644104",
+            "longitude": "-79.385368"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "CN Tower",
+          "address": "290 Bremner Blvd, Toronto, ON M5V 3L9, Canada",
+          "website": "http://www.cntower.ca/",
+          "description": "A national icon and engineering wonder, offering breathtaking views of the city from its observation decks and revolving restaurant.",
+          "coordinates": {
+            "latitude": "43.642566",
+            "longitude": "-79.387057"
+          }
+        },
+        {
+          "name": "Ripley's Aquarium of Canada",
+          "address": "288 Bremner Blvd, Toronto, ON M5V 3L9, Canada",
+          "website": "https://www.ripleyaquariums.com/canada/",
+          "description": "Home to over 16,000 aquatic animals and featuring a walk-through tunnel, this aquarium offers an immersive underwater experience.",
+          "coordinates": {
+            "latitude": "43.642104",
+            "longitude": "-79.386252"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Scotiabank Arena Tours",
+          "address": "40 Bay St, Toronto, ON M5J 2X2, Canada",
+          "website": "https://www.scotiabankarena.com",
+          "description": "Join the guided tours of Scotiabank Arena and experience the home of the Toronto Maple Leafs. Explore behind-the-scenes areas and learn about the storied history of the team.",
+          "coordinates": {
+            "latitude": "43.6435",
+            "longitude": "-79.3791"
+          }
+        },
+        {
+          "name": "Maple Leaf Square",
+          "address": "15 York St, Toronto, ON M5J 0A3, Canada",
+          "website": "https://www.mlse.com",
+          "description": "Adjacent to Scotiabank Arena, Maple Leaf Square is a bustling district featuring dining, entertainment, and retail options, enriching your game day experience.",
+          "coordinates": {
+            "latitude": "43.6434",
+            "longitude": "-79.3792"
+          }
+        },
+        {
+          "name": "Nathan Phillips Square Ice Skating",
+          "address": "100 Queen St W, Toronto, ON M5H 2N2, Canada",
+          "website": "https://www.toronto.ca/explore-enjoy/recreation/skating-winter-sports/public-leisure-skating/",
+          "description": "During the winter season, enjoy outdoor ice skating at Nathan Phillips Square, a festive activity perfect for families and fans looking to experience ice skating in the heart of Toronto.",
+          "coordinates": {
+            "latitude": "43.6527",
+            "longitude": "-79.3832"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "TTC",
+          "description": "The Toronto Transit Commission (TTC) provides convenient access to Scotiabank Arena, with Union Station serving as a major hub for subway, train, and streetcar lines.",
+          "map_link": "https://www.ttc.ca"
+        },
+        {
+          "type": "Bus",
+          "description": "Toronto's extensive bus network serves the Scotiabank Arena area, offering easy access from across the city.",
+          "map_link": "https://www.ttc.ca/Routes/Buses.jsp"
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Toronto Maple Leafs Website",
+          "website": "https://www.nhl.com/mapleleafs/tickets",
+          "description": "The primary source for all Maple Leafs ticket sales, offering guaranteed authenticity and the best selection of seats."
+        },
+        {
+          "name": "Ticketmaster",
+          "website": "https://www.ticketmaster.ca/toronto-maple-leafs-tickets/artist/806033",
+          "description": "Authorized ticketing partner for events at Scotiabank Arena, providing a secure platform for purchasing official tickets."
+        },
+        {
+          "name": "StubHub",
+          "website": "https://www.stubhub.com/toronto-maple-leafs-tickets/performer/124/",
+          "description": "A reliable secondary marketplace for Maple Leafs tickets, offering a fanProtect guarantee."
+        }
+      ],
+      "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+      "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+    }
+  }
+}

@@ -1,0 +1,310 @@
+{
+    "city": "Saint Paul, Minnesota",
+  "team": "Minnesota Wild",
+  "venue": {
+    "name": "Xcel Energy Center",
+    "address": "199 W Kellogg Blvd, Saint Paul, MN 55102, USA",
+    "website": "https://www.xcelenergycenter.com/",
+    "average_ticket_price": "$120",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "44.9442",
+      "longitude": "-93.1015"
+    },
+    "best_seats_pricing": {
+      "Glass Seats": {
+        "Description": "Exclusive seating right next to the glass, offering the closest view of the action and player interaction.",
+        "Sections": "Glass Seats",
+        "Estimated_Pricing_Range": "$400 - $1000+",
+        "View_Quality": "Unmatched, up-close view of the game, offering a unique and immersive experience.",
+        "Unique_Features": "Chance for interactions with players, and visibility on television broadcasts.",
+        "Accessibility": "Premier access and amenities, including VIP entrances and concierge service.",
+        "Special_Perks": "Access to exclusive clubs and lounges, high-end dining options, and special event invitations."
+      },
+      "Lower Bowl": {
+        "Description": "Engaging views close to the ice, combining excellent sightlines with the excitement of being near the game.",
+        "Sections": "Sections 101-126",
+        "Estimated_Pricing_Range": "$100 - $300",
+        "View_Quality": "Clear, direct views of the ice, enhancing the overall experience.",
+        "Unique_Features": "Enhanced seat comfort and additional benefits for a superior experience.",
+        "Accessibility": "Convenient entrance locations and accessibility features.",
+        "Special_Perks": "Exclusive access to certain areas and in-seat service for an enhanced game day."
+      },
+      "Upper Bowl": {
+        "Description": "Economical options with a bird's-eye view of the game, perfect for fans wanting to soak in the atmosphere.",
+        "Sections": "Sections 200-230",
+        "Estimated_Pricing_Range": "$50 - $150",
+        "View_Quality": "Wide-angle views that capture the excitement of Wild games.",
+        "Unique_Features": "An affordable way to enjoy live hockey action and the vibrant game day atmosphere.",
+        "Accessibility": "Accessible seating with a variety of amenities close by.",
+        "Special_Perks": "A budget-friendly choice allowing fans to experience the thrill of a Wild game live."
+      },
+      "Suites and Club Seats": {
+        "Description": "The pinnacle of luxury and exclusivity, offering the finest views and amenities.",
+        "Sections": "Suites and Club Seats",
+        "Estimated_Pricing_Range": "$200 - $600+ per event",
+        "View_Quality": "Elevated and private viewing experiences with superior sightlines.",
+        "Unique_Features": "Dedicated services, including private entry, upscale dining, and premium entertainment.",
+        "Accessibility": "VIP access with top-tier amenities and convenience for an unrivaled experience.",
+        "Special_Perks": "Perfect for hosting clients or enjoying a game in luxury, with options for custom catering and access to exclusive events."
+      }
+    },
+      "nearby_amenities": {
+        "restaurants_bars": [
+            {
+              "name": "Cossetta's",
+              "address": "211 7th St W, Saint Paul, MN 55102",
+              "website": "https://www.cossettas.com/",
+              "description": "An iconic Italian market and eatery offering pizza, pasta, and classic desserts, known for its bustling atmosphere and proximity to the Xcel Energy Center.",
+              "coordinates": {
+                "latitude": "44.9449",
+                "longitude": "-93.1015"
+              }
+            },
+            {
+              "name": "Patrick McGovern's Pub",
+              "address": "225 7th St W, Saint Paul, MN 55102",
+              "website": "http://www.patmcgoverns.com/",
+              "description": "A beloved local pub with a hearty selection of American fare and a wide range of beers, located just steps from the arena.",
+              "coordinates": {
+                "latitude": "44.9451",
+                "longitude": "-93.1022"
+              }
+            },
+            {
+              "name": "The Liffey",
+              "address": "175 7th St W, Saint Paul, MN 55102",
+              "website": "https://theliffey.com/",
+              "description": "A cozy Irish pub offering traditional dishes and pints in a warm, inviting atmosphere, near the Minnesota Wild's home.",
+              "coordinates": {
+                "latitude": "44.9443",
+                "longitude": "-93.1018"
+              }
+            },
+            {
+              "name": "Herbie's On The Park",
+              "address": "317 Washington St, Saint Paul, MN 55102",
+              "website": "https://www.herbiesonthepark.com/",
+              "description": "An upscale tavern inspired by hockey legend Herb Brooks, serving classic American cuisine with a twist, close to the Xcel Energy Center.",
+              "coordinates": {
+                "latitude": "44.9462",
+                "longitude": "-93.0972"
+              }
+            },
+            {
+              "name": "Zamboni's Pizza",
+              "address": "184 7th St W, Saint Paul, MN 55102",
+              "website": "http://www.zambonipizza.com/",
+              "description": "A sports-themed pizzeria known for its delicious slices and hockey memorabilia, a favorite spot for fans before and after the game.",
+              "coordinates": {
+                "latitude": "44.9444",
+                "longitude": "-93.1024"
+              }
+            },
+            {
+              "name": "Sawatdee Thai Restaurant",
+              "address": "486 Robert St N, Saint Paul, MN 55101",
+              "website": "https://www.sawatdee.com/",
+              "description": "A renowned Thai restaurant offering a wide range of traditional dishes and a friendly atmosphere, just a short distance from the arena.",
+              "coordinates": {
+                "latitude": "44.9495",
+                "longitude": "-93.0934"
+              }
+            }
+          ],
+        "accommodations": [
+            {
+              "name": "The Saint Paul Hotel",
+              "address": "350 Market St, St Paul, MN 55102",
+              "website": "https://www.saintpaulhotel.com/",
+              "description": "An elegant hotel known for its historic charm and luxury accommodations, located within walking distance to the Xcel Energy Center.",
+              "coordinates": {
+                "latitude": "44.9464",
+                "longitude": "-93.0948"
+              }
+            },
+            {
+              "name": "InterContinental Saint Paul Riverfront",
+              "address": "11 Kellogg Blvd E, St Paul, MN 55101",
+              "website": "https://www.ihg.com/intercontinental/hotels/us/en/saint-paul/mspsp/hoteldetail",
+              "description": "This upscale hotel offers stunning views of the Mississippi River and is conveniently close to Minnesota Wild's home games.",
+              "coordinates": {
+                "latitude": "44.9445",
+                "longitude": "-93.0949"
+              }
+            },
+            {
+              "name": "Hyatt Place St Paul/Downtown",
+              "address": "180 Kellogg Blvd E, St Paul, MN 55101",
+              "website": "https://www.hyatt.com/en-US/hotel/minnesota/hyatt-place-st-paul-downtown/mspzp",
+              "description": "A modern hotel featuring spacious rooms and an indoor pool, just a short distance from the Xcel Energy Center.",
+              "coordinates": {
+                "latitude": "44.9495",
+                "longitude": "-93.0904"
+              }
+            },
+            {
+              "name": "Hotel 340",
+              "address": "340 Cedar St, St Paul, MN 55101",
+              "website": "https://www.hotel340.com/",
+              "description": "A boutique hotel set in a historic building, offering unique rooms and suites in the heart of downtown Saint Paul.",
+              "coordinates": {
+                "latitude": "44.9477",
+                "longitude": "-93.0952"
+              }
+            },
+            {
+              "name": "The Celeste of St Paul",
+              "address": "26 E Exchange St, St Paul, MN 55101",
+              "website": "https://www.thecelestehotel.com/",
+              "description": "A beautifully restored hotel offering a mix of modern amenities and historic details, close to the Xcel Energy Center.",
+              "coordinates": {
+                "latitude": "44.9473",
+                "longitude": "-93.0933"
+              }
+            },
+            {
+              "name": "Hampton Inn & Suites Downtown St. Paul",
+              "address": "200 W 7th St, St Paul, MN 55102",
+              "website": "https://www.hilton.com/en/hotels/mspdthx-hampton-suites-downtown-st-paul/",
+              "description": "A comfortable and convenient hotel offering free breakfast and an indoor pool, located near the Xcel Energy Center and Saint Paul's top attractions.",
+              "coordinates": {
+                "latitude": "44.9439",
+                "longitude": "-93.0983"
+              }
+            }
+          ],
+        "tourist_attractions": [
+            {
+              "name": "Minnesota State Capitol",
+              "address": "75 Rev Dr Martin Luther King Jr Boulevard., St Paul, MN 55155",
+              "website": "https://www.mnhs.org/capitol",
+              "description": "The seat of government for the U.S. state of Minnesota, featuring guided tours that showcase its history and architecture.",
+              "coordinates": {
+                "latitude": "44.9551",
+                "longitude": "-93.1022"
+              }
+            },
+            {
+              "name": "Science Museum of Minnesota",
+              "address": "120 W Kellogg Blvd, St Paul, MN 55102",
+              "website": "https://www.smm.org/",
+              "description": "A large museum dedicated to technology, natural history, physical science, and mathematics education.",
+              "coordinates": {
+                "latitude": "44.9429",
+                "longitude": "-93.0983"
+              }
+            },
+            {
+              "name": "Como Park Zoo and Conservatory",
+              "address": "1225 Estabrook Dr, St Paul, MN 55103",
+              "website": "https://comozooconservatory.org/",
+              "description": "A free public zoo and conservatory featuring a wide range of animals and plants, with educational programs and conservatory gardens.",
+              "coordinates": {
+                "latitude": "44.9826",
+                "longitude": "-93.1536"
+              }
+            },
+            {
+              "name": "Minnesota History Center",
+              "address": "345 W Kellogg Blvd, St Paul, MN 55102",
+              "website": "https://www.mnhs.org/historycenter",
+              "description": "An interactive museum with exhibits on the history of Minnesota from prehistoric to modern times.",
+              "coordinates": {
+                "latitude": "44.9477",
+                "longitude": "-93.1040"
+              }
+            },
+            {
+              "name": "Cathedral of Saint Paul",
+              "address": "239 Selby Ave, St Paul, MN 55102",
+              "website": "https://www.cathedralsaintpaul.org/",
+              "description": "One of the most prominent buildings in Saint Paul, this cathedral is known for its stunning architecture and as a spiritual center.",
+              "coordinates": {
+                "latitude": "44.9465",
+                "longitude": "-93.1099"
+              }
+            },
+            {
+              "name": "James J. Hill House",
+              "address": "240 Summit Ave, St Paul, MN 55102",
+              "website": "https://www.mnhs.org/hillhouse",
+              "description": "A historic mansion that was once the largest home in Minnesota, offering a glimpse into the life of railroad magnate James J. Hill.",
+              "coordinates": {
+                "latitude": "44.9416",
+                "longitude": "-93.1151"
+              }
+            }
+          ],
+        "team_related_activities": [
+            {
+              "name": "Wild Team Store at Xcel Energy Center",
+              "address": "199 W Kellogg Blvd, St Paul, MN 55102",
+              "website": "https://www.xcelenergycenter.com/",
+              "description": "The official store for Minnesota Wild merchandise, located within the Xcel Energy Center.",
+              "coordinates": {
+                "latitude": "44.9442",
+                "longitude": "-93.1015"
+              }
+            },
+            {
+              "name": "Wild Practice Facility Tours",
+              "address": "TRIA Rink at Treasure Island Center, 400 Wabasha St N, St Paul, MN 55102",
+              "description": "Tour the cutting-edge practice facility where the Wild prepare for games. Check for tour availability and schedules.",
+              "coordinates": {
+                "latitude": "44.9477",
+                "longitude": "-93.0933"
+              }
+            },
+            {
+              "name": "Wild Game Day Experiences",
+              "description": "Participate in unique game day experiences, including a chance to watch pre-game warm-ups from the penalty box or meet players post-game. Availability varies by game.",
+              "website": "https://www.nhl.com/wild/tickets/experiences"
+            }
+          ]
+      },
+      "public_transportation": {
+        "options": [
+            {
+              "type": "Metro Transit",
+              "description": "The Green Line and various bus routes provide convenient access to the Xcel Energy Center."
+            },
+            {
+              "type": "Bus",
+              "description": "Multiple Metro Transit bus lines stop near the Xcel Energy Center, offering convenient transportation options."
+            },
+            {
+              "type": "Bike Share",
+              "description": "Nice Ride Minnesota stations are located throughout the city, with several convenient locations near the Xcel Energy Center."
+            },
+            {
+              "type": "Rideshare",
+              "description": "Uber, Lyft, and other rideshare services offer an easy way to get to and from the game without the hassle of parking."
+            }
+          ]
+      },
+      "ticket_purchasing_tips": {
+        "best_places_to_buy":  [
+            {
+              "name": "Official Team Website",
+              "website": "https://www.nhl.com/wild/tickets",
+              "description": "The primary source for all ticket sales, offering guaranteed authenticity."
+            },
+            {
+              "name": "Ticketmaster",
+              "website": "https://www.ticketmaster.com/minnesota-wild-tickets/artist/805974",
+              "description": "Authorized ticketing partner offering authentic Wild tickets."
+            },
+            {
+              "name": "StubHub",
+              "website": "https://www.stubhub.com/minnesota-wild-tickets/performer/3076/",
+              "description": "A reliable secondary marketplace that offers verified resold Wild tickets."
+            }
+          ],
+        "ways_to_save": "Consider attending games on weekdays for potentially lower ticket prices. Explore group ticket discounts. Check for last-minute ticket deals close to game day.",
+        "avoiding_scalpers": "Purchase tickets from verified sources to avoid counterfeit tickets. Utilize secondary marketplaces with buyer protections. Be cautious when considering tickets sold outside the venue."
+      }
+    }
+  }
+  

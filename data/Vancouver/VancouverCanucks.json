@@ -1,0 +1,56 @@
+{
+    "city": "Vancouver",
+    "sports_teams": [
+        {
+            "team_name": "Vancouver Canucks",
+            "sport": "Ice Hockey",
+            "league": "National Hockey League (NHL)",
+            "average_ticket_price": "Around $100 CAD",
+            "season_start": "October",
+            "playoffs_start": "April",
+            "venue": {
+                "venue_name": "Rogers Arena",
+                "details": "Indoor Sports Arena, also used for concerts and other events",
+                "address": "800 Griffiths Way, Vancouver, BC V6B 6G1, Canada",
+                "geographic_coordinates": {
+                    "latitude": 49.2775,
+                    "longitude": -123.108889
+                }
+            }
+        },
+        {
+            "team_name": "Vancouver Whitecaps FC",
+            "sport": "Soccer",
+            "league": "Major League Soccer (MLS)",
+            "average_ticket_price": "Around $35 CAD",
+            "season_start": "March",
+            "playoffs_start": "October",
+            "venue": {
+                "venue_name": "BC Place",
+                "details": "Multi-use Stadium, also serves as the home for CFL’s BC Lions",
+                "address": "777 Pacific Blvd, Vancouver, BC V6B 4Y8, Canada",
+                "geographic_coordinates": {
+                    "latitude": 49.276667,
+                    "longitude": -123.111944
+                }
+            }
+        },
+        {
+            "team_name": "BC Lions",
+            "sport": "CFL Football",
+            "league": "Canadian Football League (CFL)",
+            "average_ticket_price": "Around $40 CAD",
+            "season_start": "June",
+            "playoffs_start": "November",
+            "venue": {
+                "venue_name": "BC Place",
+                "details": "Multi-use Stadium, also serves as the home for MLS’s Vancouver Whitecaps FC",
+                "address": "777 Pacific Blvd, Vancouver, BC V6B 4Y8, Canada",
+                "geographic_coordinates": {
+                    "latitude": 49.276667,
+                    "longitude": -123.111944
+                }
+            }
+        }
+    ]
+}

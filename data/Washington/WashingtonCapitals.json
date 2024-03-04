@@ -1,0 +1,315 @@
+{
+    "city": "Washington, D.C.",
+  "team": "Capitals",
+  "venue": {
+    "name": "Capital One Arena",
+    "address": "601 F St NW, Washington, D.C., 20004",
+    "website": "https://www.capitalonearena.com/",
+    "average_ticket_price": "$130",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "38.8981",
+      "longitude": "-77.0209"
+    },
+    "best_seats_pricing": {
+      "Rinkside": {
+        "Description": "Seats right next to the rink for an unparalleled game experience.",
+        "Sections": "Rinkside",
+        "Estimated_Pricing_Range": "$1000 - $3500+",
+        "View_Quality": "Direct rink-level view, engaging and immersive experience.",
+        "Unique_Features": "Chance for player interactions, possibility of being seen on TV.",
+        "Accessibility": "Easy access, but limited space for personal mobility devices.",
+        "Special_Perks": "Exclusive access to the Club Red, complimentary dining and beverages."
+      },
+      "Club_Seats": {
+        "Description": "Offering a fantastic view of the game from the sides with added benefits.",
+        "Sections": "Club Sections 101-104 and 111-114",
+        "Estimated_Pricing_Range": "$250 - $900",
+        "View_Quality": "Elevated side views with clear line of sight to the rink.",
+        "Unique_Features": "Wider seats with more leg room, less crowded sections.",
+        "Accessibility": "Dedicated entrance for easier access, nearby elevators.",
+        "Special_Perks": "Access to premium lounges and in-seat wait service."
+      },
+      "Center_Balcony": {
+        "Description": "Great overall view of the game from an elevated position.",
+        "Sections": "Sections 400-403 and 422-425",
+        "Estimated_Pricing_Range": "$100 - $300",
+        "View_Quality": "Panoramic view of the rink, ideal for tactical analysis.",
+        "Unique_Features": "Affordable pricing for a comprehensive view of the action.",
+        "Accessibility": "Accessible seating available, elevators to balcony level.",
+        "Special_Perks": "More budget-friendly option with a full view of the game."
+      },
+      "Loge_Level": {
+        "Description": "Just above rinkside, offering close views without being on the rink.",
+        "Sections": "Mid Ice Sections 200-201 and 227-228; Corners Sections 202-204, 226, 229-231",
+        "Estimated_Pricing_Range": "$150 - $700",
+        "View_Quality": "Close to the action with a slightly elevated perspective.",
+        "Unique_Features": "Proximity to the rink with a more accessible price point.",
+        "Accessibility": "Wheelchair-accessible seating and nearby amenities.",
+        "Special_Perks": "Good balance of price, view, and experience."
+      }
+    },
+      "nearby_amenities": {
+        "restaurants_bars": [
+            {
+              "name": "Clyde`s of Gallery Place",
+              "address": "707 7th St NW, Washington, D.C. 20001",
+              "website": "https://www.clydes.com/gallery-place",
+              "description": "An American bar and restaurant offering a wide range of dishes, known for its vibrant atmosphere and proximity to the arena.",
+              "coordinates": {
+                "latitude": "38.898396",
+                "longitude": "-77.021836"
+              }
+            },
+            {
+              "name": "Matchbox",
+              "address": "713 H St NW, Washington, D.C. 20001",
+              "website": "https://www.matchboxrestaurants.com/",
+              "description": "A popular pizza bistro with a great selection of craft beers and cocktails, located near Capital One Arena.",
+              "coordinates": {
+                "latitude": "38.899529",
+                "longitude": "-77.022046"
+              }
+            },
+            {
+              "name": "The Smith",
+              "address": "901 F St NW, Washington, D.C. 20004",
+              "website": "https://thesmithrestaurant.com/location/washington-dc/",
+              "description": "A bustling brasserie serving an eclectic American menu, known for its lively bar scene and brunch.",
+              "coordinates": {
+                "latitude": "38.897718",
+                "longitude": "-77.023069"
+              }
+            },
+            {
+              "name": "Daikaya",
+              "address": "705 6th St NW, Washington, D.C. 20001",
+              "website": "http://www.daikaya.com/",
+              "description": "A two-level establishment offering a ramen shop on the first floor and a Japanese izakaya upstairs, close to Capital One Arena.",
+              "coordinates": {
+                "latitude": "38.898274",
+                "longitude": "-77.019939"
+              }
+            },
+            {
+              "name": "China Chilcano",
+              "address": "418 7th St NW, Washington, D.C. 20004",
+              "website": "https://chinachilcano.com/",
+              "description": "A José Andrés restaurant blending the culinary traditions of Peru with Chinese and Japanese influences, situated near the arena.",
+              "coordinates": {
+                "latitude": "38.895112",
+                "longitude": "-77.021783"
+              }
+            },
+            {
+              "name": "Rasika",
+              "address": "633 D St NW, Washington, D.C. 20004",
+              "website": "https://www.rasikarestaurant.com/",
+              "description": "An upscale Indian restaurant known for its modern twist on traditional dishes, offering a unique dining experience near the Wizards' venue.",
+              "coordinates": {
+                "latitude": "38.895499",
+                "longitude": "-77.019880"
+              }
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "Kimpton Hotel Monaco Washington DC",
+              "address": "700 F St NW, Washington, D.C. 20004",
+              "website": "https://www.monaco-dc.com/",
+              "description": "A stylish hotel set in a historic building, offering chic rooms and upscale amenities, just steps away from the arena.",
+              "coordinates": {
+                "latitude": "38.897705",
+                "longitude": "-77.022499"
+              }
+            },
+            {
+              "name": "Courtyard by Marriott Washington Downtown/Convention Center",
+              "address": "901 L St NW, Washington, D.C. 20001",
+              "website": "https://www.marriott.com/hotels/travel/wascy-courtyard-washington-downtown-convention-center/",
+              "description": "Modern hotel with comfortable rooms and a range of facilities, conveniently located for sports fans and visitors to the city.",
+              "coordinates": {
+                "latitude": "38.903209",
+                "longitude": "-77.023383"
+              }
+            },
+            {
+              "name": "Grand Hyatt Washington",
+              "address": "1000 H St NW, Washington, D.C. 20001",
+              "website": "https://www.hyatt.com/en-US/hotel/washington-dc/grand-hyatt-washington/wasgh",
+              "description": "A grand hotel offering spacious rooms and direct access to the metro, ideal for visitors seeking convenience and luxury.",
+              "coordinates": {
+                "latitude": "38.898621",
+                "longitude": "-77.026488"
+              }
+            },
+            {
+              "name": "Renaissance Washington, DC Downtown Hotel",
+              "address": "999 9th St NW, Washington, D.C. 20001",
+              "website": "https://www.marriott.com/hotels/travel/wasrb-renaissance-washington-dc-downtown-hotel/",
+              "description": "Sophisticated accommodations with fine dining options, located close to Capital One Arena and Washington's attractions.",
+              "coordinates": {
+                "latitude": "38.902526",
+                "longitude": "-77.023474"
+              }
+            },
+            {
+              "name": "Conrad Washington, DC",
+              "address": "950 New York Ave NW, Washington, D.C. 20001",
+              "website": "https://www.hilton.com/en/hotels/wascaqq-conrad-washington-dc/",
+              "description": "A luxury hotel with stunning city views, featuring contemporary design and exceptional service.",
+              "coordinates": {
+                "latitude": "38.900859",
+                "longitude": "-77.023958"
+              }
+            },
+            {
+              "name": "The Henley Park Hotel",
+              "address": "926 Massachusetts Ave NW, Washington, D.C. 20001",
+              "website": "https://www.henleypark.com/",
+              "description": "A historic and charming hotel, offering elegant rooms with a touch of old-world glamour, close to the downtown area.",
+              "coordinates": {
+                "latitude": "38.902950",
+                "longitude": "-77.022768"
+              }
+            }
+          ],
+          "tourist_attractions": [
+            {
+              "name": "National Mall",
+              "address": "Washington, D.C. 20565",
+              "description": "Iconic stretch of land home to the Lincoln Memorial, Washington Monument, and numerous other memorials and museums.",
+              "coordinates": {
+                "latitude": "38.889620",
+                "longitude": "-77.022977"
+              }
+            },
+            {
+              "name": "Smithsonian National Museum of Natural History",
+              "address": "10th St. & Constitution Ave. NW, Washington, D.C. 20560",
+              "website": "https://naturalhistory.si.edu/",
+              "description": "One of the world's most visited museums, offering a vast array of exhibits on the natural world and human cultures.",
+              "coordinates": {
+                "latitude": "38.891266",
+                "longitude": "-77.026065"
+              }
+            },
+            {
+              "name": "United States Capitol",
+              "address": "First St SE, Washington, D.C. 20004",
+              "website": "https://www.visitthecapitol.gov/",
+              "description": "The home of the United States Congress and the seat of the legislative branch of the U.S. federal government.",
+              "coordinates": {
+                "latitude": "38.889939",
+                "longitude": "-77.009050"
+              }
+            },
+            {
+              "name": "Smithsonian National Air and Space Museum",
+              "address": "600 Independence Ave SW, Washington, D.C. 20560",
+              "website": "https://airandspace.si.edu/",
+              "description": "Showcases the largest collection of historic aircraft and spacecraft in the world.",
+              "coordinates": {
+                "latitude": "38.888160",
+                "longitude": "-77.019867"
+              }
+            },
+            {
+              "name": "National Gallery of Art",
+              "address": "Constitution Ave NW, Washington, D.C. 20565",
+              "website": "https://www.nga.gov/",
+              "description": "A national art museum featuring American and European art, from the Middle Ages to the present.",
+              "coordinates": {
+                "latitude": "38.891298",
+                "longitude": "-77.019965"
+              }
+            },
+            {
+              "name": "International Spy Museum",
+              "address": "700 L'Enfant Plaza SW, Washington, D.C. 20024",
+              "website": "https://www.spymuseum.org/",
+              "description": "Dedicated to the tradecraft, history, and contemporary role of espionage, featuring the largest collection of international espionage artifacts.",
+              "coordinates": {
+                "latitude": "38.883124",
+                "longitude": "-77.021964"
+              }
+            }
+          ],
+        "team_related_activities": [
+            {
+              "name": "Capital One Arena Tours",
+              "address": "601 F St NW, Washington, D.C., 20004",
+              "website": "https://www.capitalonearena.com/",
+              "description": "Participate in the guided tours of Capital One Arena and experience the home of the Washington Capitals. Discover behind-the-scenes areas and learn about the rich history of the team and venue.",
+              "coordinates": {
+                "latitude": "38.8981",
+                "longitude": "-77.0209"
+              }
+            },
+            {
+              "name": "Gallery Place",
+              "address": "701 7th St NW, Washington, D.C., 20001",
+              "website": "https://www.galleryplace.com",
+              "description": "Just steps from Capital One Arena, Gallery Place is a vibrant shopping, dining, and entertainment complex in the heart of Washington, D.C., offering an array of options to enhance your game day or event experience.",
+              "coordinates": {
+                "latitude": "38.8980",
+                "longitude": "-77.0219"
+              }
+            },
+            {
+              "name": "The Wharf Ice Rink",
+              "address": "960 Wharf Street SW, Washington, D.C., 20024",
+              "website": "https://www.wharfdc.com/ice-rink/",
+              "description": "Seasonal outdoor ice skating with breathtaking views of the Potomac River at The Wharf, offering a unique ice experience just a short distance from Capital One Arena. Perfect for families and fans looking to enjoy ice skating in the capital.",
+              "coordinates": {
+                "latitude": "38.8780",
+                "longitude": "-77.0269"
+              }
+            }
+          ]
+      },
+      "public_transportation": {
+        "options": [
+            {
+              "type": "Metro",
+              "description": "The Gallery Place-Chinatown station on the Red, Green, and Yellow lines provides easy access to Capital One Arena."
+            },
+            {
+              "type": "Bus",
+              "description": "Multiple DC Metrobus routes stop near Capital One Arena, offering convenient transportation options."
+            },
+            {
+              "type": "Bike Share",
+              "description": "Capital Bikeshare stations are located throughout the city, with several convenient locations near Capital One Arena."
+            },
+            {
+              "type": "Rideshare",
+              "description": "Uber, Lyft, and other rideshare services offer an easy way to get to and from the game without the hassle of parking."
+            }
+          ]
+      },
+      "ticket_purchasing_tips": {
+        "best_places_to_buy": [
+            {
+              "name": "Official Washington Capitals Website",
+              "website": "https://www.nhl.com/capitals/tickets",
+              "description": "The primary source for all Capitals ticket sales, offering guaranteed authenticity and the best selection of seats."
+            },
+            {
+              "name": "Ticketmaster",
+              "website": "https://www.ticketmaster.com/washington-capitals-tickets/artist/806039",
+              "description": "Authorized ticketing partner for events at Capital One Arena, providing a secure platform for purchasing official tickets."
+            },
+            {
+              "name": "StubHub",
+              "website": "https://www.stubhub.com/washington-capitals-tickets/performer/125/",
+              "description": "A reliable secondary marketplace for Capitals tickets, offering a fanProtect guarantee."
+            }
+          ],
+        "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+        "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+      }
+    }
+  }
+  

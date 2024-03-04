@@ -1,0 +1,283 @@
+{
+  "city": "Newark",
+  "team": "Devils",
+  "venue": {
+    "name": "Prudential Center",
+    "address": "25 Lafayette St, Newark, NJ 07102",
+    "website": "https://www.prucenter.com",
+    "average_ticket_price": "$120",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "40.7335",
+      "longitude": "-74.1711"
+    },
+    "best_seats_pricing": {
+      "Rinkside": {
+        "Description": "Seats right next to the action for an unparalleled game experience.",
+        "Sections": "Rinkside",
+        "Estimated_Pricing_Range": "$900 - $3500+",
+        "View_Quality": "Direct ice-level view, engaging and immersive experience.",
+        "Unique_Features": "Chance for player interactions, possibility of being seen on TV.",
+        "Accessibility": "Easy access, but limited space for personal mobility devices.",
+        "Special_Perks": "Exclusive access to the Platinum Lounge, complimentary dining and beverages."
+      },
+      "Club_Seats": {
+        "Description": "Offering a fantastic view of the game from the sides with added benefits.",
+        "Sections": "Club Sections 8-18",
+        "Estimated_Pricing_Range": "$300 - $900",
+        "View_Quality": "Elevated side views with clear line of sight to the ice.",
+        "Unique_Features": "Wider seats with more leg room, less crowded sections.",
+        "Accessibility": "Dedicated entrance for easier access, nearby elevators.",
+        "Special_Perks": "Access to exclusive lounges and in-seat wait service."
+      },
+      "Center_Balcony": {
+        "Description": "Great overall view of the game from an elevated position.",
+        "Sections": "Sections 100-107 and 117-124",
+        "Estimated_Pricing_Range": "$100 - $300",
+        "View_Quality": "Panoramic view of the ice, ideal for tactical analysis.",
+        "Unique_Features": "Affordable pricing for a comprehensive view of the action.",
+        "Accessibility": "Accessible seating available, elevators to balcony level.",
+        "Special_Perks": "More budget-friendly option with a full view of the game."
+      },
+      "Loge_Level": {
+        "Description": "Just above rink level, offering close views without being on the ice.",
+        "Sections": "Loge Sections 1-22",
+        "Estimated_Pricing_Range": "$200 - $700",
+        "View_Quality": "Close to the action with a slightly elevated perspective.",
+        "Unique_Features": "Proximity to the ice with a more accessible price point.",
+        "Accessibility": "Wheelchair-accessible seating and nearby amenities.",
+        "Special_Perks": "Good balance of price, view, and experience."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Dinosaur Bar-B-Que",
+          "address": "224 Market Street, Newark, NJ 07102",
+          "website": "https://www.dinosaurbarbque.com/newark",
+          "description": "A lively biker-themed barbecue joint known for its ribs and brisket, offering a hearty meal before New Jersey Devils games.",
+          "coordinates": {
+            "latitude": "40.731970",
+            "longitude": "-74.174210"
+          }
+        },
+        {
+          "name": "Edison Ale House",
+          "address": "51 Edison Place, Newark, NJ 07102",
+          "website": "http://www.edisonalehouse.com/",
+          "description": "Located just steps from Prudential Center, this pub offers a wide selection of beers and classic American pub fare in a relaxed setting.",
+          "coordinates": {
+            "latitude": "40.733600",
+            "longitude": "-74.170280"
+          }
+        },
+        {
+          "name": "Mercato Tomato Pie",
+          "address": "212 Market Street, Newark, NJ 07102",
+          "description": "Serving up classic Newark-style pizza in a casual atmosphere, perfect for a quick bite before heading to the game.",
+          "coordinates": {
+            "latitude": "40.731890",
+            "longitude": "-74.174480"
+          }
+        },
+        {
+          "name": "Hobby's Delicatessen & Restaurant",
+          "address": "32 Branford Place, Newark, NJ 07102",
+          "website": "https://www.hobbysdeli.com/",
+          "description": "An old-school deli offering oversized sandwiches and traditional Jewish fare, a favorite among local and visiting fans alike.",
+          "coordinates": {
+            "latitude": "40.732030",
+            "longitude": "-74.173840"
+          }
+        },
+        {
+          "name": "The Ainsworth Newark",
+          "address": "810 Broad Street, Newark, NJ 07102",
+          "website": "https://www.theainsworth.com/newark",
+          "description": "A upscale sports bar with a comprehensive menu of upscale American cuisine, cocktails, and a lively atmosphere for game nights.",
+          "coordinates": {
+            "latitude": "40.734810",
+            "longitude": "-74.167650"
+          }
+        },
+        {
+          "name": "Hell's Kitchen Lounge",
+          "address": "150 Lafayette Street, Newark, NJ 07105",
+          "website": "http://www.hellskitchenlounge.com",
+          "description": "This kitschy, devil-themed bar offers creative cocktails, pub grub, and a vibrant atmosphere, making it a fun spot for pre or post-game festivities.",
+          "coordinates": {
+            "latitude": "40.724290",
+            "longitude": "-74.172610"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Hotel Indigo Newark Downtown",
+          "address": "810 Broad St, Newark, NJ 07102",
+          "website": "https://www.ihg.com/hotelindigo/hotels/us/en/newark/ewrbs/hoteldetail",
+          "description": "Chic hotel in a historic building offering modern rooms, a rooftop bar, and proximity to Prudential Center.",
+          "coordinates": {
+            "latitude": "40.734497",
+            "longitude": "-74.170295"
+          }
+        },
+        {
+          "name": "Courtyard by Marriott Newark Downtown",
+          "address": "858 Broad St, Newark, NJ 07102",
+          "website": "https://www.marriott.com/hotels/travel/ewrdt-courtyard-newark-downtown/",
+          "description": "Contemporary hotel with comfortable rooms, a fitness center, and easy access to New Jersey Devils games.",
+          "coordinates": {
+            "latitude": "40.734722",
+            "longitude": "-74.171389"
+          }
+        },
+        {
+          "name": "DoubleTree by Hilton Hotel Newark Airport",
+          "address": "128 Frontage Rd, Newark, NJ 07114",
+          "website": "https://www.hilton.com/en/hotels/ewrnedt-doubletree-newark-airport/",
+          "description": "Convenient hotel with a shuttle service to Newark Airport, offering dining options and an indoor pool, a short drive from Prudential Center.",
+          "coordinates": {
+            "latitude": "40.691513",
+            "longitude": "-74.184711"
+          }
+        },
+        {
+          "name": "Robert Treat Hotel, BW Premier Collection",
+          "address": "50 Park Pl, Newark, NJ 07102",
+          "website": "https://www.bestwestern.com/en_US/book/hotel-rooms.31029.html",
+          "description": "Historic hotel with elegant accommodations, dining options, and event spaces, located close to Prudential Center.",
+          "coordinates": {
+            "latitude": "40.740778",
+            "longitude": "-74.168667"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "Newark Museum of Art",
+          "address": "49 Washington St, Newark, NJ 07102",
+          "website": "https://www.newarkmuseumart.org/",
+          "description": "New Jersey's largest museum offering diverse collections of art and natural science exhibits, a must-visit for cultural enthusiasts.",
+          "coordinates": {
+            "latitude": "40.7433",
+            "longitude": "-74.1715"
+          }
+        },
+        {
+          "name": "Branch Brook Park",
+          "address": "Park Avenue, Newark, NJ 07104",
+          "website": "https://www.essexcountyparks.org/parks/branch-brook-park",
+          "description": "Famous for its magnificent cherry blossom trees, this park offers scenic views, walking paths, and recreational activities.",
+          "coordinates": {
+            "latitude": "40.7590",
+            "longitude": "-74.1879"
+          }
+        },
+        {
+          "name": "Liberty State Park",
+          "address": "200 Morris Pesin Dr, Jersey City, NJ 07305",
+          "website": "https://www.state.nj.us/dep/parksandforests/parks/libertystatepark.html",
+          "description": "Offering stunning views of the Statue of Liberty and Manhattan skyline, this park is ideal for picnics, strolling, and ferry rides to Ellis Island and the Statue of Liberty.",
+          "coordinates": {
+            "latitude": "40.7099",
+            "longitude": "-74.0475"
+          }
+        },
+        {
+          "name": "Prudential Center",
+          "address": "25 Lafayette St, Newark, NJ 07102",
+          "website": "https://www.prucenter.com/",
+          "description": "Home of the New Jersey Devils, this arena hosts many sporting events, concerts, and special events throughout the year.",
+          "coordinates": {
+            "latitude": "40.7335",
+            "longitude": "-74.1711"
+          }
+        },
+        {
+          "name": "Thomas Edison National Historical Park",
+          "address": "211 Main St, West Orange, NJ 07052",
+          "website": "https://www.nps.gov/edis/index.htm",
+          "description": "Explore the home and laboratory of America's greatest inventor, Thomas Edison, and see where he developed many of his significant inventions.",
+          "coordinates": {
+            "latitude": "40.7850",
+            "longitude": "-74.2380"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Prudential Center Tours",
+          "address": "25 Lafayette St, Newark, NJ 07102",
+          "website": "https://www.prucenter.com/",
+          "description": "Experience the Prudential Center, home of the New Jersey Devils. Join guided tours to explore behind-the-scenes areas and learn about the team's history.",
+          "coordinates": {
+            "latitude": "40.7335",
+            "longitude": "-74.1711"
+          }
+        },
+        {
+          "name": "Red Bull Arena",
+          "address": "600 Cape May St, Harrison, NJ 07029",
+          "website": "https://www.newyorkredbulls.com/redbullarena/",
+          "description": "While primarily the home of the New York Red Bulls, it's a nearby sports venue offering additional sporting events that might interest visitors.",
+          "coordinates": {
+            "latitude": "40.7368",
+            "longitude": "-74.1502"
+          }
+        },
+        {
+          "name": "Jersey Gardens",
+          "address": "651 Kapkowski Rd, Elizabeth, NJ 07201",
+          "website": "https://www.simon.com/mall/the-mills-at-jersey-gardens",
+          "description": "New Jersey's largest outlet mall offers a shopping experience with over 200 stores, making it a perfect stop for visitors.",
+          "coordinates": {
+            "latitude": "40.6602",
+            "longitude": "-74.1726"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "NJ Transit",
+          "description": "NJ Transit provides direct access to Newark Penn Station, located a short walk from the Prudential Center, with comprehensive service from across New Jersey.",
+          "map_link": "https://www.njtransit.com/schedules"
+        },
+        {
+          "type": "PATH",
+          "description": "The PATH train offers a convenient route to Newark Penn Station from various parts of New York City, including a direct line from the World Trade Center site.",
+          "map_link": "http://www.panynj.gov/path/maps.html"
+        },
+        {
+          "type": "Light Rail",
+          "description": "The Newark Light Rail connects Newark Penn Station to the Prudential Center, offering easy access with stops right in front of the arena.",
+          "map_link": "https://www.njtransit.com/light-rail"
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official New Jersey Devils Website",
+          "website": "https://www.nhl.com/devils/tickets",
+          "description": "The primary source for all Devils ticket sales, offering guaranteed authenticity and the best selection of seats."
+        },
+        {
+          "name": "Ticketmaster",
+          "website": "https://www.ticketmaster.com/new-jersey-devils-tickets/artist/805985",
+          "description": "Authorized ticketing partner for events at Prudential Center, providing a secure platform for purchasing official tickets."
+        },
+        {
+          "name": "StubHub",
+          "website": "https://www.stubhub.com/new-jersey-devils-tickets/performer/124/",
+          "description": "A reliable secondary marketplace for Devils tickets, offering a fanProtect guarantee."
+        }
+      ],
+      "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+      "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+    }
+  }
+}

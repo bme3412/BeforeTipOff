@@ -1,0 +1,330 @@
+{
+    "city": "Columbus",
+  "team": "Blue Jackets",
+  "venue": {
+    "name": "Nationwide Arena",
+    "address": "200 W Nationwide Blvd, Columbus, OH 43215, USA",
+    "website": "https://www.nationwidearena.com/",
+    "average_ticket_price": "$95",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "39.9693",
+      "longitude": "-83.0061"
+    },
+    "best_seats_pricing": {
+      "Glass Seats": {
+        "Description": "Seats right next to the glass for an unparalleled game experience, offering direct views of the ice.",
+        "Sections": "Glass Seats",
+        "Estimated_Pricing_Range": "$250 - $1000+",
+        "View_Quality": "Direct ice-level view, engaging and immersive experience.",
+        "Unique_Features": "Chance for player interactions, high likelihood of being featured on TV.",
+        "Accessibility": "Easy access with VIP amenities, though limited space for personal mobility devices.",
+        "Special_Perks": "Exclusive access to clubs with complimentary dining and beverages."
+      },
+      "Club Seats": {
+        "Description": "Elevated side views offering a fantastic perspective of the game with additional benefits.",
+        "Sections": "Club Level",
+        "Estimated_Pricing_Range": "$150 - $500",
+        "View_Quality": "Clear line of sight to the ice from an elevated position.",
+        "Unique_Features": "Comfortable seating with more leg room, access to exclusive areas.",
+        "Accessibility": "Easy access via dedicated entrances, close to elevators for convenience.",
+        "Special_Perks": "In-seat wait service and access to premium dining options."
+      },
+      "Upper Bowl": {
+        "Description": "Affordable seating options with panoramic views of the ice, perfect for fans who enjoy a broad view of the game.",
+        "Sections": "Upper Bowl",
+        "Estimated_Pricing_Range": "$50 - $150",
+        "View_Quality": "High-angle views that encompass all the action on the ice.",
+        "Unique_Features": "A budget-friendly way to experience the excitement of a live game.",
+        "Accessibility": "Accessible seating available with amenities nearby.",
+        "Special_Perks": "An economical choice for fans to enjoy the thrill of Blue Jackets hockey."
+      },
+      "Luxury Suites": {
+        "Description": "Private suites offering the best views and exclusive amenities for a premium game day experience.",
+        "Sections": "Suites",
+        "Estimated_Pricing_Range": "$2000 - $5000+ per event",
+        "View_Quality": "Private and elevated viewing with exceptional sightlines to the ice.",
+        "Unique_Features": "Dedicated service, luxury seating, and the option for custom catering.",
+        "Accessibility": "VIP access with superior comfort and convenience.",
+        "Special_Perks": "Ideal for entertaining clients or enjoying a game in ultimate comfort, with access to exclusive club areas."
+      }
+    },
+      "nearby_amenities": {
+        "restaurants_bars":  [
+            {
+              "name": "Nationwide Arena District",
+              "address": "200 W Nationwide Blvd, Columbus, OH 43215",
+              "website": "https://www.nationwidearena.com/",
+              "description": "Surrounding the Nationwide Arena, this district offers an array of dining and entertainment options, making it a vibrant spot for fans before and after the game.",
+              "coordinates": {
+                "latitude": "39.9693",
+                "longitude": "-83.0061"
+              }
+            },
+            {
+              "name": "R Bar Arena",
+              "address": "413 N Front St, Columbus, OH 43215",
+              "website": "http://www.rbararena.com/",
+              "description": "Known as the premier hockey bar in Columbus, R Bar Arena offers an extensive beer selection and hockey-themed decor, located in the heart of the Arena District.",
+              "coordinates": {
+                "latitude": "39.9714",
+                "longitude": "-83.0030"
+              }
+            },
+            {
+              "name": "Ted's Montana Grill",
+              "address": "191 W Nationwide Blvd, Columbus, OH 43215",
+              "website": "https://www.tedsmontanagrill.com/",
+              "description": "A restaurant offering classic American dishes with an emphasis on bison, located near Nationwide Arena for a convenient dining experience.",
+              "coordinates": {
+                "latitude": "39.9699",
+                "longitude": "-83.0065"
+              }
+            },
+            {
+              "name": "Gordon Biersch Brewery Restaurant",
+              "address": "401 N Front St, Columbus, OH 43215",
+              "website": "https://gordonbiersch.com/locations/columbus/",
+              "description": "Features freshly brewed beers and a diverse menu in a spacious setting, ideal for gatherings and pre-game or post-game dining.",
+              "coordinates": {
+                "latitude": "39.9712",
+                "longitude": "-83.0037"
+              }
+            },
+            {
+              "name": "Buca di Beppo",
+              "address": "343 N Front St, Columbus, OH 43215",
+              "website": "https://locations.bucadibeppo.com/us/oh/columbus/343-n-front-st",
+              "description": "Family-style Italian dishes served in an eclectic, vintage setting, perfect for team celebrations or family gatherings before heading to the game.",
+              "coordinates": {
+                "latitude": "39.9719",
+                "longitude": "-83.0032"
+              }
+            },
+            {
+              "name": "Hofbräuhaus Columbus",
+              "address": "800 Goodale Blvd, Columbus, OH 43212",
+              "website": "https://hofbrauhauscolumbus.com/",
+              "description": "A German beer hall offering a range of beers brewed on-site and traditional Bavarian dishes, a short distance from Nationwide Arena.",
+              "coordinates": {
+                "latitude": "39.9716",
+                "longitude": "-83.0029"
+              }
+            }
+          ],
+        "accommodations": [
+            {
+              "name": "Hilton Columbus Downtown",
+              "address": "401 N High St, Columbus, OH 43215, USA",
+              "website": "https://www.hilton.com/en/hotels/cmhcodt-hilton-columbus-downtown/",
+              "description": "A modern hotel offering stylish rooms and suites, a large fitness center, and an indoor pool, located near Nationwide Arena and the heart of Columbus.",
+              "coordinates": {
+                "latitude": "39.9716",
+                "longitude": "-83.0034"
+              }
+            },
+            {
+              "name": "Hyatt Regency Columbus",
+              "address": "350 N High St, Columbus, OH 43215, USA",
+              "website": "https://www.hyatt.com/en-US/hotel/ohio/hyatt-regency-columbus/cmhrc",
+              "description": "Contemporary hotel with spacious rooms, a fitness center, and on-site dining, conveniently situated in the Arena District close to Nationwide Arena.",
+              "coordinates": {
+                "latitude": "39.9703",
+                "longitude": "-83.0029"
+              }
+            },
+            {
+              "name": "Crowne Plaza Columbus Downtown",
+              "address": "33 E Nationwide Blvd, Columbus, OH 43215, USA",
+              "website": "https://www.ihg.com/crowneplaza/hotels/us/en/columbus/cmhoc/hoteldetail",
+              "description": "An upscale hotel offering modern accommodations, an outdoor pool, and fine dining, within walking distance of Nationwide Arena.",
+              "coordinates": {
+                "latitude": "39.9698",
+                "longitude": "-83.0026"
+              }
+            },
+            {
+              "name": "Le Méridien Columbus, The Joseph",
+              "address": "620 N High St, Columbus, OH 43215, USA",
+              "website": "https://www.marriott.com/hotels/travel/cmhlc-le-meridien-columbus-the-joseph/",
+              "description": "A luxury boutique hotel featuring chic rooms, a spa, and a rooftop lounge, located in the Short North Arts District, close to Nationwide Arena.",
+              "coordinates": {
+                "latitude": "39.9759",
+                "longitude": "-83.0039"
+              }
+            },
+            {
+              "name": "The Westin Great Southern Columbus",
+              "address": "310 S High St, Columbus, OH 43215, USA",
+              "website": "https://www.marriott.com/hotels/travel/cmhwi-the-westin-great-southern-columbus/",
+              "description": "A historic hotel offering refined accommodations, a fitness center, and dining options, located a short drive from Nationwide Arena.",
+              "coordinates": {
+                "latitude": "39.9552",
+                "longitude": "-82.9988"
+              }
+            }
+          ],
+        "tourist_attractions": [
+            {
+              "name": "Columbus Zoo and Aquarium",
+              "address": "4850 Powell Rd, Powell, OH 43065, USA",
+              "website": "https://www.columbuszoo.org",
+              "description": "A renowned zoo featuring a wide variety of animals from around the world, interactive exhibits, and conservation programs.",
+              "coordinates": {
+                "latitude": "40.1568",
+                "longitude": "-83.1183"
+              }
+            },
+            {
+              "name": "Franklin Park Conservatory and Botanical Gardens",
+              "address": "1777 E Broad St, Columbus, OH 43203, USA",
+              "website": "https://www.fpconservatory.org",
+              "description": "Offers beautiful plant collections, art installations, and exhibitions in a historic setting, providing a peaceful escape in the city.",
+              "coordinates": {
+                "latitude": "39.9653",
+                "longitude": "-82.9536"
+              }
+            },
+            {
+              "name": "COSI (Center of Science and Industry)",
+              "address": "333 W Broad St, Columbus, OH 43215, USA",
+              "website": "https://www.cosi.org",
+              "description": "An interactive science museum featuring dynamic hands-on exhibits, live shows, and large-format films, making science fun and accessible.",
+              "coordinates": {
+                "latitude": "39.9577",
+                "longitude": "-83.0074"
+              }
+            },
+            {
+              "name": "German Village",
+              "address": "Columbus, OH 43215, USA",
+              "website": "Not specified",
+              "description": "A historic neighborhood known for its charming brick houses, cobblestone streets, and a variety of shops, cafes, and restaurants.",
+              "coordinates": {
+                "latitude": "39.9461",
+                "longitude": "-82.9915"
+              }
+            },
+            {
+              "name": "Short North Arts District",
+              "address": "North High Street, Columbus, OH 43215, USA",
+              "website": "https://shortnorth.org",
+              "description": "A vibrant area known for its art galleries, boutiques, restaurants, and nightlife, hosting the monthly Gallery Hop.",
+              "coordinates": {
+                "latitude": "39.9771",
+                "longitude": "-83.0039"
+              }
+            },
+            {
+              "name": "North Market",
+              "address": "59 Spruce St, Columbus, OH 43215, USA",
+              "website": "https://www.northmarket.com",
+              "description": "A bustling market offering a variety of local food, produce, and goods, reflecting the diverse culinary scene of Columbus.",
+              "coordinates": {
+                "latitude": "39.9713",
+                "longitude": "-83.0037"
+              }
+            },
+            {
+              "name": "Scioto Mile",
+              "address": "Columbus, OH 43215, USA",
+              "website": "https://www.sciotomile.com",
+              "description": "A scenic urban oasis along the Scioto River, featuring parks, trails, and a dynamic fountain, perfect for outdoor activities.",
+              "coordinates": {
+                "latitude": "39.9614",
+                "longitude": "-83.0007"
+              }
+            },
+            {
+              "name": "Ohio Statehouse",
+              "address": "1 Capitol Square, Columbus, OH 43215, USA",
+              "website": "https://www.ohiostatehouse.org",
+              "description": "The historic capitol building of Ohio, offering tours that explore its architecture and the state's legislative history.",
+              "coordinates": {
+                "latitude": "39.9612",
+                "longitude": "-82.9988"
+              }
+            },
+            {
+              "name": "Topiary Park",
+              "address": "480 E Town St, Columbus, OH 43215, USA",
+              "website": "https://www.topiarypark.org",
+              "description": "A unique park featuring topiary sculptures depicting Georges Seurat's famous painting 'A Sunday Afternoon on the Island of La Grande Jatte'.",
+              "coordinates": {
+                "latitude": "39.9611",
+                "longitude": "-82.9871"
+              }
+            }
+        ],
+        "team_related_activities": [
+            {
+              "name": "Nationwide Arena Tours",
+              "address": "200 W Nationwide Blvd, Columbus, OH 43215",
+              "website": "https://www.nationwidearena.com",
+              "description": "Discover Nationwide Arena with guided tours that highlight the cutting-edge facilities, including the Blue Jackets Hall of Fame, featuring memorabilia from the Blue Jackets' history.",
+              "coordinates": {
+                "latitude": "39.9693",
+                "longitude": "-83.0061"
+              }
+            },
+            {
+              "name": "Arena District Art",
+              "address": "200 W Nationwide Blvd, Columbus, OH 43215",
+              "website": "https://www.nationwidearena.com",
+              "description": "Experience the cultural aspect of Nationwide Arena in the Arena District, showcasing a variety of public art pieces, including sculptures and murals celebrating Columbus's history and culture.",
+              "coordinates": {
+                "latitude": "39.9693",
+                "longitude": "-83.0061"
+              }
+            },
+            {
+              "name": "Arena District",
+              "address": "200 W Nationwide Blvd, Columbus, OH 43215",
+              "website": "https://www.arenadistrict.com",
+              "description": "Nationwide Arena is at the heart of the bustling Arena District, offering dining, entertainment, and shopping options, including bars, restaurants, and live music venues.",
+              "coordinates": {
+                "latitude": "39.9693",
+                "longitude": "-83.0061"
+              }
+            }
+          ]
+      },
+      "public_transportation": {
+        "options": [
+            {
+              "type": "CBUS",
+              "description": "The CBUS circulator provides easy access to Nationwide Arena, with stops conveniently located throughout the downtown area.",
+              "map_link": "https://www.cota.com/cbus/"
+            },
+            {
+              "type": "Bus",
+              "description": "Columbus's extensive COTA bus network serves Nationwide Arena, ensuring straightforward access from various parts of the city.",
+              "map_link": "https://www.cota.com/maps/"
+            }
+          ]
+      },
+      "ticket_purchasing_tips": {
+        "best_places_to_buy":[
+            {
+              "name": "Official Columbus Blue Jackets Website",
+              "website": "https://www.nhl.com/bluejackets/tickets",
+              "description": "The primary source for all Blue Jackets ticket sales, offering guaranteed authenticity and the best selection of seats."
+            },
+            {
+              "name": "Ticketmaster",
+              "website": "https://www.ticketmaster.com/columbus-blue-jackets-tickets/artist/805928",
+              "description": "Authorized ticketing partner for the Columbus Blue Jackets, providing a secure platform for purchasing official tickets."
+            },
+            {
+              "name": "StubHub",
+              "website": "https://www.stubhub.com/columbus-blue-jackets-tickets/performer/124/",
+              "description": "A reliable secondary marketplace for Blue Jackets tickets, offering a fanProtect guarantee."
+            }
+          ],
+        "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+        "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+      }
+    }
+  }
+  

@@ -1,0 +1,329 @@
+{
+  "city": "Philadelphia",
+  "team": "Flyers",
+  "venue": {
+    "name": "Wells Fargo Center",
+    "address": "3601 S Broad St, Philadelphia, PA 19148",
+    "website": "https://www.wellsfargocenterphilly.com",
+    "average_ticket_price": "$120",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "39.9012",
+      "longitude": "-75.1719"
+    },
+    "best_seats_pricing": {
+      "Rinkside": {
+        "Description": "Seats right next to the action for an unparalleled game experience.",
+        "Sections": "Rinkside",
+        "Estimated_Pricing_Range": "$800 - $3500+",
+        "View_Quality": "Direct ice-level view, engaging and immersive experience.",
+        "Unique_Features": "Chance for player interactions, possibility of being seen on TV.",
+        "Accessibility": "Easy access, but limited space for personal mobility devices.",
+        "Special_Perks": "Exclusive access to premium lounges, complimentary dining and beverages."
+      },
+      "Club_Seats": {
+        "Description": "Offering a fantastic view of the game from the sides with added benefits.",
+        "Sections": "Club Sections 101-102 and 124-125",
+        "Estimated_Pricing_Range": "$300 - $900",
+        "View_Quality": "Elevated side views with clear line of sight to the ice.",
+        "Unique_Features": "Wider seats with more leg room, less crowded sections.",
+        "Accessibility": "Dedicated entrance for easier access, nearby elevators.",
+        "Special_Perks": "Access to exclusive clubs and in-seat wait service."
+      },
+      "Center_Balcony": {
+        "Description": "Great overall view of the game from an elevated position.",
+        "Sections": "Sections 201-202 and 222-223",
+        "Estimated_Pricing_Range": "$100 - $300",
+        "View_Quality": "Panoramic view of the ice, ideal for tactical analysis.",
+        "Unique_Features": "Affordable pricing for a comprehensive view of the action.",
+        "Accessibility": "Accessible seating available, elevators to balcony level.",
+        "Special_Perks": "More budget-friendly option with a full view of the game."
+      },
+      "Loge_Level": {
+        "Description": "Just above rink level, offering close views without being on the ice.",
+        "Sections": "Mid Ice Sections 101-102 and 124-125; Corners Sections 103-104, 120-123, and 126-129",
+        "Estimated_Pricing_Range": "$200 - $600",
+        "View_Quality": "Close to the action with a slightly elevated perspective.",
+        "Unique_Features": "Proximity to the ice with a more accessible price point.",
+        "Accessibility": "Wheelchair-accessible seating and nearby amenities.",
+        "Special_Perks": "Good balance of price, view, and experience."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Xfinity Live! Philadelphia",
+          "address": "1100 Pattison Ave, Philadelphia, PA 19148",
+          "website": "http://www.xfinitylive.com/",
+          "description": "A dining and entertainment complex located just steps from Wells Fargo Center, offering a variety of food options and a vibrant atmosphere.",
+          "coordinates": {
+            "latitude": "39.904500",
+            "longitude": "-75.168467"
+          }
+        },
+        {
+          "name": "Chickie's & Pete's",
+          "address": "1526 Packer Ave, Philadelphia, PA 19145",
+          "website": "https://chickiesandpetes.com/",
+          "description": "Famous for their Crabfries, this sports bar is a favorite among fans for pre-game and post-game gatherings.",
+          "coordinates": {
+            "latitude": "39.917000",
+            "longitude": "-75.172000"
+          }
+        },
+        {
+          "name": "Tony Luke's",
+          "address": "39 E Oregon Ave, Philadelphia, PA 19148",
+          "website": "https://www.tonylukes.com/",
+          "description": "A classic Philly cheesesteak spot, known for its authentic sandwiches and local flavor.",
+          "coordinates": {
+            "latitude": "39.914300",
+            "longitude": "-75.149200"
+          }
+        },
+        {
+          "name": "Pats King of Steaks",
+          "address": "1237 E Passyunk Ave, Philadelphia, PA 19147",
+          "website": "http://www.patskingofsteaks.com/",
+          "description": "An iconic Philadelphia cheesesteak joint, offering classic Philly-style sandwiches since 1930.",
+          "coordinates": {
+            "latitude": "39.933896",
+            "longitude": "-75.159250"
+          }
+        },
+        {
+          "name": "Geno's Steaks",
+          "address": "1219 S 9th St, Philadelphia, PA 19147",
+          "website": "https://www.genosteaks.com/",
+          "description": "A legendary spot for cheesesteaks, rivaling Pat's across the street, known for its lively atmosphere and open 24 hours.",
+          "coordinates": {
+            "latitude": "39.933526",
+            "longitude": "-75.158676"
+          }
+        },
+        {
+          "name": "McFadden's Ballpark",
+          "address": "1 Citizens Bank Way, Philadelphia, PA 19148",
+          "website": "http://www.mcfaddensballpark.com/",
+          "description": "Located at the Citizens Bank Park, this lively sports bar is a great spot for 76ers fans to catch pre-game and post-game drinks.",
+          "coordinates": {
+            "latitude": "39.906057",
+            "longitude": "-75.166490"
+          }
+        },
+        {
+          "name": "The Field House",
+          "address": "1150 Filbert St, Philadelphia, PA 19107",
+          "website": "https://www.fieldhousephilly.com/",
+          "description": "A spacious sports bar with a wide selection of beers and pub fare, perfect for watching sports games in a convivial setting.",
+          "coordinates": {
+            "latitude": "39.953400",
+            "longitude": "-75.159800"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Courtyard by Marriott Philadelphia South at The Navy Yard",
+          "address": "1001 Intrepid Ave, Philadelphia, PA 19112",
+          "website": "https://www.marriott.com/hotels/travel/phlng-courtyard-philadelphia-south-at-the-navy-yard/",
+          "description": "Modern hotel with comfortable rooms, conveniently located close to the Wells Fargo Center.",
+          "coordinates": {
+            "latitude": "39.892250",
+            "longitude": "-75.170354"
+          }
+        },
+        {
+          "name": "Holiday Inn Philadelphia-Stadium",
+          "address": "900 Packer Ave, Philadelphia, PA 19148",
+          "website": "https://www.ihg.com/holidayinn/hotels/us/en/philadelphia/phlps/hoteldetail",
+          "description": "Offers easy access to the Wells Fargo Center and features comfortable accommodations for visitors.",
+          "coordinates": {
+            "latitude": "39.904200",
+            "longitude": "-75.166700"
+          }
+        },
+        {
+          "name": "Hilton Philadelphia at Penn's Landing",
+          "address": "201 S Christopher Columbus Blvd, Philadelphia, PA 19106",
+          "website": "https://www.hilton.com/en/hotels/phlpnhh-hilton-philadelphia-at-penns-landing/",
+          "description": "Waterfront hotel offering stunning views of the Delaware River, with easy access to Philadelphia's historic attractions.",
+          "coordinates": {
+            "latitude": "39.944722",
+            "longitude": "-75.142500"
+          }
+        },
+        {
+          "name": "The Rittenhouse Hotel",
+          "address": "210 W Rittenhouse Square, Philadelphia, PA 19103",
+          "website": "https://www.rittenhousehotel.com/",
+          "description": "Luxurious accommodations in the heart of Philadelphia, offering top-notch amenities and service.",
+          "coordinates": {
+            "latitude": "39.949400",
+            "longitude": "-75.170300"
+          }
+        },
+        {
+          "name": "Four Seasons Hotel Philadelphia at Comcast Center",
+          "address": "1 N 19th St, Philadelphia, PA 19103",
+          "website": "https://www.fourseasons.com/philadelphia/",
+          "description": "Situated in the Comcast Center, the city’s tallest tower, this hotel offers luxurious rooms and panoramic views of Philadelphia.",
+          "coordinates": {
+            "latitude": "39.954500",
+            "longitude": "-75.169800"
+          }
+        },
+        {
+          "name": "Aloft Philadelphia Downtown",
+          "address": "101 N Broad St, Philadelphia, PA 19107",
+          "website": "https://www.marriott.com/hotels/travel/phlad-aloft-philadelphia-downtown/",
+          "description": "A hip, modern hotel located in the heart of downtown, providing easy access to local attractions and venues.",
+          "coordinates": {
+            "latitude": "39.952800",
+            "longitude": "-75.162500"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "Liberty Bell",
+          "address": "526 Market St, Philadelphia, PA 19106",
+          "website": "N/A",
+          "description": "Iconic symbol of American independence, located in the historic center of Philadelphia.",
+          "coordinates": {
+            "latitude": "39.949610",
+            "longitude": "-75.150282"
+          }
+        },
+        {
+          "name": "Philadelphia Museum of Art",
+          "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130",
+          "website": "https://www.philamuseum.org/",
+          "description": "Famous for its steps featured in the movie 'Rocky,' this museum boasts a vast collection of art from around the world.",
+          "coordinates": {
+            "latitude": "39.965570",
+            "longitude": "-75.180967"
+          }
+        },
+        {
+          "name": "Reading Terminal Market",
+          "address": "1136 Arch St, Philadelphia, PA 19107",
+          "website": "https://readingterminalmarket.org/",
+          "description": "A historic public market offering a wide variety of local food, fresh produce, and unique eateries.",
+          "coordinates": {
+            "latitude": "39.953340",
+            "longitude": "-75.159050"
+          }
+        },
+        {
+          "name": "Independence Hall",
+          "address": "520 Chestnut St, Philadelphia, PA 19106",
+          "website": "https://www.nps.gov/inde/planyourvisit/independencehall.htm",
+          "description": "The birthplace of the United States, where the Declaration of Independence and Constitution were debated and adopted.",
+          "coordinates": {
+            "latitude": "39.948890",
+            "longitude": "-75.150140"
+          }
+        },
+        {
+          "name": "Eastern State Penitentiary",
+          "address": "2027 Fairmount Ave, Philadelphia, PA 19130",
+          "website": "https://www.easternstate.org/",
+          "description": "A former American prison that is now a museum and historic site, known for its grand architecture and strict discipline.",
+          "coordinates": {
+            "latitude": "39.968330",
+            "longitude": "-75.172660"
+          }
+        },
+        {
+          "name": "Franklin Institute",
+          "address": "222 N 20th St, Philadelphia, PA 19103",
+          "website": "https://www.fi.edu/",
+          "description": "A premier science museum dedicated to the legacy of Benjamin Franklin, offering interactive exhibits and educational programs.",
+          "coordinates": {
+            "latitude": "39.958360",
+            "longitude": "-75.173370"
+          }
+        },
+        {
+          "name": "Philadelphia's Magic Gardens",
+          "address": "1020 South St, Philadelphia, PA 19147",
+          "website": "https://www.phillymagicgardens.org/",
+          "description": "An immersive mixed media art environment that is completely covered with mosaics, created by artist Isaiah Zagar.",
+          "coordinates": {
+            "latitude": "39.942890",
+            "longitude": "-75.159330"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Wells Fargo Center Tours",
+          "address": "3601 S Broad St, Philadelphia, PA 19148",
+          "website": "https://www.wellsfargocenterphilly.com",
+          "description": "Join the guided tours of Wells Fargo Center and experience the home of the Philadelphia Flyers. Explore behind-the-scenes areas and learn about the storied history of the team.",
+          "coordinates": {
+            "latitude": "39.9012",
+            "longitude": "-75.1719"
+          }
+        },
+        {
+          "name": "Xfinity Live!",
+          "address": "1100 Pattison Ave, Philadelphia, PA 19148",
+          "website": "https://www.xfinitylive.com",
+          "description": "Adjacent to Wells Fargo Center, Xfinity Live! is a dining and entertainment district featuring restaurants, bars, and venues, enriching your game day experience.",
+          "coordinates": {
+            "latitude": "39.9048",
+            "longitude": "-75.1685"
+          }
+        },
+        {
+          "name": "Blue Cross RiverRink",
+          "address": "101 S Christopher Columbus Blvd, Philadelphia, PA 19106",
+          "website": "https://www.delawareriverwaterfront.com/places/blue-cross-riverrink",
+          "description": "During the winter season, enjoy outdoor ice skating at Blue Cross RiverRink, a festive activity perfect for families and fans looking to experience ice skating with a view of the Delaware River.",
+          "coordinates": {
+            "latitude": "39.9509",
+            "longitude": "-75.1403"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "SEPTA",
+          "description": "The SEPTA system provides convenient access to Wells Fargo Center, with the Broad Street Line's AT&T Station located nearby.",
+          "map_link": "https://www.septa.org/maps/"
+        },
+        {
+          "type": "Bus",
+          "description": "Philadelphia's extensive bus network serves the Wells Fargo Center area, offering easy access from across the city.",
+          "map_link": "https://www.septa.org/maps/bus/"
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Philadelphia Flyers Website",
+          "website": "https://www.nhl.com/flyers/tickets",
+          "description": "The primary source for all Flyers ticket sales, offering guaranteed authenticity and the best selection of seats."
+        },
+        {
+          "name": "Ticketmaster",
+          "website": "https://www.ticketmaster.com/philadelphia-flyers-tickets/artist/805912",
+          "description": "Authorized ticketing partner for events at Wells Fargo Center, providing a secure platform for purchasing official tickets."
+        },
+        {
+          "name": "StubHub",
+          "website": "https://www.stubhub.com/philadelphia-flyers-tickets/performer/96/",
+          "description": "A reliable secondary marketplace for Flyers tickets, offering a fanProtect guarantee."
+        }
+      ],
+      "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+      "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+    }
+  }
+}

@@ -1,0 +1,271 @@
+{
+    "city": "Los Angeles",
+  "team": "Kings",
+  "venue": {
+    "name": "Crypto.com Arena",
+    "address": "1111 S Figueroa St, Los Angeles, CA 90015",
+    "website": "https://www.cryptoarena.com/",
+    "average_ticket_price": "$130",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "34.0430",
+      "longitude": "-118.2673"
+    },
+    "best_seats_pricing": {
+      "Rinkside": {
+        "Description": "Seats right next to the action for an unparalleled game experience.",
+        "Sections": "Rinkside",
+        "Estimated_Pricing_Range": "$900 - $3500+",
+        "View_Quality": "Direct ice-level view, engaging and immersive experience.",
+        "Unique_Features": "Chance for player interactions, possibility of being seen on TV.",
+        "Accessibility": "Easy access, but limited space for personal mobility devices.",
+        "Special_Perks": "Exclusive access to the Premier Club, complimentary dining and beverages."
+      },
+      "Club_Seats": {
+        "Description": "Offering a fantastic view of the game from the sides with added benefits.",
+        "Sections": "Club Sections 101-104 and 111-114",
+        "Estimated_Pricing_Range": "$300 - $900",
+        "View_Quality": "Elevated side views with clear line of sight to the ice.",
+        "Unique_Features": "Wider seats with more leg room, less crowded sections.",
+        "Accessibility": "Dedicated entrance for easier access, nearby elevators.",
+        "Special_Perks": "Access to premium lounges and in-seat wait service."
+      },
+      "Center_Balcony": {
+        "Description": "Great overall view of the game from an elevated position.",
+        "Sections": "Sections 301-304 and 318-321",
+        "Estimated_Pricing_Range": "$120 - $300",
+        "View_Quality": "Panoramic view of the ice, ideal for tactical analysis.",
+        "Unique_Features": "Affordable pricing for a comprehensive view of the action.",
+        "Accessibility": "Accessible seating available, elevators to balcony level.",
+        "Special_Perks": "More budget-friendly option with a full view of the ice."
+      },
+      "Loge_Level": {
+        "Description": "Just above courtside, offering close views without being on the ice.",
+        "Sections": "Mid Ice Sections 15-17 and 1-2; Corners Sections 13-14, 18-19, 22-23, and 3-4",
+        "Estimated_Pricing_Range": "$200 - $700",
+        "View_Quality": "Close to the action with a slightly elevated perspective.",
+        "Unique_Features": "Proximity to the ice with a more accessible price point.",
+        "Accessibility": "Wheelchair-accessible seating and nearby amenities.",
+        "Special_Perks": "Good balance of price, view, and experience."
+      }
+    },
+      "nearby_amenities": {
+        "restaurants_bars": [
+            {
+              "name": "Yard House",
+              "address": "800 W Olympic Blvd, Los Angeles, CA 90015",
+              "website": "https://www.yardhouse.com/locations/ca/los-angeles/los-angeles-la-live/8315",
+              "description": "A high-end sports bar with a huge menu of New American fare and an extensive list of draft beers.",
+              "coordinates": {
+                "latitude": "34.045286",
+                "longitude": "-118.266468"
+              }
+            },
+            {
+              "name": "Toms Watch Bar",
+              "address": "1011 S Figueroa St B101, Los Angeles, CA 90015",
+              "website": "https://tomswatchbar.com/location/los-angeles/",
+              "description": "Known for its 360° viewing room, Tom's offers an immersive sports viewing experience with a wide variety of drinks and classic American dishes.",
+              "coordinates": {
+                "latitude": "34.044192",
+                "longitude": "-118.266293"
+              }
+            },
+            {
+              "name": "Flemings Prime Steakhouse & Wine Bar",
+              "address": "800 W Olympic Blvd Suite A135, Los Angeles, CA 90015",
+              "website": "https://www.flemingssteakhouse.com/locations/ca/los-angeles",
+              "description": "Upscale steakhouse offering prime cuts of beef, a fine wine selection, and a sophisticated dining experience.",
+              "coordinates": {
+                "latitude": "34.045540",
+                "longitude": "-118.264410"
+              }
+            },
+            {
+              "name": "The Pantry Cafe",
+              "address": "877 S Figueroa St, Los Angeles, CA 90017",
+              "website": "http://www.pantrycafe.com",
+              "description": "Historic diner serving hearty American breakfasts & lunches 24/7 in a cozy, retro setting.",
+              "coordinates": {
+                "latitude": "34.045911",
+                "longitude": "-118.263184"
+              }
+            },
+            {
+              "name": "Broken Spanish",
+              "address": "1050 S Flower St, Los Angeles, CA 90015",
+              "website": "https://www.brokenspanish.com",
+              "description": "Contemporary restaurant offering an innovative take on traditional Mexican cuisine, with a focus on local and sustainable ingredients.",
+              "coordinates": {
+                "latitude": "34.041209",
+                "longitude": "-118.266808"
+              }
+            }
+          ],
+          "accommodations": [
+            {
+              "name": "JW Marriott Los Angeles L.A. LIVE",
+              "address": "900 W Olympic Blvd, Los Angeles, CA 90015",
+              "website": "https://www.marriott.com/hotels/travel/laxjw-jw-marriott-los-angeles-la-live/",
+              "description": "Luxury hotel offering sophisticated accommodations with sweeping city views, located in the heart of the entertainment district.",
+              "coordinates": {
+                "latitude": "34.045249",
+                "longitude": "-118.264569"
+              }
+            },
+            {
+              "name": "Hotel Figueroa",
+              "address": "939 S Figueroa St, Los Angeles, CA 90015",
+              "website": "https://www.hotelfigueroa.com/",
+              "description": "Historic hotel known for its Spanish Colonial style, offering a unique stay experience near the Crypto.com Arena.",
+              "coordinates": {
+                "latitude": "34.045806",
+                "longitude": "-118.264582"
+              }
+            },
+            {
+              "name": "The Ritz-Carlton, Los Angeles",
+              "address": "900 W Olympic Blvd, Los Angeles, CA 90015",
+              "website": "https://www.ritzcarlton.com/en/hotels/california/los-angeles",
+              "description": "Opulent hotel providing luxury accommodations and amenities, with panoramic views of Los Angeles and the mountains beyond.",
+              "coordinates": {
+                "latitude": "34.044571",
+                "longitude": "-118.266125"
+              }
+            },
+            {
+              "name": "Courtyard by Marriott Los Angeles L.A. LIVE",
+              "address": "901 W Olympic Blvd, Los Angeles, CA 90015",
+              "website": "https://www.marriott.com/hotels/travel/laxld-courtyard-los-angeles-la-live/",
+              "description": "Contemporary hotel with comfortable rooms and convenient access to Los Angeles Lakers games and downtown attractions.",
+              "coordinates": {
+                "latitude": "34.0452",
+                "longitude": "-118.2641"
+              }
+            }
+          ],
+          "tourist_attractions": [
+            {
+              "name": "The Grammy Museum",
+              "address": "800 W Olympic Blvd, Los Angeles, CA 90015",
+              "website": "https://www.grammymuseum.org/",
+              "description": "An interactive, educational museum devoted to the history and winners of the Grammy Awards.",
+              "coordinates": {
+                "latitude": "34.045598",
+                "longitude": "-118.267280"
+              }
+            },
+            
+            {
+              "name": "L.A. Live",
+              "address": "800 W Olympic Blvd, Los Angeles, CA 90015",
+              "website": "https://www.lalive.com/",
+              "description": "Vibrant entertainment complex featuring restaurants, cinemas, music venues, and nightspots, a hub for dining and entertainment.",
+              "coordinates": {
+                "latitude": "34.0456",
+                "longitude": "-118.2673"
+              }
+            },
+            {
+              "name": "Los Angeles Convention Center",
+              "address": "1201 S Figueroa St, Los Angeles, CA 90015",
+              "website": "https://www.lacclink.com/",
+              "description": "Major convention and exhibition facility hosting numerous trade shows, conventions, and meetings, known for its architecture and events.",
+              "coordinates": {
+                "latitude": "34.0405",
+                "longitude": "-118.2698"
+              }
+            },
+            {
+              "name": "The Broad",
+              "address": "221 S Grand Ave, Los Angeles, CA 90012",
+              "website": "https://www.thebroad.org/",
+              "description": "Contemporary art museum offering an innovative collection of modern art works, free admission to its permanent galleries.",
+              "coordinates": {
+                "latitude": "34.0544",
+                "longitude": "-118.2506"
+              }
+            },
+            {
+              "name": "Walt Disney Concert Hall",
+              "address": "111 S Grand Ave, Los Angeles, CA 90012",
+              "website": "https://www.laphil.com/visit/la-phil-home/walt-disney-concert-hall",
+              "description": "Iconic, state-of-the-art concert hall known for its striking architecture and as the home of the Los Angeles Philharmonic.",
+              "coordinates": {
+                "latitude": "34.0553",
+                "longitude": "-118.2498"
+              }
+            }
+          ],
+        "team_related_activities": [
+            {
+              "name": "Crypto.com Arena Tours",
+              "address": "1111 S Figueroa St, Los Angeles, CA 90015",
+              "website": "https://visit.cryptoarena.com/",
+              "description": "Join the guided tours of STAPLES Center and experience the home of the Los Angeles Kings. Explore behind-the-scenes areas and learn about the storied history of the team.",
+              "coordinates": {
+                "latitude": "34.0430",
+                "longitude": "-118.2673"
+              }
+            },
+            {
+              "name": "L.A. LIVE",
+              "address": "800 W Olympic Blvd, Los Angeles, CA 90015",
+              "website": "https://www.lalive.com",
+              "description": "Adjacent to STAPLES Center, L.A. LIVE is a sports and entertainment district featuring restaurants, cinemas, and venues like the Grammy Museum, enriching your game day experience.",
+              "coordinates": {
+                "latitude": "34.0453",
+                "longitude": "-118.2672"
+              }
+            },
+            {
+              "name": "The Rink - Holiday Ice Skating",
+              "address": "800 W Olympic Blvd, Los Angeles, CA 90015",
+              "website": "https://www.lalive.com/events-calendar/the-rink",
+              "description": "During the holiday season, enjoy outdoor ice skating at L.A. LIVE, a festive activity perfect for families and fans looking to experience ice under the Los Angeles skyline.",
+              "coordinates": {
+                "latitude": "34.0453",
+                "longitude": "-118.2672"
+              }
+            }
+          ]
+      },
+      "public_transportation": {
+        "options": [
+            {
+              "type": "Metro Rail",
+              "description": "The Los Angeles Metro Rail system provides convenient access to STAPLES Center, with the Pico Station on the Blue and Expo lines located nearby.",
+              "map_link": "https://www.metro.net/riding/maps/"
+            },
+            {
+              "type": "Bus",
+              "description": "Los Angeles' extensive bus network serves the STAPLES Center area, offering easy access from across the city.",
+              "map_link": "https://www.metro.net/riding/maps/bus/"
+            }
+          ]
+      },
+      "ticket_purchasing_tips": {
+        "best_places_to_buy": [
+            {
+              "name": "Official Los Angeles Kings Website",
+              "website": "https://www.nhl.com/kings/tickets",
+              "description": "The primary source for all Kings ticket sales, offering guaranteed authenticity and the best selection of seats."
+            },
+            {
+              "name": "AXS",
+              "website": "https://www.axs.com/",
+              "description": "Authorized ticketing partner for events at STAPLES Center, providing a secure platform for purchasing official tickets."
+            },
+            {
+              "name": "StubHub",
+              "website": "https://www.stubhub.com/los-angeles-kings-tickets/performer/6146/",
+              "description": "A reliable secondary marketplace for Kings tickets, offering a fanProtect guarantee."
+            }
+          ],
+        "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+        "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+      }
+    }
+  }
+  
