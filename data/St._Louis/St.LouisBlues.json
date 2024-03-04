@@ -1,0 +1,331 @@
+{
+  "city": "St. Louis",
+  "team": "Blues",
+  "venue": {
+    "name": "Enterprise Center",
+    "address": "1401 Clark Ave, St. Louis, MO 63103, USA",
+    "website": "https://www.enterprisecenter.com/",
+    "average_ticket_price": "$120",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "38.6267",
+      "longitude": "-90.2026"
+    },
+    "best_seats_pricing": {
+      "Rinkside": {
+        "Description": "Front-row seats offering an exhilarating view of the game and player interactions.",
+        "Sections": "Rinkside",
+        "Estimated_Pricing_Range": "$250 - $3500",
+        "View_Quality": "Unmatched views at ice level, feeling the intensity of the game.",
+        "Unique_Features": "Closest proximity to the ice, possible interaction with players.",
+        "Accessibility": "Premium access with dedicated entry and amenities.",
+        "Special_Perks": "Access to exclusive club areas and VIP experiences."
+      },
+      "Club_Seats": {
+        "Description": "Elevated side views with premium benefits including food and beverage options.",
+        "Sections": "Club Level",
+        "Estimated_Pricing_Range": "$150 - $1000",
+        "View_Quality": "Great sightlines of the entire rink from a comfortable seating area.",
+        "Unique_Features": "Wider seats, in-seat service, and access to private lounges.",
+        "Accessibility": "Easy access with less crowd density, near premium concessions.",
+        "Special_Perks": "Inclusive of some amenities and exclusive club access."
+      },
+      "Mezzanine": {
+        "Description": "Higher level seating providing a panoramic view of the game.",
+        "Sections": "Mezzanine Level",
+        "Estimated_Pricing_Range": "$80 - $300",
+        "View_Quality": "Bird's-eye view perfect for enjoying the game's flow and strategies.",
+        "Unique_Features": "Affordable option for families and groups.",
+        "Accessibility": "Accessible seating available with elevator access to all levels.",
+        "Special_Perks": "Convenient access to concessions and restrooms."
+      }
+    },
+      "nearby_amenities": {
+        "restaurants_bars": [
+          {
+            "name": "Broadway Oyster Bar",
+            "address": "736 S Broadway, St. Louis, MO 63102, USA",
+            "website": "http://www.broadwayoysterbar.com/",
+            "description": "A lively Cajun/Creole spot known for its oysters, live music, and vibrant atmosphere, located near Enterprise Center.",
+            "coordinates": {
+              "latitude": "38.6185",
+              "longitude": "-90.1928"
+            }
+          },
+          {
+            "name": "Bailey's Range",
+            "address": "920 Olive St, St. Louis, MO 63101, USA",
+            "website": "https://www.baileysrange.com/",
+            "description": "A unique burger bar offering a wide range of creative burgers, house-made sodas, and boozy shakes in a casual setting.",
+            "coordinates": {
+              "latitude": "38.6282",
+              "longitude": "-90.1922"
+            }
+          },
+          {
+            "name": "Pappy's Smokehouse",
+            "address": "3106 Olive St, St. Louis, MO 63103, USA",
+            "website": "https://www.pappyssmokehouse.com/",
+            "description": "Famous for its Memphis-style BBQ, this smokehouse serves up succulent smoked meats in a no-frills environment.",
+            "coordinates": {
+              "latitude": "38.6353",
+              "longitude": "-90.2244"
+            }
+          },
+          {
+            "name": "Schlafly Tap Room",
+            "address": "2100 Locust St, St. Louis, MO 63103, USA",
+            "website": "https://www.schlafly.com/",
+            "description": "One of St. Louis's original craft breweries, offering a wide selection of beers on tap and a full menu in a historic setting.",
+            "coordinates": {
+              "latitude": "38.6324",
+              "longitude": "-90.2091"
+            }
+          },
+          {
+            "name": "Southern",
+            "address": "3108 Olive St, St. Louis, MO 63103, USA",
+            "website": "http://www.stlsouthern.com/",
+            "description": "A spot next to Pappy's Smokehouse that serves up Southern fried chicken, sandwiches, and hot sides with a variety of heat levels.",
+            "coordinates": {
+              "latitude": "38.6352",
+              "longitude": "-90.2243"
+            }
+          },
+          {
+            "name": "The Midwestern",
+            "address": "900 Spruce St, St. Louis, MO 63102, USA",
+            "website": "https://www.midwesternstl.com/",
+            "description": "Meat-focused menu in a spacious, rustic-chic setting with a lively bar scene, close to Enterprise Center.",
+            "coordinates": {
+              "latitude": "38.6231",
+              "longitude": "-90.1919"
+            }
+          },
+          {
+            "name": "Bridge Tap House & Wine Bar",
+            "address": "1004 Locust St, St. Louis, MO 63101, USA",
+            "website": "http://thebridgestl.com/",
+            "description": "Known for its extensive beer and wine selection, this cozy spot offers a sophisticated menu in a relaxed atmosphere.",
+            "coordinates": {
+              "latitude": "38.6292",
+              "longitude": "-90.1927"
+            }
+          }
+        ],
+        "accommodations": [
+          {
+            "name": "The Westin St. Louis",
+            "address": "811 Spruce St, St. Louis, MO 63102, USA",
+            "website": "https://www.marriott.com/hotels/travel/stlwi-the-westin-st-louis/",
+            "description": "Upscale hotel offering modern rooms and suites, a fitness center, and on-site dining options, located near Busch Stadium.",
+            "coordinates": {
+              "latitude": "38.6239",
+              "longitude": "-90.1927"
+            }
+          },
+          {
+            "name": "Hilton St. Louis at the Ballpark",
+            "address": "1 S Broadway, St. Louis, MO 63102, USA",
+            "website": "https://www.hilton.com/en/hotels/stlbpdt-hilton-st-louis-at-the-ballpark/",
+            "description": "Contemporary hotel with panoramic views of the city, including the Gateway Arch and Busch Stadium, offering several dining options.",
+            "coordinates": {
+              "latitude": "38.6246",
+              "longitude": "-90.1885"
+            }
+          },
+          {
+            "name": "Hyatt Regency St. Louis at The Arch",
+            "address": "315 Chestnut St, St. Louis, MO 63102, USA",
+            "website": "https://www.hyatt.com/en-US/hotel/missouri/hyatt-regency-st-louis-at-the-arch/stlrs",
+            "description": "Located near the Gateway Arch, this hotel features stylish rooms, multiple dining options, and a rooftop bar with stunning views.",
+            "coordinates": {
+              "latitude": "38.6257",
+              "longitude": "-90.1856"
+            }
+          },
+          {
+            "name": "Magnolia Hotel St. Louis, a Tribute Portfolio Hotel",
+            "address": "421 N 8th St, St. Louis, MO 63101, USA",
+            "website": "https://www.marriott.com/hotels/travel/stlak-magnolia-hotel-st-louis-a-tribute-portfolio-hotel/",
+            "description": "This boutique hotel offers unique and historic accommodations in the heart of downtown, close to many attractions.",
+            "coordinates": {
+              "latitude": "38.6292",
+              "longitude": "-90.1919"
+            }
+          },
+          {
+            "name": "Hotel Saint Louis, Autograph Collection",
+            "address": "705 Olive St, St. Louis, MO 63101, USA",
+            "website": "https://www.marriott.com/hotels/travel/stlap-hotel-saint-louis-autograph-collection/",
+            "description": "Luxury hotel in a historic building featuring refined rooms and suites, a spa, a rooftop bar, and an outdoor pool, located in the business district.",
+            "coordinates": {
+              "latitude": "38.6283",
+              "longitude": "-90.1913"
+            }
+          }
+        ],
+        "tourist_attractions": [
+          {
+            "name": "Gateway Arch",
+            "address": "St. Louis, MO 63102, USA",
+            "website": "http://www.gatewayarch.com/",
+            "description": "Iconic Monument in St. Louis, offering tram rides to the top for views of the Mississippi River and the city.",
+            "coordinates": {
+              "latitude": "38.6247",
+              "longitude": "-90.1848"
+            }
+          },
+          {
+            "name": "Missouri Botanical Garden",
+            "address": "4344 Shaw Blvd, St. Louis, MO 63110, USA",
+            "website": "http://www.missouribotanicalgarden.org/",
+            "description": "Historic botanical institution in St. Louis with beautiful garden displays, a conservatory, and family-friendly events.",
+            "coordinates": {
+              "latitude": "38.6128",
+              "longitude": "-90.2594"
+            }
+          },
+          {
+            "name": "Saint Louis Zoo",
+            "address": "Government Dr, St. Louis, MO 63110, USA",
+            "website": "http://www.stlzoo.org/",
+            "description": "A leading zoo with over 600 species, known for its innovative approaches to animal care and management, wildlife conservation, research, and education.",
+            "coordinates": {
+              "latitude": "38.6353",
+              "longitude": "-90.2920"
+            }
+          },
+          {
+            "name": "Saint Louis Art Museum",
+            "address": "1 Fine Arts Dr, St. Louis, MO 63110, USA",
+            "website": "http://www.slam.org/",
+            "description": "Public art museum in Forest Park featuring a comprehensive collection spanning five millennia and cultures from around the globe.",
+            "coordinates": {
+              "latitude": "38.6393",
+              "longitude": "-90.2945"
+            }
+          },
+          {
+            "name": "City Museum",
+            "address": "750 N 16th St, St. Louis, MO 63103, USA",
+            "website": "http://www.citymuseum.org/",
+            "description": "A museum consisting largely of repurposed architectural and industrial objects, housed in the former International Shoe building in the Washington Avenue Loft District.",
+            "coordinates": {
+              "latitude": "38.6339",
+              "longitude": "-90.2004"
+            }
+          },
+          {
+            "name": "Forest Park",
+            "address": "5595 Grand Dr, St. Louis, MO 63112, USA",
+            "website": "https://www.forestparkforever.org/",
+            "description": "One of the largest urban parks in the United States, home to the city's major museums, a zoo, and recreational facilities.",
+            "coordinates": {
+              "latitude": "38.6383",
+              "longitude": "-90.2849"
+            }
+          },
+          {
+            "name": "The Magic House, St. Louis Children's Museum",
+            "address": "516 S Kirkwood Rd, St. Louis, MO 63122, USA",
+            "website": "https://www.magichouse.org/",
+            "description": "A family attraction with hundreds of hands-on exhibits designed to spark imagination, creativity, problem-solving, and curiosity.",
+            "coordinates": {
+              "latitude": "38.5762",
+              "longitude": "-90.4076"
+            }
+          },
+          {
+            "name": "Anheuser-Busch Brewery",
+            "address": "1200 Lynch St, St. Louis, MO 63118, USA",
+            "website": "http://www.budweisertours.com/",
+            "description": "Iconic brewery offering tours that showcase the brewing process, Clydesdale horses, and historic architecture.",
+            "coordinates": {
+              "latitude": "38.5993",
+              "longitude": "-90.2090"
+            }
+          }
+        ],
+        "team_related_activities": [
+          {
+            "name": "Enterprise Center Tours",
+            "address": "1401 Clark Ave, St. Louis, MO 63103, USA",
+            "website": "https://www.enterprisecenter.com/",
+            "description": "Get behind-the-scenes access to the home of the St. Louis Blues, including a look at the locker rooms, luxury suites, and press box.",
+            "coordinates": {
+              "latitude": "38.6263",
+              "longitude": "-90.2026"
+            }
+          },
+          {
+            "name": "St. Louis Blues Hall of Fame Plaza",
+            "address": "Outside Enterprise Center, St. Louis, MO",
+            "website": "Not specified",
+            "description": "Pay tribute to the legends of St. Louis Blues history at the Hall of Fame Plaza, featuring statues of iconic players and moments.",
+            "coordinates": {
+              "latitude": "38.6265",
+              "longitude": "-90.2028"
+            }
+          },
+          {
+            "name": "St. Louis Blues Game",
+            "address": "Enterprise Center, 1401 Clark Ave, St. Louis, MO 63103, USA",
+            "website": "https://www.nhl.com/blues/tickets",
+            "description": "Experience the thrill of a live hockey game and cheer on the St. Louis Blues at their home arena, the Enterprise Center.",
+            "coordinates": {
+              "latitude": "38.6263",
+              "longitude": "-90.2026"
+            }
+          },
+          {
+            "name": "Blues Fan Events",
+            "address": "Various locations in St. Louis, MO",
+            "website": "https://www.nhl.com/blues/community/fan-events",
+            "description": "Join fellow fans at various events throughout the year, including meet-and-greets, autograph signings, and community outreach programs.",
+            "coordinates": {
+              "latitude": "38.6270",
+              "longitude": "-90.1994"
+            }
+          }
+        ]
+      },
+      "public_transportation": {
+        "options": [
+          {
+            "type": "MetroLink",
+            "description": "St. Louis' light rail system provides convenient access to the Enterprise Center, with stops at 14th & Clark and Civic Center stations.",
+            "map_link": "https://www.metrostlouis.org/metrolink/"
+          },
+          {
+            "type": "Bus",
+            "description": "MetroBus offers numerous routes serving downtown St. Louis and the Enterprise Center, ensuring easy access from around the city.",
+            "map_link": "https://www.metrostlouis.org/metrobus/"
+          }
+        ]
+      },
+      "ticket_purchasing_tips": {
+        "best_places_to_buy":  [
+          {
+            "name": "Official St. Louis Blues Website",
+            "website": "https://www.nhl.com/blues/tickets",
+            "description": "The primary source for all Blues ticket sales, offering a wide range of seating options and the assurance of authenticity."
+          },
+          {
+            "name": "Ticketmaster",
+            "website": "https://www.ticketmaster.com/st-louis-blues-tickets/artist/806039",
+            "description": "An authorized ticketing partner for the St. Louis Blues, providing a secure platform for purchasing official tickets."
+          },
+          {
+            "name": "StubHub",
+            "website": "https://www.stubhub.com/st-louis-blues-tickets/performer/124/",
+            "description": "A trusted secondary marketplace for Blues tickets, offering a variety of seating options and a fanProtect guarantee."
+          }
+        ],
+        "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+        "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+      }
+    }
+  }
+  

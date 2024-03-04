@@ -1,0 +1,349 @@
+{
+  "city": "Seattle",
+  "team": "Kraken",
+  "venue": {
+    "name": "Climate Pledge Arena",
+    "address": "334 1st Ave N, Seattle, WA 98109, USA",
+    "website": "https://www.climatepledgearena.com/",
+    "average_ticket_price": "$130",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "47.6222",
+      "longitude": "-122.3540"
+    },
+    "best_seats_pricing": {
+      "Rinkside": {
+        "Description": "Immerse yourself in the action with seats right by the rink, offering an unparalleled game experience and the thrill of being close to the players.",
+        "Sections": "Rinkside",
+        "Estimated_Pricing_Range": "$850 - $3500+",
+        "View_Quality": "Direct view of the ice for an engaging and immersive experience, perfect for the avid fan.",
+        "Unique_Features": "Opportunities for close player interactions and the chance to be featured on the live broadcast.",
+        "Accessibility": "Convenient access with limited mobility device space available, ensuring a comfortable experience for all fans.",
+        "Special_Perks": "Exclusive access to premium amenities, including club areas and complimentary dining options."
+      },
+      "Club_Seats": {
+        "Description": "Enjoy the game from the luxury of club seats, offering fantastic views and additional benefits for a superior spectator experience.",
+        "Sections": "Club Sections",
+        "Estimated_Pricing_Range": "$300 - $900",
+        "View_Quality": "Elevated side views ensuring a clear line of sight to all the action on the ice.",
+        "Unique_Features": "Extra legroom and more spacious seating arrangements, less crowded for comfort and convenience.",
+        "Accessibility": "Easily accessible with dedicated entrances and close to elevators for quick access.",
+        "Special_Perks": "Enjoy in-seat wait service and access to exclusive club lounges with gourmet dining options."
+      },
+      "Center_Balcony": {
+        "Description": "Capture the excitement from a central balcony view, offering a panoramic perspective of the game and a strategic vantage point.",
+        "Sections": "Balcony Center Sections",
+        "Estimated_Pricing_Range": "$120 - $300",
+        "View_Quality": "Broad view of the arena, ideal for fans who appreciate a tactical overview of the game.",
+        "Unique_Features": "A more affordable option for fans wanting to enjoy the game with a comprehensive view.",
+        "Accessibility": "Accessible seating available with elevators to the balcony level for ease of access.",
+        "Special_Perks": "A budget-friendly choice without sacrificing the full experience of the atmosphere."
+      },
+      "Loge_Level": {
+        "Description": "Experience the game from just above the rinkside, combining close views with a slight elevation for optimal visibility.",
+        "Sections": "Loge Sections",
+        "Estimated_Pricing_Range": "$200 - $700",
+        "View_Quality": "Near-ice view with the advantage of elevation to oversee the game's dynamics.",
+        "Unique_Features": "Balances proximity to the ice with a more accessible price, ideal for enthusiastic fans.",
+        "Accessibility": "Features wheelchair-accessible seating and amenities located nearby for convenience.",
+        "Special_Perks": "Perfect for those seeking a memorable game day experience with an excellent balance of price and perspective."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Metropolitan Grill",
+          "address": "820 2nd Ave, Seattle, WA 98104, USA",
+          "website": "https://www.themetropolitangrill.com/",
+          "description": "An iconic Seattle steakhouse known for its prime beef, elegant ambiance, and extensive wine list, a favorite among locals and visitors alike.",
+          "coordinates": {
+            "latitude": "47.6034",
+            "longitude": "-122.3345"
+          }
+        },
+        {
+          "name": "The Pink Door",
+          "address": "1919 Post Alley, Seattle, WA 98101, USA",
+          "website": "https://thepinkdoor.net/",
+          "description": "An Italian-American restaurant offering delicious cuisine, live entertainment, and a charming atmosphere in Pike Place Market.",
+          "coordinates": {
+            "latitude": "47.6101",
+            "longitude": "-122.3425"
+          }
+        },
+        {
+          "name": "Pike Brewing Company",
+          "address": "1415 1st Ave, Seattle, WA 98101, USA",
+          "website": "https://www.pikebrewing.com/",
+          "description": "A craft brewery and pub offering a selection of handcrafted beers and classic pub fare, located in the heart of downtown Seattle.",
+          "coordinates": {
+            "latitude": "47.6088",
+            "longitude": "-122.3398"
+          }
+        },
+        {
+          "name": "Serious Pie",
+          "address": "316 Virginia St, Seattle, WA 98101, USA",
+          "website": "https://www.seriouspieseattle.com/virginia",
+          "description": "A pizzeria by Tom Douglas featuring artisanal, wood-fired pizzas with a focus on gourmet toppings and unique combinations.",
+          "coordinates": {
+            "latitude": "47.6128",
+            "longitude": "-122.3400"
+          }
+        },
+        {
+          "name": "Elliot's Oyster House",
+          "address": "1201 Alaskan Way, Pier 56, Seattle, WA 98101, USA",
+          "website": "https://www.elliottsoysterhouse.com/",
+          "description": "Famous for its fresh oysters and seafood, Elliot's offers stunning views of Elliott Bay and a commitment to sustainable seafood.",
+          "coordinates": {
+            "latitude": "47.6057",
+            "longitude": "-122.3404"
+          }
+        },
+        {
+          "name": "Taylor Shellfish Oyster Bar",
+          "address": "1521 Melrose Ave, Seattle, WA 98122, USA",
+          "website": "https://taylorshellfishfarms.com/",
+          "description": "A casual spot specializing in fresh, locally-sourced oysters, clams, mussels, and other seafood delights.",
+          "coordinates": {
+            "latitude": "47.6144",
+            "longitude": "-122.3284"
+          }
+        },
+        {
+          "name": "Matt's in the Market",
+          "address": "94 Pike St #32, Seattle, WA 98101, USA",
+          "website": "https://mattsinthemarket.com/",
+          "description": "Overlooking the historic Pike Place Market, this restaurant offers Pacific Northwest cuisine with fresh, seasonal ingredients.",
+          "coordinates": {
+            "latitude": "47.6089",
+            "longitude": "-122.3403"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Hyatt Regency Seattle",
+          "address": "808 Howell St, Seattle, WA 98101, USA",
+          "website": "https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears",
+          "description": "The largest hotel in the Pacific Northwest, offering spacious rooms, several dining options, and a prime location near Climate Pledge Arena and other downtown attractions.",
+          "coordinates": {
+            "latitude": "47.6138",
+            "longitude": "-122.3345"
+          }
+        },
+        {
+          "name": "The Edgewater Hotel",
+          "address": "2411 Alaskan Way, Seattle, WA 98121, USA",
+          "website": "https://www.edgewaterhotel.com/",
+          "description": "A luxury waterfront hotel with unique rooms that offer spectacular views of Elliott Bay and the Olympic Mountains, close to Seattle's top attractions.",
+          "coordinates": {
+            "latitude": "47.6124",
+            "longitude": "-122.3503"
+          }
+        },
+        {
+          "name": "Pan Pacific Seattle",
+          "address": "2125 Terry Ave, Seattle, WA 98121, USA",
+          "website": "https://www.panpacific.com/en/hotels-and-resorts/pp-seattle.html",
+          "description": "This upscale hotel features elegant rooms and suites, a fitness center, and is conveniently located near the Space Needle and Climate Pledge Arena.",
+          "coordinates": {
+            "latitude": "47.6163",
+            "longitude": "-122.3359"
+          }
+        },
+        {
+          "name": "Hotel Andra",
+          "address": "2000 4th Ave, Seattle, WA 98121, USA",
+          "website": "https://www.hotelandra.com/",
+          "description": "A stylish boutique hotel with a Scandinavian theme, located in the heart of downtown Seattle, offering easy access to the city's most famous landmarks.",
+          "coordinates": {
+            "latitude": "47.6132",
+            "longitude": "-122.3403"
+          }
+        },
+        {
+          "name": "Thompson Seattle",
+          "address": "110 Stewart St, Seattle, WA 98101, USA",
+          "website": "https://www.hyatt.com/en-US/hotel/washington/thompson-seattle/seath",
+          "description": "A contemporary hotel offering stunning views of Puget Sound and the city skyline, featuring a rooftop bar and a prime location near Pike Place Market and Climate Pledge Arena.",
+          "coordinates": {
+            "latitude": "47.6102",
+            "longitude": "-122.3419"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "Space Needle",
+          "address": "400 Broad St, Seattle, WA 98109, USA",
+          "website": "https://www.spaceneedle.com/",
+          "description": "Iconic landmark offering visitors panoramic views of downtown Seattle, Mount Rainier, Puget Sound, and the Olympic and Cascade Mountains.",
+          "coordinates": {
+            "latitude": "47.6205",
+            "longitude": "-122.3493"
+          }
+        },
+        {
+          "name": "Pike Place Market",
+          "address": "85 Pike St, Seattle, WA 98101, USA",
+          "website": "http://pikeplacemarket.org/",
+          "description": "Historic, bustling marketplace featuring a range of shops, flower stalls, and seafood markets, plus the original Starbucks cafe.",
+          "coordinates": {
+            "latitude": "47.6094",
+            "longitude": "-122.3415"
+          }
+        },
+        {
+          "name": "Museum of Pop Culture (MoPOP)",
+          "address": "325 5th Ave N, Seattle, WA 98109, USA",
+          "website": "https://www.mopop.org/",
+          "description": "Museum dedicated to contemporary popular culture, featuring exhibits on music, science fiction, and pop culture.",
+          "coordinates": {
+            "latitude": "47.6215",
+            "longitude": "-122.3481"
+          }
+        },
+        {
+          "name": "Seattle Aquarium",
+          "address": "1483 Alaskan Way, Seattle, WA 98101, USA",
+          "website": "https://www.seattleaquarium.org/",
+          "description": "Waterfront facility featuring marine life from the Pacific Northwest, including otters, octopus, and a large variety of fish.",
+          "coordinates": {
+            "latitude": "47.6076",
+            "longitude": "-122.3425"
+          }
+        },
+        {
+          "name": "Chihuly Garden and Glass",
+          "address": "305 Harrison St, Seattle, WA 98109, USA",
+          "website": "https://www.chihulygardenandglass.com/",
+          "description": "Exhibit showcasing the studio glass of Dale Chihuly. Features a Glasshouse, a lush garden, and intricate glass artwork.",
+          "coordinates": {
+            "latitude": "47.6206",
+            "longitude": "-122.3505"
+          }
+        },
+        {
+          "name": "Seattle Great Wheel",
+          "address": "1301 Alaskan Way, Seattle, WA 98101, USA",
+          "website": "https://seattlegreatwheel.com/",
+          "description": "Giant Ferris wheel on the Seattle waterfront offering city and water views, especially beautiful at sunset.",
+          "coordinates": {
+            "latitude": "47.6062",
+            "longitude": "-122.3425"
+          }
+        },
+        {
+          "name": "Olympic Sculpture Park",
+          "address": "2901 Western Ave, Seattle, WA 98121, USA",
+          "website": "https://www.seattleartmuseum.org/visit/olympic-sculpture-park",
+          "description": "Open-air sculpture park with works by renowned artists set against Puget Sound and the Olympic Mountains backdrop.",
+          "coordinates": {
+            "latitude": "47.6163",
+            "longitude": "-122.3540"
+          }
+        },
+        {
+          "name": "Woodland Park Zoo",
+          "address": "5500 Phinney Ave N, Seattle, WA 98103, USA",
+          "website": "https://www.zoo.org/",
+          "description": "A 92-acre zoological garden dedicated to the conservation of wildlife, featuring animals from around the globe.",
+          "coordinates": {
+            "latitude": "47.6684",
+            "longitude": "-122.3509"
+          }
+        },
+        {
+          "name": "Discovery Park",
+          "address": "3801 Discovery Park Blvd, Seattle, WA 98199, USA",
+          "website": "https://www.seattle.gov/parks/find/parks/discovery-park",
+          "description": "Seattle's largest city park offering hiking trails, sandy beaches, sea cliffs, and stunning views of Puget Sound and the Olympic Mountains.",
+          "coordinates": {
+            "latitude": "47.6589",
+            "longitude": "-122.4059"
+          }
+        },
+        {
+          "name": "Museum of Flight",
+          "address": "9404 E Marginal Way S, Seattle, WA 98108, USA",
+          "website": "https://www.museumofflight.org/",
+          "description": "One of the largest air and space museums in the world, featuring an extensive collection of aircraft and spacecraft.",
+          "coordinates": {
+            "latitude": "47.5180",
+            "longitude": "-122.2961"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Climate Pledge Arena Tours",
+          "address": "334 1st Ave N, Seattle, WA 98109, USA",
+          "website": "https://www.climatepledgearena.com/",
+          "description": "Join a guided tour of Climate Pledge Arena, home of the Seattle Kraken, to see behind-the-scenes areas and learn about the arena's state-of-the-art sustainability features.",
+          "coordinates": {
+            "latitude": "47.6222",
+            "longitude": "-122.3540"
+          }
+        },
+        {
+          "name": "Kraken Team Store",
+          "address": "334 1st Ave N, Seattle, WA 98109, USA",
+          "website": "https://www.nhl.com/kraken/fans/team-store",
+          "description": "Visit the official team store located at Climate Pledge Arena to find all your Seattle Kraken gear, from jerseys and hats to unique memorabilia.",
+          "coordinates": {
+            "latitude": "47.6222",
+            "longitude": "-122.3540"
+          }
+        },
+        {
+          "name": "Seattle Kraken Community Iceplex",
+          "address": "10601 5th Ave NE, Seattle, WA 98125, USA",
+          "website": "https://www.krakencommunityiceplex.com/",
+          "description": "Explore the training facility of the Seattle Kraken, which also offers public skating, hockey leagues, and ice sports programs for all ages.",
+          "coordinates": {
+            "latitude": "47.7059",
+            "longitude": "-122.3224"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "Monorail",
+          "description": "The Seattle Monorail provides a quick and convenient link between downtown Seattle and Climate Pledge Arena, with stations at Westlake Center and near the arena.",
+          "map_link": "https://www.seattlemonorail.com/"
+        },
+        {
+          "type": "Bus",
+          "description": "Seattle's King County Metro offers extensive bus service throughout the city, with multiple routes providing access to Climate Pledge Arena.",
+          "map_link": "https://kingcounty.gov/depts/transportation/metro/schedules-maps.aspx"
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Seattle Kraken Website",
+          "website": "https://www.nhl.com/kraken/tickets",
+          "description": "The primary source for all Seattle Kraken ticket sales, offering a wide selection of seats and guaranteed authenticity."
+        },
+        {
+          "name": "Ticketmaster",
+          "website": "https://www.ticketmaster.com/seattle-kraken-tickets/artist/2775513",
+          "description": "Authorized ticketing partner for the Seattle Kraken, providing a secure platform for purchasing official tickets."
+        },
+        {
+          "name": "StubHub",
+          "website": "https://www.stubhub.com/seattle-kraken-tickets/performer/1516244/",
+          "description": "A trusted secondary marketplace for Kraken tickets, offering a fanProtect guarantee for buyers."
+        }
+      ],
+      "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+      "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+    }
+  }
+}

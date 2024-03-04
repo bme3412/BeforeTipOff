@@ -1,0 +1,299 @@
+{
+  "city": "Las Vegas",
+  "team": "Golden Knights",
+  "venue": {
+    "name": "T-Mobile Arena",
+    "address": "3780 Las Vegas Blvd S, Las Vegas, NV 89158, USA",
+    "website": "https://www.t-mobilearena.com/",
+    "average_ticket_price": "$150",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "36.1028",
+      "longitude": "-115.1785"
+    },
+    "best_seats_pricing": {
+      "Rinkside": {
+        "Description": "Premier seating adjacent to the ice, offering attendees an unparalleled engagement with the game.",
+        "Sections": "Rinkside",
+        "Estimated_Pricing_Range": "$900 - $3500+",
+        "View_Quality": "Immediate ice-level perspective, fostering an intensely engaging and immersive spectator experience.",
+        "Unique_Features": "Potential for direct interactions with players, high likelihood of television visibility.",
+        "Accessibility": "Optimized access, albeit with constrained space for personal mobility apparatuses.",
+        "Special_Perks": "Inclusive access to exclusive clubs, with complimentary gastronomy and beverages."
+      },
+      "Club_Seats": {
+        "Description": "Exceptional viewing experience from the sides, augmented with additional benefits.",
+        "Sections": "Club Sections 5-9 and 15-19",
+        "Estimated_Pricing_Range": "$300 - $900",
+        "View_Quality": "Elevated lateral perspectives ensuring unobstructed sightlines to the rink.",
+        "Unique_Features": "Enhanced seating comfort with additional legroom, less densely populated sections.",
+        "Accessibility": "Specialized entrance for facilitated access, proximal to elevators.",
+        "Special_Perks": "Access to select clubs and personalized in-seat service."
+      },
+      "Center_Balcony": {
+        "Description": "Optimal comprehensive view of the game from a superior vantage point.",
+        "Sections": "Balcony Sections 10-14",
+        "Estimated_Pricing_Range": "$120 - $300",
+        "View_Quality": "Wide-ranging panorama of the rink, ideal for a strategic overview of the game.",
+        "Unique_Features": "Economically priced for a full spectrum view of the proceedings.",
+        "Accessibility": "Provision of accessible seating, elevator access to balcony levels.",
+        "Special_Perks": "An economically advantageous option without compromising on the visual experience."
+      },
+      "Loge_Level": {
+        "Description": "Elevated seating just above the rinkside, delivering close-up views without direct ice contact.",
+        "Sections": "Loge Sections 1-4 and 20-23",
+        "Estimated_Pricing_Range": "$200 - $700",
+        "View_Quality": "Immediate proximity to the action with a slightly raised angle for enhanced perspective.",
+        "Unique_Features": "Near-rink experience at a more accessible price point, blending value with view.",
+        "Accessibility": "Wheelchair-accessible seating options, with adjacent amenities for convenience.",
+        "Special_Perks": "An ideal compromise between cost, visual clarity, and experiential quality."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "T-Mobile Arena Dining",
+          "address": "3780 Las Vegas Blvd S, Las Vegas, NV 89158, USA",
+          "website": "https://www.t-mobilearena.com",
+          "description": "Inside T-Mobile Arena, enjoy a variety of dining options catering to all tastes, from quick bites to upscale dining experiences, all within the home of the Golden Knights.",
+          "coordinates": {
+            "latitude": "36.1028",
+            "longitude": "-115.1785"
+          }
+        },
+        {
+          "name": "Beerhaus",
+          "address": "3784 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
+          "website": "https://www.theparkvegas.com/dining/beerhaus",
+          "description": "A vibrant beer hall offering a wide selection of craft beers and pub fare, located within The Park, a short walk from T-Mobile Arena.",
+          "coordinates": {
+            "latitude": "36.1029",
+            "longitude": "-115.1746"
+          }
+        },
+        {
+          "name": "Bruxie",
+          "address": "3782 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
+          "website": "https://www.bruxie.com",
+          "description": "Known for its gourmet waffle sandwiches, Bruxie is a casual eatery located in The Park, offering a unique dining experience near the Golden Knights' arena.",
+          "coordinates": {
+            "latitude": "36.1030",
+            "longitude": "-115.1742"
+          }
+        },
+        {
+          "name": "California Pizza Kitchen at The Park",
+          "address": "3786 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
+          "website": "https://www.cpk.com",
+          "description": "Offering creative California-style pizzas and more, CPK is a family-friendly restaurant located steps away from T-Mobile Arena.",
+          "coordinates": {
+            "latitude": "36.1029",
+            "longitude": "-115.1745"
+          }
+        },
+        {
+          "name": "Shake Shack at New York-New York",
+          "address": "3790 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
+          "website": "https://www.shakeshack.com",
+          "description": "Enjoy burgers, shakes, and more at Shake Shack, conveniently located on the New York-New York Hotel & Casino premises, adjacent to T-Mobile Arena.",
+          "coordinates": {
+            "latitude": "36.1025",
+            "longitude": "-115.1748"
+          }
+        },
+        {
+          "name": "Tom's Urban at New York-New York",
+          "address": "3790 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
+          "website": "https://www.tomsurban.com",
+          "description": "A dynamic venue offering an eclectic mix of global cuisine, craft beers, and unique cocktails, Tom's Urban is a great spot for Golden Knights fans to gather before or after the game.",
+          "coordinates": {
+            "latitude": "36.1025",
+            "longitude": "-115.1748"
+          }
+        },
+        {
+          "name": "Javier's at ARIA Resort & Casino",
+          "address": "3730 S Las Vegas Blvd, Las Vegas, NV 89158, USA",
+          "website": "https://www.aria.com",
+          "description": "Offering a sophisticated atmosphere and authentic Mexican cuisine, Javier's is an upscale dining option located a short walk from the arena.",
+          "coordinates": {
+            "latitude": "36.1070",
+            "longitude": "-115.1766"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "ARIA Resort & Casino",
+          "address": "3730 S Las Vegas Blvd, Las Vegas, NV 89158, USA",
+          "website": "https://www.aria.com",
+          "description": "A luxurious resort offering refined rooms, world-class dining, and entertainment, located on the Las Vegas Strip, a short distance from T-Mobile Arena.",
+          "coordinates": {
+            "latitude": "36.1071",
+            "longitude": "-115.1766"
+          }
+        },
+        {
+          "name": "The Cosmopolitan of Las Vegas",
+          "address": "3708 Las Vegas Blvd S, Las Vegas, NV 89109, USA",
+          "website": "https://www.cosmopolitanlasvegas.com",
+          "description": "An upscale hotel with chic rooms, renowned restaurants, and vibrant nightlife, located in the heart of the Strip near T-Mobile Arena.",
+          "coordinates": {
+            "latitude": "36.1096",
+            "longitude": "-115.1739"
+          }
+        },
+        {
+          "name": "MGM Grand Las Vegas",
+          "address": "3799 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
+          "website": "https://www.mgmgrand.com",
+          "description": "An iconic hotel featuring spacious rooms, a variety of dining options, and entertainment venues, a quick walk to T-Mobile Arena.",
+          "coordinates": {
+            "latitude": "36.1022",
+            "longitude": "-115.1696"
+          }
+        },
+        {
+          "name": "New York-New York Hotel & Casino",
+          "address": "3790 Las Vegas Blvd S, Las Vegas, NV 89109, USA",
+          "website": "https://www.newyorknewyork.com",
+          "description": "Offers a taste of New York City on the Las Vegas Strip, complete with comfortable rooms, restaurants, and a roller coaster, adjacent to T-Mobile Arena.",
+          "coordinates": {
+            "latitude": "36.1023",
+            "longitude": "-115.1745"
+          }
+        },
+        {
+          "name": "Park MGM Las Vegas",
+          "address": "3770 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
+          "website": "https://www.parkmgm.com",
+          "description": "A refined hotel with a European flair, offering stylish rooms, various dining options, and direct access to T-Mobile Arena via The Park.",
+          "coordinates": {
+            "latitude": "36.1026",
+            "longitude": "-115.1780"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "The Cosmopolitan of Las Vegas",
+          "address": "3708 Las Vegas Boulevard South, Las Vegas, NV 89109, USA",
+          "website": "https://www.cosmopolitanlasvegas.com/",
+          "description": "A luxury resort offering upscale rooms, a spa, and dining options, located on the Las Vegas Strip, close to T-Mobile Arena.",
+          "coordinates": {
+            "latitude": "36.1097",
+            "longitude": "-115.1739"
+          }
+        },
+        {
+          "name": "New York-New York Hotel & Casino",
+          "address": "3790 Las Vegas Blvd S, Las Vegas, NV 89109, USA",
+          "website": "https://www.newyorknewyork.com/",
+          "description": "Features a variety of restaurants, entertainment options, and a roller coaster, embodying the excitement of New York City.",
+          "coordinates": {
+            "latitude": "36.1023",
+            "longitude": "-115.1745"
+          }
+        },
+        {
+          "name": "MGM Grand Hotel and Casino",
+          "address": "3799 Las Vegas Blvd S, Las Vegas, NV 89109, USA",
+          "website": "https://www.mgmgrand.com/",
+          "description": "Known for its entertainment, restaurants, and pool complex, MGM Grand provides a comprehensive Vegas experience.",
+          "coordinates": {
+            "latitude": "36.1024",
+            "longitude": "-115.1696"
+          }
+        },
+        {
+          "name": "Bellagio Hotel and Casino",
+          "address": "3600 Las Vegas Blvd S, Las Vegas, NV 89109, USA",
+          "website": "https://www.bellagio.com/",
+          "description": "An iconic luxury hotel famous for its elegant interiors, fine dining, and the Bellagio Fountains.",
+          "coordinates": {
+            "latitude": "36.1125",
+            "longitude": "-115.1760"
+          }
+        },
+        {
+          "name": "ARIA Resort & Casino",
+          "address": "3730 Las Vegas Blvd S, Las Vegas, NV 89158, USA",
+          "website": "https://www.aria.com/",
+          "description": "A modern luxury hotel offering high-end accommodations, fine dining, and a state-of-the-art casino.",
+          "coordinates": {
+            "latitude": "36.1071",
+            "longitude": "-115.1766"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "T-Mobile Arena Tours",
+          "address": "3780 Las Vegas Blvd S, Las Vegas, NV 89158, USA",
+          "website": "https://www.t-mobilearena.com",
+          "description": "Discover T-Mobile Arena with guided tours that highlight the cutting-edge facilities of the Golden Knights' home, including team memorabilia and exclusive areas.",
+          "coordinates": {
+            "latitude": "36.1028",
+            "longitude": "-115.1785"
+          }
+        },
+        {
+          "name": "City National Arena",
+          "address": "1550 S Pavilion Center Dr, Las Vegas, NV 89135, USA",
+          "website": "https://www.citynationalarenavegas.com",
+          "description": "The practice facility of the Vegas Golden Knights offers public skating, youth and adult hockey leagues, and a chance to watch the team practice.",
+          "coordinates": {
+            "latitude": "36.1451",
+            "longitude": "-115.3036"
+          }
+        },
+        {
+          "name": "The Armory",
+          "address": "3780 Las Vegas Blvd S, Las Vegas, NV 89158, USA",
+          "website": "https://vegasgoldenknights.teamstore.ca/",
+          "description": "Located within T-Mobile Arena, The Armory is the official team store of the Vegas Golden Knights, offering a wide selection of merchandise and apparel.",
+          "coordinates": {
+            "latitude": "36.1028",
+            "longitude": "-115.1785"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "Monorail",
+          "description": "The Las Vegas Monorail provides convenient access to T-Mobile Arena with stops at various locations along the Strip.",
+          "map_link": "https://www.lvmonorail.com"
+        },
+        {
+          "type": "RTC Bus",
+          "description": "The RTC bus system serves the Las Vegas area, including routes that offer access to T-Mobile Arena.",
+          "map_link": "https://www.rtcsnv.com"
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Vegas Golden Knights Website",
+          "website": "https://www.nhl.com/goldenknights/tickets",
+          "description": "The primary source for all Golden Knights ticket sales, offering guaranteed authenticity and the best selection of seats."
+        },
+        {
+          "name": "Ticketmaster",
+          "website": "https://www.ticketmaster.com/vegas-golden-knights-tickets/artist/2257201",
+          "description": "Authorized ticketing partner for the Vegas Golden Knights, providing a secure platform for purchasing official tickets."
+        },
+        {
+          "name": "StubHub",
+          "website": "https://www.stubhub.com/vegas-golden-knights-tickets/performer/100214154/",
+          "description": "A reliable secondary marketplace for Golden Knights tickets, offering a fanProtect guarantee."
+        }
+      ],
+      "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+      "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+    }
+  }
+}

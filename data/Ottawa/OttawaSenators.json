@@ -1,0 +1,349 @@
+{
+  "city": "Ottawa",
+  "team": "Senators",
+  "venue": {
+    "name": "Canadian Tire Centre",
+    "address": "1000 Palladium Dr, Ottawa, ON K2V 1A5, Canada",
+    "website": "https://www.canadiantirecentre.com/",
+    "average_ticket_price": "$90",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "45.2969",
+      "longitude": "-75.9273"
+    },
+    "best_seats_pricing": {
+      "Rinkside": {
+        "Description": "Premier seating right next to the ice, offering fans an up-close and personal experience with the game.",
+        "Sections": "Rinkside",
+        "Estimated_Pricing_Range": "$750 - $2800+",
+        "View_Quality": "Unmatched ice-level view, providing an engaging and thrilling experience.",
+        "Unique_Features": "Opportunities for player interactions and to be seen on broadcast.",
+        "Accessibility": "Convenient access with limited mobility device space.",
+        "Special_Perks": "Access to exclusive clubs and complimentary dining options."
+      },
+      "Club_Seats": {
+        "Description": "Luxurious viewing experience with added benefits, positioned for optimal views of the game.",
+        "Sections": "Club Sections 101-104 and 107-110",
+        "Estimated_Pricing_Range": "$200 - $700",
+        "View_Quality": "Elevated side views ensuring a perfect sightline to the action on ice.",
+        "Unique_Features": "Extra comfort with wider seats and more legroom, plus less crowded areas.",
+        "Accessibility": "Easier access with a dedicated entrance and close proximity to elevators.",
+        "Special_Perks": "In-seat wait service and access to premium lounges."
+      },
+      "Center_Balcony": {
+        "Description": "Fantastic view of the game from above, providing a balanced perspective of the action.",
+        "Sections": "Upper Level Center Sections 301-303 and 320-322",
+        "Estimated_Pricing_Range": "$80 - $200",
+        "View_Quality": "Broad view of the ice, ideal for fans who enjoy a tactical view of the game.",
+        "Unique_Features": "An affordable option that still offers a comprehensive view.",
+        "Accessibility": "Accessible seating options available, with elevator access to balcony levels.",
+        "Special_Perks": "A budget-friendly choice that doesn’t sacrifice on the overall experience."
+      },
+      "Loge_Level": {
+        "Description": "Elevated seats close to the action, offering a detailed view without being at ice level.",
+        "Sections": "Loge Sections L01-L02 and L15-L16; Corner Sections L03-L04, L14, L17, and L18",
+        "Estimated_Pricing_Range": "$120 - $500",
+        "View_Quality": "Intimate proximity to the game with a slightly elevated angle.",
+        "Unique_Features": "Close to the ice at a more accessible price, offering a blend of value and view.",
+        "Accessibility": "Wheelchair-accessible seating available, with amenities close by.",
+        "Special_Perks": "An excellent mix of price and viewing experience."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Canadian Tire Centre Dining Options",
+          "address": "1000 Palladium Dr, Ottawa, ON K2V 1A5",
+          "website": "https://www.canadiantirecentre.com/",
+          "description": "Within the Canadian Tire Centre, fans can enjoy a range of dining options from quick snacks to full-service restaurants, catering to all tastes right at the Senators' home arena.",
+          "coordinates": {
+            "latitude": "45.2969",
+            "longitude": "-75.9273"
+          }
+        },
+        {
+          "name": "Central Bierhaus",
+          "address": "650 Kanata Ave, Ottawa, ON K2T 1H6",
+          "website": "https://www.centralbierhaus.com/",
+          "description": "A spacious venue offering a vast selection of beers and hearty German-inspired fare, located close to the Canadian Tire Centre.",
+          "coordinates": {
+            "latitude": "45.2968",
+            "longitude": "-75.9271"
+          }
+        },
+        {
+          "name": "Crazy Horse Stonegrill Steakhouse & Saloon",
+          "address": "115 Roland Michener Dr, Kanata, ON K2T 1G7",
+          "website": "https://www.crazyhorse.ca/",
+          "description": "A lively western-themed bar and restaurant serving steaks, burgers, and other grill favorites, a short drive from the Canadian Tire Centre.",
+          "coordinates": {
+            "latitude": "45.2994",
+            "longitude": "-75.9193"
+          }
+        },
+        {
+          "name": "The Royal Oak",
+          "address": "329 March Rd, Kanata, ON K2K 2E1",
+          "website": "https://www.royaloakpubs.com/",
+          "description": "A popular British pub offering a wide range of beers, traditional pub fare, and a cozy atmosphere, located near the Senators' arena.",
+          "coordinates": {
+            "latitude": "45.3239",
+            "longitude": "-75.9200"
+          }
+        },
+        {
+          "name": "Aperitivo",
+          "address": "655 Kanata Ave #L2, Ottawa, ON K2T 1H6",
+          "website": "https://www.aperitivo.ca/",
+          "description": "A small plates and wine bar offering an intimate dining experience with a focus on Mediterranean and global flavors, close to the Canadian Tire Centre.",
+          "coordinates": {
+            "latitude": "45.2974",
+            "longitude": "-75.9275"
+          }
+        },
+        {
+          "name": "Big Rig Kitchen & Brewery",
+          "address": "2750 Iris St, Ottawa, ON K2C 1E6",
+          "website": "https://www.bigrigbrew.com/",
+          "description": "A brewery and restaurant known for its craft beers and hearty Canadian dishes, offering a relaxed dining environment a short drive from the arena.",
+          "coordinates": {
+            "latitude": "45.3487",
+            "longitude": "-75.8036"
+          }
+        },
+        {
+          "name": "Moxie's Grill & Bar",
+          "address": "601 Earl Grey Dr, Kanata, ON K2T 1B6",
+          "website": "https://www.moxies.com/",
+          "description": "A casual dining restaurant offering a diverse menu of American and international dishes, located conveniently for Senators fans.",
+          "coordinates": {
+            "latitude": "45.3054",
+            "longitude": "-75.9257"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Brookstreet Hotel",
+          "address": "525 Legget Dr, Ottawa, ON K2K 2W2, Canada",
+          "website": "https://www.brookstreethotel.com/",
+          "description": "A modern hotel offering luxurious rooms, a spa, golf course, and dining options, located in the high-tech district of Kanata, not far from the Canadian Tire Centre.",
+          "coordinates": {
+            "latitude": "45.3455",
+            "longitude": "-75.9195"
+          }
+        },
+        {
+          "name": "Holiday Inn & Suites Ottawa Kanata",
+          "address": "101 Kanata Ave, Ottawa, ON K2T 1E6, Canada",
+          "website": "https://www.ihg.com/holidayinn/hotels/us/en/ottawa/yowkn/hoteldetail",
+          "description": "A family-friendly hotel featuring comfortable rooms, an indoor pool, and a restaurant, conveniently located close to shopping, dining, and the Canadian Tire Centre.",
+          "coordinates": {
+            "latitude": "45.2969",
+            "longitude": "-75.9273"
+          }
+        },
+        {
+          "name": "TownePlace Suites by Marriott Ottawa Kanata",
+          "address": "1251 Maritime Way, Ottawa, ON K2K 0J6, Canada",
+          "website": "https://www.marriott.com/hotels/travel/yowtk-towneplace-suites-ottawa-kanata/",
+          "description": "An all-suite hotel offering spacious accommodations with fully equipped kitchens, ideal for longer stays, located near the Canadian Tire Centre.",
+          "coordinates": {
+            "latitude": "45.3196",
+            "longitude": "-75.9177"
+          }
+        },
+        {
+          "name": "Fairmont Château Laurier",
+          "address": "1 Rideau St, Ottawa, ON K1N 8S7, Canada",
+          "website": "https://www.fairmont.com/laurier-ottawa/",
+          "description": "A historic luxury hotel located in the heart of downtown Ottawa, offering elegant rooms, fine dining, and stunning views of the Parliament Buildings.",
+          "coordinates": {
+            "latitude": "45.4236",
+            "longitude": "-75.6959"
+          }
+        },
+        {
+          "name": "Andaz Ottawa ByWard Market",
+          "address": "325 Dalhousie St, Ottawa, ON K1N 7G1, Canada",
+          "website": "https://www.hyatt.com/en-US/hotel/canada/andaz-ottawa-byward-market/yowaz",
+          "description": "A boutique hotel offering stylish rooms, a rooftop lounge, and direct access to the vibrant ByWard Market, ideal for those looking to explore Ottawa's cultural scene.",
+          "coordinates": {
+            "latitude": "45.4275",
+            "longitude": "-75.6926"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "Parliament Hill",
+          "address": "Wellington St, Ottawa, ON K1A 0A9, Canada",
+          "website": "https://www.lop.parl.ca",
+          "description": "The home of Canada's federal government and the setting for national celebrations, offering guided tours and a stunning view of the Ottawa River.",
+          "coordinates": {
+            "latitude": "45.4236",
+            "longitude": "-75.7009"
+          }
+        },
+        {
+          "name": "ByWard Market",
+          "address": "55 ByWard Market Square, Ottawa, ON K1N 9C3, Canada",
+          "website": "https://www.byward-market.com",
+          "description": "One of Canada's oldest and largest public markets, known for its vibrant food scene, artisans, and nightlife.",
+          "coordinates": {
+            "latitude": "45.4275",
+            "longitude": "-75.6924"
+          }
+        },
+        {
+          "name": "Canadian Museum of History",
+          "address": "100 Laurier St, Gatineau, QC K1A 0M8, Canada",
+          "website": "https://www.historymuseum.ca",
+          "description": "Explores Canada's rich history and cultural heritage, including the First Peoples Hall, located across the river from Parliament Hill.",
+          "coordinates": {
+            "latitude": "45.4294",
+            "longitude": "-75.7093"
+          }
+        },
+        {
+          "name": "Rideau Canal",
+          "address": "Ottawa, ON, Canada",
+          "website": "https://www.pc.gc.ca/en/lhn-nhs/on/rideau",
+          "description": "A UNESCO World Heritage Site, offering scenic boat tours in summer and the world's largest skating rink in winter.",
+          "coordinates": {
+            "latitude": "45.4215",
+            "longitude": "-75.6919"
+          }
+        },
+        {
+          "name": "National Gallery of Canada",
+          "address": "380 Sussex Dr, Ottawa, ON K1N 9N4, Canada",
+          "website": "https://www.gallery.ca",
+          "description": "Home to Canada's most significant collections of art, including indigenous and contemporary works, with an iconic glass and granite structure.",
+          "coordinates": {
+            "latitude": "45.4294",
+            "longitude": "-75.6989"
+          }
+        },
+        {
+          "name": "Canadian War Museum",
+          "address": "1 Vimy Pl, Ottawa, ON K1A 0M8, Canada",
+          "website": "https://www.warmuseum.ca",
+          "description": "A museum dedicated to Canada's military history, featuring extensive exhibits and artifacts from all the conflicts Canada has participated in.",
+          "coordinates": {
+            "latitude": "45.4169",
+            "longitude": "-75.7170"
+          }
+        },
+        {
+          "name": "Canada Aviation and Space Museum",
+          "address": "11 Aviation Pkwy, Ottawa, ON K1K 2X5, Canada",
+          "website": "https://ingeniumcanada.org/aviation",
+          "description": "Showcases Canada's aviation history, with a vast collection of aircraft ranging from the early days of flight to modern space exploration.",
+          "coordinates": {
+            "latitude": "45.4577",
+            "longitude": "-75.6490"
+          }
+        },
+        {
+          "name": "Gatineau Park",
+          "address": "33 Scott Rd, Chelsea, QC J9B 1R5, Canada",
+          "website": "https://ncc-ccn.gc.ca/places/gatineau-park",
+          "description": "A vast park offering outdoor activities like hiking, biking, and camping, with beautiful scenery and natural landscapes just north of Ottawa.",
+          "coordinates": {
+            "latitude": "45.5063",
+            "longitude": "-75.8129"
+          }
+        },
+        {
+          "name": "Canadian Museum of Nature",
+          "address": "240 McLeod St, Ottawa, ON K2P 2R1, Canada",
+          "website": "https://nature.ca",
+          "description": "Features natural history exhibitions, including dinosaur fossils and a blue whale skeleton, housed in a historic castle-like building.",
+          "coordinates": {
+            "latitude": "45.4129",
+            "longitude": "-75.6887"
+          }
+        },
+        {
+          "name": "Diefenbunker: Canada's Cold War Museum",
+          "address": "3929 Carp Rd, Carp, ON K0A 1L0, Canada",
+          "website": "https://diefenbunker.ca",
+          "description": "A four-story underground bunker built during the Cold War to house government officials in the event of a nuclear attack.",
+          "coordinates": {
+            "latitude": "45.3515",
+            "longitude": "-76.0446"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Canadian Tire Centre Tours",
+          "address": "1000 Palladium Dr, Ottawa, ON K2V 1A5",
+          "website": "https://www.canadiantirecentre.com",
+          "description": "Explore the Canadian Tire Centre with guided tours that showcase the state-of-the-art facilities, including the Senators Hall of Fame, featuring memorabilia from the Senators' history.",
+          "coordinates": {
+            "latitude": "45.2969",
+            "longitude": "-75.9273"
+          }
+        },
+        {
+          "name": "Sens Rink of Dreams",
+          "address": "Ottawa City Hall, 110 Laurier Ave W, Ottawa, ON K1P 1J1",
+          "website": "https://ottawa.ca",
+          "description": "Enjoy skating at the Sens Rink of Dreams, an outdoor skating rink sponsored by the Ottawa Senators, located at Ottawa City Hall.",
+          "coordinates": {
+            "latitude": "45.4215",
+            "longitude": "-75.6981"
+          }
+        },
+        {
+          "name": "Spartacat Appearances",
+          "address": "Various locations",
+          "website": "https://www.nhl.com/senators/community/spartacat-appearances",
+          "description": "Meet Spartacat, the Ottawa Senators' mascot, at various community and team events throughout the city, bringing excitement and fun for fans of all ages.",
+          "coordinates": {
+            "latitude": "45.2969",
+            "longitude": "-75.9273"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "OC Transpo Bus Service",
+          "description": "OC Transpo offers convenient bus service to the Canadian Tire Centre, with several routes providing access on game days and for special events.",
+          "map_link": "https://www.octranspo.com/en/plan-your-trip/routes-maps"
+        },
+        {
+          "type": "O-Train",
+          "description": "While the O-Train does not directly serve the Canadian Tire Centre, it connects to bus routes that do, facilitating access from various parts of the city.",
+          "map_link": "https://www.octranspo.com/en/our-services/bus-o-train-network/service-types/o-train"
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Ottawa Senators Website",
+          "website": "https://www.nhl.com/senators/tickets",
+          "description": "The primary source for all Senators ticket sales, offering guaranteed authenticity and the best selection of seats."
+        },
+        {
+          "name": "Ticketmaster",
+          "website": "https://www.ticketmaster.ca/ottawa-senators-tickets/artist/806002",
+          "description": "Authorized ticketing partner for the Ottawa Senators, providing a secure platform for purchasing official tickets."
+        },
+        {
+          "name": "StubHub",
+          "website": "https://www.stubhub.com/ottawa-senators-tickets/performer/124/",
+          "description": "A reliable secondary marketplace for Senators tickets, offering a fanProtect guarantee."
+        }
+      ],
+      "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+      "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+    }
+  }
+}

@@ -1,56 +1,355 @@
 {
-    "city": "Vancouver",
-    "sports_teams": [
+  "city": "Vancouver",
+  "team": "Canucks",
+  "venue": {
+    "name": "Rogers Arena",
+    "address": "800 Griffiths Way, Vancouver, BC V6B 6G1, Canada",
+    "website": "https://www.rogersarena.com/",
+    "average_ticket_price": "$130",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "49.2778",
+      "longitude": "-123.1087"
+    },
+    "best_seats_pricing": {
+      "Rinkside": {
+        "Description": "Premier seating right by the ice, providing fans with an up-close view of the action and player interactions for a thrilling game experience.",
+        "Sections": "Rinkside",
+        "Estimated_Pricing_Range": "$900 - $3500+",
+        "View_Quality": "Immediate, ground-level view of the game, offering an intense and immersive viewing experience.",
+        "Unique_Features": "Opportunity for close encounters with players and a chance to appear on television.",
+        "Accessibility": "Convenient access with consideration for limited mobility space.",
+        "Special_Perks": "Exclusive access to clubs with complimentary dining options and beverages."
+      },
+      "Club_Seats": {
+        "Description": "Superb viewing experience from the sides, enhanced with premium benefits for an enjoyable game night.",
+        "Sections": "Club Sections 106-108 and 118-120",
+        "Estimated_Pricing_Range": "$300 - $1000",
+        "View_Quality": "Elevated lateral views for a clear and unobstructed perspective of the ice.",
+        "Unique_Features": "Spacious seating and reduced crowd density for added comfort.",
+        "Accessibility": "Easy access through dedicated entrances and proximity to elevators for convenience.",
+        "Special_Perks": "Access to exclusive lounge areas and in-seat wait service."
+      },
+      "Center_Balcony": {
+        "Description": "Optimal bird's-eye view of the game, offering fans a comprehensive perspective of the on-ice action.",
+        "Sections": "Balcony Center Sections 301-305 and 319-323",
+        "Estimated_Pricing_Range": "$120 - $300",
+        "View_Quality": "Panoramic arena view, perfect for fans who appreciate a tactical overview of the game.",
+        "Unique_Features": "Cost-effective option for enjoying a full view of the game.",
+        "Accessibility": "Accessible seating available, with elevator service to the balcony level.",
+        "Special_Perks": "An affordable choice for fans without compromising on the experience."
+      },
+      "Loge_Level": {
+        "Description": "Slightly elevated seats providing a detailed and intimate view of the game, situated just above the rinkside.",
+        "Sections": "Loge Sections 307-311 and 333-337",
+        "Estimated_Pricing_Range": "$200 - $700",
+        "View_Quality": "Near-ice perspective with an elevated angle for a better view of the game dynamics.",
+        "Unique_Features": "A perfect blend of proximity and viewing elevation, offering a balanced game-watching experience.",
+        "Accessibility": "Wheelchair-accessible seating available, ensuring a comfortable and enjoyable visit for all fans.",
+        "Special_Perks": "A prime choice for those seeking a memorable game day experience with a mix of value and excellent views."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
         {
-            "team_name": "Vancouver Canucks",
-            "sport": "Ice Hockey",
-            "league": "National Hockey League (NHL)",
-            "average_ticket_price": "Around $100 CAD",
-            "season_start": "October",
-            "playoffs_start": "April",
-            "venue": {
-                "venue_name": "Rogers Arena",
-                "details": "Indoor Sports Arena, also used for concerts and other events",
-                "address": "800 Griffiths Way, Vancouver, BC V6B 6G1, Canada",
-                "geographic_coordinates": {
-                    "latitude": 49.2775,
-                    "longitude": -123.108889
-                }
-            }
+          "name": "Rogers Arena Dining",
+          "address": "800 Griffiths Way, Vancouver, BC V6B 6G1, Canada",
+          "website": "https://www.rogersarena.com/concessions/",
+          "description": "Inside Rogers Arena, fans can enjoy a variety of dining options, from quick snacks to gourmet meals, ensuring a satisfying experience on game nights.",
+          "coordinates": {
+            "latitude": "49.2778",
+            "longitude": "-123.1087"
+          }
         },
         {
-            "team_name": "Vancouver Whitecaps FC",
-            "sport": "Soccer",
-            "league": "Major League Soccer (MLS)",
-            "average_ticket_price": "Around $35 CAD",
-            "season_start": "March",
-            "playoffs_start": "October",
-            "venue": {
-                "venue_name": "BC Place",
-                "details": "Multi-use Stadium, also serves as the home for CFL’s BC Lions",
-                "address": "777 Pacific Blvd, Vancouver, BC V6B 4Y8, Canada",
-                "geographic_coordinates": {
-                    "latitude": 49.276667,
-                    "longitude": -123.111944
-                }
-            }
+          "name": "The Sportsbar LIVE! at Rogers Arena",
+          "address": "99 West Georgia Street, Vancouver, BC V6B 0N8, Canada",
+          "website": "https://thesportsbar.ca/",
+          "description": "A high-energy sports bar located within Rogers Arena, offering live sports viewing, upscale pub fare, and a great selection of beers and cocktails.",
+          "coordinates": {
+            "latitude": "49.2796",
+            "longitude": "-123.1089"
+          }
         },
         {
-            "team_name": "BC Lions",
-            "sport": "CFL Football",
-            "league": "Canadian Football League (CFL)",
-            "average_ticket_price": "Around $40 CAD",
-            "season_start": "June",
-            "playoffs_start": "November",
-            "venue": {
-                "venue_name": "BC Place",
-                "details": "Multi-use Stadium, also serves as the home for MLS’s Vancouver Whitecaps FC",
-                "address": "777 Pacific Blvd, Vancouver, BC V6B 4Y8, Canada",
-                "geographic_coordinates": {
-                    "latitude": 49.276667,
-                    "longitude": -123.111944
-                }
-            }
+          "name": "Frankie’s Italian Kitchen & Bar",
+          "address": "765 Beatty St, Vancouver, BC V6B 2M4, Canada",
+          "website": "https://www.frankiesitaliankitchen.ca/",
+          "description": "Just a short walk from Rogers Arena, Frankie’s offers delicious Italian cuisine and an extensive wine list in a cozy setting.",
+          "coordinates": {
+            "latitude": "49.2768",
+            "longitude": "-123.1122"
+          }
+        },
+        {
+          "name": "The Victor",
+          "address": "39 Smithe St, Vancouver, BC V6B 0R3, Canada",
+          "website": "https://www.parqvancouver.com/restaurants/the-victor/",
+          "description": "Located at Parq Vancouver near Rogers Arena, The Victor features a luxurious dining experience with steak, seafood, and a notable wine list.",
+          "coordinates": {
+            "latitude": "49.2765",
+            "longitude": "-123.1109"
+          }
+        },
+        {
+          "name": "Yaletown Brewing Company",
+          "address": "1111 Mainland St, Vancouver, BC V6B 2T9, Canada",
+          "website": "https://www.mjg.ca/yaletown/",
+          "description": "Vancouver’s original brewpub, offering house-made beers and classic pub fare in the trendy Yaletown district, a great spot for pre-game gatherings.",
+          "coordinates": {
+            "latitude": "49.2755",
+            "longitude": "-123.1216"
+          }
+        },
+        {
+          "name": "Nightingale",
+          "address": "1017 W Hastings St, Vancouver, BC V6E 0C4, Canada",
+          "website": "https://hawknightingale.com/",
+          "description": "Celebrated for its innovative Canadian cuisine, Nightingale offers a lively atmosphere and is perfect for dining before heading to the game.",
+          "coordinates": {
+            "latitude": "49.2866",
+            "longitude": "-123.1199"
+          }
+        },
+        {
+          "name": "Steamworks Brewpub",
+          "address": "375 Water St, Vancouver, BC V6B 5C6, Canada",
+          "website": "https://steamworks.com/brewpub",
+          "description": "A landmark Vancouver brewpub known for its craft beers and casual dining, located near the waterfront, a short distance from Rogers Arena.",
+          "coordinates": {
+            "latitude": "49.2847",
+            "longitude": "-123.1118"
+          }
         }
-    ]
+      ],
+      "accommodations": [
+        {
+          "name": "The Fairmont Waterfront",
+          "address": "900 Canada Place Way, Vancouver, BC V6C 3L5, Canada",
+          "website": "https://www.fairmont.com/waterfront-vancouver/",
+          "description": "Luxury hotel offering stunning harbour views, an outdoor pool, and fine dining options, located near Vancouver's vibrant waterfront and close to Rogers Arena.",
+          "coordinates": {
+            "latitude": "49.2876",
+            "longitude": "-123.1134"
+          }
+        },
+        {
+          "name": "Pan Pacific Vancouver",
+          "address": "999 Canada Pl, Vancouver, BC V6C 3B5, Canada",
+          "website": "https://www.panpacific.com/en/hotels-and-resorts/pp-vancouver.html",
+          "description": "Situated on the waterfront, this elegant hotel features rooms with panoramic views of the harbour, mountains, or city skyline, along with a spa and outdoor pool.",
+          "coordinates": {
+            "latitude": "49.2872",
+            "longitude": "-123.1119"
+          }
+        },
+        {
+          "name": "JW Marriott Parq Vancouver",
+          "address": "39 Smithe St, Vancouver, BC V6B 0R3, Canada",
+          "website": "https://www.marriott.com/hotels/travel/yvrjw-jw-marriott-parq-vancouver/",
+          "description": "A luxury hotel offering modern rooms with floor-to-ceiling windows, located in the heart of the entertainment district and adjacent to Rogers Arena.",
+          "coordinates": {
+            "latitude": "49.2765",
+            "longitude": "-123.1109"
+          }
+        },
+        {
+          "name": "Hotel Blu Vancouver",
+          "address": "177 Robson St, Vancouver, BC V6B 0N3, Canada",
+          "website": "https://www.hotelbluvancouver.com/",
+          "description": "Eco-friendly hotel featuring modern amenities such as an indoor pool, sauna, and free Wi-Fi, conveniently located a short walk from Rogers Arena.",
+          "coordinates": {
+            "latitude": "49.2784",
+            "longitude": "-123.1159"
+          }
+        },
+        {
+          "name": "Georgian Court Hotel",
+          "address": "773 Beatty St, Vancouver, BC V6B 2M4, Canada",
+          "website": "https://www.georgiancourt.com/",
+          "description": "Boutique hotel offering elegant accommodations and thoughtful amenities, located steps away from Rogers Arena, making it ideal for Canucks fans.",
+          "coordinates": {
+            "latitude": "49.2769",
+            "longitude": "-123.1122"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "Stanley Park",
+          "address": "Vancouver, BC, Canada",
+          "website": "https://vancouver.ca/parks-recreation-culture/stanley-park.aspx",
+          "description": "Vancouver's largest urban park offering scenic views of water, mountains, sky, and majestic trees along its famous Seawall.",
+          "coordinates": {
+            "latitude": "49.3043",
+            "longitude": "-123.1443"
+          }
+        },
+        {
+          "name": "Granville Island",
+          "address": "Granville Island, Vancouver, BC, Canada",
+          "website": "https://granvilleisland.com/",
+          "description": "A bustling peninsula known for its public market, artisan shops, and vibrant arts scene.",
+          "coordinates": {
+            "latitude": "49.2709",
+            "longitude": "-123.1348"
+          }
+        },
+        {
+          "name": "Vancouver Aquarium",
+          "address": "845 Avison Way, Vancouver, BC V6G 3E2, Canada",
+          "website": "https://www.vanaqua.org/",
+          "description": "A center for marine research, conservation, and marine animal rehabilitation located within Stanley Park.",
+          "coordinates": {
+            "latitude": "49.3008",
+            "longitude": "-123.1304"
+          }
+        },
+        {
+          "name": "Capilano Suspension Bridge Park",
+          "address": "3735 Capilano Rd, North Vancouver, BC V7R 4J1, Canada",
+          "website": "https://www.capbridge.com/",
+          "description": "A historic suspension bridge offering breathtaking views of the forest and river below.",
+          "coordinates": {
+            "latitude": "49.3429",
+            "longitude": "-123.1149"
+          }
+        },
+        {
+          "name": "Grouse Mountain",
+          "address": "6400 Nancy Greene Way, North Vancouver, BC V7R 4K9, Canada",
+          "website": "https://www.grousemountain.com/",
+          "description": "A year-round mountain resort offering skiing, snowboarding, hiking, and a famous gondola ride.",
+          "coordinates": {
+            "latitude": "49.3801",
+            "longitude": "-123.0814"
+          }
+        },
+        {
+          "name": "Science World",
+          "address": "1455 Quebec St, Vancouver, BC V6A 3Z7, Canada",
+          "website": "https://www.scienceworld.ca/",
+          "description": "Features interactive and thought-provoking exhibits on science and technology, housed in a geodesic dome.",
+          "coordinates": {
+            "latitude": "49.2734",
+            "longitude": "-123.1038"
+          }
+        },
+        {
+          "name": "Museum of Vancouver",
+          "address": "1100 Chestnut St, Vancouver, BC V6J 3J9, Canada",
+          "website": "https://museumofvancouver.ca/",
+          "description": "Dedicated to showcasing Vancouver's history, from its First Nations roots to its contemporary urban landscape.",
+          "coordinates": {
+            "latitude": "49.2765",
+            "longitude": "-123.1460"
+          }
+        },
+        {
+          "name": "Queen Elizabeth Park",
+          "address": "4600 Cambie St, Vancouver, BC V5Y 2M9, Canada",
+          "website": "https://vancouver.ca/parks-recreation-culture/queen-elizabeth-park.aspx",
+          "description": "A stunning municipal park located on Little Mountain, featuring meticulously manicured gardens and an arboretum.",
+          "coordinates": {
+            "latitude": "49.2419",
+            "longitude": "-123.1117"
+          }
+        },
+        {
+          "name": "VanDusen Botanical Garden",
+          "address": "5251 Oak St, Vancouver, BC V6M 4H1, Canada",
+          "website": "https://vandusengarden.org/",
+          "description": "A botanical garden in the heart of Vancouver, offering visitors a peaceful retreat and educational experiences in plant biodiversity.",
+          "coordinates": {
+            "latitude": "49.2386",
+            "longitude": "-123.1284"
+          }
+        },
+        {
+          "name": "Vancouver Art Gallery",
+          "address": "750 Hornby St, Vancouver, BC V6Z 2H7, Canada",
+          "website": "https://www.vanartgallery.bc.ca/",
+          "description": "One of Canada's most respected and innovative art institutions, featuring historical and contemporary exhibits by regional and international artists.",
+          "coordinates": {
+            "latitude": "49.2827",
+            "longitude": "-123.1207"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Rogers Arena Tours",
+          "address": "800 Griffiths Way, Vancouver, BC V6B 6G1, Canada",
+          "website": "https://www.rogersarena.com/tours/",
+          "description": "Go behind the scenes at Rogers Arena, home of the Vancouver Canucks. These guided tours offer fans a chance to explore the locker rooms, luxury suites, and the Canucks Hall of Heroes, showcasing the rich history of the team.",
+          "coordinates": {
+            "latitude": "49.2778",
+            "longitude": "-123.1087"
+          }
+        },
+        {
+          "name": "Canucks Team Store",
+          "address": "Rogers Arena, 800 Griffiths Way, Vancouver, BC V6B 6G1, Canada",
+          "website": "https://vanbase.ca/",
+          "description": "The official Canucks Team Store located at Rogers Arena offers a wide selection of Canucks gear, from jerseys and hats to memorabilia and exclusive items.",
+          "coordinates": {
+            "latitude": "49.2778",
+            "longitude": "-123.1087"
+          }
+        },
+        {
+          "name": "Canucks Autism Network",
+          "address": "Various locations",
+          "website": "https://www.canucksautism.ca/",
+          "description": "Participate in community events and programs run by the Canucks Autism Network, which provides sports and recreational activities for families living with autism in British Columbia.",
+          "coordinates": {
+            "latitude": "49.2827",
+            "longitude": "-123.1207"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "SkyTrain",
+          "description": "The SkyTrain's Expo and Millennium Lines provide direct access to Rogers Arena via the Stadium-Chinatown Station, making it easy for fans to get to and from games and events.",
+          "map_link": "https://www.translink.ca/"
+        },
+        {
+          "type": "Bus",
+          "description": "Vancouver's extensive bus network offers several routes that stop near Rogers Arena, ensuring convenient access from all parts of the city.",
+          "map_link": "https://www.translink.ca/"
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Vancouver Canucks Website",
+          "website": "https://www.nhl.com/canucks/tickets",
+          "description": "The primary source for all Canucks ticket sales, offering guaranteed authenticity and the best selection of seats directly from the team.",
+          "latitude": "49.2778",
+          "longitude": "-123.1087"
+        },
+        {
+          "name": "Ticketmaster",
+          "website": "https://www.ticketmaster.ca/vancouver-canucks-tickets/artist/806039",
+          "description": "As the authorized ticketing partner for the Vancouver Canucks, Ticketmaster provides a secure and reliable platform for purchasing official tickets.",
+          "latitude": "49.2778",
+          "longitude": "-123.1087"
+        },
+        {
+          "name": "StubHub",
+          "website": "https://www.stubhub.com/vancouver-canucks-tickets/performer/124/",
+          "description": "StubHub offers a trusted secondary marketplace for Canucks tickets, with a fanProtect guarantee for buyers.",
+          "latitude": "49.2778",
+          "longitude": "-123.1087"
+        }
+      ],
+      "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+      "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+    }
+  }
 }

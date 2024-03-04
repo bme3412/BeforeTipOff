@@ -1,0 +1,349 @@
+{
+  "city": "San Jose",
+  "team": "Sharks",
+  "venue": {
+    "name": "SAP Center",
+    "address": "525 W Santa Clara St, San Jose, CA 95113, United States",
+    "website": "https://www.sapcenter.com/",
+    "average_ticket_price": "$120",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "37.3328",
+      "longitude": "-121.9010"
+    },
+    "best_seats_pricing": {
+      "Glass Seats": {
+        "Description": "Front-row seats that put you as close to the NHL action as possible, without having to dodge a puck.",
+        "Sections": "Glass",
+        "Estimated_Pricing_Range": "$500 - $2500+",
+        "View_Quality": "Unobstructed, up-close view of the game, making you feel part of the action.",
+        "Unique_Features": "Potential for player interactions and getting on the Jumbotron.",
+        "Accessibility": "Prime location with straightforward access, though space may be limited for mobility devices.",
+        "Special_Perks": "Includes access to exclusive clubs and complimentary amenities."
+      },
+      "Club Level": {
+        "Description": "Elevated seats offering a perfect blend of view, comfort, and exclusivity.",
+        "Sections": "Club Level Sections 101-115",
+        "Estimated_Pricing_Range": "$300 - $700",
+        "View_Quality": "Elevated angle providing a comprehensive view of the ice, ideal for following plays.",
+        "Unique_Features": "Comfortable seating with extra legroom and less crowding.",
+        "Accessibility": "Easy access via dedicated entrances and elevators, close to amenities.",
+        "Special_Perks": "Access to luxury suites and in-seat service, enhancing the game day experience."
+      },
+      "Upper Deck": {
+        "Description": "Offers a bird's-eye view of the game, perfect for fans who enjoy analyzing plays.",
+        "Sections": "Upper Deck Sections 201-228",
+        "Estimated_Pricing_Range": "$90 - $200",
+        "View_Quality": "Wide, panoramic view of the entire rink, capturing every moment of the game.",
+        "Unique_Features": "An affordable option for fans wanting to soak in the atmosphere without breaking the bank.",
+        "Accessibility": "Accessible seating available, with elevators providing access to the upper levels.",
+        "Special_Perks": "Cost-effective choice with a comprehensive view, ideal for groups."
+      },
+      "Executive Suites": {
+        "Description": "Provides a private, luxurious experience for you and your guests, combining exclusivity with a fantastic view.",
+        "Sections": "Suites Level",
+        "Estimated_Pricing_Range": "$1000 - $4000",
+        "View_Quality": "Private viewing angle with less distraction, offering both intimacy and a great view of the ice.",
+        "Unique_Features": "Private space for hosting guests, customizable catering options available.",
+        "Accessibility": "Dedicated suite level access, with personalized service to cater to all needs.",
+        "Special_Perks": "Exclusive access to suite level clubs and premium dining options, providing a unique game day experience."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "SAP Center",
+          "address": "525 W Santa Clara St, San Jose, CA 95113",
+          "website": "https://www.sapcenter.com/dining",
+          "description": "Located in the heart of San Jose, SAP Center offers a variety of dining options within and around the arena, catering to a range of tastes and preferences.",
+          "coordinates": {
+            "latitude": "37.3328",
+            "longitude": "-121.9010"
+          }
+        },
+        {
+          "name": "San Pedro Square Market",
+          "address": "87 N San Pedro St, San Jose, CA 95110",
+          "website": "http://www.sanpedrosquaremarket.com/",
+          "description": "A vibrant marketplace offering a wide array of gourmet foods, craft beers, and live entertainment, just a short walk from SAP Center.",
+          "coordinates": {
+            "latitude": "37.3364",
+            "longitude": "-121.8941"
+          }
+        },
+        {
+          "name": "Original Joe's San Jose",
+          "address": "301 S 1st St, San Jose, CA 95113",
+          "website": "https://www.originaljoes.com/san_jose/",
+          "description": "A San Jose classic since 1956, Original Joe's offers Italian-American classics in a cozy diner setting, perfect for pre-game dining.",
+          "coordinates": {
+            "latitude": "37.3296",
+            "longitude": "-121.8847"
+          }
+        },
+        {
+          "name": "Poor House Bistro",
+          "address": "91 S Autumn St, San Jose, CA 95110",
+          "website": "http://www.poorhousebistro.com/",
+          "description": "A New Orleans-inspired joint near SAP Center, serving up live blues music and Creole cuisine in a laid-back atmosphere.",
+          "coordinates": {
+            "latitude": "37.3325",
+            "longitude": "-121.9022"
+          }
+        },
+        {
+          "name": "District San Jose",
+          "address": "65 N San Pedro St, San Jose, CA 95110",
+          "website": "https://www.districtsanjose.com/",
+          "description": "Features an extensive wine list, craft beers, and small plates in a sophisticated setting, ideal for pre or post-event gatherings.",
+          "coordinates": {
+            "latitude": "37.3369",
+            "longitude": "-121.8942"
+          }
+        },
+        {
+          "name": "La Victoria Taqueria",
+          "address": "140 E San Carlos St, San Jose, CA 95112",
+          "website": "http://www.lavicsj.com/",
+          "description": "Known for its iconic orange sauce, La Victoria offers authentic Mexican food in a casual setting, popular with locals and visitors alike.",
+          "coordinates": {
+            "latitude": "37.3329",
+            "longitude": "-121.8849"
+          }
+        },
+        {
+          "name": "Mezcal Restaurant",
+          "address": "25 W San Fernando St, San Jose, CA 95113",
+          "website": "https://www.mezcalrestaurantsj.com/",
+          "description": "Offers innovative Oaxacan cuisine in a vibrant, colorful setting, known for its extensive selection of mezcal and tequila.",
+          "coordinates": {
+            "latitude": "37.3341",
+            "longitude": "-121.8893"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "The Westin San Jose",
+          "address": "302 S Market St, San Jose, CA 95113, USA",
+          "website": "https://www.marriott.com/hotels/travel/sjcwi-the-westin-san-jose/",
+          "description": "An elegant hotel in downtown San Jose, offering luxurious rooms, a fitness center, and dining options, conveniently located near SAP Center.",
+          "coordinates": {
+            "latitude": "37.330625",
+            "longitude": "-121.888937"
+          }
+        },
+        {
+          "name": "San Jose Marriott",
+          "address": "301 S Market St, San Jose, CA 95113, USA",
+          "website": "https://www.marriott.com/hotels/travel/sjcsj-san-jose-marriott/",
+          "description": "Contemporary hotel with stylish rooms, outdoor pool, fitness center, and several dining options, located in the heart of San Jose close to SAP Center.",
+          "coordinates": {
+            "latitude": "37.330186",
+            "longitude": "-121.889282"
+          }
+        },
+        {
+          "name": "Hotel De Anza",
+          "address": "233 W Santa Clara St, San Jose, CA 95113, USA",
+          "website": "https://www.destinationhotels.com/hotel-de-anza",
+          "description": "A historic boutique hotel offering chic rooms, a jazz lounge, and dining, within walking distance to SAP Center and downtown attractions.",
+          "coordinates": {
+            "latitude": "37.333848",
+            "longitude": "-121.892939"
+          }
+        },
+        {
+          "name": "Fairmont San Jose",
+          "address": "170 S Market St, San Jose, CA 95113, USA",
+          "website": "https://www.fairmont.com/san-jose/",
+          "description": "A landmark luxury hotel in downtown San Jose, offering elegant accommodations, fine dining, and extensive amenities, just a short drive from SAP Center.",
+          "coordinates": {
+            "latitude": "37.332693",
+            "longitude": "-121.889294"
+          }
+        },
+        {
+          "name": "Hotel Valencia Santana Row",
+          "address": "355 Santana Row, San Jose, CA 95128, USA",
+          "website": "https://www.hotelvalencia-santanarow.com/",
+          "description": "A stylish hotel located on the fashionable Santana Row, offering sophisticated rooms, a rooftop bar, and an outdoor pool, a short drive from SAP Center.",
+          "coordinates": {
+            "latitude": "37.320002",
+            "longitude": "-121.947510"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "Winchester Mystery House",
+          "address": "525 S Winchester Blvd, San Jose, CA 95128, USA",
+          "website": "https://www.winchestermysteryhouse.com",
+          "description": "A legendary mansion with 160 rooms, known for its architectural curiosities and lack of any master building plan.",
+          "coordinates": {
+            "latitude": "37.3184",
+            "longitude": "-121.9511"
+          }
+        },
+        {
+          "name": "The Tech Interactive",
+          "address": "201 S Market St, San Jose, CA 95113, USA",
+          "website": "https://www.thetech.org",
+          "description": "An interactive science and technology center located in downtown San Jose, offering hands-on exhibits and experiences.",
+          "coordinates": {
+            "latitude": "37.3314",
+            "longitude": "-121.8902"
+          }
+        },
+        {
+          "name": "San Jose Museum of Art",
+          "address": "110 S Market St, San Jose, CA 95113, USA",
+          "website": "https://sjmusart.org",
+          "description": "A modern and contemporary art museum focusing on West Coast artists, with rotating exhibitions.",
+          "coordinates": {
+            "latitude": "37.3337",
+            "longitude": "-121.8893"
+          }
+        },
+        {
+          "name": "Rosicrucian Egyptian Museum",
+          "address": "1660 Park Ave, San Jose, CA 95191, USA",
+          "website": "https://www.egyptianmuseum.org",
+          "description": "Home to the largest collection of Egyptian artifacts on exhibit in western North America.",
+          "coordinates": {
+            "latitude": "37.3344",
+            "longitude": "-121.9226"
+          }
+        },
+        {
+          "name": "Santana Row",
+          "address": "377 Santana Row, San Jose, CA 95128, USA",
+          "website": "https://www.santanarow.com",
+          "description": "An upscale shopping, residential, dining, and entertainment complex known for its luxury boutiques and lively atmosphere.",
+          "coordinates": {
+            "latitude": "37.3200",
+            "longitude": "-121.9479"
+          }
+        },
+        {
+          "name": "Children's Discovery Museum of San Jose",
+          "address": "180 Woz Way, San Jose, CA 95110, USA",
+          "website": "https://www.cdm.org",
+          "description": "A museum designed for children, with interactive exhibits focusing on science, nature, and humanities.",
+          "coordinates": {
+            "latitude": "37.3268",
+            "longitude": "-121.8921"
+          }
+        },
+        {
+          "name": "Japanese Friendship Garden",
+          "address": "1300 Senter Rd, San Jose, CA 95112, USA",
+          "website": "Not specified",
+          "description": "A beautiful and tranquil garden designed as a symbol of friendship between San Jose and its sister city Okayama, Japan.",
+          "coordinates": {
+            "latitude": "37.3230",
+            "longitude": "-121.8608"
+          }
+        },
+        {
+          "name": "San Jose Rose Garden",
+          "address": "Dana Ave & Naglee Ave, San Jose, CA 95126, USA",
+          "website": "https://www.sanjoseca.gov",
+          "description": "An expansive 5.5-acre rose garden with over 4,000 rose bushes and a variety of other plants.",
+          "coordinates": {
+            "latitude": "37.3317",
+            "longitude": "-121.9281"
+          }
+        },
+        {
+          "name": "Municipal Rose Garden",
+          "address": "1649 Naglee Ave, San Jose, CA 95126, USA",
+          "website": "Not specified",
+          "description": "A historic and nationally recognized rose garden, showcasing a vast array of rose varieties and colors.",
+          "coordinates": {
+            "latitude": "37.3323",
+            "longitude": "-121.9291"
+          }
+        },
+        {
+          "name": "Happy Hollow Park & Zoo",
+          "address": "748 Story Rd, San Jose, CA 95112, USA",
+          "website": "https://www.hhpz.org",
+          "description": "A small 16-acre zoo and amusement park designed for young children and families.",
+          "coordinates": {
+            "latitude": "37.3255",
+            "longitude": "-121.8617"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "SAP Center Tours",
+          "address": "525 W Santa Clara St, San Jose, CA 95113",
+          "website": "https://www.sapcenter.com",
+          "description": "Tour the SAP Center and explore behind-the-scenes areas of the home arena of the San Jose Sharks, including the Sharks' locker room and the premium club areas.",
+          "coordinates": {
+            "latitude": "37.3328",
+            "longitude": "-121.9010"
+          }
+        },
+        {
+          "name": "Sharks Ice at San Jose",
+          "address": "1500 S 10th St, San Jose, CA 95112",
+          "website": "https://www.solar4americaiceatsanjose.com",
+          "description": "Public skating, hockey programs, and figure skating lessons are available at Sharks Ice, the official practice facility of the San Jose Sharks.",
+          "coordinates": {
+            "latitude": "37.3125",
+            "longitude": "-121.8756"
+          }
+        },
+        {
+          "name": "San Jose Sharks Fan Shop",
+          "address": "525 W Santa Clara St, San Jose, CA 95113",
+          "website": "https://www.sjteamshop.com",
+          "description": "The official team store located at SAP Center, offering a wide selection of Sharks merchandise, apparel, and memorabilia.",
+          "coordinates": {
+            "latitude": "37.3328",
+            "longitude": "-121.9010"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "VTA Light Rail",
+          "description": "The VTA Light Rail system provides convenient access to SAP Center, with the Diridon Station located nearby.",
+          "map_link": "https://www.vta.org/go/maps-schedules"
+        },
+        {
+          "type": "Bus",
+          "description": "San Jose's VTA bus service offers extensive coverage, ensuring easy access to SAP Center from throughout the city.",
+          "map_link": "https://www.vta.org/go/maps-schedules"
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official San Jose Sharks Website",
+          "website": "https://www.nhl.com/sharks/tickets",
+          "description": "The primary source for all Sharks ticket sales, offering guaranteed authenticity and the best selection of seats."
+        },
+        {
+          "name": "Ticketmaster",
+          "website": "https://www.ticketmaster.com/san-jose-sharks-tickets/artist/806015",
+          "description": "Authorized ticketing partner for the San Jose Sharks, providing a secure platform for purchasing official tickets."
+        },
+        {
+          "name": "StubHub",
+          "website": "https://www.stubhub.com/san-jose-sharks-tickets/performer/124/",
+          "description": "A reliable secondary marketplace for Sharks tickets, offering a fanProtect guarantee."
+        }
+      ],
+      "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+      "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+    }
+  }
+}

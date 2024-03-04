@@ -1,0 +1,355 @@
+{
+  "city": "Tampa",
+  "team": "Lightning",
+  "venue": {
+    "name": "Amalie Arena",
+    "address": "401 Channelside Dr, Tampa, FL 33602, USA",
+    "website": "https://www.amaliearena.com/",
+    "average_ticket_price": "$120",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "27.9425",
+      "longitude": "-82.4518"
+    },
+    "best_seats_pricing": {
+      "Rinkside": {
+        "Description": "Experience the thrill of the game up close with seats that put you right next to the ice, offering unmatched views and the excitement of being close to the players.",
+        "Sections": "Rinkside",
+        "Estimated_Pricing_Range": "$900 - $4000+",
+        "View_Quality": "Direct view of the action on the ice, providing an intense and personal experience.",
+        "Unique_Features": "Opportunity for unique player interactions and the possibility of appearing on the live broadcast.",
+        "Accessibility": "Premier access with limited mobility device space, ensuring convenience and comfort.",
+        "Special_Perks": "Includes exclusive access to luxury amenities, including club and dining options."
+      },
+      "Club_Seats": {
+        "Description": "Enjoy the game from the comfort of club seats offering fantastic sightlines, along with added benefits for a superior game day experience.",
+        "Sections": "Club Sections 101-128",
+        "Estimated_Pricing_Range": "$300 - $1200",
+        "View_Quality": "Elevated views from the side, ensuring a clear perspective of the entire rink.",
+        "Unique_Features": "Enhanced comfort with more legroom and less crowded sections for ease and convenience.",
+        "Accessibility": "Special entrances and close proximity to elevators for effortless access.",
+        "Special_Perks": "Access to exclusive club areas with premium services including in-seat wait service."
+      },
+      "Center_Balcony": {
+        "Description": "Capture the game from a central vantage point, providing a panoramic view of the rink and a strategic overview of the play.",
+        "Sections": "Balcony Center Sections 301-330",
+        "Estimated_Pricing_Range": "$100 - $300",
+        "View_Quality": "Broad, overhead view of the game, ideal for fans who enjoy analyzing the play.",
+        "Unique_Features": "An affordable option for fans seeking a full view of the action from above.",
+        "Accessibility": "Accessible seating options available, with elevators facilitating access to balcony levels.",
+        "Special_Perks": "An economical choice without compromising the enjoyment of the game atmosphere."
+      },
+      "Loge_Level": {
+        "Description": "Elevated just above the rinkside, these seats offer intimate views of the game with a bit of height to see over the boards.",
+        "Sections": "Loge Sections 1-28",
+        "Estimated_Pricing_Range": "$200 - $800",
+        "View_Quality": "Near-ice perspective with a slightly elevated angle for enhanced visibility.",
+        "Unique_Features": "A balance of proximity to the action and an accessible price point.",
+        "Accessibility": "Wheelchair-accessible options and amenities located conveniently nearby.",
+        "Special_Perks": "A prime choice for those seeking a memorable game day experience with a mix of value and view."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Channelside Bay Plaza",
+          "address": "615 Channelside Dr, Tampa, FL 33602, USA",
+          "website": "http://www.channelsidebayplaza.com/",
+          "description": "Located near Amalie Arena, Channelside Bay Plaza offers a variety of dining options, from casual eateries to upscale restaurants, perfect for pre-game and post-game gatherings.",
+          "coordinates": {
+            "latitude": "27.9438",
+            "longitude": "-82.4518"
+          }
+        },
+        {
+          "name": "Ferg's Live",
+          "address": "490 Channelside Dr, Tampa, FL 33602, USA",
+          "website": "http://fergslive.com/",
+          "description": "A sports bar and entertainment venue offering a lively atmosphere, live music, and a wide selection of beers and American fare, just steps from Amalie Arena.",
+          "coordinates": {
+            "latitude": "27.9421",
+            "longitude": "-82.4513"
+          }
+        },
+        {
+          "name": "Columbia Cafe - Riverwalk Tampa",
+          "address": "801 Old Water St, Tampa, FL 33602, USA",
+          "website": "https://www.columbiarestaurant.com/Cafe",
+          "description": "Part of the historic Columbia Restaurant Group, this cafe on the Tampa Riverwalk serves Spanish and Cuban cuisine with beautiful waterfront views.",
+          "coordinates": {
+            "latitude": "27.9425",
+            "longitude": "-82.4518"
+          }
+        },
+        {
+          "name": "American Social Bar & Kitchen",
+          "address": "601 S Harbour Island Blvd Suite 107, Tampa, FL 33602, USA",
+          "website": "https://americansocialbar.com/tampa/",
+          "description": "An upscale sports bar and restaurant offering craft beers, cocktails, and American cuisine with a modern twist, along with waterfront views.",
+          "coordinates": {
+            "latitude": "27.9415",
+            "longitude": "-82.4563"
+          }
+        },
+        {
+          "name": "Hattricks",
+          "address": "107 S Franklin St, Tampa, FL 33602, USA",
+          "website": "http://www.hattrickstavern.com/",
+          "description": "A popular sports bar known for its lively atmosphere, great wings, and proximity to Amalie Arena, making it a favorite spot for Lightning fans.",
+          "coordinates": {
+            "latitude": "27.9433",
+            "longitude": "-82.4548"
+          }
+        },
+        {
+          "name": "Jackson's Bistro, Bar & Sushi",
+          "address": "601 S Harbour Island Blvd, Tampa, FL 33602, USA",
+          "website": "https://jacksonsbistro.com/",
+          "description": "A versatile dining destination offering a sushi bar, waterfront dining, and a nightclub experience, located on Harbour Island near Amalie Arena.",
+          "coordinates": {
+            "latitude": "27.9399",
+            "longitude": "-82.4573"
+          }
+        },
+        {
+          "name": "Cafe Dufrain",
+          "address": "707 Harbour Post Dr, Tampa, FL 33602, USA",
+          "website": "http://www.cafedufrain.com/",
+          "description": "An independent waterfront restaurant known for its innovative cuisine, sustainable practices, and intimate atmosphere, offering a unique dining experience near Amalie Arena.",
+          "coordinates": {
+            "latitude": "27.9419",
+            "longitude": "-82.4517"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Tampa Marriott Water Street",
+          "address": "505 Water St, Tampa, FL 33602, USA",
+          "website": "https://www.marriott.com/hotels/travel/tpamc-tampa-marriott-water-street/",
+          "description": "A luxurious hotel offering modern rooms, a rooftop pool, and multiple dining options, conveniently located near Amalie Arena and Tampa's Riverwalk.",
+          "coordinates": {
+            "latitude": "27.9425",
+            "longitude": "-82.4553"
+          }
+        },
+        {
+          "name": "Hilton Tampa Downtown",
+          "address": "211 N Tampa St, Tampa, FL 33602, USA",
+          "website": "https://www.hilton.com/en/hotels/tpandhh-hilton-tampa-downtown/",
+          "description": "This upscale hotel features comfortable accommodations, a rooftop pool, and is within walking distance of Amalie Arena and other downtown attractions.",
+          "coordinates": {
+            "latitude": "27.9475",
+            "longitude": "-82.4584"
+          }
+        },
+        {
+          "name": "Westin Tampa Waterside",
+          "address": "725 S Harbour Island Blvd, Tampa, FL 33602, USA",
+          "website": "https://www.marriott.com/hotels/travel/tpawi-the-westin-tampa-waterside/",
+          "description": "Situated on Harbour Island, this hotel offers stunning water views, a marina, an outdoor pool, and easy access to Amalie Arena.",
+          "coordinates": {
+            "latitude": "27.9416",
+            "longitude": "-82.4557"
+          }
+        },
+        {
+          "name": "Embassy Suites by Hilton Tampa Downtown Convention Center",
+          "address": "513 S Florida Ave, Tampa, FL 33602, USA",
+          "website": "https://www.hilton.com/en/hotels/tpafl-es-embassy-suites-tampa-downtown-convention-center/",
+          "description": "Connected to the Tampa Convention Center, this all-suite hotel is close to Amalie Arena and features free breakfast and a nightly reception.",
+          "coordinates": {
+            "latitude": "27.9419",
+            "longitude": "-82.4566"
+          }
+        },
+        {
+          "name": "Le Méridien Tampa, The Courthouse",
+          "address": "601 N Florida Ave, Tampa, FL 33602, USA",
+          "website": "https://www.marriott.com/hotels/travel/tpamd-le-meridien-tampa-the-courthouse/",
+          "description": "A unique hotel located in a century-old federal courthouse, offering stylish rooms and a convenient location close to Amalie Arena and downtown Tampa's attractions.",
+          "coordinates": {
+            "latitude": "27.9507",
+            "longitude": "-82.4597"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "Busch Gardens Tampa Bay",
+          "address": "10165 McKinley Dr, Tampa, FL 33612, USA",
+          "website": "https://buschgardens.com/tampa/",
+          "description": "An African-themed animal theme park offering thrilling rides, live entertainment, and one of North America's largest zoos.",
+          "coordinates": {
+            "latitude": "28.0372",
+            "longitude": "-82.4194"
+          }
+        },
+        {
+          "name": "The Florida Aquarium",
+          "address": "701 Channelside Dr, Tampa, FL 33602, USA",
+          "website": "https://www.flaquarium.org/",
+          "description": "A leading aquarium known for its unique glass architecture, featuring aquatic and terrestrial animals and ecosystems from Florida and around the world.",
+          "coordinates": {
+            "latitude": "27.9433",
+            "longitude": "-82.4451"
+          }
+        },
+        {
+          "name": "Tampa Riverwalk",
+          "address": "Tampa, FL, USA",
+          "website": "https://thetampariverwalk.com/",
+          "description": "A scenic waterfront pathway stretching along the Hillsborough River, offering pedestrian access to hotels, parks, restaurants, and cultural venues.",
+          "coordinates": {
+            "latitude": "27.9465",
+            "longitude": "-82.4584"
+          }
+        },
+        {
+          "name": "Ybor City",
+          "address": "Ybor City, Tampa, FL, USA",
+          "website": "http://yborcityonline.com/",
+          "description": "A historic neighborhood known for its rich Cuban heritage, vibrant nightlife, specialty shops, and dining options.",
+          "coordinates": {
+            "latitude": "27.9603",
+            "longitude": "-82.4376"
+          }
+        },
+        {
+          "name": "Tampa Bay History Center",
+          "address": "801 Water St, Tampa, FL 33602, USA",
+          "website": "https://www.tampabayhistorycenter.org/",
+          "description": "A Smithsonian Affiliate museum dedicated to exploring the rich history and heritage of the Tampa Bay area and its people.",
+          "coordinates": {
+            "latitude": "27.9424",
+            "longitude": "-82.4500"
+          }
+        },
+        {
+          "name": "Adventure Island",
+          "address": "10001 McKinley Dr, Tampa, FL 33612, USA",
+          "website": "https://adventureisland.com/",
+          "description": "A water park located across from Busch Gardens, offering slides, pools, and kid-friendly attractions in a tropical setting.",
+          "coordinates": {
+            "latitude": "28.0339",
+            "longitude": "-82.4213"
+          }
+        },
+        {
+          "name": "Museum of Science & Industry (MOSI)",
+          "address": "4801 E Fowler Ave, Tampa, FL 33617, USA",
+          "website": "https://www.mosi.org/",
+          "description": "A comprehensive science center featuring hands-on exhibits, a planetarium, and educational programs aimed at visitors of all ages.",
+          "coordinates": {
+            "latitude": "28.0531",
+            "longitude": "-82.4045"
+          }
+        },
+        {
+          "name": "Sunshine Skyway Bridge",
+          "address": "Tampa Bay, FL, USA",
+          "website": "Not specified",
+          "description": "An iconic cable-stayed bridge spanning Tampa Bay, known for its distinctive silhouette and offering spectacular views, especially at sunset.",
+          "coordinates": {
+            "latitude": "27.6154",
+            "longitude": "-82.6546"
+          }
+        },
+        {
+          "name": "Lowry Park Zoo",
+          "address": "1101 W Sligh Ave, Tampa, FL 33604, USA",
+          "website": "https://zootampa.org/",
+          "description": "A family-friendly zoo housing over 1,300 animals, focused on endangered, threatened, and vulnerable species from around the world.",
+          "coordinates": {
+            "latitude": "28.0122",
+            "longitude": "-82.4695"
+          }
+        },
+        {
+          "name": "Curtis Hixon Waterfront Park",
+          "address": "600 N Ashley Dr, Tampa, FL 33602, USA",
+          "website": "https://www.tampagov.net/parks-and-recreation/featured-parks/waterfrontpark",
+          "description": "An urban park in downtown Tampa offering green spaces, dog parks, playgrounds, and serves as a venue for community events and festivals.",
+          "coordinates": {
+            "latitude": "27.9484",
+            "longitude": "-82.4612"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Amalie Arena Tours",
+          "address": "401 Channelside Dr, Tampa, FL 33602, USA",
+          "website": "https://www.amaliearena.com/arena-information/tours",
+          "description": "Discover the behind-the-scenes of the Amalie Arena, home of the Tampa Bay Lightning, with guided tours that include a visit to the locker rooms, premium areas, and the Thunder Alley.",
+          "coordinates": {
+            "latitude": "27.9425",
+            "longitude": "-82.4518"
+          }
+        },
+        {
+          "name": "Thunder Alley",
+          "address": "Outside Amalie Arena, Tampa, FL",
+          "website": "Not specified",
+          "description": "Join the pre-game festivities in Thunder Alley, where fans gather to enjoy live music, games, and entertainment before the puck drops. It's a great place to experience the excitement of game day.",
+          "coordinates": {
+            "latitude": "27.9424",
+            "longitude": "-82.4517"
+          }
+        },
+        {
+          "name": "Lightning Made Hockey Camps",
+          "address": "Various locations",
+          "website": "https://www.nhl.com/lightning/community/hockey-camps",
+          "description": "Participate in hockey camps and clinics offered by the Lightning Made Hockey initiative, designed to grow the game and develop players of all ages and skill levels throughout the Tampa Bay area.",
+          "coordinates": {
+            "latitude": "27.9506",
+            "longitude": "-82.4572"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "Trolley",
+          "description": "The TECO Line Streetcar offers convenient access to Amalie Arena from various points in downtown Tampa, including Ybor City.",
+          "map_link": "https://www.tecolinestreetcar.org/"
+        },
+        {
+          "type": "Bus",
+          "description": "HART operates several bus routes that serve the downtown Tampa area, providing easy access to Amalie Arena.",
+          "map_link": "https://www.gohart.org/"
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Tampa Bay Lightning Website",
+          "website": "https://www.nhl.com/lightning/tickets",
+          "description": "The primary source for all Lightning ticket sales, offering guaranteed authenticity and the best selection of seats directly from the team.",
+          "latitude": "27.9425",
+          "longitude": "-82.4518"
+        },
+        {
+          "name": "Ticketmaster",
+          "website": "https://www.ticketmaster.com/tampa-bay-lightning-tickets/artist/806026",
+          "description": "As the authorized ticketing partner for the Tampa Bay Lightning, Ticketmaster provides a secure and reliable platform for purchasing official tickets.",
+          "latitude": "27.9425",
+          "longitude": "-82.4518"
+        },
+        {
+          "name": "StubHub",
+          "website": "https://www.stubhub.com/tampa-bay-lightning-tickets/performer/124/",
+          "description": "StubHub offers a trusted secondary marketplace for Lightning tickets, with a fanProtect guarantee for buyers.",
+          "latitude": "27.9425",
+          "longitude": "-82.4518"
+        }
+      ],
+      "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+      "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+    }
+  }
+}

@@ -1,56 +1,339 @@
 {
-    "city": "Pittsburgh",
-    "sports_teams": [
+  "city": "Pittsburgh",
+  "team": "Penguins",
+  "venue": {
+    "name": "PPG Paints Arena",
+    "address": "1001 Fifth Ave, Pittsburgh, PA 15219, USA",
+    "website": "https://www.ppgpaintsarena.com/",
+    "average_ticket_price": "$120",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "40.4396",
+      "longitude": "-79.9898"
+    },
+    "best_seats_pricing": {
+      "Rinkside": {
+        "Description": "Front-row seats offering an intense, close-up experience of the game.",
+        "Sections": "Rinkside",
+        "Estimated_Pricing_Range": "$900 - $3500+",
+        "View_Quality": "Direct, ice-level view for an immersive and interactive experience.",
+        "Unique_Features": "Opportunities for player interactions and to appear on television broadcasts.",
+        "Accessibility": "Convenient access with limited space for mobility devices.",
+        "Special_Perks": "Exclusive access to clubs with complimentary dining and beverages."
+      },
+      "Club_Seats": {
+        "Description": "Premium seating with excellent views and amenities.",
+        "Sections": "Club Sections 101-104 and 110-113",
+        "Estimated_Pricing_Range": "$300 - $900",
+        "View_Quality": "Elevated side views ensuring a clear and unobstructed view of the game.",
+        "Unique_Features": "More comfortable seating with additional legroom and less crowding.",
+        "Accessibility": "Easy entrance access and close to elevators for convenience.",
+        "Special_Perks": "In-seat service and access to exclusive lounge areas."
+      },
+      "Center_Ice": {
+        "Description": "Central view of the ice providing a balanced perspective of the game.",
+        "Sections": "Sections 204-206 and 231-233",
+        "Estimated_Pricing_Range": "$120 - $300",
+        "View_Quality": "Wide-angle view of the game, ideal for fans who enjoy tactical aspects.",
+        "Unique_Features": "Great value for fans seeking a full view of the game at a reasonable price.",
+        "Accessibility": "Elevator access to all levels with designated accessible seating.",
+        "Special_Perks": "A cost-effective choice with a comprehensive view."
+      },
+      "Lower_Bowl": {
+        "Description": "Seats offering close views of the game with quick access to concessions and exits.",
+        "Sections": "Lower Bowl Sections 101-122",
+        "Estimated_Pricing_Range": "$200 - $700",
+        "View_Quality": "Close to the action with views from all angles.",
+        "Unique_Features": "Immediate access to the arena's amenities and quick exit post-game.",
+        "Accessibility": "Accessible seating options available throughout the lower bowl.",
+        "Special_Perks": "A perfect mix of price, proximity, and perspective."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
         {
-            "team_name": "Pittsburgh Steelers",
-            "sport": "American Football",
-            "league": "NFL",
-            "average_ticket_price": "$103",
-            "season_start": "Early September",
-            "playoffs_start": "January",
-            "venue": {
-                "venue_name": "Heinz Field",
-                "details": "Football Stadium",
-                "address": "100 Art Rooney Ave, Pittsburgh, PA 15212, United States",
-                "geographic_coordinates": {
-                    "latitude": 40.4469,
-                    "longitude": -80.0158
-                }
-            }
+          "name": "PPG Paints Arena Dining",
+          "address": "1001 Fifth Ave, Pittsburgh, PA 15219",
+          "website": "https://www.ppgpaintsarena.com/dining",
+          "description": "Located at the center of Pittsburgh's entertainment scene, PPG Paints Arena offers a variety of dining options inside and in the vicinity of the arena, catering to diverse preferences.",
+          "coordinates": {
+            "latitude": "40.439548",
+            "longitude": "-79.989783"
+          }
         },
         {
-            "team_name": "Pittsburgh Penguins",
-            "sport": "Ice Hockey",
-            "league": "NHL",
-            "average_ticket_price": "$93",
-            "season_start": "October",
-            "playoffs_start": "April",
-            "venue": {
-                "venue_name": "PPG Paints Arena",
-                "details": "Indoor Arena",
-                "address": "1001 Fifth Ave, Pittsburgh, PA 15219, United States",
-                "geographic_coordinates": {
-                    "latitude": 40.4394,
-                    "longitude": -79.9891
-                }
-            }
+          "name": "Primanti Bros.",
+          "address": "2 S Market Square, Pittsburgh, PA 15222",
+          "website": "https://www.primantibros.com/",
+          "description": "A Pittsburgh staple, known for its iconic sandwiches stacked with fries and slaw, offering a hearty meal in a classic sports atmosphere.",
+          "coordinates": {
+            "latitude": "40.440625",
+            "longitude": "-80.002033"
+          }
         },
         {
-            "team_name": "Pittsburgh Pirates",
-            "sport": "Baseball",
-            "league": "MLB",
-            "average_ticket_price": "$45",
-            "season_start": "Late March",
-            "playoffs_start": "October",
-            "venue": {
-                "venue_name": "PNC Park",
-                "details": "Baseball Park",
-                "address": "115 Federal St, Pittsburgh, PA 15212, United States",
-                "geographic_coordinates": {
-                    "latitude": 40.4470,
-                    "longitude": -80.0065
-                }
-            }
+          "name": "The Yard",
+          "address": "100 Fifth Ave, Pittsburgh, PA 15222",
+          "website": "https://www.theyardpgh.com/",
+          "description": "A casual gastropub with a cozy atmosphere, serving gourmet grilled cheese sandwiches, craft beer, and more, just a short walk from the arena.",
+          "coordinates": {
+            "latitude": "40.441894",
+            "longitude": "-79.997458"
+          }
+        },
+        {
+          "name": "Emporio: A Meatball Joint",
+          "address": "942 Penn Ave, Pittsburgh, PA 15222",
+          "website": "http://www.emporiomeatballjoint.com/",
+          "description": "Specializing in meatballs with a variety of sauces and preparations, Emporio offers a unique dining experience near the arena.",
+          "coordinates": {
+            "latitude": "40.443176",
+            "longitude": "-79.997947"
+          }
+        },
+        {
+          "name": "Burgatory",
+          "address": "300 McHolme Dr, Pittsburgh, PA 15275",
+          "website": "https://www.burgatorybar.com/",
+          "description": "Famous for its custom burgers and milkshakes, Burgatory provides a fun and indulgent dining experience, a short drive from the arena.",
+          "coordinates": {
+            "latitude": "40.456327",
+            "longitude": "-80.178837"
+          }
+        },
+        {
+          "name": "Sienna Mercato",
+          "address": "942 Penn Ave, Pittsburgh, PA 15222",
+          "website": "http://www.siennamercato.com/",
+          "description": "Offering three floors of distinct dining experiences, Sienna Mercato is a versatile spot for pizza, meatballs, or a rooftop bar scene, located in the cultural district.",
+          "coordinates": {
+            "latitude": "40.443176",
+            "longitude": "-79.997947"
+          }
+        },
+        {
+          "name": "Meat & Potatoes",
+          "address": "649 Penn Ave, Pittsburgh, PA 15222",
+          "website": "https://www.meatandpotatoespgh.com/",
+          "description": "A modern gastropub offering innovative twists on classic American dishes, with a focus on locally sourced ingredients, near the arena.",
+          "coordinates": {
+            "latitude": "40.442547",
+            "longitude": "-79.998494"
+          }
         }
-    ]
+      ],
+      "accommodations": [
+        {
+          "name": "The Westin Pittsburgh",
+          "address": "1000 Penn Ave, Pittsburgh, PA 15222, USA",
+          "website": "https://www.marriott.com/hotels/travel/pitwi-the-westin-pittsburgh/",
+          "description": "A contemporary hotel offering upscale rooms, a fitness center, and dining options, conveniently located in downtown Pittsburgh near cultural and entertainment venues.",
+          "coordinates": {
+            "latitude": "40.4433",
+            "longitude": "-79.9960"
+          }
+        },
+        {
+          "name": "Renaissance Pittsburgh Hotel",
+          "address": "107 6th St, Pittsburgh, PA 15222, USA",
+          "website": "https://www.marriott.com/hotels/travel/pitbr-renaissance-pittsburgh-hotel/",
+          "description": "A historic luxury hotel with modern rooms, fine dining, and stunning views of the Allegheny River, located in the cultural district.",
+          "coordinates": {
+            "latitude": "40.4439",
+            "longitude": "-80.0018"
+          }
+        },
+        {
+          "name": "Omni William Penn Hotel",
+          "address": "530 William Penn Pl, Pittsburgh, PA 15219, USA",
+          "website": "https://www.omnihotels.com/hotels/pittsburgh-william-penn",
+          "description": "An elegant hotel known for its luxurious accommodations and classic architecture, situated in the heart of downtown Pittsburgh.",
+          "coordinates": {
+            "latitude": "40.4417",
+            "longitude": "-79.9930"
+          }
+        },
+        {
+          "name": "Hotel Monaco Pittsburgh",
+          "address": "620 William Penn Pl, Pittsburgh, PA 15219, USA",
+          "website": "https://www.monaco-pittsburgh.com/",
+          "description": "A chic, boutique hotel with vibrant, stylish rooms and a rooftop beer garden, located downtown near major attractions.",
+          "coordinates": {
+            "latitude": "40.4412",
+            "longitude": "-79.9956"
+          }
+        },
+        {
+          "name": "Drury Plaza Hotel Pittsburgh Downtown",
+          "address": "745 Grant St, Pittsburgh, PA 15219, USA",
+          "website": "https://www.druryhotels.com/locations/pittsburgh-pa/drury-plaza-hotel-pittsburgh-downtown",
+          "description": "A comfortable and convenient hotel offering free breakfast and evening snacks, ideally located near PPG Paints Arena and downtown landmarks.",
+          "coordinates": {
+            "latitude": "40.4381",
+            "longitude": "-79.9944"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "Pittsburgh Zoo & PPG Aquarium",
+          "address": "7370 Baker St, Pittsburgh, PA 15206, USA",
+          "website": "https://www.pittsburghzoo.org",
+          "description": "A family-friendly destination featuring a wide range of animals from around the globe and aquatic life, offering educational programs and interactive exhibits.",
+          "coordinates": {
+            "latitude": "40.4876",
+            "longitude": "-79.9184"
+          }
+        },
+        {
+          "name": "Phipps Conservatory and Botanical Gardens",
+          "address": "1 Schenley Drive, Pittsburgh, PA 15213, USA",
+          "website": "https://www.phipps.conservatory.org",
+          "description": "A historic landmark with stunning botanical gardens and seasonal flower shows, promoting sustainability and biodiversity.",
+          "coordinates": {
+            "latitude": "40.4392",
+            "longitude": "-79.9474"
+          }
+        },
+        {
+          "name": "Carnegie Museum of Natural History",
+          "address": "4400 Forbes Ave, Pittsburgh, PA 15213, USA",
+          "website": "https://www.carnegiemnh.org",
+          "description": "Home to extensive collections of anthropology, botany, geology, paleontology, and zoology, it's one of the top natural history museums in the country.",
+          "coordinates": {
+            "latitude": "40.4433",
+            "longitude": "-79.9506"
+          }
+        },
+        {
+          "name": "The Andy Warhol Museum",
+          "address": "117 Sandusky St, Pittsburgh, PA 15212, USA",
+          "website": "https://www.warhol.org",
+          "description": "The largest museum dedicated to a single artist, showcasing Andy Warhol's art and archival materials from his life.",
+          "coordinates": {
+            "latitude": "40.4485",
+            "longitude": "-80.0025"
+          }
+        },
+        {
+          "name": "Duquesne Incline",
+          "address": "1197 W Carson St, Pittsburgh, PA 15219, USA",
+          "website": "http://www.duquesneincline.org",
+          "description": "A historic cable car offering stunning views of Pittsburgh's skyline, it's a must-visit for first-time visitors to the city.",
+          "coordinates": {
+            "latitude": "40.4398",
+            "longitude": "-80.0158"
+          }
+        },
+        {
+          "name": "Point State Park",
+          "address": "601 Commonwealth Pl, Pittsburgh, PA 15222, USA",
+          "website": "https://www.dcnr.pa.gov",
+          "description": "Located at the confluence of the three rivers, it's a landmark for its iconic fountain and serves as a venue for festivals and events.",
+          "coordinates": {
+            "latitude": "40.4415",
+            "longitude": "-80.0127"
+          }
+        },
+        {
+          "name": "Carnegie Science Center",
+          "address": "1 Allegheny Ave, Pittsburgh, PA 15212, USA",
+          "website": "https://www.carnegiesciencecenter.org",
+          "description": "Features interactive exhibits on science and technology, including a planetarium, an IMAX theater, and the USS Requin submarine.",
+          "coordinates": {
+            "latitude": "40.4457",
+            "longitude": "-80.0188"
+          }
+        },
+        {
+          "name": "Heinz Field",
+          "address": "100 Art Rooney Ave, Pittsburgh, PA 15212, USA",
+          "website": "https://www.heinzfield.com",
+          "description": "Home of the Pittsburgh Steelers and Pitt Panthers, offering tours to explore the stadium and its storied history.",
+          "coordinates": {
+            "latitude": "40.4468",
+            "longitude": "-80.0158"
+          }
+        },
+        {
+          "name": "Frick Art & Historical Center",
+          "address": "7227 Reynolds St, Pittsburgh, PA 15208, USA",
+          "website": "https://www.thefrickpittsburgh.org",
+          "description": "A cultural complex with a museum, historical buildings, and gardens, showcasing the Frick family's collection of fine and decorative arts.",
+          "coordinates": {
+            "latitude": "40.4515",
+            "longitude": "-79.9039"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "PPG Paints Arena Tours",
+          "address": "1001 Fifth Ave, Pittsburgh, PA 15219",
+          "website": "https://www.ppgpaintsarena.com",
+          "description": "Discover the home of the Pittsburgh Penguins with guided tours that take you through the state-of-the-art arena, highlighting the Penguins' rich history and showcasing memorabilia from their championship seasons.",
+          "coordinates": {
+            "latitude": "40.4396",
+            "longitude": "-79.9898"
+          }
+        },
+        {
+          "name": "Mario Lemieux Statue",
+          "address": "1001 Fifth Ave, Pittsburgh, PA 15219",
+          "website": "https://www.ppgpaintsarena.com",
+          "description": "Visit the iconic statue of Mario Lemieux outside PPG Paints Arena, a tribute to one of the greatest players in NHL history and a key figure in Penguins' history.",
+          "coordinates": {
+            "latitude": "40.4396",
+            "longitude": "-79.9898"
+          }
+        },
+        {
+          "name": "Pittsburgh Penguins Foundation",
+          "address": "1001 Fifth Ave, Pittsburgh, PA 15219",
+          "website": "https://www.pittsburghpenguinsfoundation.org",
+          "description": "Engage with the community-focused efforts of the Pittsburgh Penguins Foundation, which supports youth initiatives and community projects in the Pittsburgh area.",
+          "coordinates": {
+            "latitude": "40.4396",
+            "longitude": "-79.9898"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "Light Rail",
+          "description": "Pittsburgh's light rail system, known as the 'T', offers convenient access to PPG Paints Arena with several stations nearby.",
+          "map_link": "https://www.portauthority.org/rail/"
+        },
+        {
+          "type": "Bus",
+          "description": "Pittsburgh's extensive bus network provides easy access to PPG Paints Arena, connecting fans from all over the city.",
+          "map_link": "https://www.portauthority.org/bus/"
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Pittsburgh Penguins Website",
+          "website": "https://www.nhl.com/penguins/tickets",
+          "description": "The primary source for all Penguins ticket sales, offering guaranteed authenticity and the best selection of seats."
+        },
+        {
+          "name": "Ticketmaster",
+          "website": "https://www.ticketmaster.com/pittsburgh-penguins-tickets/artist/806002",
+          "description": "Authorized ticketing partner for the Pittsburgh Penguins, providing a secure platform for purchasing official tickets."
+        },
+        {
+          "name": "StubHub",
+          "website": "https://www.stubhub.com/pittsburgh-penguins-tickets/performer/124/",
+          "description": "A reliable secondary marketplace for Penguins tickets, offering a fanProtect guarantee."
+        }
+      ],
+      "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+      "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+    }
+  }
 }

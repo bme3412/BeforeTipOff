@@ -1,0 +1,355 @@
+{
+  "city": "Winnipeg",
+  "team": "Jets",
+  "venue": {
+    "name": "Bell MTS Place",
+    "address": "300 Portage Ave, Winnipeg, MB R3C 5S4, Canada",
+    "website": "https://www.bellmtsplace.ca/",
+    "average_ticket_price": "$120",
+    "season_start": "October",
+    "playoffs_start": "April",
+    "coordinates": {
+      "latitude": "49.8920",
+      "longitude": "-97.1436"
+    },
+    "best_seats_pricing": {
+      "Rinkside": {
+        "Description": "Front-row seats offering an unmatched view of the game and player interactions, for the ultimate fan experience.",
+        "Sections": "Rinkside",
+        "Estimated_Pricing_Range": "$850 - $3200+",
+        "View_Quality": "Unobstructed, ice-level view, immersing fans directly in the action.",
+        "Unique_Features": "Opportunities for close-up player interactions and a chance to appear on the broadcast.",
+        "Accessibility": "Convenient entry and exit, though space for mobility devices may be limited.",
+        "Special_Perks": "Access to exclusive club areas with complimentary food and beverages."
+      },
+      "Club_Seats": {
+        "Description": "Elevated seating offering a premium view of the game, combined with exclusive benefits.",
+        "Sections": "Club Sections 104-106",
+        "Estimated_Pricing_Range": "$280 - $850",
+        "View_Quality": "High vantage point with clear sightlines to the entire rink.",
+        "Unique_Features": "Comfortable seating with extra legroom, avoiding the crowds.",
+        "Accessibility": "Easy access with dedicated entrances and close proximity to elevators.",
+        "Special_Perks": "Access to private lounges and in-seat service for an upscale game day experience."
+      },
+      "Center_Balcony": {
+        "Description": "Overhead view providing a comprehensive perspective of the game, ideal for fans who enjoy a full view.",
+        "Sections": "Balcony Sections 318-320",
+        "Estimated_Pricing_Range": "$110 - $270",
+        "View_Quality": "Wide-angled, bird's-eye view of the game, perfect for strategy analysis.",
+        "Unique_Features": "Affordable option for fans seeking an encompassing view of the action.",
+        "Accessibility": "Accessible seating available, with elevator access to the balcony.",
+        "Special_Perks": "A budget-friendly choice without sacrificing the enjoyment of the game."
+      },
+      "Loge_Level": {
+        "Description": "Slightly elevated seats close to the ice, offering detailed views of the game.",
+        "Sections": "Loge Sections L1-L2; Corner Sections L3-L4 and L14-L15",
+        "Estimated_Pricing_Range": "$180 - $650",
+        "View_Quality": "Near-ice perspective with an elevated angle for an enhanced viewing experience.",
+        "Unique_Features": "Close to the action at a reasonable price point, offering a balance between cost and experience.",
+        "Accessibility": "Wheelchair-accessible options available, with amenities conveniently located.",
+        "Special_Perks": "An excellent balance of price and view, providing a memorable game day experience."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Bell MTS Place Dining",
+          "address": "300 Portage Ave, Winnipeg, MB R3C 5S4, Canada",
+          "website": "https://www.bellmtsplace.ca/",
+          "description": "Inside Bell MTS Place, enjoy a range of dining options catering to all tastes, from quick snacks to full meals, ensuring a great experience for Winnipeg Jets fans.",
+          "coordinates": {
+            "latitude": "49.8920",
+            "longitude": "-97.1436"
+          }
+        },
+        {
+          "name": "The Pint Public House",
+          "address": "274 Garry St, Winnipeg, MB R3C 1H3, Canada",
+          "website": "http://www.thepint.ca/winnipeg/",
+          "description": "A popular sports bar offering a wide selection of beers and pub grub, located just a short walk from Bell MTS Place, making it a go-to spot before and after the game.",
+          "coordinates": {
+            "latitude": "49.8932",
+            "longitude": "-97.1424"
+          }
+        },
+        {
+          "name": "Carnaval Brazilian BBQ",
+          "address": "270 Waterfront Dr, Winnipeg, MB R3B 0L4, Canada",
+          "website": "https://carnavalrestaurant.ca/",
+          "description": "A lively Brazilian steakhouse offering a rodízio-style dining experience with endless skewers of grilled meats, located close to the action.",
+          "coordinates": {
+            "latitude": "49.8977",
+            "longitude": "-97.1354"
+          }
+        },
+        {
+          "name": "Shark Club Sports Bar & Grill",
+          "address": "233 Hargrave St, Winnipeg, MB R3C 0P1, Canada",
+          "website": "https://www.sharkclubs.com/location/winnipeg/",
+          "description": "Known for its vibrant atmosphere and sports viewing, Shark Club is just steps away from Bell MTS Place, offering a great selection of drinks and pub fare.",
+          "coordinates": {
+            "latitude": "49.8928",
+            "longitude": "-97.1425"
+          }
+        },
+        {
+          "name": "Rudy's Eat & Drink",
+          "address": "375 Graham Ave, Winnipeg, MB R3C 0L5, Canada",
+          "website": "http://www.rudyseatanddrink.com/",
+          "description": "A modern diner offering classic American cuisine with a twist, Rudy's is a favorite among locals for a meal before heading to the game.",
+          "coordinates": {
+            "latitude": "49.8925",
+            "longitude": "-97.1439"
+          }
+        },
+        {
+          "name": "Hargrave St. Market",
+          "address": "242 Hargrave St, Winnipeg, MB R3C 0V1, Canada",
+          "website": "https://www.hargravestmarket.com/",
+          "description": "A food hall featuring a variety of eateries and bars, Hargrave St. Market is a great place to explore different culinary options in one convenient location near Bell MTS Place.",
+          "coordinates": {
+            "latitude": "49.8930",
+            "longitude": "-97.1429"
+          }
+        },
+        {
+          "name": "Peasant Cookery",
+          "address": "283 Bannatyne Ave, Winnipeg, MB R3B 1M3, Canada",
+          "website": "http://peasantcookery.ca/",
+          "description": "Offering farm-to-table dishes in a cozy setting, Peasant Cookery is known for its fresh ingredients and inventive menu, a short distance from the arena.",
+          "coordinates": {
+            "latitude": "49.8975",
+            "longitude": "-97.1389"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "The Fairmont Winnipeg",
+          "address": "2 Lombard Pl, Winnipeg, MB R3B 0Y3, Canada",
+          "website": "https://www.fairmont.com/winnipeg/",
+          "description": "A luxury hotel in the heart of downtown Winnipeg, offering elegant rooms, fine dining, and easy access to Bell MTS Place.",
+          "coordinates": {
+            "latitude": "49.8951",
+            "longitude": "-97.1384"
+          }
+        },
+        {
+          "name": "Delta Hotels by Marriott Winnipeg",
+          "address": "350 St Mary Ave, Winnipeg, MB R3C 3J2, Canada",
+          "website": "https://www.marriott.com/hotels/travel/ywgdm-delta-hotels-winnipeg/",
+          "description": "Modern accommodations with a rooftop pool, multiple dining options, and a skywalk to Bell MTS Place, perfect for Jets fans.",
+          "coordinates": {
+            "latitude": "49.8905",
+            "longitude": "-97.1429"
+          }
+        },
+        {
+          "name": "Radisson Hotel Winnipeg Downtown",
+          "address": "288 Portage Ave, Winnipeg, MB R3C 0B8, Canada",
+          "website": "https://www.radissonhotelsamericas.com/en-us/hotels/radisson-winnipeg",
+          "description": "Comfortable rooms with city views, a fitness center, and on-site dining, located a short walk from Bell MTS Place.",
+          "coordinates": {
+            "latitude": "49.8929",
+            "longitude": "-97.1433"
+          }
+        },
+        {
+          "name": "Inn at the Forks",
+          "address": "75 Forks Market Rd, Winnipeg, MB R3C 0A2, Canada",
+          "website": "https://www.innforks.com/",
+          "description": "A boutique hotel offering stylish rooms, a spa, and a restaurant, located in the historic Forks area, with easy access to downtown and Bell MTS Place.",
+          "coordinates": {
+            "latitude": "49.8872",
+            "longitude": "-97.1316"
+          }
+        },
+        {
+          "name": "Alt Hotel Winnipeg",
+          "address": "310 Donald St, Winnipeg, MB R3B 2H3, Canada",
+          "website": "https://www.althotels.com/en/winnipeg/",
+          "description": "A contemporary hotel with chic, comfortable rooms and a prime location in downtown Winnipeg, close to Bell MTS Place and other attractions.",
+          "coordinates": {
+            "latitude": "49.8925",
+            "longitude": "-97.1424"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "The Forks",
+          "address": "1 Forks Market Rd, Winnipeg, MB R3C 4L9, Canada",
+          "website": "https://www.theforks.com/",
+          "description": "A historic site at the junction of the Red and Assiniboine rivers, offering shopping, dining, and entertainment, with beautiful riverwalks and green spaces.",
+          "coordinates": {
+            "latitude": "49.8878",
+            "longitude": "-97.1306"
+          }
+        },
+        {
+          "name": "Assiniboine Park Zoo",
+          "address": "2595 Roblin Blvd, Winnipeg, MB R3P 2N7, Canada",
+          "website": "https://www.assiniboineparkzoo.ca/",
+          "description": "Featuring diverse animal species from around the world, including the Journey to Churchill exhibit showcasing polar bears and other northern species.",
+          "coordinates": {
+            "latitude": "49.8705",
+            "longitude": "-97.2328"
+          }
+        },
+        {
+          "name": "Canadian Museum for Human Rights",
+          "address": "85 Israel Asper Way, Winnipeg, MB R3C 0L5, Canada",
+          "website": "https://humanrights.ca/",
+          "description": "The first museum solely dedicated to the evolution, celebration, and future of human rights, featuring interactive exhibits and inspiring content.",
+          "coordinates": {
+            "latitude": "49.8914",
+            "longitude": "-97.1304"
+          }
+        },
+        {
+          "name": "Manitoba Museum",
+          "address": "190 Rupert Ave, Winnipeg, MB R3B 0N2, Canada",
+          "website": "https://manitobamuseum.ca/",
+          "description": "A museum that provides a deep dive into the natural and human history of the province, including a planetarium and a science gallery.",
+          "coordinates": {
+            "latitude": "49.8980",
+            "longitude": "-97.1375"
+          }
+        },
+        {
+          "name": "Winnipeg Art Gallery",
+          "address": "300 Memorial Blvd, Winnipeg, MB R3C 1V1, Canada",
+          "website": "https://www.wag.ca/",
+          "description": "Home to an extensive collection of Canadian and indigenous art, including contemporary and historical works.",
+          "coordinates": {
+            "latitude": "49.8894",
+            "longitude": "-97.1509"
+          }
+        },
+        {
+          "name": "Royal Canadian Mint",
+          "address": "520 Lagimodiere Blvd, Winnipeg, MB R2J 3E7, Canada",
+          "website": "https://www.mint.ca/",
+          "description": "Learn about coin manufacturing and the history of Canadian currency through interactive displays and tours.",
+          "coordinates": {
+            "latitude": "49.8592",
+            "longitude": "-97.0669"
+          }
+        },
+        {
+          "name": "Exchange District",
+          "address": "Bounded by Main, Higgins, Waterfront Drive, and Ross Ave, Winnipeg, MB",
+          "website": "https://www.exchangedistrict.org/",
+          "description": "A National Historic Site featuring well-preserved early 20th-century architecture, unique shops, eateries, and cultural venues.",
+          "coordinates": {
+            "latitude": "49.8975",
+            "longitude": "-97.1383"
+          }
+        },
+        {
+          "name": "St. Boniface Cathedral",
+          "address": "180 de la Cathedrale Ave, Winnipeg, MB R2H 0H7, Canada",
+          "website": "https://www.cathedralestboniface.ca/",
+          "description": "A significant cultural and historical landmark in Winnipeg's French Quarter, known for its beautiful architecture and as a place of worship.",
+          "coordinates": {
+            "latitude": "49.8899",
+            "longitude": "-97.1214"
+          }
+        },
+        {
+          "name": "FortWhyte Alive",
+          "address": "1961 McCreary Rd, Winnipeg, MB R3P 2K9, Canada",
+          "website": "https://www.fortwhyte.org/",
+          "description": "An environmental, educational, and recreational center offering activities like canoeing, biking, and interpretive programs.",
+          "coordinates": {
+            "latitude": "49.8301",
+            "longitude": "-97.2196"
+          }
+        },
+        {
+          "name": "Leo Mol Sculpture Garden",
+          "address": "Assiniboine Park, Winnipeg, MB",
+          "website": "https://www.assiniboinepark.ca/park-landing/home/explore/gardens/leo-mol-sculpture-garden",
+          "description": "A tranquil garden featuring the works of master sculptor Leo Mol, with beautifully landscaped surroundings.",
+          "coordinates": {
+            "latitude": "49.8715",
+            "longitude": "-97.2326"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Bell MTS Place Tours",
+          "address": "300 Portage Ave, Winnipeg, MB R3C 5S4, Canada",
+          "website": "https://www.bellmtsplace.ca",
+          "description": "Embark on a comprehensive tour of Bell MTS Place, the heart of Winnipeg Jets' operations. This guided journey covers the advanced facilities, including the Hall of Fame, which celebrates the illustrious history of the Jets, showcasing rare memorabilia and offering insights into the team's achievements.",
+          "coordinates": {
+            "latitude": "49.8920",
+            "longitude": "-97.1436"
+          }
+        },
+        {
+          "name": "True North Square",
+          "address": "242 Hargrave St, Winnipeg, MB R3C 0V1, Canada",
+          "website": "https://www.truenorthsquare.com",
+          "description": "Adjacent to Bell MTS Place, True North Square stands as a pivotal development in Winnipeg's downtown revitalization. This space not only enhances the game-day experience with its array of dining and retail options but also serves as a year-round hub for entertainment and community events, embodying the spirit of the city and its hockey team.",
+          "coordinates": {
+            "latitude": "49.8930",
+            "longitude": "-97.1429"
+          }
+        },
+        {
+          "name": "Jets Gear Store",
+          "address": "Bell MTS Place, 300 Portage Ave, Winnipeg, MB R3C 5S4, Canada",
+          "website": "https://www.truenorthshop.com",
+          "description": "For the ultimate fan experience, visit the Jets Gear Store located within Bell MTS Place. This official team store offers the widest selection of Winnipeg Jets merchandise, including jerseys, apparel, and exclusive memorabilia, allowing fans to express their support and passion for the team in a tangible way.",
+          "coordinates": {
+            "latitude": "49.8920",
+            "longitude": "-97.1436"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "Winnipeg Transit",
+          "description": "Winnipeg Transit provides comprehensive bus service throughout the city, facilitating easy access to Bell MTS Place. Multiple routes converge in the downtown area, ensuring seamless travel for fans attending the game or participating in team-related activities.",
+          "map_link": "https://winnipegtransit.com/en"
+        },
+        {
+          "type": "Rapid Transit",
+          "description": "The city's rapid transit system further enhances connectivity to Bell MTS Place, offering expedited service from various parts of Winnipeg. This efficient mode of transportation is designed to reduce travel time, making it an ideal choice for game days.",
+          "map_link": "https://winnipegtransit.com/en"
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Winnipeg Jets Website",
+          "website": "https://www.nhl.com/jets/tickets",
+          "description": "The most authoritative source for Winnipeg Jets tickets, the official website guarantees authenticity and provides the widest selection of seating options, ensuring fans have access to the best possible game-day experience.",
+          "latitude": "49.8920",
+          "longitude": "-97.1436"
+        },
+        {
+          "name": "Ticketmaster",
+          "website": "https://www.ticketmaster.ca/winnipeg-jets-tickets/artist/806039",
+          "description": "As the authorized ticketing partner for the Winnipeg Jets, Ticketmaster offers a secure and reliable platform for purchasing official tickets, complete with buyer protection and verification processes.",
+          "latitude": "49.8920",
+          "longitude": "-97.1436"
+        },
+        {
+          "name": "StubHub",
+          "website": "https://www.stubhub.com/winnipeg-jets-tickets/performer/4962/",
+          "description": "StubHub provides a trusted secondary marketplace for Jets tickets, offering a fanProtect guarantee. This platform is ideal for securing tickets to sold-out games or finding deals from season ticket holders unable to attend.",
+          "latitude": "49.8920",
+          "longitude": "-97.1436"
+        }
+      ],
+      "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+      "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+    }
+  }
+}

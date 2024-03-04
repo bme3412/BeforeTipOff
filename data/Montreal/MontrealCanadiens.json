@@ -1,0 +1,350 @@
+{
+    "city": "Montreal",
+    "team": "Canadiens",
+    "venue": {
+      "name": "Bell Centre",
+      "address": "1909 Avenue des Canadiens-de-Montréal, Montréal, QC H4B 5G0, Canada",
+      "website": "https://www.centrebell.ca/",
+      "average_ticket_price": "$120",
+      "season_start": "October",
+      "playoffs_start": "April",
+      "coordinates": {
+        "latitude": "45.4961",
+        "longitude": "-73.5693"
+      },
+      "best_seats_pricing": {
+        "Rinkside": {
+          "Description": "Seats right next to the action for an unparalleled game experience.",
+          "Sections": "Rinkside",
+          "Estimated_Pricing_Range": "$900 - $3500+",
+          "View_Quality": "Direct ice-level view, engaging and immersive experience.",
+          "Unique_Features": "Chance for player interactions, possibility of being seen on TV.",
+          "Accessibility": "Easy access, but limited space for personal mobility devices.",
+          "Special_Perks": "Exclusive access to Club Desjardins, complimentary dining and beverages."
+        },
+        "Club_Seats": {
+          "Description": "Offering a fantastic view of the game from the sides with added benefits.",
+          "Sections": "Club Sections 101-104 and 118-121",
+          "Estimated_Pricing_Range": "$260 - $850",
+          "View_Quality": "Elevated side views with clear line of sight to the ice.",
+          "Unique_Features": "Wider seats with more leg room, less crowded sections.",
+          "Accessibility": "Dedicated entrance for easier access, nearby elevators.",
+          "Special_Perks": "Access to premium lounges and in-seat wait service."
+        },
+        "Center_Balcony": {
+          "Description": "Great overall view of the game from an elevated position.",
+          "Sections": "Sections 320-322 and 301-303",
+          "Estimated_Pricing_Range": "$110 - $270",
+          "View_Quality": "Panoramic view of the ice, ideal for tactical analysis.",
+          "Unique_Features": "Affordable pricing for a comprehensive view of the action.",
+          "Accessibility": "Accessible seating available, elevators to balcony level.",
+          "Special_Perks": "More budget-friendly option with a full view of the ice."
+        },
+        "Loge_Level": {
+          "Description": "Just above courtside, offering close views without being on the ice.",
+          "Sections": "Mid Ice Sections 101-103 and 111-113; Corners Sections 104, 110, 114, and 120",
+          "Estimated_Pricing_Range": "$160 - $620",
+          "View_Quality": "Close to the action with a slightly elevated perspective.",
+          "Unique_Features": "Proximity to the ice with a more accessible price point.",
+          "Accessibility": "Wheelchair-accessible seating and nearby amenities.",
+          "Special_Perks": "Good balance of price, view, and experience."
+        }
+      },
+      "nearby_amenities": {
+        "restaurants_bars": [
+            {
+              "name": "Bier Markt Montreal",
+              "address": "1221 René-Lévesque Blvd W, Montreal, QC H3G 1T1",
+              "website": "https://www.thebiermarkt.com",
+              "description": "Located near the Bell Centre, Bier Markt offers an extensive selection of beers from around the world and European-inspired cuisine in a lively atmosphere.",
+              "coordinates": {
+                "latitude": "45.4958",
+                "longitude": "-73.5716"
+              }
+            },
+            {
+              "name": "Madison's New York Grill & Bar",
+              "address": "1065 de la Montagne St, Montreal, QC H3G 0B9",
+              "website": "http://www.madisonsnyc.com/",
+              "description": "Just steps away from the Bell Centre, Madison's serves up steak, seafood, and a variety of American dishes in a New York-themed setting.",
+              "coordinates": {
+                "latitude": "45.4971",
+                "longitude": "-73.5713"
+              }
+            },
+            {
+              "name": "La Cage - Brasserie sportive",
+              "address": "1212 de la Montagne St, Montreal, QC H3G 1Z1",
+              "website": "https://www.cage.ca/en",
+              "description": "A sports bar and restaurant chain offering a menu of pub fare, beers, and a great atmosphere for watching the game, located near the Bell Centre.",
+              "coordinates": {
+                "latitude": "45.4975",
+                "longitude": "-73.5712"
+              }
+            },
+            {
+              "name": "1909 Taverne Moderne",
+              "address": "1280 Canadiens-de-Montréal Ave, Montreal, QC H3B 2S2",
+              "website": "http://www.1909tavernemoderne.com/",
+              "description": "One of the largest sports bars in the country, 1909 Taverne Moderne offers an impressive screen setup for game nights and a diverse menu, right next to the Bell Centre.",
+              "coordinates": {
+                "latitude": "45.4962",
+                "longitude": "-73.5693"
+              }
+            },
+            {
+              "name": "Joe Beef",
+              "address": "2491 Notre-Dame St W, Montreal, QC H3J 1N6",
+              "website": "http://www.joebeef.ca/",
+              "description": "A bit further from the Bell Centre, Joe Beef is a renowned Montreal institution offering a unique dining experience with its innovative Canadian cuisine.",
+              "coordinates": {
+                "latitude": "45.4844",
+                "longitude": "-73.5675"
+              }
+            },
+            {
+              "name": "Ristorante Da Vinci",
+              "address": "1180 Bishop St, Montreal, QC H3G 2E3",
+              "website": "http://www.davinci.ca/",
+              "description": "An upscale dining experience, Da Vinci offers exquisite Italian cuisine in a sophisticated setting, a short walk from the Bell Centre.",
+              "coordinates": {
+                "latitude": "45.4979",
+                "longitude": "-73.5743"
+              }
+            },
+            {
+              "name": "Garage Beirut",
+              "address": "1238 Mackay St, Montreal, QC H3G 2H4",
+              "website": "http://www.garagebeirut.com/",
+              "description": "For a taste of the Middle East, Garage Beirut serves authentic Lebanese dishes in a casual atmosphere, located near the Bell Centre.",
+              "coordinates": {
+                "latitude": "45.4961",
+                "longitude": "-73.5773"
+              }
+            }
+          ],
+        "accommodations": [
+            {
+              "name": "Hotel Le Crystal",
+              "address": "1100, Rue de la Montagne, Montreal, QC H3G 0A1, Canada",
+              "website": "https://www.hotellecrystal.com/",
+              "description": "Situated in downtown Montreal near the Bell Centre, this upscale hotel features luxurious rooms and suites, a spa, and dining options.",
+              "coordinates": {
+                "latitude": "45.4971",
+                "longitude": "-73.5714"
+              }
+            },
+            {
+              "name": "Le Centre Sheraton Montreal Hotel",
+              "address": "1201 René-Lévesque Blvd W, Montreal, QC H3B 2L7, Canada",
+              "website": "https://www.marriott.com/hotels/travel/yulsi-le-centre-sheraton-montreal-hotel/",
+              "description": "A modern, high-rise hotel offering comfortable rooms, a fitness center, and an indoor pool, located a short walk from the Bell Centre.",
+              "coordinates": {
+                "latitude": "45.4981",
+                "longitude": "-73.5715"
+              }
+            },
+            {
+              "name": "Montreal Marriott Chateau Champlain",
+              "address": "1050 de la Gauchetière St W, Montreal, QC H3B 4C9, Canada",
+              "website": "https://www.marriott.com/hotels/travel/yulcc-montreal-marriott-chateau-champlain/",
+              "description": "Elegant accommodations with panoramic city views, a fitness center, and dining options, conveniently located near the Bell Centre.",
+              "coordinates": {
+                "latitude": "45.4975",
+                "longitude": "-73.5673"
+              }
+            },
+            {
+              "name": "InterContinental Montreal",
+              "address": "360 Saint Antoine St W, Montreal, QC H2Y 3X4, Canada",
+              "website": "https://montreal.intercontinental.com/",
+              "description": "This luxury hotel is connected to the Montreal Convention Centre, offering spacious rooms, a spa, and fine dining, close to the Bell Centre.",
+              "coordinates": {
+                "latitude": "45.504",
+                "longitude": "-73.559"
+              }
+            },
+            {
+              "name": "Hotel Bonaventure Montreal",
+              "address": "900 de la Gauchetière St W, Montreal, QC H5A 1E4, Canada",
+              "website": "https://hotelbonaventure.com/",
+              "description": "A unique hotel featuring a rooftop garden and pool, comfortable rooms, and dining options, located within walking distance to the Bell Centre.",
+              "coordinates": {
+                "latitude": "45.4987",
+                "longitude": "-73.5643"
+              }
+            }
+          ],
+        "tourist_attractions": [
+            {
+              "name": "Old Montreal",
+              "address": "Old Montreal, Montreal, Quebec",
+              "website": "Not specified",
+              "description": "A historic area known for its cobblestone streets, stunning architecture, and vibrant atmosphere, offering shopping, dining, and numerous landmarks.",
+              "coordinates": {
+                "latitude": "45.5075",
+                "longitude": "-73.5544"
+              }
+            },
+            {
+              "name": "Mont Royal",
+              "address": "1260 Remembrance Rd, Montreal, Quebec",
+              "website": "https://montreal.com/parks/mtroyal.html",
+              "description": "An iconic hill offering panoramic views of the city, with hiking trails, a large park, and the famous Mont Royal Chalet.",
+              "coordinates": {
+                "latitude": "45.5045",
+                "longitude": "-73.5876"
+              }
+            },
+            {
+              "name": "Notre-Dame Basilica of Montreal",
+              "address": "110 Notre-Dame St W, Montreal, Quebec",
+              "website": "https://www.basiliquenotredame.ca",
+              "description": "A stunning Gothic Revival church known for its elaborate interior, stained glass windows, and the impressive Casavant Frères pipe organ.",
+              "coordinates": {
+                "latitude": "45.5045",
+                "longitude": "-73.5561"
+              }
+            },
+            {
+              "name": "Montreal Museum of Fine Arts",
+              "address": "1380 Sherbrooke St W, Montreal, Quebec",
+              "website": "https://www.mbam.qc.ca",
+              "description": "Features an extensive collection of art from various periods and cultures, with rotating exhibitions and installations.",
+              "coordinates": {
+                "latitude": "45.4985",
+                "longitude": "-73.5794"
+              }
+            },
+            {
+              "name": "Montreal Biodome",
+              "address": "4777 Pierre-de Coubertin Ave, Montreal, Quebec",
+              "website": "https://espacepourlavie.ca/en/biodome",
+              "description": "Simulates ecosystems of the Americas, allowing visitors to walk through replicas of the tropical rainforest, the Laurentian maple forest, and more.",
+              "coordinates": {
+                "latitude": "45.5599",
+                "longitude": "-73.5493"
+              }
+            },
+            {
+              "name": "Montreal Botanical Garden",
+              "address": "4101 Sherbrooke St E, Montreal, Quebec",
+              "website": "https://espacepourlavie.ca/en/botanical-garden",
+              "description": "One of the world's greatest botanical gardens, offering a diverse collection of plants in thematic gardens and greenhouses.",
+              "coordinates": {
+                "latitude": "45.5600",
+                "longitude": "-73.5630"
+              }
+            },
+            {
+              "name": "Place Jacques-Cartier",
+              "address": "Place Jacques-Cartier, Montreal, Quebec",
+              "website": "Not specified",
+              "description": "A bustling public square in Old Montreal, known for its open-air market, street performers, and outdoor dining.",
+              "coordinates": {
+                "latitude": "45.5078",
+                "longitude": "-73.5540"
+              }
+            },
+            {
+              "name": "La Ronde",
+              "address": "22 Chemin Macdonald, Montreal, Quebec",
+              "website": "https://www.laronde.com",
+              "description": "Quebec's biggest amusement park, offering thrilling rides, family-friendly attractions, and entertainment.",
+              "coordinates": {
+                "latitude": "45.5220",
+                "longitude": "-73.5340"
+              }
+            },
+            {
+              "name": "Montreal Science Centre",
+              "address": "2 de la Commune St W, Montreal, Quebec",
+              "website": "https://www.montrealsciencecentre.com",
+              "description": "Features interactive scientific exhibitions and an IMAX theatre, located in the Old Port of Montreal.",
+              "coordinates": {
+                "latitude": "45.5053",
+                "longitude": "-73.5516"
+              }
+            },
+            {
+              "name": "Atwater Market",
+              "address": "138 Atwater Ave, Montreal, Quebec",
+              "website": "https://www.marchespublics-mtl.com/en/marches/atwater-market/",
+              "description": "A farmer's market known for its butchers, bakers, and artisans, offering fresh, local produce and specialty goods.",
+              "coordinates": {
+                "latitude": "45.4798",
+                "longitude": "-73.5760"
+              }
+            }
+          ],
+        "team_related_activities": [
+            {
+              "name": "Bell Centre Tours",
+              "address": "1909 Avenue des Canadiens-de-Montréal, Montreal, QC H4B 5G0",
+              "website": "https://www.centrebell.ca/en",
+              "description": "Explore the Bell Centre with guided tours that offer insights into the home of the Montreal Canadiens, including visits to the locker room and Hall of Fame.",
+              "coordinates": {
+                "latitude": "45.4961",
+                "longitude": "-73.5693"
+              }
+            },
+            {
+              "name": "Montreal Canadiens Hall of Fame",
+              "address": "1909 Avenue des Canadiens-de-Montréal, Montreal, QC H4B 5G0",
+              "website": "https://www.nhl.com/canadiens",
+              "description": "Dedicated to the history of the Montreal Canadiens, showcasing memorabilia, trophies, and the rich legacy of the team.",
+              "coordinates": {
+                "latitude": "45.4961",
+                "longitude": "-73.5693"
+              }
+            },
+            {
+              "name": "La Taverne Moderne",
+              "address": "1909 Avenue des Canadiens-de-Montréal, Montreal, QC H4B 5G0",
+              "website": "http://www.tavernemoderne.com",
+              "description": "A sports bar located within the Bell Centre, offering a lively atmosphere to watch Canadiens games and other sports events.",
+              "coordinates": {
+                "latitude": "45.4961",
+                "longitude": "-73.5693"
+              }
+            }
+          ]
+      },
+      "public_transportation": {
+        "options": [
+            {
+              "type": "Metro",
+              "description": "The Montreal Metro system offers convenient access to the Bell Centre, with the Lucien-L'Allier and Bonaventure stations being the closest.",
+              "map_link": "https://www.stm.info/en/info/networks/metro"
+            },
+            {
+              "type": "Bus",
+              "description": "Montreal's STM bus network provides easy access to the Bell Centre, with multiple lines serving the area around the venue.",
+              "map_link": "https://www.stm.info/en/info/networks/bus"
+            }
+          ]
+      },
+      "ticket_purchasing_tips": {
+        "best_places_to_buy":[
+            {
+              "name": "Official Montreal Canadiens Website",
+              "website": "https://www.nhl.com/canadiens/tickets",
+              "description": "The primary source for all Canadiens ticket sales, offering guaranteed authenticity and the best selection of seats."
+            },
+            {
+              "name": "Ticketmaster",
+              "website": "https://www.ticketmaster.ca/montreal-canadiens-tickets/artist/805985",
+              "description": "Authorized ticketing partner for the Montreal Canadiens, providing a secure platform for purchasing official tickets."
+            },
+            {
+              "name": "StubHub",
+              "website": "https://www.stubhub.com/montreal-canadiens-tickets/performer/124/",
+              "description": "A reliable secondary marketplace for Canadiens tickets, offering a fanProtect guarantee."
+            }
+          ],
+        "ways_to_save": "Buying tickets during the mid-week can often be cheaper than weekend games. Group ticket discounts often apply for groups of 10 or more. Some games may have last-minute ticket sales closer to the game day.",
+        "avoiding_scalpers": "Always buy tickets from verified sources to avoid scams. If buying on the secondary market, ensure the website offers buyer guarantee. Avoid buying printed tickets from individuals on site as these can be duplicates or forgeries."
+      }
+    }
+  }
+  
