@@ -1,0 +1,416 @@
+{
+  "city": "Madrid",
+  "team": "Atlético Madrid",
+  "venue": {
+    "name": "Wanda Metropolitano",
+    "address": "Av. de Luis Aragonés, 4, 28022 Madrid, Spain",
+    "website": "https://en.atleticodemadrid.com/atm/wanda-metropolitano",
+    "average_ticket_price": "€60",
+    "season_start": "August",
+    "playoffs_start": "May",
+    "coordinates": {
+      "latitude": "40.436193",
+      "longitude": "-3.599333"
+    },
+    "best_seats_pricing": {
+      "Presidential Box": {
+        "Description": "Exclusive seating area offering the best view and luxury experience at Wanda Metropolitano.",
+        "Sections": "Presidential Box",
+        "Estimated_Pricing_Range": "€1000 - €4000",
+        "View_Quality": "Central view from the most privileged vantage point, unparalleled immersion.",
+        "Unique_Features": "Luxury seating, utmost level of privacy and exclusivity.",
+        "Accessibility": "VIP access with personal assistance, premier access routes.",
+        "Special_Perks": "Exquisite dining options, opportunities for meet-and-greet with players."
+      },
+      "VIP Seats": {
+        "Description": "Premium seats with excellent pitch views and exclusive benefits, providing a top-notch football experience.",
+        "Sections": "VIP Sections",
+        "Estimated_Pricing_Range": "€200 - €800",
+        "View_Quality": "Prime side views, very close to the pitch action.",
+        "Unique_Features": "Superior comfort seating, complimentary gourmet snacks and drinks.",
+        "Accessibility": "Exclusive entrance, enhanced facility access.",
+        "Special_Perks": "Access to VIP lounges, special events invitations."
+      },
+      "Grandstand": {
+        "Description": "Elevated side views for an optimal viewing experience, perfect for fans who want a great view without breaking the bank.",
+        "Sections": "Grandstand Sections",
+        "Estimated_Pricing_Range": "€45 - €150",
+        "View_Quality": "Excellent perspective of the entire pitch, clear line of sight.",
+        "Unique_Features": "Good balance of view quality and ticket price.",
+        "Accessibility": "Easy access, available facilities for guests with disabilities.",
+        "Special_Perks": "A popular choice among regular fans for its great value."
+      },
+      "General Admission": {
+        "Description": "Affordable tickets providing access to vibrant atmosphere areas, ideal for the most passionate fans.",
+        "Sections": "General Admission",
+        "Estimated_Pricing_Range": "€20 - €70",
+        "View_Quality": "Dynamic view of the game, engaging fan experience.",
+        "Unique_Features": "Access to the heart of the fan sections, lively atmosphere.",
+        "Accessibility": "Standard access, dedicated areas for wheelchair users.",
+        "Special_Perks": "Part of the passionate fan base, traditional stadium experience."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Restaurante La Esquina",
+          "address": "Av. de Concha Espina, 1, 28036 Madrid, Spain",
+          "website": "https://www.realaforja.com/laesquina/",
+          "description": "An elegant restaurant inside the Santiago Bernabéu Stadium, offering contemporary Spanish cuisine with views of the pitch.",
+          "coordinates": {
+            "latitude": "40.453054",
+            "longitude": "-3.688344"
+          }
+        },
+        {
+          "name": "Zen Market",
+          "address": "Av. de Concha Espina, 1, 28036 Madrid, Spain",
+          "website": "http://www.zenmarket.es/",
+          "description": "A chic Asian fusion restaurant located at the Santiago Bernabéu Stadium, known for its sushi and elegant decor.",
+          "coordinates": {
+            "latitude": "40.452960",
+            "longitude": "-3.688356"
+          }
+        },
+        {
+          "name": "Real Café Bernabéu",
+          "address": "Av. de Concha Espina, 1, Puerta 30, 28036 Madrid, Spain",
+          "website": "https://www.realcafebernabeu.es/",
+          "description": "A café with breathtaking views of the stadium's interior, offering a variety of dishes and a perfect spot for a coffee or meal.",
+          "coordinates": {
+            "latitude": "40.452775",
+            "longitude": "-3.689484"
+          }
+        },
+        {
+          "name": "Asador de la Esquina",
+          "address": "Av. de Concha Espina, 1, 28036 Madrid, Spain",
+          "website": "http://www.asadordelaesquina.com/",
+          "description": "A renowned grill restaurant at the Bernabéu, specializing in traditional Spanish meats and seasonal dishes.",
+          "coordinates": {
+            "latitude": "40.452991",
+            "longitude": "-3.688320"
+          }
+        },
+        {
+          "name": "El Barril de Bernabéu",
+          "address": "Plaza de Lima, 4, 28020 Madrid, Spain",
+          "website": "https://www.elbarrildebernabeu.com/",
+          "description": "A seafood restaurant known for its fresh fish and seafood tapas, located a short walk from the Santiago Bernabéu Stadium.",
+          "coordinates": {
+            "latitude": "40.451519",
+            "longitude": "-3.690107"
+          }
+        },
+        {
+          "name": "Taberna La Bola",
+          "address": "Calle de La Bola, 5, 28013 Madrid, Spain",
+          "website": "https://www.labola.es/",
+          "description": "A bit further from the stadium, this historic tavern is famous for its traditional Madrid stew, offering a deep dive into Spanish cuisine.",
+          "coordinates": {
+            "latitude": "40.417355",
+            "longitude": "-3.710678"
+          }
+        },
+        {
+          "name": "Bodega La Ardosa",
+          "address": "Calle de Colón, 13, 28004 Madrid, Spain",
+          "website": "https://www.laardosa.es/",
+          "description": "A traditional Spanish tavern known for its tortilla de patatas, vermouth on tap, and a wide selection of beers and wines.",
+          "coordinates": {
+            "latitude": "40.426093",
+            "longitude": "-3.703166"
+          }
+        },
+        {
+          "name": "Casa Revuelta",
+          "address": "Calle de Latoneros, 3, 28005 Madrid, Spain",
+          "website": "http://www.casarevuelta.com/",
+          "description": "Famous for its cod tapas, this historic bar offers a variety of traditional dishes in the heart of Madrid.",
+          "coordinates": {
+            "latitude": "40.413576",
+            "longitude": "-3.708106"
+          }
+        },
+        {
+          "name": "Mercado de San Miguel",
+          "address": "Plaza de San Miguel, s/n, 28005 Madrid, Spain",
+          "website": "https://www.mercadodesanmiguel.es/en/",
+          "description": "A gourmet market offering a wide range of high-quality tapas, wines, and fresh products in a beautiful iron and glass structure.",
+          "coordinates": {
+            "latitude": "40.415361",
+            "longitude": "-3.708099"
+          }
+        },
+        {
+          "name": "Sobrino de Botín",
+          "address": "Calle de Cuchilleros, 17, 28005 Madrid, Spain",
+          "website": "https://www.botin.es/en/",
+          "description": "Listed as the oldest restaurant in the world by the Guinness World Records, it's famous for its roasted suckling pig and lamb.",
+          "coordinates": {
+            "latitude": "40.414017",
+            "longitude": "-3.708073"
+          }
+        },
+        {
+          "name": "StreetXo",
+          "address": "Calle de Serrano, 52, 28001 Madrid, Spain",
+          "website": "http://www.streetxo.com/",
+          "description": "A high-energy street food restaurant by renowned chef David Muñoz, offering an eclectic mix of Asian and European cuisines.",
+          "coordinates": {
+            "latitude": "40.425300",
+            "longitude": "-3.688800"
+          }
+        },
+        {
+          "name": "Cervecería Alemana",
+          "address": "Plaza de Santa Ana, 6, 28012 Madrid, Spain",
+          "website": "http://www.cerveceriaalemana.com/",
+          "description": "A historic beer hall that has been serving traditional German and Spanish dishes since 1904, located in the vibrant Plaza de Santa Ana.",
+          "coordinates": {
+            "latitude": "40.414648",
+            "longitude": "-3.701536"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "NH Collection Madrid Eurobuilding",
+          "address": "Calle de Padre Damián, 23, 28036 Madrid, Spain",
+          "website": "https://www.nh-collection.com/hotel/nh-collection-madrid-eurobuilding",
+          "description": "A sophisticated hotel close to Santiago Bernabéu Stadium, offering spacious rooms and top-notch amenities, including a spa and several dining options.",
+          "coordinates": {
+            "latitude": "40.458100",
+            "longitude": "-3.686460"
+          }
+        },
+        {
+          "name": "Hotel Paseo del Arte",
+          "address": "Atocha, 123, 28012 Madrid, Spain",
+          "website": "https://www.hotelpaseodelartemadrid.com/",
+          "description": "Situated in the heart of Madrid's art triangle, this hotel is conveniently located for those looking to explore the city's museums and cultural sites.",
+          "coordinates": {
+            "latitude": "40.409830",
+            "longitude": "-3.693360"
+          }
+        },
+        {
+          "name": "AC Hotel Cuzco by Marriott",
+          "address": "Paseo de la Castellana, 133, 28046 Madrid, Spain",
+          "website": "https://www.marriott.com/hotels/travel/madcu-ac-hotel-cuzco/",
+          "description": "Located on Madrid's main avenue, Paseo de la Castellana, near the Santiago Bernabéu Stadium, this hotel offers modern accommodations and excellent service.",
+          "coordinates": {
+            "latitude": "40.458720",
+            "longitude": "-3.690420"
+          }
+        },
+        {
+          "name": "Hotel VP Jardín Metropolitano",
+          "address": "Avenida de la Reina Victoria, 12, 28003 Madrid, Spain",
+          "website": "https://www.hoteljardinmetropolitano.com/",
+          "description": "A comfortable and contemporary hotel with a stunning vertical garden, conveniently located for visiting Real Madrid's stadium and other city attractions.",
+          "coordinates": {
+            "latitude": "40.446500",
+            "longitude": "-3.703150"
+          }
+        },
+        {
+          "name": "B&B Hotel Madrid Getafe",
+          "address": "Calle Torroja, 13, 28904 Getafe, Madrid, Spain",
+          "website": "https://www.hotel-bb.es/hotel/madrid-getafe",
+          "description": "A modern and affordable hotel located in Getafe, offering comfortable rooms and convenient access to the city center via nearby transport links.",
+          "coordinates": {
+            "latitude": "40.305900",
+            "longitude": "-3.732200"
+          }
+        },
+        {
+          "name": "Ibis Budget Madrid Getafe",
+          "address": "Rio Bembezar, 28906 Getafe, Madrid, Spain",
+          "website": "https://all.accor.com/hotel/8556/index.en.shtml",
+          "description": "Offering budget-friendly accommodations, this hotel is a great option for travelers looking to explore Madrid and its surroundings without breaking the bank.",
+          "coordinates": {
+            "latitude": "40.290736",
+            "longitude": "-3.723250"
+          }
+        },
+        {
+          "name": "Hotel Exe Getafe",
+          "address": "Chamberlain, 1, 28905 Getafe, Madrid, Spain",
+          "website": "https://www.exehotels.co.uk/exe-getafe.html",
+          "description": "This hotel provides guests with spacious rooms and a range of amenities, located conveniently close to Getafe's main business and leisure areas.",
+          "coordinates": {
+            "latitude": "40.308100",
+            "longitude": "-3.736000"
+          }
+        },
+        {
+          "name": "Hotel Dinastia Getafe",
+          "address": "Calle Becquerel, 6, 28905 Getafe, Madrid, Spain",
+          "website": "http://www.hoteldinastiagetafe.com/",
+          "description": "A unique hotel offering a blend of comfort and convenience, featuring a restaurant and easy access to the heart of Madrid via public transportation.",
+          "coordinates": {
+            "latitude": "40.324200",
+            "longitude": "-3.714500"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "The Royal Palace of Madrid",
+          "address": "Calle de Bailén, s/n, 28071 Madrid, Spain",
+          "website": "https://www.patrimonionacional.es/real-sitio/palacio-real-de-madrid",
+          "description": "The official residence of the Spanish Royal Family at the city of Madrid, but it is only used for state ceremonies. It is the largest royal palace in Europe by floor area.",
+          "coordinates": {
+            "latitude": "40.417955",
+            "longitude": "-3.714312"
+          }
+        },
+        {
+          "name": "Prado Museum",
+          "address": "Calle de Ruiz de Alarcón, 23, 28014 Madrid, Spain",
+          "website": "https://www.museodelprado.es/",
+          "description": "Spain's main national art museum, featuring one of the finest collections of European art, dating from the 12th century to the early 20th century.",
+          "coordinates": {
+            "latitude": "40.413722",
+            "longitude": "-3.692412"
+          }
+        },
+        {
+          "name": "Retiro Park",
+          "address": "Plaza de la Independencia, 7, 28001 Madrid, Spain",
+          "website": "https://www.esmadrid.com/informacion-turistica/parque-del-retiro",
+          "description": "A large and popular green oasis in the heart of Madrid, offering a peaceful retreat with beautiful sculptures, monuments, and a magnificent lake.",
+          "coordinates": {
+            "latitude": "40.415260",
+            "longitude": "-3.684230"
+          }
+        },
+        {
+          "name": "Santiago Bernabéu Stadium",
+          "address": "Av. de Concha Espina, 1, 28036 Madrid, Spain",
+          "website": "https://www.realmadrid.com/en/santiago-bernabeu-stadium",
+          "description": "The iconic home of Real Madrid C.F., offering tours that include access to the trophy room, pitch side, and the presidential box.",
+          "coordinates": {
+            "latitude": "40.453054",
+            "longitude": "-3.688344"
+          }
+        },
+        {
+          "name": "Gran Vía",
+          "address": "Gran Vía, Madrid, Spain",
+          "website": "https://www.esmadrid.com/informacion-turistica/gran-via",
+          "description": "Madrid's bustling main street, known for its grand architecture, shopping, and theaters. A must-visit for first-time travelers to Madrid.",
+          "coordinates": {
+            "latitude": "40.420280",
+            "longitude": "-3.705780"
+          }
+        },
+        {
+          "name": "Thyssen-Bornemisza National Museum",
+          "address": "Paseo del Prado, 8, 28014 Madrid, Spain",
+          "website": "https://www.museothyssen.org/",
+          "description": "Part of Madrid's Golden Triangle of Art, this museum houses an extensive collection ranging from the Middle Ages to the late 20th century.",
+          "coordinates": {
+            "latitude": "40.416064",
+            "longitude": "-3.695421"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Atlético de Madrid Official Store at Wanda Metropolitano",
+          "address": "Av. de Luis Aragonés, 4, 28022 Madrid, Spain",
+          "website": "https://tienda.atleticodemadrid.com/",
+          "description": "The official store for Atlético de Madrid merchandise, offering a wide range of team apparel and accessories right at the stadium.",
+          "coordinates": {
+            "latitude": "40.436193",
+            "longitude": "-3.599333"
+          }
+        },
+        {
+          "name": "Atlético de Madrid Match Day Experience",
+          "address": "Av. de Luis Aragonés, 4, 28022 Madrid, Spain",
+          "website": "https://www.atleticodemadrid.com/entradas",
+          "description": "Attend an Atlético de Madrid game at the Wanda Metropolitano to experience the passion and atmosphere of one of La Liga's top football clubs.",
+          "coordinates": {
+            "latitude": "40.436193",
+            "longitude": "-3.599333"
+          }
+        },
+        {
+          "name": "Atlético de Madrid Football Camp",
+          "address": "Various locations in Madrid",
+          "website": "https://campus.atleticodemadrid.com/",
+          "description": "Football camps for young fans and aspiring players, offering coaching and training in the sport under the guidance of Atlético de Madrid professionals.",
+          "coordinates": {
+            "latitude": "40.436193",
+            "longitude": "-3.599333"
+          }
+        },
+        {
+          "name": "Meet & Greet with Atlético de Madrid Players",
+          "address": "Specific events at Wanda Metropolitano",
+          "website": "https://www.atleticodemadrid.com/entradas",
+          "description": "Special events organized for fans to meet their favorite Atlético de Madrid players, get autographs, and take photos.",
+          "coordinates": {
+            "latitude": "40.436193",
+            "longitude": "-3.599333"
+          }
+        },
+        {
+          "name": "Atlético de Madrid Community Outreach Programs",
+          "address": "Various community centers and schools in Madrid",
+          "website": "https://www.atleticodemadrid.com/fundacion",
+          "description": "Community programs and initiatives led by Atlético de Madrid, promoting sportsmanship, teamwork, and football among youth in Madrid.",
+          "coordinates": {
+            "latitude": "40.436193",
+            "longitude": "-3.599333"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "Metro",
+          "description": "The Estadio Metropolitano metro station (Line 7) provides direct access to the Wanda Metropolitano, offering convenient connections to Madrid's main attractions.",
+          "link": "https://www.metromadrid.es/en",
+          "directions": "For directions and detailed metro schedules, visit the Metro Madrid website or use their mobile app."
+        },
+        {
+          "type": "Bus",
+          "description": "Several bus lines serve the area around Wanda Metropolitano, including lines E2, 28, 38, and 140, making it easily accessible from throughout the city.",
+          "link": "https://www.emtmadrid.es/",
+          "directions": "Check the EMT Madrid website or mobile app for bus schedules, routes, and real-time updates."
+        },
+        {
+          "type": "Car",
+          "description": "Parking facilities are available at Wanda Metropolitano for those who prefer to drive to the stadium.",
+          "link": "https://www.atleticodemadrid.com/estadio-y-museo",
+          "directions": "Visit the Atlético de Madrid website for more information on parking and how to best access the stadium by car."
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Team Website",
+          "website": "https://www.atleticodemadrid.com/entradas",
+          "description": "The primary source for all ticket sales, offering guaranteed authenticity and the best seat selections for Atlético de Madrid games."
+        },
+        {
+          "name": "Ticketmaster Spain",
+          "website": "https://www.ticketmaster.es/",
+          "description": "A reliable ticketing partner offering tickets for various events, including Atlético de Madrid games, within Spain."
+        },
+        {
+          "name": "Resale Platforms",
+          "description": "Check reputable resale platforms for tickets, especially for sold-out games. Ensure the platform offers buyer protection and is authorized to sell Atlético de Madrid tickets."
+        }
+      ],
+      "ways_to_save": "Look for family packages or group discounts for savings. Mid-week games may offer lower prices compared to weekend games. Sign up for the team's newsletter for promotional deals.",
+      "avoiding_scalpers": "Purchase tickets from official sources or reputable platforms to avoid scams. Be cautious of offers that seem too good to be true, and verify the authenticity of tickets when buying from resale sites."
+    }
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "city": "Cádiz",
+  "team": "Cádiz CF",
+  "venue": {
+    "name": "Estadio Ramón de Carranza",
+    "address": "Plaza de Madrid, s/n, 11010 Cádiz, Spain",
+    "website": "https://www.cadizcf.com",
+    "average_ticket_price": "€30",
+    "season_start": "August",
+    "playoffs_start": "May",
+    "coordinates": {
+      "latitude": "36.500876",
+      "longitude": "-6.272219"
+    },
+    "best_seats_pricing": {
+      "Presidential Box": {
+        "Description": "Exclusive seating area offering the best view and luxury experience.",
+        "Sections": "Presidential Box",
+        "Estimated_Pricing_Range": "€500 - €2000",
+        "View_Quality": "Central view from the best vantage point, exceptionally immersive.",
+        "Unique_Features": "Luxury seating, highest level of privacy and exclusivity.",
+        "Accessibility": "VIP access with personal assistance, best access routes.",
+        "Special_Perks": "Gourmet dining options, meet-and-greet opportunities with players."
+      },
+      "VIP Seats": {
+        "Description": "Premium seats with excellent pitch views and exclusive benefits.",
+        "Sections": "VIP Sections",
+        "Estimated_Pricing_Range": "€100 - €500",
+        "View_Quality": "Unmatched side views, close to the action.",
+        "Unique_Features": "Comfortable seating, complimentary snacks and beverages.",
+        "Accessibility": "Dedicated entrance, superior facility access.",
+        "Special_Perks": "Access to VIP lounges, special events invitations."
+      },
+      "Grandstand": {
+        "Description": "Elevated side views for an optimal viewing experience.",
+        "Sections": "Grandstand Sections",
+        "Estimated_Pricing_Range": "€20 - €100",
+        "View_Quality": "Excellent perspective of the entire pitch, clear line of sight.",
+        "Unique_Features": "Good balance of view quality and ticket price.",
+        "Accessibility": "Easy access, available facilities for guests with disabilities.",
+        "Special_Perks": "A popular choice among regular fans for its great value."
+      },
+      "General Admission": {
+        "Description": "Affordable tickets providing access to vibrant atmosphere areas.",
+        "Sections": "General Admission",
+        "Estimated_Pricing_Range": "€15 - €60",
+        "View_Quality": "Dynamic view of the game, engaging fan experience.",
+        "Unique_Features": "Access to the heart of the fan sections, lively atmosphere.",
+        "Accessibility": "Standard access, dedicated areas for wheelchair users.",
+        "Special_Perks": "Part of the passionate fan base, traditional stadium experience."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "El Faro de Cádiz",
+          "address": "Calle San Félix, 15, 11002 Cádiz, Spain",
+          "website": "http://www.elfarodecadiz.com/",
+          "description": "A beloved local eatery offering traditional Andalusian cuisine, famous for its seafood and tapas, located in the heart of Cádiz.",
+          "coordinates": {
+            "latitude": "36.529758",
+            "longitude": "-6.294657"
+          }
+        },
+        {
+          "name": "Casa Manteca",
+          "address": "Calle Corralón de los Carros, 66, 11002 Cádiz, Spain",
+          "website": "https://www.facebook.com/Casa-Manteca-122497831132531/",
+          "description": "A historic tavern in Cádiz known for its chicharrones and a wide selection of tapas, offering a true taste of local cuisine in a rustic setting.",
+          "coordinates": {
+            "latitude": "36.532035",
+            "longitude": "-6.295416"
+          }
+        },
+        {
+          "name": "La Candela",
+          "address": "Calle Feduchy, 3, 11001 Cádiz, Spain",
+          "website": "http://www.lacandelatapas.com/",
+          "description": "This trendy tapas bar serves innovative dishes in a cozy atmosphere, blending traditional flavors with modern culinary techniques.",
+          "coordinates": {
+            "latitude": "36.533446",
+            "longitude": "-6.297312"
+          }
+        },
+        {
+          "name": "Restaurante El Balandro",
+          "address": "Alameda Apodaca, 22, 11004 Cádiz, Spain",
+          "website": "https://www.elbalandro.com/",
+          "description": "A restaurant with beautiful views of the bay, offering a menu that combines local seafood with contemporary cuisine in an elegant setting.",
+          "coordinates": {
+            "latitude": "36.534481",
+            "longitude": "-6.295967"
+          }
+        },
+        {
+          "name": "Taberna El Tío de la Tiza",
+          "address": "Plaza de la Tía Norica, 11002 Cádiz, Spain",
+          "website": "https://www.facebook.com/Taberna-El-Tio-De-La-Tiza-163202457038489/",
+          "description": "Located in a picturesque square, this taberna is famed for its traditional tapas and friendly atmosphere, a favorite among locals and visitors alike.",
+          "coordinates": {
+            "latitude": "36.531100",
+            "longitude": "-6.292700"
+          }
+        },
+        {
+          "name": "Café Royalty",
+          "address": "Plaza de Candelaria, 11005 Cádiz, Spain",
+          "website": "http://www.caferoyalty.com/",
+          "description": "An iconic café in Cádiz, known for its stunning belle époque interior and serving a mix of traditional Spanish dishes and international cuisine.",
+          "coordinates": {
+            "latitude": "36.529600",
+            "longitude": "-6.292500"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Parador de Cádiz",
+          "address": "Av. Duque de Nájera, 9, 11002 Cádiz, Spain",
+          "website": "https://www.parador.es/en/paradores/parador-de-cadiz",
+          "description": "A modern and luxurious hotel offering stunning views of the Atlantic Ocean and Cádiz Bay, located close to the city's historic center and beaches.",
+          "coordinates": {
+            "latitude": "36.529477",
+            "longitude": "-6.294653"
+          }
+        },
+        {
+          "name": "Hotel Playa Victoria",
+          "address": "Glorieta Ingeniero La Cierva, 4, 11010 Cádiz, Spain",
+          "website": "http://www.palafoxhoteles.com/hotel-playa-victoria",
+          "description": "A beachfront hotel located on Victoria Beach, offering direct access to the beach, sea-view rooms, and is within easy reach of Cádiz CF's stadium.",
+          "coordinates": {
+            "latitude": "36.500121",
+            "longitude": "-6.268752"
+          }
+        },
+        {
+          "name": "Hotel Monte Puertatierra",
+          "address": "Av. de Andalucía, 34, 11008 Cádiz, Spain",
+          "website": "https://www.hotelesmonte.com/hotel-monte-puertatierra-en-cadiz/",
+          "description": "This hotel is located just a short walk from Santa María del Mar Beach and offers comfortable accommodations and modern amenities, close to the city center.",
+          "coordinates": {
+            "latitude": "36.515896",
+            "longitude": "-6.278418"
+          }
+        },
+        {
+          "name": "TRYP Cádiz La Caleta Hotel",
+          "address": "Av. Amilcar Barca, 47, 11009 Cádiz, Spain",
+          "website": "https://www.melia.com/en/hotels/spain/cadiz/tryp-cadiz-la-caleta-hotel/index.htm",
+          "description": "Located on the promenade of Cádiz, near the beach of La Caleta, this hotel offers modern rooms and is ideal for visitors attending events at Cádiz CF's stadium.",
+          "coordinates": {
+            "latitude": "36.512258",
+            "longitude": "-6.280438"
+          }
+        },
+        {
+          "name": "Hotel Las Cortes De Cádiz",
+          "address": "Calle San Francisco, 9, 11004 Cádiz, Spain",
+          "website": "http://www.hotellascortes.com/",
+          "description": "A charming hotel set in an 18th-century building in the old town of Cádiz, offering a unique stay with easy access to the city's main attractions.",
+          "coordinates": {
+            "latitude": "36.527759",
+            "longitude": "-6.292980"
+          }
+        },
+        {
+          "name": "Occidental Cádiz",
+          "address": "Av. de Andalucía, 89, 11009 Cádiz, Spain",
+          "website": "https://www.barcelo.com/en-gb/occidental-cadiz/",
+          "description": "A contemporary hotel located in the new part of the city, offering comfortable rooms and amenities, suitable for both leisure and business travelers.",
+          "coordinates": {
+            "latitude": "36.507938",
+            "longitude": "-6.272994"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "Cádiz Cathedral",
+          "address": "Plaza de la Catedral, s/n, 11005 Cádiz, Spain",
+          "website": "http://www.catedraldecadiz.com",
+          "description": "A stunning example of Spanish Baroque and neoclassical architecture, offering breathtaking views of the city and sea from its tower.",
+          "coordinates": {
+            "latitude": "36.529911",
+            "longitude": "-6.294655"
+          }
+        },
+        {
+          "name": "La Caleta Beach",
+          "address": "Playa de la Caleta, Cádiz, Spain",
+          "website": "https://www.cadizturismo.com",
+          "description": "A picturesque urban beach located between two castles, offering a perfect spot for relaxation and a taste of local life in Cádiz.",
+          "coordinates": {
+            "latitude": "36.527063",
+            "longitude": "-6.288785"
+          }
+        },
+        {
+          "name": "Torre Tavira",
+          "address": "Calle Marqués del Real Tesoro, 10, 11001 Cádiz, Spain",
+          "website": "http://www.torretavira.com",
+          "description": "The highest watchtower in the city, featuring a camera obscura that offers panoramic views and unique perspectives of Cádiz.",
+          "coordinates": {
+            "latitude": "36.530544",
+            "longitude": "-6.294312"
+          }
+        },
+        {
+          "name": "Castle of San Sebastián",
+          "address": "Paseo Fernando Quiñones, Cádiz, Spain",
+          "website": "https://www.cadizturismo.com",
+          "description": "A historic fortress located on a small island at the end of La Caleta beach, connected to the mainland by a causeway.",
+          "coordinates": {
+            "latitude": "36.527320",
+            "longitude": "-6.305194"
+          }
+        },
+        {
+          "name": "Castle of Santa Catalina",
+          "address": "Playa de la Caleta, Cádiz, Spain",
+          "website": "https://www.cadizturismo.com",
+          "description": "A 16th-century castle turned cultural space, offering exhibitions and events, with stunning views of the sea and La Caleta Beach.",
+          "coordinates": {
+            "latitude": "36.528919",
+            "longitude": "-6.291183"
+          }
+        },
+        {
+          "name": "Mercado Central de Abastos",
+          "address": "Plaza Libertad, s/n, 11005 Cádiz, Spain",
+          "website": "https://www.mercadocentralcadiz.com",
+          "description": "Cádiz's vibrant central market, where visitors can sample local produce, seafood, and other delicacies in a lively atmosphere.",
+          "coordinates": { "latitude": "36.531347", "longitude": "-6.292650" }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Cádiz CF Official Store",
+          "address": "Estadio Ramón de Carranza, Plaza de Madrid, s/n, 11010 Cádiz, Spain",
+          "website": "https://www.cadizcf.com",
+          "description": "The official store for Cádiz CF merchandise, offering a wide range of team apparel and accessories right at the stadium.",
+          "coordinates": {
+            "latitude": "36.500876",
+            "longitude": "-6.272219"
+          }
+        },
+        {
+          "name": "Cádiz CF Match Day Experience",
+          "address": "Estadio Ramón de Carranza, Plaza de Madrid, s/n, 11010 Cádiz, Spain",
+          "website": "https://www.cadizcf.com/entradas",
+          "description": "Attend a Cádiz CF game at the iconic Estadio Ramón de Carranza to experience the passion and atmosphere of one of La Liga's historic football clubs.",
+          "coordinates": {
+            "latitude": "36.500876",
+            "longitude": "-6.272219"
+          }
+        },
+        {
+          "name": "Cádiz CF Football Camp",
+          "address": "Various locations in Cádiz",
+          "website": "https://www.cadizcf.com/cantera/campus-de-futbol",
+          "description": "Football camps for young fans and aspiring players, offering coaching and training in the sport under the guidance of Cádiz CF professionals.",
+          "coordinates": {
+            "latitude": "36.500876",
+            "longitude": "-6.272219"
+          }
+        },
+        {
+          "name": "Meet & Greet with Cádiz CF Players",
+          "address": "Specific events at Estadio Ramón de Carranza",
+          "website": "https://www.cadizcf.com/entradas",
+          "description": "Special events organized for fans to meet their favorite Cádiz CF players, get autographs, and take photos.",
+          "coordinates": {
+            "latitude": "36.500876",
+            "longitude": "-6.272219"
+          }
+        },
+        {
+          "name": "Cádiz CF Community Outreach Programs",
+          "address": "Various community centers and schools in Cádiz",
+          "website": "https://www.cadizcf.com/fundacion",
+          "description": "Community programs and initiatives led by Cádiz CF, promoting sportsmanship, teamwork, and football among youth in Cádiz.",
+          "coordinates": {
+            "latitude": "36.500876",
+            "longitude": "-6.272219"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "Bus",
+          "description": "Cádiz's city bus network offers convenient access to Estadio Ramón de Carranza, with several lines stopping near the stadium, providing easy access for visitors.",
+          "link": "https://www.tranviascadiz.es/",
+          "directions": "Check the Tranvías de Cádiz website for bus schedules, routes, and real-time updates."
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Team Website",
+          "website": "https://www.cadizcf.com/entradas",
+          "description": "The primary source for all ticket sales, offering guaranteed authenticity and the best seat selections for Cádiz CF games."
+        },
+        {
+          "name": "Ticketmaster Spain",
+          "website": "https://www.ticketmaster.es/",
+          "description": "A reliable ticketing partner offering tickets for various events, including Cádiz CF games, within Spain."
+        },
+        {
+          "name": "Resale Platforms",
+          "description": "Check reputable resale platforms for tickets, especially for sold-out games. Ensure the platform offers buyer protection and is authorized to sell Cádiz CF tickets."
+        }
+      ],
+      "ways_to_save": "Look for family packages or group discounts for savings. Mid-week games may offer lower prices compared to weekend games. Sign up for the team's newsletter for promotional deals.",
+      "avoiding_scalpers": "Purchase tickets from official sources or reputable platforms to avoid scams. Be cautious of offers that seem too good to be true, and verify the authenticity of tickets when buying from resale sites."
+    }
+  }
+}

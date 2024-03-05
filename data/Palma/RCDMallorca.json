@@ -1,0 +1,329 @@
+{
+  "city": "Palma",
+  "team": "RCD Mallorca",
+  "venue": {
+    "name": "Visit Mallorca Estadi",
+    "address": "Camí dels Reis, s/n, 07011 Palma, Illes Balears, Spain",
+    "website": "https://www.rcdmallorca.es/en/club/stadium",
+    "average_ticket_price": "€30",
+    "season_start": "August",
+    "playoffs_start": "May",
+    "coordinates": {
+      "latitude": "39.582263",
+      "longitude": "2.622621"
+    },
+    "best_seats_pricing": {
+      "Presidential Box": {
+        "Description": "Exclusive seating area offering the best view and luxury experience at Visit Mallorca Estadi.",
+        "Sections": "Presidential Box",
+        "Estimated_Pricing_Range": "€600 - €2000",
+        "View_Quality": "Central view from the best vantage point, exceptionally immersive.",
+        "Unique_Features": "Luxury seating, highest level of privacy and exclusivity.",
+        "Accessibility": "VIP access with personal assistance, best access routes.",
+        "Special_Perks": "Gourmet dining options, meet-and-greet opportunities with players."
+      },
+      "VIP Seats": {
+        "Description": "Premium seats with excellent pitch views and exclusive benefits, providing a top-notch football experience.",
+        "Sections": "VIP Sections",
+        "Estimated_Pricing_Range": "€100 - €400",
+        "View_Quality": "Unmatched side views, close to the action.",
+        "Unique_Features": "Comfortable seating, complimentary snacks and beverages.",
+        "Accessibility": "Dedicated entrance, superior facility access.",
+        "Special_Perks": "Access to VIP lounges, special events invitations."
+      },
+      "Grandstand": {
+        "Description": "Elevated side views for an optimal viewing experience, perfect for fans who want a great view without breaking the bank.",
+        "Sections": "Grandstand Sections",
+        "Estimated_Pricing_Range": "€30 - €100",
+        "View_Quality": "Excellent perspective of the entire pitch, clear line of sight.",
+        "Unique_Features": "Good balance of view quality and ticket price.",
+        "Accessibility": "Easy access, available facilities for guests with disabilities.",
+        "Special_Perks": "A popular choice among regular fans for its great value."
+      },
+      "General Admission": {
+        "Description": "Affordable tickets providing access to vibrant atmosphere areas, ideal for the most passionate fans.",
+        "Sections": "General Admission",
+        "Estimated_Pricing_Range": "€15 - €60",
+        "View_Quality": "Dynamic view of the game, engaging fan experience.",
+        "Unique_Features": "Access to the heart of the fan sections, lively atmosphere.",
+        "Accessibility": "Standard access, dedicated areas for wheelchair users.",
+        "Special_Perks": "Part of the passionate fan base, traditional stadium experience."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Asadador La Bolera",
+          "address": "Camí Vell de Bunyola, 33, 07009 Palma, Illes Balears, Spain",
+          "website": "https://www.asadorlabolera.com/",
+          "description": "A well-loved grill restaurant in Palma offering a selection of meats cooked over an open fire, known for its cozy atmosphere and quality dishes.",
+          "coordinates": {
+            "latitude": "39.592520",
+            "longitude": "2.657360"
+          }
+        },
+        {
+          "name": "Restaurante Toque",
+          "address": "Carrer Federico García Lorca, 6, 07014 Palma, Illes Balears, Spain",
+          "website": "https://www.restaurante-toque.com/",
+          "description": "Specializing in French and Mediterranean cuisine, this restaurant offers a fine dining experience with an extensive wine list in Palma's city center.",
+          "coordinates": {
+            "latitude": "39.571640",
+            "longitude": "2.639920"
+          }
+        },
+        {
+          "name": "Marc Fosh",
+          "address": "Carrer de la Missió, 7A, 07003 Palma, Illes Balears, Spain",
+          "website": "https://www.marcfosh.com/",
+          "description": "Run by Michelin-starred chef Marc Fosh, this restaurant serves contemporary Mediterranean cuisine in a sleek and modern setting.",
+          "coordinates": {
+            "latitude": "39.571640",
+            "longitude": "2.651920"
+          }
+        },
+        {
+          "name": "Caballito de Mar",
+          "address": "Passeig Sagrera, 5, 07012 Palma, Illes Balears, Spain",
+          "website": "http://www.caballitodemar.info/",
+          "description": "Located near the Palma marina, this restaurant is famed for its seafood and paella, offering beautiful sea views and a vibrant atmosphere.",
+          "coordinates": {
+            "latitude": "39.563320",
+            "longitude": "2.644360"
+          }
+        },
+        {
+          "name": "Ola del Mar",
+          "address": "Portixol, 07006 Palma, Illes Balears, Spain",
+          "website": "https://www.oladelmar.es/",
+          "description": "A beachside restaurant in the Portixol area, known for its fresh fish, seafood dishes, and stunning views of the Mediterranean.",
+          "coordinates": {
+            "latitude": "39.555080",
+            "longitude": "2.656080"
+          }
+        },
+        {
+          "name": "Sadrassana Restaurante Coctelería",
+          "address": "Plaça de la Drassana, 15, 07012 Palma, Illes Balears, Spain",
+          "website": "https://www.sadrassana.com/",
+          "description": "Situated in the historic quarter, this restaurant offers a contemporary take on Mallorcan cuisine, within a beautifully restored 19th-century mansion.",
+          "coordinates": {
+            "latitude": "39.563080",
+            "longitude": "2.646380"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Hotel Saratoga",
+          "address": "Passeig de Mallorca, 6, 07012 Palma, Illes Balears, Spain",
+          "website": "https://www.hotelsaratoga.com/",
+          "description": "Located in the heart of Palma, this upscale hotel features a rooftop pool with stunning views of the city, offering easy access to Visit Mallorca Estadi and the city's attractions.",
+          "coordinates": {
+            "latitude": "39.573529",
+            "longitude": "2.646210"
+          }
+        },
+        {
+          "name": "Meliá Palma Marina",
+          "address": "Paseo Marítimo, 29, 07014 Palma, Illes Balears, Spain",
+          "website": "https://www.melia.com/en/hotels/spain/majorca/melia-palma-marina/index.htm",
+          "description": "Overlooking the Palma Bay, this hotel is perfect for guests looking for a comfortable stay with magnificent sea views and proximity to the football stadium.",
+          "coordinates": {
+            "latitude": "39.565376",
+            "longitude": "2.628198"
+          }
+        },
+        {
+          "name": "INNSiDE by Meliá Palma Center",
+          "address": "Carrer dels Font i Monteros, 23, 07003 Palma, Illes Balears, Spain",
+          "website": "https://www.melia.com/en/hotels/spain/majorca/innside-palma-center/index.htm",
+          "description": "This modern hotel offers stylish accommodations and a rooftop terrace with a pool, located conveniently to enjoy both the city's cultural offerings and RCD Mallorca matches.",
+          "coordinates": {
+            "latitude": "39.574894",
+            "longitude": "2.655341"
+          }
+        },
+        {
+          "name": "Hotel Palma Bellver, managed by Meliá",
+          "address": "Paseo Marítimo, 11, 07014 Palma, Illes Balears, Spain",
+          "website": "https://www.melia.com/en/hotels/spain/majorca/hotel-palma-bellver/index.htm",
+          "description": "This hotel is situated on Palma's seafront promenade, offering easy access to the beach and city center, as well as amenities like an outdoor pool and dining options.",
+          "coordinates": {
+            "latitude": "39.567233",
+            "longitude": "2.629470"
+          }
+        },
+        {
+          "name": "Nakar Hotel",
+          "address": "Avenida Jaime III, 21, 07012 Palma, Illes Balears, Spain",
+          "website": "https://www.nakarhotel.com/",
+          "description": "A contemporary hotel with sleek design, located on one of Palma's main shopping streets. Features include a rooftop pool and a spa.",
+          "coordinates": {
+            "latitude": "39.570070",
+            "longitude": "2.650370"
+          }
+        },
+        {
+          "name": "Iberostar Selection Playa de Palma",
+          "address": "Calle Marbella, 36, 07610 Palma, Illes Balears, Spain",
+          "website": "https://www.iberostar.com/en/hotels/majorca/iberostar-selection-playa-de-palma/",
+          "description": "Just a short drive from Visit Mallorca Estadi, this beachfront hotel offers luxury accommodations, a spa, and several dining options, ideal for relaxing after a match.",
+          "coordinates": {
+            "latitude": "39.518197",
+            "longitude": "2.738842"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "Bellver Castle",
+          "address": "Camilo José Cela, s/n, 07014 Palma, Illes Balears, Spain",
+          "website": "https://www.visitpalma.com/en/place/bellver-castle/",
+          "description": "A unique circular castle offering panoramic views of Palma and the bay, featuring a museum that explores the history of the city.",
+          "coordinates": {
+            "latitude": "39.563847",
+            "longitude": "2.619748"
+          }
+        },
+        {
+          "name": "Cathedral of Santa Maria of Palma",
+          "address": "Plaça de la Seu, s/n, 07001 Palma, Illes Balears, Spain",
+          "website": "https://www.catedraldemallorca.org/en/",
+          "description": "Also known as La Seu, this majestic Gothic cathedral overlooks the sea, famous for its rose window and works by Antoni Gaudí.",
+          "coordinates": {
+            "latitude": "39.566378",
+            "longitude": "2.648242"
+          }
+        },
+        {
+          "name": "Palma Aquarium",
+          "address": "Carrer de Manuela de los Herreros, 21, 07610 Palma, Illes Balears, Spain",
+          "website": "https://palmaaquarium.com/en/",
+          "description": "A family-friendly attraction featuring marine life from the Mediterranean and beyond, including sharks, corals, and a jungle area.",
+          "coordinates": {
+            "latitude": "39.537014",
+            "longitude": "2.718843"
+          }
+        },
+        {
+          "name": "Passeig del Born",
+          "address": "Passeig del Born, 07012 Palma, Illes Balears, Spain",
+          "description": "A bustling tree-lined avenue in the heart of Palma, known for its shops, cafes, and lively atmosphere.",
+          "coordinates": {
+            "latitude": "39.571175",
+            "longitude": "2.647255"
+          }
+        },
+        {
+          "name": "Fundació Pilar i Joan Miró a Mallorca",
+          "address": "Carrer de Saridakis, 29, 07015 Palma, Illes Balears, Spain",
+          "website": "https://miromallorca.com/en/",
+          "description": "A museum and art center dedicated to the work of artist Joan Miró, offering a look at his studios and a collection of his art.",
+          "coordinates": {
+            "latitude": "39.551986",
+            "longitude": "2.610076"
+          }
+        },
+        {
+          "name": "Sóller Train",
+          "address": "Eusebi Estada, 1, 07004 Palma, Illes Balears, Spain",
+          "website": "https://trendesoller.com/en/cms/",
+          "description": "A historic wooden train that connects Palma to the picturesque town of Sóller, traversing through beautiful landscapes and the Tramuntana mountains.",
+          "coordinates": {
+            "latitude": "39.574292",
+            "longitude": "2.655188"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "RCD Mallorca Official Store",
+          "address": "Visit Mallorca Estadi, Camí dels Reis, s/n, 07011 Palma, Illes Balears, Spain",
+          "website": "https://www.rcdmallorca.es",
+          "description": "The official store for RCD Mallorca merchandise, offering a wide range of team apparel and accessories at the Visit Mallorca Estadi.",
+          "coordinates": {
+            "latitude": "39.582263",
+            "longitude": "2.622621"
+          }
+        },
+        {
+          "name": "RCD Mallorca Match Day Experience",
+          "address": "Visit Mallorca Estadi, Camí dels Reis, s/n, 07011 Palma, Illes Balears, Spain",
+          "website": "https://www.rcdmallorca.es/en/tickets",
+          "description": "Attend an RCD Mallorca game at the Visit Mallorca Estadi to experience the passion and atmosphere of one of Spain's historic football clubs.",
+          "coordinates": {
+            "latitude": "39.582263",
+            "longitude": "2.622621"
+          }
+        },
+        {
+          "name": "RCD Mallorca Football Camp",
+          "address": "Various locations in Palma",
+          "website": "https://www.rcdmallorca.es/en/academy/camps",
+          "description": "Football camps for young fans and aspiring players, offering coaching and training in the sport under the guidance of RCD Mallorca professionals.",
+          "coordinates": {
+            "latitude": "39.582263",
+            "longitude": "2.622621"
+          }
+        },
+        {
+          "name": "Meet & Greet with RCD Mallorca Players",
+          "address": "Specific events at Visit Mallorca Estadi",
+          "website": "https://www.rcdmallorca.es/en/tickets",
+          "description": "Special events organized for fans to meet their favorite RCD Mallorca players, get autographs, and take photos.",
+          "coordinates": {
+            "latitude": "39.582263",
+            "longitude": "2.622621"
+          }
+        },
+        {
+          "name": "RCD Mallorca Community Outreach Programs",
+          "address": "Various community centers and schools in Palma",
+          "website": "https://www.rcdmallorca.es/en/foundation",
+          "description": "Community programs and initiatives led by RCD Mallorca, promoting sportsmanship, teamwork, and football among youth in Palma.",
+          "coordinates": {
+            "latitude": "39.582263",
+            "longitude": "2.622621"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "Bus",
+          "description": "Palma's city bus network offers convenient access to Visit Mallorca Estadi, with several lines stopping near the stadium, facilitating easy access for visitors.",
+          "link": "https://www.tib.org/en/web/ctm/autobus/linia/",
+          "directions": "Check the TIB website for bus schedules, routes, and real-time updates."
+        },
+        {
+          "type": "Bicycle",
+          "description": "Palma offers a bike sharing service, BiciPalma, making it easy and sustainable to reach Visit Mallorca Estadi, with bike parking available at the venue.",
+          "link": "https://www.bicipalma.es",
+          "directions": "Plan your route with BiciPalma to find the most convenient and safe path to the stadium."
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Team Website",
+          "website": "https://www.rcdmallorca.es/en/tickets",
+          "description": "The primary source for all ticket sales, offering guaranteed authenticity and the best seat selections for RCD Mallorca games."
+        },
+        {
+          "name": "Entradas.com",
+          "website": "https://www.entradas.com/",
+          "description": "A reliable ticketing partner offering tickets for various events, including RCD Mallorca games, within Spain."
+        },
+        {
+          "name": "Resale Platforms",
+          "description": "Check reputable resale platforms for tickets, especially for sold-out games. Ensure the platform offers buyer protection and is authorized to sell RCD Mallorca tickets."
+        }
+      ],
+      "ways_to_save": "Look for family packages or group discounts for savings. Mid-week games may offer lower prices compared to weekend games. Sign up for the team's newsletter for promotional deals.",
+      "avoiding_scalpers": "Purchase tickets from official sources or reputable platforms to avoid scams. Be cautious of offers that seem too good to be true, and verify the authenticity of tickets when buying from resale sites."
+    }
+  }
+}

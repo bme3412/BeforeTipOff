@@ -1,0 +1,316 @@
+{
+  "city": "Pamplona",
+  "team": "CA Osasuna",
+  "venue": {
+    "name": "El Sadar",
+    "address": "Calle del Sadar, s/n, 31006 Pamplona, Navarra, Spain",
+    "website": "https://www.osasuna.es/club/instalaciones/el-sadar",
+    "average_ticket_price": "€50",
+    "season_start": "August",
+    "playoffs_start": "May",
+    "coordinates": {
+      "latitude": "42.796688",
+      "longitude": "-1.637460"
+    },
+    "best_seats_pricing": {
+      "Presidential Box": {
+        "Description": "Exclusive seating area offering the best view and luxury experience at El Sadar.",
+        "Sections": "Presidential Box",
+        "Estimated_Pricing_Range": "€800 - €3500",
+        "View_Quality": "Central view from the most privileged vantage point, unparalleled immersion.",
+        "Unique_Features": "Luxury seating, utmost level of privacy and exclusivity.",
+        "Accessibility": "VIP access with personal assistance, premier access routes.",
+        "Special_Perks": "Exquisite dining options, opportunities for meet-and-greet with players."
+      },
+      "VIP Seats": {
+        "Description": "Premium seats with excellent pitch views and exclusive benefits, providing a top-notch football experience.",
+        "Sections": "VIP Sections",
+        "Estimated_Pricing_Range": "€150 - €700",
+        "View_Quality": "Prime side views, very close to the pitch action.",
+        "Unique_Features": "Superior comfort seating, complimentary gourmet snacks and drinks.",
+        "Accessibility": "Exclusive entrance, enhanced facility access.",
+        "Special_Perks": "Access to VIP lounges, special events invitations."
+      },
+      "Grandstand": {
+        "Description": "Elevated side views for an optimal viewing experience, perfect for fans who want a great view without breaking the bank.",
+        "Sections": "Grandstand Sections",
+        "Estimated_Pricing_Range": "€40 - €120",
+        "View_Quality": "Excellent perspective of the entire pitch, clear line of sight.",
+        "Unique_Features": "Good balance of view quality and ticket price.",
+        "Accessibility": "Easy access, available facilities for guests with disabilities.",
+        "Special_Perks": "A popular choice among regular fans for its great value."
+      },
+      "General Admission": {
+        "Description": "Affordable tickets providing access to vibrant atmosphere areas, ideal for the most passionate fans.",
+        "Sections": "General Admission",
+        "Estimated_Pricing_Range": "€15 - €60",
+        "View_Quality": "Dynamic view of the game, engaging fan experience.",
+        "Unique_Features": "Access to the heart of the fan sections, lively atmosphere.",
+        "Accessibility": "Standard access, dedicated areas for wheelchair users.",
+        "Special_Perks": "Part of the passionate fan base, traditional stadium experience."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Asador Sidrería Chez Belagua",
+          "address": "Calle Estafeta, 49-51, 31001 Pamplona, Navarra, Spain",
+          "website": "http://www.chezbelagua.com/",
+          "description": "A popular grill and cider house in Pamplona, known for its traditional Navarrese cuisine and cozy atmosphere.",
+          "coordinates": {
+            "latitude": "42.818254",
+            "longitude": "-1.642523"
+          }
+        },
+        {
+          "name": "Café Iruña",
+          "address": "Plaza del Castillo, 44, 31001 Pamplona, Navarra, Spain",
+          "website": "https://www.cafeiruna.com/",
+          "description": "An iconic café in Pamplona, offering a historic setting with beautiful views, known for its coffee, pintxos, and Ernest Hemingway's favorite spot.",
+          "coordinates": {
+            "latitude": "42.816500",
+            "longitude": "-1.642834"
+          }
+        },
+        {
+          "name": "Restaurante Europa",
+          "address": "Calle Espoz y Mina, 11, 31002 Pamplona, Navarra, Spain",
+          "website": "http://www.restauranteeuropa.com/",
+          "description": "A Michelin-starred restaurant in Pamplona, known for its innovative takes on traditional Basque and Navarrese dishes.",
+          "coordinates": {
+            "latitude": "42.817184",
+            "longitude": "-1.643676"
+          }
+        },
+        {
+          "name": "Baserriberri",
+          "address": "Calle San Nicolás, 32, 31001 Pamplona, Navarra, Spain",
+          "website": "http://www.baserriberri.com/",
+          "description": "An avant-garde pintxos bar blending modern culinary techniques with traditional Navarrese ingredients, creating an unforgettable dining experience.",
+          "coordinates": {
+            "latitude": "42.816888",
+            "longitude": "-1.645256"
+          }
+        },
+        {
+          "name": "La Cocina de Álex Múgica",
+          "address": "Calle Estafeta, 24, 31001 Pamplona, Navarra, Spain",
+          "website": "https://www.lacocinadealexmugica.com/",
+          "description": "Located in the heart of Pamplona, this restaurant offers creative and contemporary cuisine, with a focus on local products and seasonal ingredients.",
+          "coordinates": {
+            "latitude": "42.817900",
+            "longitude": "-1.642000"
+          }
+        },
+        {
+          "name": "Bar Gaucho",
+          "address": "Calle Espoz y Mina, 7, 31002 Pamplona, Navarra, Spain",
+          "website": "http://www.bargaucho.com/",
+          "description": "A staple for pintxos in Pamplona, Bar Gaucho is celebrated for its innovative and delicious small plates, drawing locals and visitors alike.",
+          "coordinates": {
+            "latitude": "42.817426",
+            "longitude": "-1.643789"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Gran Hotel La Perla",
+          "address": "Plaza del Castillo, 1, 31001 Pamplona, Navarra, Spain",
+          "website": "https://www.granhotellaperla.com/",
+          "description": "A historic and luxurious hotel in the heart of Pamplona, offering elegantly furnished rooms with a balcony overlooking the city. It's known for hosting notable guests, including Ernest Hemingway.",
+          "coordinates": {
+            "latitude": "42.816600",
+            "longitude": "-1.642100"
+          }
+        },
+        {
+          "name": "Hotel Alma Pamplona",
+          "address": "Calle Beloso Bajo, 11, 31006 Pamplona, Navarra, Spain",
+          "website": "https://www.almahotels.com/en/hotel/alma-pamplona/",
+          "description": "A modern hotel on the outskirts of Pamplona, featuring contemporary design, a spa, and a gourmet restaurant. It offers a tranquil setting and spacious rooms.",
+          "coordinates": {
+            "latitude": "42.825200",
+            "longitude": "-1.636500"
+          }
+        },
+        {
+          "name": "Hotel Tres Reyes",
+          "address": "Calle Taconera, s/n, 31001 Pamplona, Navarra, Spain",
+          "website": "https://www.hotel3reyes.com/",
+          "description": "Located in the gardens of the Taconera, in the center of Pamplona, this hotel blends modern facilities with traditional hospitality. It boasts stunning views of the city and comfortable accommodations.",
+          "coordinates": {
+            "latitude": "42.815200",
+            "longitude": "-1.646300"
+          }
+        },
+        {
+          "name": "Hotel Palacio Guendulain",
+          "address": "Calle Zapatería, 53, 31001 Pamplona, Navarra, Spain",
+          "website": "https://www.palacioguendulain.com/",
+          "description": "One of the most prominent historic buildings in Pamplona, transformed into an exquisite boutique hotel. It offers luxurious rooms and features a beautiful courtyard and a collection of antique carriages.",
+          "coordinates": {
+            "latitude": "42.817400",
+            "longitude": "-1.642800"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "The Running of the Bulls",
+          "address": "Calle Mercaderes, 31001 Pamplona, Navarra, Spain",
+          "website": "https://www.sanfermin.com/en/",
+          "description": "The most famous event of the San Fermín festival in Pamplona, known worldwide, where bulls run through the streets of the old city.",
+          "coordinates": {
+            "latitude": "42.811367",
+            "longitude": "-1.640481"
+          }
+        },
+        {
+          "name": "Pamplona Cathedral",
+          "address": "Calle Curia, s/n, 31001 Pamplona, Navarra, Spain",
+          "website": "http://www.catedraldepamplona.com/",
+          "description": "A Gothic cathedral known for its impressive architecture and the Diocesan Museum, which contains significant religious art.",
+          "coordinates": {
+            "latitude": "42.818411",
+            "longitude": "-1.642069"
+          }
+        },
+        {
+          "name": "Fortress and Walls of Pamplona",
+          "address": "Avenida del Ejército, 31001 Pamplona, Navarra, Spain",
+          "website": "https://www.turismo.navarra.es/eng/organice-viaje/recurso/Patrimonio/3025/Murallas-de-Pamplona.htm",
+          "description": "A historical set of fortifications surrounding the old town of Pamplona, offering beautiful walks and views of the city.",
+          "coordinates": {
+            "latitude": "42.816600",
+            "longitude": "-1.645200"
+          }
+        },
+        {
+          "name": "Plaza del Castillo",
+          "address": "Plaza del Castillo, 31001 Pamplona, Navarra, Spain",
+          "website": "https://www.turismo.navarra.es/eng/propuestas/san-fermines/informacion-general/plaza-del-castillo.htm",
+          "description": "The heart of Pamplona's social life, this large square is surrounded by bars, cafés, and restaurants and is a popular gathering spot.",
+          "coordinates": {
+            "latitude": "42.817234",
+            "longitude": "-1.643885"
+          }
+        },
+        {
+          "name": "Parque de la Taconera",
+          "address": "Calle del Bosquecillo, s/n, 31001 Pamplona, Navarra, Spain",
+          "website": "https://www.turismo.navarra.es/eng/organice-viaje/recurso/relacionado/3130/",
+          "description": "Pamplona's oldest park, featuring beautiful gardens, sculptures, and a mini-zoo with deer, ducks, and peacocks.",
+          "coordinates": {
+            "latitude": "42.815300",
+            "longitude": "-1.648200"
+          }
+        },
+        {
+          "name": "Museum of Navarra",
+          "address": "Calle Cuesta de Santo Domingo, 47, 31001 Pamplona, Navarra, Spain",
+          "website": "http://www.museodenavarra.navarra.es/",
+          "description": "Showcases the history and art of Navarre from prehistoric times to the present, including Roman mosaics and works by Goya.",
+          "coordinates": {
+            "latitude": "42.816084",
+            "longitude": "-1.645900"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "CA Osasuna Official Store at El Sadar",
+          "address": "Calle del Sadar, s/n, 31006 Pamplona, Navarra, Spain",
+          "website": "https://www.osasuna.es/tienda",
+          "description": "The official store for CA Osasuna merchandise, offering a wide range of team apparel and accessories right at the stadium.",
+          "coordinates": {
+            "latitude": "42.796688",
+            "longitude": "-1.637460"
+          }
+        },
+        {
+          "name": "CA Osasuna Match Day Experience",
+          "address": "Calle del Sadar, s/n, 31006 Pamplona, Navarra, Spain",
+          "website": "https://www.osasuna.es/entradas",
+          "description": "Attend a CA Osasuna game at the iconic El Sadar Stadium to experience the passion and atmosphere of one of the most supportive football clubs.",
+          "coordinates": {
+            "latitude": "42.796688",
+            "longitude": "-1.637460"
+          }
+        },
+        {
+          "name": "CA Osasuna Football Camp",
+          "address": "Various locations in Pamplona",
+          "website": "https://www.osasuna.es/cantera/escuela",
+          "description": "Football camps for young fans and aspiring players, offering coaching and training in the sport under the guidance of CA Osasuna professionals.",
+          "coordinates": {
+            "latitude": "42.796688",
+            "longitude": "-1.637460"
+          }
+        },
+        {
+          "name": "Meet & Greet with CA Osasuna Players",
+          "address": "Specific events at El Sadar",
+          "website": "https://www.osasuna.es/entradas",
+          "description": "Special events organized for fans to meet their favorite CA Osasuna players, get autographs, and take photos.",
+          "coordinates": {
+            "latitude": "42.796688",
+            "longitude": "-1.637460"
+          }
+        },
+        {
+          "name": "CA Osasuna Community Outreach Programs",
+          "address": "Various community centers and schools in Pamplona",
+          "website": "https://www.osasuna.es/fundacion",
+          "description": "Community programs and initiatives led by CA Osasuna, promoting sportsmanship, teamwork, and football among youth in Pamplona.",
+          "coordinates": {
+            "latitude": "42.796688",
+            "longitude": "-1.637460"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "City Buses",
+          "description": "Pamplona's city bus network offers convenient routes to El Sadar Stadium, with several lines serving the area around the stadium.",
+          "link": "https://www.infotuc.es/",
+          "directions": "For directions and detailed bus schedules, visit the Infotuc website or use their mobile app."
+        },
+        {
+          "type": "Taxi",
+          "description": "Taxis are a readily available and convenient option for reaching El Sadar Stadium from anywhere in Pamplona.",
+          "link": "https://www.pamplona.es/vive-pamplona/movilidad-y-transporte/taxi",
+          "directions": "Taxi stands are located throughout the city, and services can be easily hailed or booked via phone or taxi apps."
+        },
+        {
+          "type": "Bicycle",
+          "description": "Pamplona's network of bike lanes makes cycling a viable and eco-friendly option for reaching El Sadar Stadium.",
+          "link": "https://www.pamplona.es/vive-pamplona/movilidad-y-transporte/bicicletas",
+          "directions": "Plan your bike route with the city's cycling map or Google Maps to find the most convenient and safe path to the stadium."
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Team Website",
+          "website": "https://www.osasuna.es/entradas",
+          "description": "The primary source for all ticket sales, offering guaranteed authenticity and the best seat selections for CA Osasuna games."
+        },
+        {
+          "name": "Ticket Office at El Sadar Stadium",
+          "website": "https://www.osasuna.es/entradas",
+          "description": "Purchase tickets directly from the ticket office at El Sadar Stadium for a personal touch and last-minute availability."
+        },
+        {
+          "name": "Resale Platforms",
+          "description": "Check reputable resale platforms for tickets, especially for sold-out games. Ensure the platform offers buyer protection and verifies the authenticity of tickets."
+        }
+      ],
+      "ways_to_save": "Look for family packages or group discounts for savings. Mid-week games may offer lower prices compared to weekend games. Sign up for the team's newsletter for promotional deals.",
+      "avoiding_scalpers": "Purchase tickets from official sources or reputable platforms to avoid scams. Be cautious of offers that seem too good to be true, and verify the authenticity of tickets when buying from resale sites."
+    }
+  }
+}

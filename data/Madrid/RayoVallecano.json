@@ -1,0 +1,322 @@
+{
+  "city": "Madrid",
+  "team": "Rayo Vallecano",
+  "venue": {
+    "name": "Estadio de Vallecas",
+    "address": "Calle del Payaso Fofó, 28018 Madrid, Spain",
+    "website": "https://www.rayovallecano.es",
+    "average_ticket_price": "€40",
+    "season_start": "August",
+    "playoffs_start": "May",
+    "coordinates": {
+      "latitude": "40.391944",
+      "longitude": "-3.658333"
+    },
+    "best_seats_pricing": {
+      "Presidential Box": {
+        "Description": "Exclusive seating area with the best view and premium experience at Estadio de Vallecas.",
+        "Sections": "Presidential Box",
+        "Estimated_Pricing_Range": "€1000 - €3000",
+        "View_Quality": "Central view from the most privileged vantage point, unparalleled immersion.",
+        "Unique_Features": "Luxury seating, utmost level of privacy and exclusivity.",
+        "Accessibility": "VIP access with personal assistance, premier access routes.",
+        "Special_Perks": "Exquisite dining options, opportunities for meet-and-greet with players."
+      },
+      "VIP Seats": {
+        "Description": "High-end seats offering excellent pitch views and exclusive amenities, for an unforgettable match day experience.",
+        "Sections": "VIP Sections",
+        "Estimated_Pricing_Range": "€150 - €600",
+        "View_Quality": "Prime side views, very close to the pitch action.",
+        "Unique_Features": "Superior comfort seating, complimentary gourmet snacks and drinks.",
+        "Accessibility": "Exclusive entrance, enhanced facility access.",
+        "Special_Perks": "Entrance to VIP lounges, invitations to special club events."
+      },
+      "Grandstand": {
+        "Description": "Superior side views for a perfect game watching experience, offering a great balance of comfort and view.",
+        "Sections": "Grandstand Sections",
+        "Estimated_Pricing_Range": "€50 - €200",
+        "View_Quality": "Outstanding full-pitch perspective, unobstructed line of sight.",
+        "Unique_Features": "Ideal balance between view quality and cost.",
+        "Accessibility": "Convenient access, facilities accessible for guests with disabilities.",
+        "Special_Perks": "Favored option for regular supporters for its outstanding value."
+      },
+      "General Admission": {
+        "Description": "Economical tickets to lively atmosphere zones, perfect for the true fan wanting to support their team in a vibrant environment.",
+        "Sections": "General Admission",
+        "Estimated_Pricing_Range": "€20 - €80",
+        "View_Quality": "Energetic game view, immersive fan experience.",
+        "Unique_Features": "Heart of the fan sections, vibrant atmosphere.",
+        "Accessibility": "Standard entry, wheelchair-accessible areas.",
+        "Special_Perks": "Immersed in the passionate fan base, authentic stadium atmosphere."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Bar El Zorro",
+          "address": "Calle del Payaso Fofó, 24, 28018 Madrid, Spain",
+          "website": "http://www.barelzorro.com/",
+          "description": "A popular local bar near Estadio de Vallecas, known for its friendly atmosphere and traditional Spanish tapas.",
+          "coordinates": {
+            "latitude": "40.392044",
+            "longitude": "-3.658506"
+          }
+        },
+        {
+          "name": "La Fragua de Vallecas",
+          "address": "Calle de Sierra Carbonera, 5, 28053 Madrid, Spain",
+          "website": "https://www.lafraguadevallecas.com/",
+          "description": "Renowned for its innovative cuisine, this restaurant offers a modern twist on classic Spanish dishes, located close to Rayo Vallecano's home ground.",
+          "coordinates": {
+            "latitude": "40.391826",
+            "longitude": "-3.654378"
+          }
+        },
+        {
+          "name": "Cervecería 100 Montaditos",
+          "address": "Calle del Payaso Fofó, 15, 28018 Madrid, Spain",
+          "website": "https://spain.100montaditos.com/",
+          "description": "Part of a famous Spanish chain, this venue is best known for its wide variety of mini sandwiches and casual dining atmosphere, a short walk from the stadium.",
+          "coordinates": {
+            "latitude": "40.391347",
+            "longitude": "-3.658790"
+          }
+        },
+        {
+          "name": "Restaurante El Puchero de Mi Abuela",
+          "address": "Calle de Martínez de la Riva, 59, 28018 Madrid, Spain",
+          "website": "http://www.elpucherodemilabuela.com/",
+          "description": "A cozy restaurant offering homemade meals and a taste of traditional Spanish home cooking, beloved by locals.",
+          "coordinates": {
+            "latitude": "40.388596",
+            "longitude": "-3.657202"
+          }
+        },
+        {
+          "name": "Vinoteca García de la Navarra",
+          "address": "Calle de Montalbán, 3, 28014 Madrid, Spain",
+          "website": "https://www.garciadelanavarra.com/",
+          "description": "While a bit of a journey from Vallecas, this wine bar and restaurant is celebrated for its extensive wine list and superb Spanish cuisine.",
+          "coordinates": {
+            "latitude": "40.415527",
+            "longitude": "-3.692104"
+          }
+        },
+        {
+          "name": "Mercado de Vallecas",
+          "address": "Calle del Sierra Vieja, 50, 28031 Madrid, Spain",
+          "website": "https://www.mercadodevallecas.com/",
+          "description": "A local market where visitors can explore a variety of food stalls offering fresh produce, meats, cheeses, and more, reflecting the community's culinary traditions.",
+          "coordinates": {
+            "latitude": "40.379300",
+            "longitude": "-3.621738"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "NH Madrid Sur",
+          "address": "Avenida de la Ciudad de Barcelona, 113, 28007 Madrid, Spain",
+          "website": "https://www.nh-hoteles.es/hotel/nh-madrid-sur",
+          "description": "Located close to Vallecas, this hotel offers comfortable rooms and easy access to Madrid's main attractions via public transport.",
+          "coordinates": {
+            "latitude": "40.401726",
+            "longitude": "-3.669478"
+          }
+        },
+        {
+          "name": "Ibis Budget Madrid Vallecas",
+          "address": "Calle Casas de Miravete, 17, 28031 Madrid, Spain",
+          "website": "https://all.accor.com/hotel/8503/index.es.shtml",
+          "description": "A budget-friendly option in the Vallecas area, providing basic but modern accommodations suitable for fans attending a match at Estadio de Vallecas.",
+          "coordinates": {
+            "latitude": "40.373924",
+            "longitude": "-3.608764"
+          }
+        },
+        {
+          "name": "Hotel Mercader",
+          "address": "Calle Eje 2-7A, Polígono Alimentario Mercamadrid, 28053 Madrid, Spain",
+          "website": "https://www.hotelmercader.com/",
+          "description": "Offering spacious rooms and located within the Mercamadrid area, this hotel is ideal for visitors looking for comfort and convenience near Rayo Vallecano's stadium.",
+          "coordinates": {
+            "latitude": "40.354580",
+            "longitude": "-3.665290"
+          }
+        },
+        {
+          "name": "Tryp Madrid Alameda Aeropuerto Hotel",
+          "address": "Avenida de Logroño, 100, 28042 Madrid, Spain",
+          "website": "https://www.melia.com/es/hoteles/espana/madrid/tryp-madrid-alameda-aeropuerto-hotel/index.htm",
+          "description": "Though a bit further from Vallecas, this hotel offers a comfortable stay with shuttle service to the airport, suitable for international fans visiting for a game.",
+          "coordinates": {
+            "latitude": "40.468098",
+            "longitude": "-3.577180"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "The Royal Palace of Madrid",
+          "address": "Calle de Bailén, s/n, 28071 Madrid, Spain",
+          "website": "https://www.patrimonionacional.es/real-sitio/palacio-real-de-madrid",
+          "description": "The official residence of the Spanish Royal Family at the city of Madrid, but it is only used for state ceremonies. It is the largest royal palace in Europe by floor area.",
+          "coordinates": {
+            "latitude": "40.417955",
+            "longitude": "-3.714312"
+          }
+        },
+        {
+          "name": "Prado Museum",
+          "address": "Calle de Ruiz de Alarcón, 23, 28014 Madrid, Spain",
+          "website": "https://www.museodelprado.es/",
+          "description": "Spain's main national art museum, featuring one of the finest collections of European art, dating from the 12th century to the early 20th century.",
+          "coordinates": {
+            "latitude": "40.413722",
+            "longitude": "-3.692412"
+          }
+        },
+        {
+          "name": "Retiro Park",
+          "address": "Plaza de la Independencia, 7, 28001 Madrid, Spain",
+          "website": "https://www.esmadrid.com/informacion-turistica/parque-del-retiro",
+          "description": "A large and popular green oasis in the heart of Madrid, offering a peaceful retreat with beautiful sculptures, monuments, and a magnificent lake.",
+          "coordinates": {
+            "latitude": "40.415260",
+            "longitude": "-3.684230"
+          }
+        },
+        {
+          "name": "Santiago Bernabéu Stadium",
+          "address": "Av. de Concha Espina, 1, 28036 Madrid, Spain",
+          "website": "https://www.realmadrid.com/en/santiago-bernabeu-stadium",
+          "description": "The iconic home of Real Madrid C.F., offering tours that include access to the trophy room, pitch side, and the presidential box.",
+          "coordinates": {
+            "latitude": "40.453054",
+            "longitude": "-3.688344"
+          }
+        },
+        {
+          "name": "Gran Vía",
+          "address": "Gran Vía, Madrid, Spain",
+          "website": "https://www.esmadrid.com/informacion-turistica/gran-via",
+          "description": "Madrid's bustling main street, known for its grand architecture, shopping, and theaters. A must-visit for first-time travelers to Madrid.",
+          "coordinates": {
+            "latitude": "40.420280",
+            "longitude": "-3.705780"
+          }
+        },
+        {
+          "name": "Thyssen-Bornemisza National Museum",
+          "address": "Paseo del Prado, 8, 28014 Madrid, Spain",
+          "website": "https://www.museothyssen.org/",
+          "description": "Part of Madrid's Golden Triangle of Art, this museum houses an extensive collection ranging from the Middle Ages to the late 20th century.",
+          "coordinates": {
+            "latitude": "40.416064",
+            "longitude": "-3.695421"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Rayo Vallecano Official Store at Vallecas",
+          "address": "Calle Payaso Fofó, 28018 Madrid, Spain",
+          "website": "https://www.rayovallecano.es",
+          "description": "The official store for Rayo Vallecano merchandise, offering a wide range of team apparel and accessories right at the Estadio de Vallecas.",
+          "coordinates": {
+            "latitude": "40.391944",
+            "longitude": "-3.658333"
+          }
+        },
+        {
+          "name": "Rayo Vallecano Match Day Experience",
+          "address": "Calle Payaso Fofó, 28018 Madrid, Spain",
+          "website": "https://www.rayovallecano.es/tickets",
+          "description": "Attend a Rayo Vallecano game at the iconic Estadio de Vallecas to experience the passion and atmosphere of one of Madrid's historic football clubs.",
+          "coordinates": {
+            "latitude": "40.391944",
+            "longitude": "-3.658333"
+          }
+        },
+        {
+          "name": "Rayo Vallecano Football Camp",
+          "address": "Various locations in Madrid",
+          "website": "https://www.rayovallecano.es/cantera/campus-de-futbol",
+          "description": "Football camps for young fans and aspiring players, offering coaching and training in the sport under the guidance of Rayo Vallecano professionals.",
+          "coordinates": {
+            "latitude": "40.391944",
+            "longitude": "-3.658333"
+          }
+        },
+        {
+          "name": "Meet & Greet with Rayo Vallecano Players",
+          "address": "Specific events at Estadio de Vallecas",
+          "website": "https://www.rayovallecano.es/tickets",
+          "description": "Special events organized for fans to meet their favorite Rayo Vallecano players, get autographs, and take photos.",
+          "coordinates": {
+            "latitude": "40.391944",
+            "longitude": "-3.658333"
+          }
+        },
+        {
+          "name": "Rayo Vallecano Community Outreach Programs",
+          "address": "Various community centers and schools in Madrid",
+          "website": "https://www.rayovallecano.es/fundacion",
+          "description": "Community programs and initiatives led by Rayo Vallecano, promoting sportsmanship, teamwork, and football among youth in Madrid.",
+          "coordinates": {
+            "latitude": "40.391944",
+            "longitude": "-3.658333"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "Metro",
+          "description": "The Estadio de Vallecas is accessible via the Portazgo (Line 1) metro station, offering convenient connections to Madrid's main attractions and districts.",
+          "link": "https://www.metromadrid.es/en",
+          "directions": "For directions and detailed metro schedules, visit the Metro Madrid website or use their mobile app."
+        },
+        {
+          "type": "Bus",
+          "description": "Several bus lines serve the area around Estadio de Vallecas, making it easily accessible from throughout the city. Bus stops are located conveniently near the stadium.",
+          "link": "https://www.emtmadrid.es/",
+          "directions": "Check the EMT Madrid website or mobile app for bus schedules, routes, and real-time updates."
+        },
+        {
+          "type": "Cercanías (Commuter Train)",
+          "description": "The Vallecas station provides access to Cercanías trains, connecting the stadium to outer suburbs and regions of Madrid.",
+          "link": "https://www.renfe.com/es/en/suburban/suburban-madrid",
+          "directions": "For train routes and schedules, refer to the Renfe Cercanías website or their mobile app."
+        },
+        {
+          "type": "Bicycle",
+          "description": "Madrid's network of bike lanes and the BiciMAD electric bike-sharing service makes cycling a viable option for reaching Estadio de Vallecas.",
+          "link": "https://www.bicimad.com/",
+          "directions": "Plan your bike route with BiciMAD or Google Maps to find the most convenient and safe path to the stadium."
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Team Website",
+          "website": "https://www.rayovallecano.es/tickets",
+          "description": "The primary source for all ticket sales, offering guaranteed authenticity and the best seat selections for Rayo Vallecano games."
+        },
+        {
+          "name": "Ticketmaster Spain",
+          "website": "https://www.ticketmaster.es/",
+          "description": "A reliable ticketing partner offering tickets for various events, including Rayo Vallecano games, within Spain."
+        },
+        {
+          "name": "Resale Platforms",
+          "description": "Check reputable resale platforms for tickets, especially for sold-out games. Ensure the platform offers buyer protection and is authorized to sell Rayo Vallecano tickets."
+        }
+      ],
+      "ways_to_save": "Look for family packages or group discounts for savings. Mid-week games may offer lower prices compared to weekend games. Sign up for the team's newsletter for promotional deals.",
+      "avoiding_scalpers": "Purchase tickets from official sources or reputable platforms to avoid scams. Be cautious of offers that seem too good to be true, and verify the authenticity of tickets when buying from resale sites."
+    }
+  }
+}

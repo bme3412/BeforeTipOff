@@ -1,0 +1,309 @@
+{
+  "city": "Villarreal",
+  "team": "Villarreal CF",
+  "venue": {
+    "name": "Estadio de la Cerámica",
+    "address": "Calle Blasco Ibáñez, 2, 12540 Villarreal, Castellón, Spain",
+    "website": "https://villarrealcf.es/en/club/estadio-de-la-ceramica",
+    "average_ticket_price": "€40",
+    "season_start": "August",
+    "playoffs_start": "May",
+    "coordinates": {
+      "latitude": "39.944018",
+      "longitude": "-0.103456"
+    },
+    "best_seats_pricing": {
+      "Presidential Box": {
+        "Description": "Exclusive seating area offering the best view and premium experience at Estadio de la Cerámica.",
+        "Sections": "Presidential Box",
+        "Estimated_Pricing_Range": "€800 - €2500",
+        "View_Quality": "Central view from the most privileged vantage point, unparalleled immersion.",
+        "Unique_Features": "Luxury seating, utmost level of privacy and exclusivity.",
+        "Accessibility": "VIP access with personal assistance, premier access routes.",
+        "Special_Perks": "Exquisite dining options, opportunities for meet-and-greet with players."
+      },
+      "VIP Seats": {
+        "Description": "Premium seats offering excellent pitch views and exclusive amenities, for an unforgettable match day experience.",
+        "Sections": "VIP Sections",
+        "Estimated_Pricing_Range": "€100 - €600",
+        "View_Quality": "Prime side views, very close to the pitch action.",
+        "Unique_Features": "Superior comfort seating, complimentary gourmet snacks and drinks.",
+        "Accessibility": "Exclusive entrance, enhanced facility access.",
+        "Special_Perks": "Entrance to VIP lounges, invitations to special club events."
+      },
+      "Grandstand": {
+        "Description": "Superior side views for a perfect game watching experience, offering a great balance of comfort and visibility.",
+        "Sections": "Grandstand Sections",
+        "Estimated_Pricing_Range": "€40 - €150",
+        "View_Quality": "Outstanding full-pitch perspective, unobstructed line of sight.",
+        "Unique_Features": "Ideal balance between view quality and cost.",
+        "Accessibility": "Convenient access, facilities accessible for guests with disabilities.",
+        "Special_Perks": "Favored option for regular supporters for its outstanding value."
+      },
+      "General Admission": {
+        "Description": "Economical tickets to lively atmosphere zones, perfect for fans who want to support their team with passion.",
+        "Sections": "General Admission",
+        "Estimated_Pricing_Range": "€20 - €80",
+        "View_Quality": "Energetic game view, immersive fan experience.",
+        "Unique_Features": "Heart of the fan sections, vibrant atmosphere.",
+        "Accessibility": "Standard entry, wheelchair-accessible areas.",
+        "Special_Perks": "Immersed in the passionate fan base, authentic stadium atmosphere."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Restaurante El Submarino",
+          "address": "Carrer d'Oceanogràfic, 46013 Valencia, Spain",
+          "website": "https://www.cac.es/es/restaurante-submarino/restaurante-submarino.html",
+          "description": "Located within the Oceanogràfic of the City of Arts and Sciences, this unique restaurant offers dining surrounded by an aquarium, serving Mediterranean cuisine.",
+          "coordinates": {
+            "latitude": "39.454094",
+            "longitude": "-0.349582"
+          }
+        },
+        {
+          "name": "El Poblet",
+          "address": "Carrer de Correus, 8, 46002 Valencia, Spain",
+          "website": "https://www.elpobletrestaurante.com/",
+          "description": "A Michelin-starred restaurant offering contemporary Valencian cuisine, inspired by local traditions and led by renowned chef Quique Dacosta.",
+          "coordinates": {
+            "latitude": "39.473785",
+            "longitude": "-0.375378"
+          }
+        },
+        {
+          "name": "Casa Roberto",
+          "address": "Carrer de Mestre Gozalbo, 19, 46005 Valencia, Spain",
+          "website": "https://www.casaroberto.es/",
+          "description": "Famous for its authentic Valencian paella, this traditional restaurant provides a warm and welcoming atmosphere for all its guests.",
+          "coordinates": {
+            "latitude": "39.466297",
+            "longitude": "-0.366211"
+          }
+        },
+        {
+          "name": "Bodega Casa Montaña",
+          "address": "Carrer de Josep Benlliure, 69, 46011 València, Spain",
+          "website": "http://www.emilianobodega.com/",
+          "description": "A historic tavern known for its wine selection and traditional tapas, offering a charming experience in the maritime district of El Cabanyal.",
+          "coordinates": {
+            "latitude": "39.474378",
+            "longitude": "-0.337293"
+          }
+        },
+        {
+          "name": "Vertical",
+          "address": "Carrer de Luis García Berlanga Martí, 19, 46023 Valencia, Spain",
+          "website": "https://www.restaurantevertical.com/",
+          "description": "Offering panoramic views of the City of Arts and Sciences, Vertical serves innovative cuisine in a sleek, modern setting.",
+          "coordinates": {
+            "latitude": "39.457529",
+            "longitude": "-0.348289"
+          }
+        },
+        {
+          "name": "Saiti",
+          "address": "Carrer de Reus, 4, 46004 Valencia, Spain",
+          "website": "https://www.saitirestaurante.com/",
+          "description": "Led by chef Vicente Patiño, Saiti offers a menu that combines creativity with the essence of Mediterranean cuisine, focusing on fresh, seasonal products.",
+          "coordinates": {
+            "latitude": "39.470109",
+            "longitude": "-0.368857"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Hotel Villarreal",
+          "address": "Av. Francia, 39, 12540 Vila-real, Castellón, Spain",
+          "website": "https://www.hotelvillarreal.com/",
+          "description": "A centrally located hotel in Villarreal offering comfortable accommodations and easy access to Estadio de la Cerámica and local attractions.",
+          "coordinates": {
+            "latitude": "39.93748",
+            "longitude": "-0.10322"
+          }
+        },
+        {
+          "name": "Vila-real Palace Hotel",
+          "address": "Arcadi Garcia Sanz, 1, 12540 Vila-real, Castellón, Spain",
+          "website": "https://www.vilarealpalacehotel.com/",
+          "description": "A luxurious hotel featuring spacious rooms, a spa, and dining options, situated close to Villarreal CF's stadium and the city center.",
+          "coordinates": {
+            "latitude": "39.94685",
+            "longitude": "-0.10029"
+          }
+        },
+        {
+          "name": "Hotel Plana Parc",
+          "address": "Carrer Oroval, 8, 12539 Alquerías del Niño Perdido, Castellón, Spain",
+          "website": "http://www.hotelplanaparc.com/",
+          "description": "Located near Villarreal, this hotel offers modern facilities including a swimming pool, restaurant, and easy access to the Mediterranean coast and local businesses.",
+          "coordinates": {
+            "latitude": "39.92676",
+            "longitude": "-0.15578"
+          }
+        },
+        {
+          "name": "Sercotel Plana Parc",
+          "address": "Carrer Oroval, 8, Polígono Ull Fondo, 12539 Alquerías del Niño Perdido, Castellón, Spain",
+          "website": "https://www.sercotelhotels.com/hotels/spain/castellon/sercotel-plana-parc/",
+          "description": "An alternative listing for Hotel Plana Parc under Sercotel brand, providing the same high standard of service and amenities for visitors to Villarreal.",
+          "coordinates": {
+            "latitude": "39.92676",
+            "longitude": "-0.15578"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "Basílica de San Pascual",
+          "address": "Plaza San Pascual, 3, 12540 Vila-real, Castellón, Spain",
+          "website": "http://www.basilicasanpascual.es/",
+          "description": "A baroque-style church dedicated to Saint Paschal Baylon, featuring impressive architecture and a serene atmosphere for visitors.",
+          "coordinates": {
+            "latitude": "39.937105",
+            "longitude": "-0.102245"
+          }
+        },
+        {
+          "name": "El Madrigal",
+          "address": "Calle Blasco Ibáñez, 2, 12540 Villarreal, Castellón, Spain",
+          "website": "https://villarrealcf.es/en/club/estadio-de-la-ceramica",
+          "description": "The home stadium of Villarreal CF, known for its passionate fans and vibrant match-day atmosphere. Tours are available, offering insights into the club's history.",
+          "coordinates": {
+            "latitude": "39.944018",
+            "longitude": "-0.103456"
+          }
+        },
+        {
+          "name": "Plaza Mayor",
+          "address": "Plaza Mayor, Vila-real, Castellón, Spain",
+          "description": "The main square in Vila-real, surrounded by various shops, cafes, and the City Hall, serving as a central meeting point and venue for events.",
+          "coordinates": {
+            "latitude": "39.937204",
+            "longitude": "-0.100486"
+          }
+        },
+        {
+          "name": "Casa de Polo",
+          "address": "Calle Mayor, 60, 12540 Vila-real, Castellón, Spain",
+          "website": "http://www.vila-real.es/",
+          "description": "A historical building in Vila-real offering a glimpse into the town's rich heritage, with exhibitions and cultural activities.",
+          "coordinates": {
+            "latitude": "39.936374",
+            "longitude": "-0.101586"
+          }
+        },
+        {
+          "name": "Museo de la Ciudad Casa de Polo",
+          "address": "Calle Mayor, 60, 12540 Vila-real, Castellón, Spain",
+          "website": "http://www.vila-real.es/museo",
+          "description": "A museum dedicated to the history and culture of Vila-real, housed in the Casa de Polo, showcasing artifacts and exhibitions about the local area.",
+          "coordinates": {
+            "latitude": "39.936374",
+            "longitude": "-0.101586"
+          }
+        },
+        {
+          "name": "Paraje Natural Municipal del Termet",
+          "address": "Termet, Vila-real, Castellón, Spain",
+          "website": "http://www.vila-real.es/",
+          "description": "A natural park offering beautiful landscapes, walking trails, and a lake, ideal for nature lovers and those seeking outdoor activities.",
+          "coordinates": {
+            "latitude": "39.930419",
+            "longitude": "-0.120751"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Villarreal CF Official Store at Estadio de la Cerámica",
+          "address": "Calle Blasco Ibáñez, 2, 12540 Villarreal, Castellón, Spain",
+          "website": "https://villarrealcf.es/en/club/tienda-oficial",
+          "description": "The official store for Villarreal CF merchandise, offering a wide range of team apparel and accessories right at the stadium.",
+          "coordinates": {
+            "latitude": "39.944018",
+            "longitude": "-0.103456"
+          }
+        },
+        {
+          "name": "Villarreal CF Match Day Experience",
+          "address": "Calle Blasco Ibáñez, 2, 12540 Villarreal, Castellón, Spain",
+          "website": "https://villarrealcf.es/en/tickets/match-day-tickets",
+          "description": "Attend a Villarreal CF game at the Estadio de la Cerámica to experience the passion and atmosphere of one of La Liga's competitive football clubs.",
+          "coordinates": {
+            "latitude": "39.944018",
+            "longitude": "-0.103456"
+          }
+        },
+        {
+          "name": "Villarreal CF Football Camp",
+          "address": "Various locations in Villarreal",
+          "website": "https://villarrealcf.es/en/academy/football-camps",
+          "description": "Football camps for young fans and aspiring players, offering coaching and training in the sport under the guidance of Villarreal CF professionals.",
+          "coordinates": {
+            "latitude": "39.944018",
+            "longitude": "-0.103456"
+          }
+        },
+        {
+          "name": "Meet & Greet with Villarreal CF Players",
+          "address": "Specific events at Estadio de la Cerámica",
+          "website": "https://villarrealcf.es/en/tickets/match-day-tickets",
+          "description": "Special events organized for fans to meet their favorite Villarreal CF players, get autographs, and take photos.",
+          "coordinates": {
+            "latitude": "39.944018",
+            "longitude": "-0.103456"
+          }
+        },
+        {
+          "name": "Villarreal CF Community Outreach Programs",
+          "address": "Various community centers and schools in Villarreal",
+          "website": "https://villarrealcf.es/en/foundation",
+          "description": "Community programs and initiatives led by Villarreal CF, promoting sportsmanship, teamwork, and football among youth in the local area.",
+          "coordinates": {
+            "latitude": "39.944018",
+            "longitude": "-0.103456"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "Bus",
+          "description": "Local bus services in Villarreal offer convenient access to Estadio de la Cerámica, connecting the stadium with various parts of the city.",
+          "link": "https://www.villarreal.es/",
+          "directions": "Check the Villarreal city website or local bus service provider for bus schedules, routes, and real-time updates."
+        },
+        {
+          "type": "Train",
+          "description": "Villarreal's train station provides connections to major cities in Spain, making it easy for fans traveling from afar to reach the city and stadium.",
+          "link": "http://www.renfe.com/",
+          "directions": "For train routes and schedules, refer to the Renfe website or their mobile app."
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Team Website",
+          "website": "https://villarrealcf.es/en/tickets/match-day-tickets",
+          "description": "The primary source for all ticket sales, offering guaranteed authenticity and the best seat selections for Villarreal CF games."
+        },
+        {
+          "name": "Ticketmaster Spain",
+          "website": "https://www.ticketmaster.es/",
+          "description": "A reliable ticketing partner offering tickets for various events, including Villarreal CF games, within Spain."
+        },
+        {
+          "name": "Resale Platforms",
+          "description": "Check reputable resale platforms for tickets, especially for sold-out games. Ensure the platform offers buyer protection and is authorized to sell Villarreal CF tickets."
+        }
+      ],
+      "ways_to_save": "Look for family packages or group discounts for savings. Mid-week games may offer lower prices compared to weekend games. Sign up for the team's newsletter for promotional deals.",
+      "avoiding_scalpers": "Purchase tickets from official sources or reputable platforms to avoid scams. Be cautious of offers that seem too good to be true, and verify the authenticity of tickets when buying from resale sites."
+    }
+  }
+}

@@ -6,6 +6,7 @@ from datetime import datetime
 file_path1 = 'euroleague_schedule_2024.json'
 file_path2 = 'NBA_schedule_2024.json'
 file_path3 = 'NHL_schedule_2024.json'
+file_path4= 'LaLiga_schedule_2024.json'
 
 # Adjusted function to handle dates that might be integers (timestamps)
 def parse_date(date):
@@ -25,9 +26,11 @@ with open(file_path2, 'r') as file:
     data2 = json.load(file)
 with open(file_path3, 'r') as file:
     data3 = json.load(file)
+with open(file_path4, 'r') as file:
+    data4 = json.load(file)
 
 # Merge the data from both files
-merged_data = data1 + data2 + data3
+merged_data = data1 + data2 + data3 + data4
 
 # Sort the merged data by date
 merged_data.sort(key=lambda event: parse_date(event['Date']))

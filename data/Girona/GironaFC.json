@@ -1,0 +1,331 @@
+{
+    "city": "Girona",
+  "team": "Girona FC",
+  "venue": {
+    "name": "Estadi Montilivi",
+    "address": "Carrer de Montilivi, 141, 17003 Girona, Spain",
+    "website": "https://www.gironafc.cat/en/club/stadium",
+    "average_ticket_price": "€30",
+    "season_start": "August",
+    "playoffs_start": "May",
+    "coordinates": {
+      "latitude": "41.961374",
+      "longitude": "2.828428"
+    },
+    "best_seats_pricing": {
+      "Presidential Box": {
+        "Description": "Exclusive seating area offering the best view and luxury experience.",
+        "Sections": "Presidential Box",
+        "Estimated_Pricing_Range": "€600 - €2000",
+        "View_Quality": "Central view from the best vantage point, exceptionally immersive.",
+        "Unique_Features": "Luxury seating, highest level of privacy and exclusivity.",
+        "Accessibility": "VIP access with personal assistance, best access routes.",
+        "Special_Perks": "Gourmet dining options, meet-and-greet opportunities with players."
+      },
+      "VIP Seats": {
+        "Description": "Premium seats with excellent pitch views and exclusive benefits.",
+        "Sections": "VIP Sections",
+        "Estimated_Pricing_Range": "€100 - €400",
+        "View_Quality": "Unmatched side views, close to the action.",
+        "Unique_Features": "Comfortable seating, complimentary snacks and beverages.",
+        "Accessibility": "Dedicated entrance, superior facility access.",
+        "Special_Perks": "Access to VIP lounges, special events invitations."
+      },
+      "Grandstand": {
+        "Description": "Elevated side views for an optimal viewing experience.",
+        "Sections": "Grandstand Sections",
+        "Estimated_Pricing_Range": "€30 - €100",
+        "View_Quality": "Excellent perspective of the entire pitch, clear line of sight.",
+        "Unique_Features": "Good balance of view quality and ticket price.",
+        "Accessibility": "Easy access, available facilities for guests with disabilities.",
+        "Special_Perks": "A popular choice among regular fans for its great value."
+      },
+      "General Admission": {
+        "Description": "Affordable tickets providing access to vibrant atmosphere areas.",
+        "Sections": "General Admission",
+        "Estimated_Pricing_Range": "€15 - €60",
+        "View_Quality": "Dynamic view of the game, engaging fan experience.",
+        "Unique_Features": "Access to the heart of the fan sections, lively atmosphere.",
+        "Accessibility": "Standard access, dedicated areas for wheelchair users.",
+        "Special_Perks": "Part of the passionate fan base, traditional stadium experience."
+      }
+    },
+      "nearby_amenities": {
+        "restaurants_bars": [
+            {
+              "name": "El Pou del Call",
+              "address": "Carrer de la Força, 8, 17004 Girona, Spain",
+              "website": "http://www.elpoudelcall.com/",
+              "description": "Located in the heart of Girona's Jewish quarter, this cozy restaurant offers traditional Catalan cuisine, specializing in local dishes and wines.",
+              "coordinates": {
+                "latitude": "41.987520",
+                "longitude": "2.825360"
+              }
+            },
+            {
+              "name": "La Penyora",
+              "address": "Plaça de Sant Pere, 13, 17007 Girona, Spain",
+              "website": "https://www.lapenyora.com/",
+              "description": "A charming restaurant set in a historic building, offering a menu of innovative Mediterranean cuisine with a focus on seasonal and local ingredients.",
+              "coordinates": {
+                "latitude": "41.987640",
+                "longitude": "2.824920"
+              }
+            },
+            {
+              "name": "Restaurant Massana",
+              "address": "Carrer de Bonastruc de Porta, 10, 17001 Girona, Spain",
+              "website": "https://www.restaurantmassana.com/",
+              "description": "A Michelin-starred restaurant providing an exquisite dining experience with beautifully presented dishes that blend tradition with innovation.",
+              "coordinates": {
+                "latitude": "41.981640",
+                "longitude": "2.821920"
+              }
+            },
+            {
+              "name": "Divinum",
+              "address": "Carrer de l'Albereda, 7, 17004 Girona, Spain",
+              "website": "http://www.divinum.cat/",
+              "description": "An elegant restaurant known for its creative cuisine and extensive wine list, located close to the Onyar River in the heart of Girona.",
+              "coordinates": {
+                "latitude": "41.983320",
+                "longitude": "2.824360"
+              }
+            },
+            {
+              "name": "Vintages",
+              "address": "Carrer dels Ciutadans, 14, 17004 Girona, Spain",
+              "website": "https://www.vintagesgirona.com/",
+              "description": "A gastrobar beloved for its fusion tapas and selection of local and international wines, set in a relaxed atmosphere with vintage decor.",
+              "coordinates": {
+                "latitude": "41.985080",
+                "longitude": "2.826080"
+              }
+            },
+            {
+              "name": "Llevataps",
+              "address": "Plaça del Vi, 7, 17004 Girona, Spain",
+              "website": "https://www.llevataps.com/",
+              "description": "Situated in Girona's lively Plaça del Vi, this restaurant offers a contemporary take on Catalan cuisine, with an emphasis on tapas and small plates.",
+              "coordinates": {
+                "latitude": "41.983080",
+                "longitude": "2.826380"
+              }
+            }
+          ],
+        "accommodations": [
+            {
+              "name": "Hotel Carlemany Girona",
+              "address": "Plaça Miquel Santaló, 17002 Girona, Spain",
+              "website": "https://www.hotelcarlemanygirona.com/",
+              "description": "A centrally located hotel in Girona, offering modern rooms and amenities, perfect for guests looking to explore the city and attend Girona FC matches.",
+              "coordinates": {
+                "latitude": "41.983500",
+                "longitude": "2.824200"
+              }
+            },
+            {
+              "name": "Hotel Ciutat de Girona",
+              "address": "Carrer Nord, 2, 17001 Girona, Spain",
+              "website": "https://www.hotelciutatdegirona.com/",
+              "description": "Situated in the heart of Girona, this hotel blends contemporary design with comfortable accommodations, close to the city's main attractions and Estadi Montilivi.",
+              "coordinates": {
+                "latitude": "41.985800",
+                "longitude": "2.825900"
+              }
+            },
+            {
+              "name": "Hotel Nord 1901",
+              "address": "Carrer de la Creu, 8, 17002 Girona, Spain",
+              "website": "https://www.nord1901.com/",
+              "description": "This boutique hotel offers luxurious rooms and a garden with a pool, located within walking distance to the historic center and a short drive from Girona FC's stadium.",
+              "coordinates": {
+                "latitude": "41.987400",
+                "longitude": "2.825600"
+              }
+            },
+            {
+              "name": "DoubleTree by Hilton Girona",
+              "address": "Carrer Mossèn Joan Pons, 1, 17001 Girona, Spain",
+              "website": "https://www.hilton.com/en/hotels/grodtde-doubletree-girona/",
+              "description": "Offering stylish accommodations with a rooftop pool, this hotel is conveniently located for fans attending Girona FC games and exploring the city.",
+              "coordinates": {
+                "latitude": "41.979200",
+                "longitude": "2.821400"
+              }
+            },
+            {
+              "name": "AC Hotel Palau de Bellavista",
+              "address": "Pujada Polvorins, 1, 17004 Girona, Spain",
+              "website": "https://www.marriott.com/hotels/travel/groac-ac-hotel-palau-de-bellavista/",
+              "description": "Set in a privileged location with panoramic views of Girona, this hotel offers modern luxury and is a short drive from both the city center and Estadi Montilivi.",
+              "coordinates": {
+                "latitude": "41.979900",
+                "longitude": "2.814100"
+              }
+            },
+            {
+              "name": "Peninsular Hotel",
+              "address": "Carrer Nou, 3, 17001 Girona, Spain",
+              "website": "https://www.hotelpeninsular.net/",
+              "description": "A budget-friendly option with comfortable rooms, located in the vibrant heart of Girona, making it easy for guests to enjoy the city and get to the Girona FC stadium.",
+              "coordinates": {
+                "latitude": "41.983100",
+                "longitude": "2.825400"
+              }
+            }
+          ],
+        "tourist_attractions": [
+            {
+              "name": "Girona Cathedral",
+              "address": "Plaça de la Catedral, s/n, 17004 Girona, Spain",
+              "website": "https://www.catedraldegirona.org",
+              "description": "A monumental cathedral with a mix of styles including Romanesque, Gothic, and Baroque, featuring the widest Gothic nave in the world, situated in the heart of Girona's old town.",
+              "coordinates": {
+                "latitude": "41.986356",
+                "longitude": "2.824355"
+              }
+            },
+            {
+              "name": "Arab Baths",
+              "address": "Carrer Ferran el Catòlic, s/n, 17004 Girona, Spain",
+              "website": "http://www.banysarabs.org",
+              "description": "Dating back to the 12th century, these Romanesque baths are a testament to Girona's medieval past, offering a glimpse into the daily life of its ancient inhabitants.",
+              "coordinates": {
+                "latitude": "41.987643",
+                "longitude": "2.825194"
+              }
+            },
+            {
+              "name": "The Walls of Girona",
+              "address": "Passeig de la Muralla, Girona, Spain",
+              "website": "https://www.girona.cat/turisme/eng/muralla.php",
+              "description": "The ancient city walls offer a walking route with panoramic views of Girona and the surrounding countryside, showcasing the city's strategic military importance through history.",
+              "coordinates": {
+                "latitude": "41.989400",
+                "longitude": "2.824200"
+              }
+            },
+            {
+              "name": "Jewish Quarter",
+              "address": "El Call, Girona, Spain",
+              "website": "https://www.girona.cat/call/eng/index.php",
+              "description": "One of the best-preserved Jewish quarters in Europe, this historic neighborhood is a labyrinth of narrow streets and significant buildings from the Middle Ages.",
+              "coordinates": {
+                "latitude": "41.987200",
+                "longitude": "2.826000"
+              }
+            },
+            {
+              "name": "Onyar River Houses",
+              "address": "River Onyar, Girona, Spain",
+              "website": "https://www.girona.cat/turisme/eng/dte_casasdelonyar.php",
+              "description": "The picturesque houses lining the Onyar River are a hallmark of Girona, offering a colorful and charming view, especially from the various bridges that cross the river.",
+              "coordinates": {
+                "latitude": "41.983500",
+                "longitude": "2.825700"
+              }
+            },
+            {
+              "name": "Sant Pere de Galligants",
+              "address": "Plaça de Sant Pere, s/n, 17007 Girona, Spain",
+              "website": "https://www.museudegirona.cat",
+              "description": "A Romanesque abbey that now houses the Archaeology Museum of Catalonia in Girona, showcasing the region's rich history from prehistory through the Middle Ages.",
+              "coordinates": {
+                "latitude": "41.989071",
+                "longitude": "2.825495"
+              }
+            }
+          ],
+        "team_related_activities":[
+            {
+              "name": "Girona FC Official Store",
+              "address": "Estadi Montilivi, Passeig dels Països Catalans, s/n, 17007 Girona, Spain",
+              "website": "https://www.gironafc.cat",
+              "description": "The official store for Girona FC merchandise, offering a wide range of team apparel and accessories at the Estadi Montilivi.",
+              "coordinates": {
+                "latitude": "41.961374",
+                "longitude": "2.828428"
+              }
+            },
+            {
+              "name": "Girona FC Match Day Experience",
+              "address": "Estadi Montilivi, Passeig dels Països Catalans, s/n, 17007 Girona, Spain",
+              "website": "https://www.gironafc.cat/en/tickets",
+              "description": "Attend a Girona FC game at the Estadi Montilivi to experience the passion and atmosphere of one of La Liga's competitive football clubs.",
+              "coordinates": {
+                "latitude": "41.961374",
+                "longitude": "2.828428"
+              }
+            },
+            {
+              "name": "Girona FC Football Camp",
+              "address": "Various locations in Girona",
+              "website": "https://www.gironafc.cat/en/academy/camps",
+              "description": "Football camps for young fans and aspiring players, offering coaching and training in the sport under the guidance of Girona FC professionals.",
+              "coordinates": {
+                "latitude": "41.961374",
+                "longitude": "2.828428"
+              }
+            },
+            {
+              "name": "Meet & Greet with Girona FC Players",
+              "address": "Specific events at Estadi Montilivi",
+              "website": "https://www.gironafc.cat/en/tickets",
+              "description": "Special events organized for fans to meet their favorite Girona FC players, get autographs, and take photos.",
+              "coordinates": {
+                "latitude": "41.961374",
+                "longitude": "2.828428"
+              }
+            },
+            {
+              "name": "Girona FC Community Outreach Programs",
+              "address": "Various community centers and schools in Girona",
+              "website": "https://www.gironafc.cat/en/foundation",
+              "description": "Community programs and initiatives led by Girona FC, promoting sportsmanship, teamwork, and football among youth in Girona.",
+              "coordinates": {
+                "latitude": "41.961374",
+                "longitude": "2.828428"
+              }
+            }
+          ]
+      },
+      "public_transportation": {
+        "options": [
+            {
+              "type": "Bus",
+              "description": "Girona's city bus network provides convenient access to Estadi Montilivi, with several lines stopping near the stadium, facilitating easy access for visitors.",
+              "link": "https://www.tmgr.cat",
+              "directions": "Check the TMG website for bus schedules, routes, and real-time updates."
+            },
+            {
+              "type": "Bicycle",
+              "description": "Girona offers a bike sharing service, making it easy and sustainable to reach Estadi Montilivi, with bike parking available at the venue.",
+              "link": "https://www.girocleta.cat",
+              "directions": "Plan your route with Girocleta to find the most convenient and safe path to the stadium."
+            }
+          ]
+      },
+      "ticket_purchasing_tips": {
+        "best_places_to_buy":[
+            {
+              "name": "Official Team Website",
+              "website": "https://www.gironafc.cat/en/tickets",
+              "description": "The primary source for all ticket sales, offering guaranteed authenticity and the best seat selections for Girona FC games."
+            },
+            {
+              "name": "Entradas.com",
+              "website": "https://www.entradas.com/",
+              "description": "A reliable ticketing partner offering tickets for various events, including Girona FC games, within Spain."
+            },
+            {
+              "name": "Resale Platforms",
+              "description": "Check reputable resale platforms for tickets, especially for sold-out games. Ensure the platform offers buyer protection and is authorized to sell Girona FC tickets."
+            }
+          ],
+        "ways_to_save": "Look for family packages or group discounts for savings. Mid-week games may offer lower prices compared to weekend games. Sign up for the team's newsletter for promotional deals.",
+        "avoiding_scalpers": "Purchase tickets from official sources or reputable platforms to avoid scams. Be cautious of offers that seem too good to be true, and verify the authenticity of tickets when buying from resale sites."
+      }
+    }
+  }
+  

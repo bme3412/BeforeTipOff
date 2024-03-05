@@ -1,0 +1,323 @@
+{
+    "city": "Madrid",
+  "team": "Real Madrid",
+  "venue": {
+    "name": "Santiago Bernabéu",
+    "address": "Av. de Concha Espina, 1, 28036 Madrid, Spain",
+    "website": "https://www.realmadrid.com/en/about-real-madrid/stadium",
+    "average_ticket_price": "€70",
+    "season_start": "August",
+    "playoffs_start": "May",
+    "coordinates": {
+      "latitude": "40.453054",
+      "longitude": "-3.688344"
+    },
+    "best_seats_pricing": {
+      "Presidential Box": {
+        "Description": "Exclusive seating area with the best view and premium experience.",
+        "Sections": "Presidential Box",
+        "Estimated_Pricing_Range": "€1500 - €5000",
+        "View_Quality": "Central view from the most privileged vantage point, unparalleled immersion.",
+        "Unique_Features": "Luxury seating, utmost level of privacy and exclusivity.",
+        "Accessibility": "VIP access with personal assistance, premier access routes.",
+        "Special_Perks": "Exquisite dining options, opportunities for meet-and-greet with players."
+      },
+      "VIP Seats": {
+        "Description": "High-end seats offering excellent pitch views and exclusive amenities.",
+        "Sections": "VIP Sections",
+        "Estimated_Pricing_Range": "€250 - €1000",
+        "View_Quality": "Prime side views, very close to the pitch action.",
+        "Unique_Features": "Superior comfort seating, complimentary gourmet snacks and drinks.",
+        "Accessibility": "Exclusive entrance, enhanced facility access.",
+        "Special_Perks": "Entrance to VIP lounges, invitations to special club events."
+      },
+      "Grandstand": {
+        "Description": "Superior side views for a perfect game watching experience.",
+        "Sections": "Grandstand Sections",
+        "Estimated_Pricing_Range": "€70 - €300",
+        "View_Quality": "Outstanding full-pitch perspective, unobstructed line of sight.",
+        "Unique_Features": "Ideal balance between view quality and cost.",
+        "Accessibility": "Convenient access, facilities accessible for guests with disabilities.",
+        "Special_Perks": "Favored option for regular supporters for its outstanding value."
+      },
+      "General Admission": {
+        "Description": "Economical tickets to lively atmosphere zones.",
+        "Sections": "General Admission",
+        "Estimated_Pricing_Range": "€40 - €150",
+        "View_Quality": "Energetic game view, immersive fan experience.",
+        "Unique_Features": "Heart of the fan sections, vibrant atmosphere.",
+        "Accessibility": "Standard entry, wheelchair-accessible areas.",
+        "Special_Perks": "Immersed in the passionate fan base, authentic stadium atmosphere."
+      }
+    },
+      "nearby_amenities": {
+        "restaurants_bars":[
+            {
+              "name": "Restaurante La Esquina",
+              "address": "Av. de Concha Espina, 1, 28036 Madrid, Spain",
+              "website": "https://www.realaforja.com/laesquina/",
+              "description": "An elegant restaurant inside the Santiago Bernabéu Stadium, offering contemporary Spanish cuisine with views of the pitch.",
+              "coordinates": {
+                "latitude": "40.453054",
+                "longitude": "-3.688344"
+              }
+            },
+            {
+              "name": "Zen Market",
+              "address": "Av. de Concha Espina, 1, 28036 Madrid, Spain",
+              "website": "http://www.zenmarket.es/",
+              "description": "A chic Asian fusion restaurant located at the Santiago Bernabéu Stadium, known for its sushi and elegant decor.",
+              "coordinates": {
+                "latitude": "40.452960",
+                "longitude": "-3.688356"
+              }
+            },
+            {
+              "name": "Real Café Bernabéu",
+              "address": "Av. de Concha Espina, 1, Puerta 30, 28036 Madrid, Spain",
+              "website": "https://www.realcafebernabeu.es/",
+              "description": "A café with breathtaking views of the stadium's interior, offering a variety of dishes and a perfect spot for a coffee or meal.",
+              "coordinates": {
+                "latitude": "40.452775",
+                "longitude": "-3.689484"
+              }
+            },
+            {
+              "name": "Asador de la Esquina",
+              "address": "Av. de Concha Espina, 1, 28036 Madrid, Spain",
+              "website": "http://www.asadordelaesquina.com/",
+              "description": "A renowned grill restaurant at the Bernabéu, specializing in traditional Spanish meats and seasonal dishes.",
+              "coordinates": {
+                "latitude": "40.452991",
+                "longitude": "-3.688320"
+              }
+            },
+            {
+              "name": "El Barril de Bernabéu",
+              "address": "Plaza de Lima, 4, 28020 Madrid, Spain",
+              "website": "https://www.elbarrildebernabeu.com/",
+              "description": "A seafood restaurant known for its fresh fish and seafood tapas, located a short walk from the Santiago Bernabéu Stadium.",
+              "coordinates": {
+                "latitude": "40.451519",
+                "longitude": "-3.690107"
+              }
+            },
+            {
+              "name": "Taberna La Bola",
+              "address": "Calle de La Bola, 5, 28013 Madrid, Spain",
+              "website": "https://www.labola.es/",
+              "description": "A bit further from the stadium, this historic tavern is famous for its traditional Madrid stew, offering a deep dive into Spanish cuisine.",
+              "coordinates": {
+                "latitude": "40.417355",
+                "longitude": "-3.710678"
+              }
+            }
+          ],
+        "accommodations": [
+            {
+              "name": "NH Collection Madrid Eurobuilding",
+              "address": "Calle de Padre Damián, 23, 28036 Madrid, Spain",
+              "website": "https://www.nh-collection.com/hotel/nh-collection-madrid-eurobuilding",
+              "description": "A sophisticated hotel close to Santiago Bernabéu Stadium, offering spacious rooms and top-notch amenities, including a spa and several dining options.",
+              "coordinates": {
+                "latitude": "40.458100",
+                "longitude": "-3.686460"
+              }
+            },
+            {
+              "name": "Hotel Paseo del Arte",
+              "address": "Atocha, 123, 28012 Madrid, Spain",
+              "website": "https://www.hotelpaseodelartemadrid.com/",
+              "description": "Situated in the heart of Madrid's art triangle, this hotel is conveniently located for those looking to explore the city's museums and cultural sites.",
+              "coordinates": {
+                "latitude": "40.409830",
+                "longitude": "-3.693360"
+              }
+            },
+            {
+              "name": "AC Hotel Cuzco by Marriott",
+              "address": "Paseo de la Castellana, 133, 28046 Madrid, Spain",
+              "website": "https://www.marriott.com/hotels/travel/madcu-ac-hotel-cuzco/",
+              "description": "Located on Madrid's main avenue, Paseo de la Castellana, near the Santiago Bernabéu Stadium, this hotel offers modern accommodations and excellent service.",
+              "coordinates": {
+                "latitude": "40.458720",
+                "longitude": "-3.690420"
+              }
+            },
+            {
+              "name": "Hotel VP Jardín Metropolitano",
+              "address": "Avenida de la Reina Victoria, 12, 28003 Madrid, Spain",
+              "website": "https://www.hoteljardinmetropolitano.com/",
+              "description": "A comfortable and contemporary hotel with a stunning vertical garden, conveniently located for visiting Real Madrid's stadium and other city attractions.",
+              "coordinates": {
+                "latitude": "40.446500",
+                "longitude": "-3.703150"
+              }
+            }
+          ],
+        "tourist_attractions":  [
+            {
+              "name": "The Royal Palace of Madrid",
+              "address": "Calle de Bailén, s/n, 28071 Madrid, Spain",
+              "website": "https://www.patrimonionacional.es/real-sitio/palacio-real-de-madrid",
+              "description": "The official residence of the Spanish Royal Family at the city of Madrid, but it is only used for state ceremonies. It is the largest royal palace in Europe by floor area.",
+              "coordinates": {
+                "latitude": "40.417955",
+                "longitude": "-3.714312"
+              }
+            },
+            {
+              "name": "Prado Museum",
+              "address": "Calle de Ruiz de Alarcón, 23, 28014 Madrid, Spain",
+              "website": "https://www.museodelprado.es/",
+              "description": "Spain's main national art museum, featuring one of the finest collections of European art, dating from the 12th century to the early 20th century.",
+              "coordinates": {
+                "latitude": "40.413722",
+                "longitude": "-3.692412"
+              }
+            },
+            {
+              "name": "Retiro Park",
+              "address": "Plaza de la Independencia, 7, 28001 Madrid, Spain",
+              "website": "https://www.esmadrid.com/informacion-turistica/parque-del-retiro",
+              "description": "A large and popular green oasis in the heart of Madrid, offering a peaceful retreat with beautiful sculptures, monuments, and a magnificent lake.",
+              "coordinates": {
+                "latitude": "40.415260",
+                "longitude": "-3.684230"
+              }
+            },
+            {
+              "name": "Santiago Bernabéu Stadium",
+              "address": "Av. de Concha Espina, 1, 28036 Madrid, Spain",
+              "website": "https://www.realmadrid.com/en/santiago-bernabeu-stadium",
+              "description": "The iconic home of Real Madrid C.F., offering tours that include access to the trophy room, pitch side, and the presidential box.",
+              "coordinates": {
+                "latitude": "40.453054",
+                "longitude": "-3.688344"
+              }
+            },
+            {
+              "name": "Gran Vía",
+              "address": "Gran Vía, Madrid, Spain",
+              "website": "https://www.esmadrid.com/informacion-turistica/gran-via",
+              "description": "Madrid's bustling main street, known for its grand architecture, shopping, and theaters. A must-visit for first-time travelers to Madrid.",
+              "coordinates": {
+                "latitude": "40.420280",
+                "longitude": "-3.705780"
+              }
+            },
+            {
+              "name": "Thyssen-Bornemisza National Museum",
+              "address": "Paseo del Prado, 8, 28014 Madrid, Spain",
+              "website": "https://www.museothyssen.org/",
+              "description": "Part of Madrid's Golden Triangle of Art, this museum houses an extensive collection ranging from the Middle Ages to the late 20th century.",
+              "coordinates": {
+                "latitude": "40.416064",
+                "longitude": "-3.695421"
+              }
+            }
+          ],
+        "team_related_activities":[
+            {
+              "name": "Real Madrid Official Store at Santiago Bernabéu",
+              "address": "Av. de Concha Espina, 1, 28036 Madrid, Spain",
+              "website": "https://shop.realmadrid.com/",
+              "description": "The official store for Real Madrid merchandise, offering a wide range of team apparel and accessories right at the stadium.",
+              "coordinates": {
+                "latitude": "40.453054",
+                "longitude": "-3.688344"
+              }
+            },
+            {
+              "name": "Real Madrid Match Day Experience",
+              "address": "Av. de Concha Espina, 1, 28036 Madrid, Spain",
+              "website": "https://www.realmadrid.com/en/tickets",
+              "description": "Attend a Real Madrid game at the iconic Santiago Bernabéu Stadium to experience the passion and atmosphere of one of the world's most famous football clubs.",
+              "coordinates": {
+                "latitude": "40.453054",
+                "longitude": "-3.688344"
+              }
+            },
+            {
+              "name": "Real Madrid Football Camp",
+              "address": "Various locations in Madrid",
+              "website": "https://www.realmadrid.com/en/soccer-camps",
+              "description": "Football camps for young fans and aspiring players, offering coaching and training in the sport under the guidance of Real Madrid professionals.",
+              "coordinates": {
+                "latitude": "40.453054",
+                "longitude": "-3.688344"
+              }
+            },
+            {
+              "name": "Meet & Greet with Real Madrid Players",
+              "address": "Specific events at Santiago Bernabéu",
+              "website": "https://www.realmadrid.com/en/tickets",
+              "description": "Special events organized for fans to meet their favorite Real Madrid players, get autographs, and take photos.",
+              "coordinates": {
+                "latitude": "40.453054",
+                "longitude": "-3.688344"
+              }
+            },
+            {
+              "name": "Real Madrid Community Outreach Programs",
+              "address": "Various community centers and schools in Madrid",
+              "website": "https://www.realmadrid.com/en/about-real-madrid/social/foundation",
+              "description": "Community programs and initiatives led by Real Madrid, promoting sportsmanship, teamwork, and football among youth in Madrid.",
+              "coordinates": {
+                "latitude": "40.453054",
+                "longitude": "-3.688344"
+              }
+            }
+          ]
+      },
+      "public_transportation": {
+        "options": [
+            {
+              "type": "Metro",
+              "description": "The Santiago Bernabéu metro station (Line 10) provides direct access to the stadium, offering convenient connections to Madrid's main attractions and districts.",
+              "link": "https://www.metromadrid.es/en",
+              "directions": "For directions and detailed metro schedules, visit the Metro Madrid website or use their mobile app."
+            },
+            {
+              "type": "Bus",
+              "description": "Several bus lines serve the area around Santiago Bernabéu, including lines 14, 27, 40, 126, 147, and 150, making it easily accessible from throughout the city. The bus stops are located near the stadium.",
+              "link": "https://www.emtmadrid.es/",
+              "directions": "Check the EMT Madrid website or mobile app for bus schedules, routes, and real-time updates."
+            },
+            {
+              "type": "Cercanías (Commuter Train)",
+              "description": "Nearby Nuevos Ministerios station provides access to Cercanías trains, connecting the stadium to outer suburbs and regions.",
+              "link": "https://www.renfe.com/es/en/suburban/suburban-madrid",
+              "directions": "For train routes and schedules, refer to the Renfe Cercanías website or their mobile app."
+            },
+            {
+              "type": "Bicycle",
+              "description": "Madrid's extensive network of bike lanes and BiciMAD electric bike-sharing service makes cycling a viable option for reaching Santiago Bernabéu.",
+              "link": "https://www.bicimad.com/",
+              "directions": "Plan your bike route with BiciMAD or Google Maps to find the most convenient and safe path to the stadium."
+            }
+          ]
+      },
+      "ticket_purchasing_tips": {
+        "best_places_to_buy":[
+            {
+              "name": "Official Team Website",
+              "website": "https://www.realmadrid.com/en/tickets",
+              "description": "The primary source for all ticket sales, offering guaranteed authenticity and the best seat selections."
+            },
+            {
+              "name": "Ticketmaster Spain",
+              "website": "https://www.ticketmaster.es/",
+              "description": "A reliable ticketing partner offering tickets for various events, including Real Madrid games, within Spain."
+            },
+            {
+              "name": "Resale Platforms",
+              "description": "Check reputable resale platforms for tickets, especially for sold-out games. Ensure the platform offers buyer protection."
+            }
+          ],
+        "ways_to_save": "Look for family packages or group discounts for savings. Mid-week games may offer lower prices compared to weekend games. Sign up for the team's newsletter for promotional deals.",
+        "avoiding_scalpers": "Purchase tickets from official sources or reputable platforms to avoid scams. Be cautious of offers that seem too good to be true, and verify the authenticity of tickets when buying from resale sites."
+      }
+    }
+  }
+  

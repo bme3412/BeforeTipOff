@@ -1,0 +1,331 @@
+{
+    "city": "Granada",
+  "team": "Granada CF",
+  "venue": {
+    "name": "Nuevo Los Cármenes",
+    "address": "Calle del Pintor Manuel Maldonado, s/n, 18007 Granada, Spain",
+    "website": "https://www.granadacf.es/en/club/stadium",
+    "average_ticket_price": "€40",
+    "season_start": "August",
+    "playoffs_start": "May",
+    "coordinates": {
+      "latitude": "37.152917",
+      "longitude": "-3.595178"
+    },
+    "best_seats_pricing": {
+      "Presidential Box": {
+        "Description": "Exclusive seating area offering the best view and luxury experience.",
+        "Sections": "Presidential Box",
+        "Estimated_Pricing_Range": "€800 - €2500",
+        "View_Quality": "Central view from the best vantage point, exceptionally immersive.",
+        "Unique_Features": "Luxury seating, highest level of privacy and exclusivity.",
+        "Accessibility": "VIP access with personal assistance, best access routes.",
+        "Special_Perks": "Gourmet dining options, meet-and-greet opportunities with players."
+      },
+      "VIP Seats": {
+        "Description": "Premium seats with excellent pitch views and exclusive benefits.",
+        "Sections": "VIP Sections",
+        "Estimated_Pricing_Range": "€150 - €600",
+        "View_Quality": "Unmatched side views, close to the action.",
+        "Unique_Features": "Comfortable seating, complimentary snacks and beverages.",
+        "Accessibility": "Dedicated entrance, superior facility access.",
+        "Special_Perks": "Access to VIP lounges, special events invitations."
+      },
+      "Grandstand": {
+        "Description": "Elevated side views for an optimal viewing experience.",
+        "Sections": "Grandstand Sections",
+        "Estimated_Pricing_Range": "€40 - €150",
+        "View_Quality": "Excellent perspective of the entire pitch, clear line of sight.",
+        "Unique_Features": "Good balance of view quality and ticket price.",
+        "Accessibility": "Easy access, available facilities for guests with disabilities.",
+        "Special_Perks": "A popular choice among regular fans for its great value."
+      },
+      "General Admission": {
+        "Description": "Affordable tickets providing access to vibrant atmosphere areas.",
+        "Sections": "General Admission",
+        "Estimated_Pricing_Range": "€20 - €90",
+        "View_Quality": "Dynamic view of the game, engaging fan experience.",
+        "Unique_Features": "Access to the heart of the fan sections, lively atmosphere.",
+        "Accessibility": "Standard access, dedicated areas for wheelchair users.",
+        "Special_Perks": "Part of the passionate fan base, traditional stadium experience."
+      }
+    },
+      "nearby_amenities": {
+        "restaurants_bars": [
+          {
+            "name": "Bar FM Granada",
+            "address": "Calle Alhamar, 23, 18004 Granada, Spain",
+            "website": "http://www.bfmgranada.com/",
+            "description": "A favorite among locals for its innovative tapas and seafood dishes, offering a modern twist on traditional Andalusian cuisine.",
+            "coordinates": {
+              "latitude": "37.170520",
+              "longitude": "-3.603360"
+            }
+          },
+          {
+            "name": "La Botillería",
+            "address": "Calle Varela, 10, 18009 Granada, Spain",
+            "website": "https://www.labotilleriagranada.com/",
+            "description": "Situated in the heart of Granada, this restaurant is known for its delicious tapas and wide selection of wines, perfect for a casual meal.",
+            "coordinates": {
+              "latitude": "37.173640",
+              "longitude": "-3.595920"
+            }
+          },
+          {
+            "name": "Restaurante Páprika",
+            "address": "Calle Cuesta de Abarqueros, 3, 18010 Granada, Spain",
+            "website": "https://www.restaurantepaprika.com/",
+            "description": "A cozy vegetarian restaurant offering a variety of creative dishes made with fresh, organic ingredients, located near the historic Albaicín district.",
+            "coordinates": {
+              "latitude": "37.181640",
+              "longitude": "-3.592920"
+            }
+          },
+          {
+            "name": "Carmen Mirador de Aixa",
+            "address": "Calle Carril de San Agustín, 2, 18010 Granada, Spain",
+            "website": "http://www.carmenmiradordeaixa.com/",
+            "description": "Offering stunning views of the Alhambra, this restaurant serves traditional Andalusian cuisine in a beautiful setting.",
+            "coordinates": {
+              "latitude": "37.180320",
+              "longitude": "-3.588360"
+            }
+          },
+          {
+            "name": "Bodegas Castañeda",
+            "address": "Calle Almireceros, 1-3, 18010 Granada, Spain",
+            "website": "https://www.bodegascastaneda.com/",
+            "description": "This historic tavern is a must-visit for anyone looking to experience the authentic Granada tapas scene, with a wide selection of local wines and spirits.",
+            "coordinates": {
+              "latitude": "37.178080",
+              "longitude": "-3.599080"
+            }
+          },
+          {
+            "name": "Los Diamantes",
+            "address": "Plaza Nueva, 13, 18010 Granada, Spain",
+            "website": "https://www.losdiamantes.com/",
+            "description": "Famous for its seafood tapas, this bustling bar offers a lively atmosphere and is a great spot to experience the local food culture.",
+            "coordinates": {
+              "latitude": "37.176080",
+              "longitude": "-3.599380"
+            }
+          }
+        ],
+        "accommodations": [
+          {
+            "name": "Hotel Granada Center",
+            "address": "Av. de la Fuentenueva, s/n, 18002 Granada, Spain",
+            "website": "https://www.hotelescenter.es/hotel-granada-center/",
+            "description": "A modern hotel located in the heart of Granada, offering spacious rooms and easy access to the city's main attractions, including Granada CF's stadium.",
+            "coordinates": {
+              "latitude": "37.176076",
+              "longitude": "-3.606493"
+            }
+          },
+          {
+            "name": "Sercotel Gran Hotel Luna de Granada",
+            "address": "Plaza Manuel Cano, 2, 18004 Granada, Spain",
+            "website": "https://www.sercotelhoteles.com/hoteles/espana/granada/gran-hotel-luna-de-granada/",
+            "description": "This hotel offers comfortable lodging with a wellness center, just a short drive from Granada CF's stadium, perfect for fans attending a game.",
+            "coordinates": {
+              "latitude": "37.167650",
+              "longitude": "-3.602278"
+            }
+          },
+          {
+            "name": "Hotel Barceló Carmen Granada",
+            "address": "Calle Acera del Darro, 62, 18005 Granada, Spain",
+            "website": "https://www.barcelo.com/en-us/barcelo-carmen-granada/",
+            "description": "Situated in the city center with stunning views of the Alhambra, this hotel provides luxury accommodations and is conveniently located for exploring Granada.",
+            "coordinates": {
+              "latitude": "37.171600",
+              "longitude": "-3.601600"
+            }
+          },
+          {
+            "name": "Hotel Saray",
+            "address": "Calle Profesor Tierno Galván, 4, 18006 Granada, Spain",
+            "website": "https://www.hotel-saray.com/",
+            "description": "A stylish hotel near Granada's historic center and the Alhambra, offering an outdoor pool and comfortable rooms, ideal for leisure and business travelers.",
+            "coordinates": {
+              "latitude": "37.161200",
+              "longitude": "-3.595400"
+            }
+          },
+          {
+            "name": "Allegro Granada",
+            "address": "Avenida de Pulianas, 10, 18012 Granada, Spain",
+            "website": "https://www.barcelo.com/en-us/allegro-granada/",
+            "description": "A vibrant hotel offering modern amenities and a convenient location for visiting Granada CF's stadium and the city's attractions.",
+            "coordinates": {
+              "latitude": "37.204900",
+              "longitude": "-3.605100"
+            }
+          },
+          {
+            "name": "Hotel Andalucía Center",
+            "address": "Av. de América, 3, 18006 Granada, Spain",
+            "website": "https://www.hotelandaluciacenter.com/",
+            "description": "Located close to Granada's business district and the main tourist attractions, this hotel features spacious rooms and a rooftop terrace with views of the Sierra Nevada.",
+            "coordinates": {
+              "latitude": "37.170300",
+              "longitude": "-3.609000"
+            }
+          }
+        ],
+        "tourist_attractions": [
+          {
+            "name": "The Alhambra",
+            "address": "Calle Real de la Alhambra, s/n, 18009 Granada, Spain",
+            "website": "https://www.alhambra-patronato.es",
+            "description": "A stunning complex of palaces, gardens, and fortresses that showcases the grandeur of Moorish culture in Spain, offering breathtaking views of Granada.",
+            "coordinates": {
+              "latitude": "37.176078",
+              "longitude": "-3.588141"
+            }
+          },
+          {
+            "name": "Generalife",
+            "address": "18009 Granada, Spain",
+            "website": "https://www.alhambra-patronato.es",
+            "description": "The summer palace and gardens of the Nasrid rulers of Granada, located adjacent to the Alhambra, known for its beautifully landscaped gardens and views.",
+            "coordinates": {
+              "latitude": "37.176385",
+              "longitude": "-3.583231"
+            }
+          },
+          {
+            "name": "Granada Cathedral",
+            "address": "Calle Gran Vía de Colón, 5, 18001 Granada, Spain",
+            "website": "http://catedraldegranada.com",
+            "description": "A masterpiece of Spanish Renaissance architecture, this cathedral is known for its impressive facade and beautifully detailed interior.",
+            "coordinates": {
+              "latitude": "37.176089",
+              "longitude": "-3.599530"
+            }
+          },
+          {
+            "name": "Albayzín",
+            "address": "Granada, Spain",
+            "website": "https://www.granadatur.com",
+            "description": "An ancient Moorish quarter that retains the narrow winding streets of its Medieval Moorish past, known for its stunning views of the Alhambra.",
+            "coordinates": {
+              "latitude": "37.181910",
+              "longitude": "-3.595194"
+            }
+          },
+          {
+            "name": "Sacromonte",
+            "address": "Granada, Spain",
+            "website": "https://www.granadatur.com",
+            "description": "Famous for its traditional cave dwellings, which have been converted into flamenco venues and restaurants, offering a unique glimpse into gypsy culture.",
+            "coordinates": {
+              "latitude": "37.181530",
+              "longitude": "-3.588115"
+            }
+          },
+          {
+            "name": "Mirador de San Nicolás",
+            "address": "Calle Espaldas a San Nicolás, s/n, 18009 Granada, Spain",
+            "website": "https://www.granadatur.com",
+            "description": "A famous lookout point in the Albayzín offering unparalleled views of the Alhambra against the backdrop of the Sierra Nevada mountains.",
+            "coordinates": {
+              "latitude": "37.181071",
+              "longitude": "-3.592495"
+            }
+          }
+        ],
+        "team_related_activities":[
+          {
+            "name": "Granada CF Official Store",
+            "address": "Calle Pintor Manuel Maldonado, s/n, 18007 Granada, Spain",
+            "website": "https://www.granadacf.es",
+            "description": "The official store for Granada CF merchandise, offering a wide range of team apparel and accessories at the Estadio Nuevo Los Cármenes.",
+            "coordinates": {
+              "latitude": "37.153176",
+              "longitude": "-3.595519"
+            }
+          },
+          {
+            "name": "Granada CF Match Day Experience",
+            "address": "Calle Pintor Manuel Maldonado, s/n, 18007 Granada, Spain",
+            "website": "https://www.granadacf.es/en/tickets",
+            "description": "Attend a Granada CF game at the Estadio Nuevo Los Cármenes to experience the passion and atmosphere of one of La Liga's enthusiastic football clubs.",
+            "coordinates": {
+              "latitude": "37.153176",
+              "longitude": "-3.595519"
+            }
+          },
+          {
+            "name": "Granada CF Football Camp",
+            "address": "Various locations in Granada",
+            "website": "https://www.granadacf.es/en/academy/camps",
+            "description": "Football camps for young fans and aspiring players, offering coaching and training in the sport under the guidance of Granada CF professionals.",
+            "coordinates": {
+              "latitude": "37.153176",
+              "longitude": "-3.595519"
+            }
+          },
+          {
+            "name": "Meet & Greet with Granada CF Players",
+            "address": "Specific events at Estadio Nuevo Los Cármenes",
+            "website": "https://www.granadacf.es/en/tickets",
+            "description": "Special events organized for fans to meet their favorite Granada CF players, get autographs, and take photos.",
+            "coordinates": {
+              "latitude": "37.153176",
+              "longitude": "-3.595519"
+            }
+          },
+          {
+            "name": "Granada CF Community Outreach Programs",
+            "address": "Various community centers and schools in Granada",
+            "website": "https://www.granadacf.es/en/foundation",
+            "description": "Community programs and initiatives led by Granada CF, promoting sportsmanship, teamwork, and football among youth in Granada.",
+            "coordinates": {
+              "latitude": "37.153176",
+              "longitude": "-3.595519"
+            }
+          }
+        ]
+      },
+      "public_transportation": {
+        "options": [
+          {
+            "type": "Bus",
+            "description": "Granada's city bus network offers convenient access to Estadio Nuevo Los Cármenes, with several lines stopping near the stadium. This provides easy access for visitors coming to see a match or visit the team store.",
+            "link": "https://www.transportesrober.com/",
+            "directions": "Check the Transportes Rober website for bus schedules, routes, and real-time updates."
+          },
+          {
+            "type": "Metro",
+            "description": "The Granada metro system provides a quick and efficient way to reach the stadium, with the 'Estadio Nuevo Los Cármenes' metro station located nearby, offering direct connections to various parts of the city.",
+            "link": "http://www.metropolitanogranada.es/",
+            "directions": "For directions and detailed metro schedules, visit the Metro de Granada website or use their mobile app."
+          }
+        ]
+      },
+      "ticket_purchasing_tips": {
+        "best_places_to_buy":[
+          {
+            "name": "Official Team Website",
+            "website": "https://www.granadacf.es/en/tickets",
+            "description": "The primary source for all ticket sales, offering guaranteed authenticity and the best seat selections for Granada CF games."
+          },
+          {
+            "name": "Taquilla.com",
+            "website": "https://www.taquilla.com/",
+            "description": "A reliable ticketing partner offering tickets for various events, including Granada CF games, within Spain."
+          },
+          {
+            "name": "Resale Platforms",
+            "description": "Check reputable resale platforms for tickets, especially for sold-out games. Ensure the platform offers buyer protection and is authorized to sell Granada CF tickets."
+          }
+        ],
+        "ways_to_save": "Look for family packages or group discounts for savings. Mid-week games may offer lower prices compared to weekend games. Sign up for the team's newsletter for promotional deals.",
+        "avoiding_scalpers": "Purchase tickets from official sources or reputable platforms to avoid scams. Be cautious of offers that seem too good to be true, and verify the authenticity of tickets when buying from resale sites."
+      }
+    }
+  }
+  

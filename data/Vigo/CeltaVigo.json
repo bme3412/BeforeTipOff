@@ -1,0 +1,331 @@
+{
+    "city": "Vigo",
+    "team": "Celta Vigo",
+    "venue": {
+      "name": "Abanca-Balaídos",
+      "address": "Avenida de Balaídos, s/n, 36210 Vigo, Pontevedra, Spain",
+      "website": "https://rccelta.es/en/club/stadium/",
+      "average_ticket_price": "€30",
+      "season_start": "August",
+      "playoffs_start": "May",
+      "coordinates": {
+        "latitude": "42.211959",
+        "longitude": "-8.740443"
+      },
+      "best_seats_pricing": {
+        "Presidential Box": {
+          "Description": "Exclusive seating area offering the best view and luxury experience at Abanca-Balaídos.",
+          "Sections": "Presidential Box",
+          "Estimated_Pricing_Range": "€500 - €2000",
+          "View_Quality": "Central view from the best vantage point, exceptionally immersive.",
+          "Unique_Features": "Luxury seating, highest level of privacy and exclusivity.",
+          "Accessibility": "VIP access with personal assistance, best access routes.",
+          "Special_Perks": "Gourmet dining options, meet-and-greet opportunities with players."
+        },
+        "VIP Seats": {
+          "Description": "Premium seats with excellent pitch views and exclusive benefits, providing a top-notch football experience.",
+          "Sections": "VIP Sections",
+          "Estimated_Pricing_Range": "€100 - €500",
+          "View_Quality": "Unmatched side views, close to the action.",
+          "Unique_Features": "Comfortable seating, complimentary snacks and beverages.",
+          "Accessibility": "Dedicated entrance, superior facility access.",
+          "Special_Perks": "Access to VIP lounges, special events invitations."
+        },
+        "Grandstand": {
+          "Description": "Elevated side views for an optimal viewing experience, perfect for fans who want a great view without breaking the bank.",
+          "Sections": "Grandstand Sections",
+          "Estimated_Pricing_Range": "€25 - €120",
+          "View_Quality": "Excellent perspective of the entire pitch, clear line of sight.",
+          "Unique_Features": "Good balance of view quality and ticket price.",
+          "Accessibility": "Easy access, available facilities for guests with disabilities.",
+          "Special_Perks": "A popular choice among regular fans for its great value."
+        },
+        "General Admission": {
+          "Description": "Affordable tickets providing access to vibrant atmosphere areas, ideal for the most passionate fans.",
+          "Sections": "General Admission",
+          "Estimated_Pricing_Range": "€15 - €70",
+          "View_Quality": "Dynamic view of the game, engaging fan experience.",
+          "Unique_Features": "Access to the heart of the fan sections, lively atmosphere.",
+          "Accessibility": "Standard access, dedicated areas for wheelchair users.",
+          "Special_Perks": "Part of the passionate fan base, traditional stadium experience."
+        }
+      },
+      "nearby_amenities": {
+        "restaurants_bars": [
+            {
+              "name": "Casa Solla",
+              "address": "Avenida de Sineiro, 7, 36005 Poio, Pontevedra, Spain",
+              "website": "https://www.restaurantesolla.com/",
+              "description": "An acclaimed restaurant offering Galician cuisine with a modern twist, led by Chef Pepe Solla, celebrated for its innovative dishes and local ingredients.",
+              "coordinates": {
+                "latitude": "42.431500",
+                "longitude": "-8.700320"
+              }
+            },
+            {
+              "name": "Taberna A Pedra",
+              "address": "Rua da Taberna, 9, 36202 Vigo, Pontevedra, Spain",
+              "website": "http://www.tabernaapedra.com/",
+              "description": "A popular spot in Vigo known for its seafood tapas and bustling atmosphere, offering a true taste of Galician culinary traditions.",
+              "coordinates": {
+                "latitude": "42.240419",
+                "longitude": "-8.721576"
+              }
+            },
+            {
+              "name": "Ruxe Ruxe",
+              "address": "Rua de Vázquez Varela, 46, 36204 Vigo, Pontevedra, Spain",
+              "website": "https://www.ruxeruxe.com/",
+              "description": "This lively restaurant and bar is famed for its hearty portions of Galician favorites, live music, and vibrant setting, making it a must-visit for locals and tourists alike.",
+              "coordinates": {
+                "latitude": "42.232830",
+                "longitude": "-8.722660"
+              }
+            },
+            {
+              "name": "Maruja Limón",
+              "address": "Rua Montero Ríos, 4, 36201 Vigo, Pontevedra, Spain",
+              "website": "https://www.marujalimon.es/",
+              "description": "A Michelin-starred restaurant known for its exquisite fusion of traditional Galician ingredients with international flavors, offering an unforgettable dining experience.",
+              "coordinates": {
+                "latitude": "42.238900",
+                "longitude": "-8.724430"
+              }
+            },
+            {
+              "name": "Follas Novas",
+              "address": "Rua do Príncipe, 56, 36202 Vigo, Pontevedra, Spain",
+              "website": "http://www.follasnovas.com/",
+              "description": "A cozy restaurant that specializes in Galician cuisine, serving a variety of seafood dishes and local wines in a warm and welcoming environment.",
+              "coordinates": {
+                "latitude": "42.237740",
+                "longitude": "-8.720410"
+              }
+            },
+            {
+              "name": "O Portón",
+              "address": "Rúa de Pizarro, 22, 36204 Vigo, Pontevedra, Spain",
+              "website": "https://www.oporton.com/",
+              "description": "Renowned for its delicious tapas and friendly atmosphere, O Portón is a favorite among those looking to enjoy the local cuisine and culture in a casual setting.",
+              "coordinates": {
+                "latitude": "42.236520",
+                "longitude": "-8.716070"
+              }
+            }
+          ],
+        "accommodations": [
+            {
+              "name": "Gran Hotel Nagari Boutique & Spa",
+              "address": "Plaza de Compostela, 21, 36201 Vigo, Pontevedra, Spain",
+              "website": "https://www.granhotelnagari.com/",
+              "description": "Located in the heart of Vigo, this luxury hotel offers sophisticated rooms and a rooftop pool with stunning views of the city, ideal for a relaxing stay.",
+              "coordinates": {
+                "latitude": "42.240200",
+                "longitude": "-8.723000"
+              }
+            },
+            {
+              "name": "NH Collection Vigo",
+              "address": "Avenida García Barbón, 17-19, 36201 Vigo, Pontevedra, Spain",
+              "website": "https://www.nh-hotels.com/hotel/nh-collection-vigo",
+              "description": "Situated in the city's commercial and financial district, this hotel combines comfort and convenience, perfect for visitors attending events in Vigo.",
+              "coordinates": {
+                "latitude": "42.237300",
+                "longitude": "-8.717400"
+              }
+            },
+            {
+              "name": "Hotel Coia de Vigo",
+              "address": "Calle Sanxenxo, 1, 36209 Vigo, Pontevedra, Spain",
+              "website": "http://www.hotelcoia.com/",
+              "description": "A well-established hotel offering spacious rooms and excellent facilities, including a restaurant and meeting rooms, making it suitable for both leisure and business travelers.",
+              "coordinates": {
+                "latitude": "42.213500",
+                "longitude": "-8.739100"
+              }
+            },
+            {
+              "name": "Hotel Ciudad de Vigo",
+              "address": "Calle Concepción Arenal, 5, 36201 Vigo, Pontevedra, Spain",
+              "website": "https://www.hotelciudaddevigo.com/",
+              "description": "Boasting a prime location near the marina and old town, this hotel is a great choice for those looking to explore Vigo and its surroundings.",
+              "coordinates": {
+                "latitude": "42.240500",
+                "longitude": "-8.724500"
+              }
+            },
+            {
+              "name": "Eurostars Mar de Vigo",
+              "address": "Avenida Beiramar, 57, 36202 Vigo, Pontevedra, Spain",
+              "website": "https://www.eurostarshotels.co.uk/eurostars-mar-de-vigo.html",
+              "description": "This contemporary hotel, located close to the beach and offering views of the estuary, features modern amenities and is an excellent base for exploring the city.",
+              "coordinates": {
+                "latitude": "42.240078",
+                "longitude": "-8.732658"
+              }
+            },
+            {
+              "name": "Hotel Zenit Vigo",
+              "address": "Avenida Gran Vía, 1, 36204 Vigo, Pontevedra, Spain",
+              "website": "https://vigo.zenithoteles.com/en/",
+              "description": "This central hotel offers comfortable and modern accommodations, with easy access to Vigo's main attractions, shopping, and dining options.",
+              "coordinates": {
+                "latitude": "42.235400",
+                "longitude": "-8.718900"
+              }
+            }
+          ],
+        "tourist_attractions": [
+            {
+              "name": "Islas Cíes",
+              "address": "Parque Nacional Marítimo-Terrestre de las Islas Atlánticas de Galicia, Vigo, Spain",
+              "website": "https://www.visit-cies.com",
+              "description": "Part of the Atlantic Islands of Galicia National Park, these islands offer pristine beaches, hiking trails, and spectacular natural landscapes, accessible by boat from Vigo.",
+              "coordinates": {
+                "latitude": "42.231356",
+                "longitude": "-8.903780"
+              }
+            },
+            {
+              "name": "Castro Fortress",
+              "address": "Monte do Castro, s/n, 36201 Vigo, Pontevedra, Spain",
+              "website": "https://www.turismodevigo.org",
+              "description": "An iconic hilltop fortress offering panoramic views of Vigo and its bay, featuring gardens and archaeological remains.",
+              "coordinates": {
+                "latitude": "42.237190",
+                "longitude": "-8.724050"
+              }
+            },
+            {
+              "name": "Samil Beach",
+              "address": "Samil, Vigo, Pontevedra, Spain",
+              "website": "https://www.turismodevigo.org",
+              "description": "Vigo's largest and most popular beach, known for its fine white sand, clear waters, and excellent facilities, including pools, parks, and restaurants.",
+              "coordinates": {
+                "latitude": "42.212450",
+                "longitude": "-8.768320"
+              }
+            },
+            {
+              "name": "Museum of Contemporary Art (MARCO)",
+              "address": "Príncipe 54, 36202 Vigo, Pontevedra, Spain",
+              "website": "https://www.marcovigo.com",
+              "description": "A cutting-edge museum housed in a former prison, showcasing a diverse collection of contemporary art from both Spanish and international artists.",
+              "coordinates": {
+                "latitude": "42.237600",
+                "longitude": "-8.720890"
+              }
+            },
+            {
+              "name": "O Berbés Fish Market",
+              "address": "Rúa Cánovas del Castillo, 36202 Vigo, Pontevedra, Spain",
+              "website": "https://www.turismodevigo.org",
+              "description": "A vibrant market offering a glimpse into the local fishing culture, where visitors can buy fresh seafood and experience the bustling atmosphere.",
+              "coordinates": {
+                "latitude": "42.240100",
+                "longitude": "-8.726200"
+              }
+            },
+            {
+              "name": "Monte do Castro Park",
+              "address": "Vigo, Pontevedra, Spain",
+              "website": "https://www.turismodevigo.org",
+              "description": "A large urban park located on a hill in the center of Vigo, featuring walking paths, ancient ruins, and stunning views over the city and estuary.",
+              "coordinates": {
+                "latitude": "42.237190",
+                "longitude": "-8.724050"
+              }
+            }
+          ],
+        "team_related_activities":[
+            {
+              "name": "RC Celta Official Store at Balaídos",
+              "address": "Estadio Balaídos, Av. de Balaídos, s/n, 36210 Vigo, Pontevedra, Spain",
+              "website": "https://www.rccelta.es/en/club/store",
+              "description": "The official store for RC Celta merchandise, offering a wide range of team apparel and accessories right at the Abanca-Balaídos Stadium.",
+              "coordinates": {
+                "latitude": "42.211959",
+                "longitude": "-8.740443"
+              }
+            },
+            {
+              "name": "RC Celta Match Day Experience",
+              "address": "Estadio Balaídos, Av. de Balaídos, s/n, 36210 Vigo, Pontevedra, Spain",
+              "website": "https://www.rccelta.es/en/tickets/matchday-tickets",
+              "description": "Attend an RC Celta game at the iconic Abanca-Balaídos Stadium to experience the passion and atmosphere of one of La Liga's teams.",
+              "coordinates": {
+                "latitude": "42.211959",
+                "longitude": "-8.740443"
+              }
+            },
+            {
+              "name": "RC Celta Football Camp",
+              "address": "Various locations in Vigo",
+              "website": "https://www.rccelta.es/en/cantera/celta-camps",
+              "description": "Football camps for young fans and aspiring players, offering coaching and training in the sport under the guidance of RC Celta professionals.",
+              "coordinates": {
+                "latitude": "42.211959",
+                "longitude": "-8.740443"
+              }
+            },
+            {
+              "name": "Meet & Greet with RC Celta Players",
+              "address": "Specific events at Abanca-Balaídos Stadium",
+              "website": "https://www.rccelta.es/en/tickets/matchday-tickets",
+              "description": "Special events organized for fans to meet their favorite RC Celta players, get autographs, and take photos.",
+              "coordinates": {
+                "latitude": "42.211959",
+                "longitude": "-8.740443"
+              }
+            },
+            {
+              "name": "RC Celta Community Outreach Programs",
+              "address": "Various community centers and schools in Vigo",
+              "website": "https://www.rccelta.es/en/foundation",
+              "description": "Community programs and initiatives led by RC Celta, promoting sportsmanship, teamwork, and football among youth in Vigo.",
+              "coordinates": {
+                "latitude": "42.211959",
+                "longitude": "-8.740443"
+              }
+            }
+          ]
+      },
+      "public_transportation": {
+        "options": [
+            {
+              "type": "Bus",
+              "description": "Vigo's city bus network offers convenient access to Abanca-Balaídos Stadium, with several lines stopping near the stadium. This provides easy access for visitors coming to see a match or visit the team store.",
+              "link": "https://www.vitrasa.es",
+              "directions": "Check the Vitrasa website for bus schedules, routes, and real-time updates."
+            },
+            {
+              "type": "Train",
+              "description": "Vigo's train system connects the city to other major destinations in Spain, with the Vigo Guixar and Vigo Urzaiz stations offering easy access to the city center and the stadium area.",
+              "link": "http://www.renfe.com",
+              "directions": "For directions and detailed train schedules, visit the Renfe website or use their mobile app."
+            }
+          ]
+      },
+      "ticket_purchasing_tips": {
+        "best_places_to_buy":[
+            {
+              "name": "Official Team Website",
+              "website": "https://www.rccelta.es/en/tickets/matchday-tickets",
+              "description": "The primary source for all ticket sales, offering guaranteed authenticity and the best seat selections for RC Celta games."
+            },
+            {
+              "name": "Ticketmaster",
+              "website": "https://www.ticketmaster.es",
+              "description": "A reliable ticketing partner offering tickets for various events, including RC Celta games, within Spain."
+            },
+            {
+              "name": "Resale Platforms",
+              "description": "Check reputable resale platforms for tickets, especially for sold-out games. Ensure the platform offers buyer protection and is authorized to sell RC Celta tickets."
+            }
+          ],
+        "ways_to_save": "Look for family packages or group discounts for savings. Mid-week games may offer lower prices compared to weekend games. Sign up for the team's newsletter for promotional deals.",
+        "avoiding_scalpers": "Purchase tickets from official sources or reputable platforms to avoid scams. Be cautious of offers that seem too good to be true, and verify the authenticity of tickets when buying from resale sites."
+      }
+    }
+  }
+  

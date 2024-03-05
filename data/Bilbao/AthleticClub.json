@@ -1,0 +1,324 @@
+{
+  "city": "Bilbao",
+  "team": "Athletic Club",
+  "venue": {
+    "name": "San Mamés",
+    "address": "Rafael Moreno Pitxitxi, s/n, 48013 Bilbao, Spain",
+    "website": "https://www.athletic-club.eus/en",
+    "average_ticket_price": "€40",
+    "season_start": "August",
+    "playoffs_start": "May",
+    "coordinates": {
+      "latitude": "43.264412",
+      "longitude": "-2.949072"
+    },
+    "best_seats_pricing": {
+      "Presidential Box": {
+        "Description": "Exclusive seating area offering the best view and luxury experience.",
+        "Sections": "Presidential Box",
+        "Estimated_Pricing_Range": "€600 - €2500",
+        "View_Quality": "Central view from the best vantage point, exceptionally immersive.",
+        "Unique_Features": "Luxury seating, highest level of privacy and exclusivity.",
+        "Accessibility": "VIP access with personal assistance, best access routes.",
+        "Special_Perks": "Gourmet dining options, meet-and-greet opportunities with players."
+      },
+      "VIP Seats": {
+        "Description": "Premium seats with excellent pitch views and exclusive benefits.",
+        "Sections": "VIP Sections",
+        "Estimated_Pricing_Range": "€120 - €600",
+        "View_Quality": "Unmatched side views, close to the action.",
+        "Unique_Features": "Comfortable seating, complimentary snacks and beverages.",
+        "Accessibility": "Dedicated entrance, superior facility access.",
+        "Special_Perks": "Access to VIP lounges, special events invitations."
+      },
+      "Grandstand": {
+        "Description": "Elevated side views for an optimal viewing experience.",
+        "Sections": "Grandstand Sections",
+        "Estimated_Pricing_Range": "€30 - €120",
+        "View_Quality": "Excellent perspective of the entire pitch, clear line of sight.",
+        "Unique_Features": "Good balance of view quality and ticket price.",
+        "Accessibility": "Easy access, available facilities for guests with disabilities.",
+        "Special_Perks": "A popular choice among regular fans for its great value."
+      },
+      "General Admission": {
+        "Description": "Affordable tickets providing access to vibrant atmosphere areas.",
+        "Sections": "General Admission",
+        "Estimated_Pricing_Range": "€20 - €70",
+        "View_Quality": "Dynamic view of the game, engaging fan experience.",
+        "Unique_Features": "Access to the heart of the fan sections, lively atmosphere.",
+        "Accessibility": "Standard access, dedicated areas for wheelchair users.",
+        "Special_Perks": "Part of the passionate fan base, traditional stadium experience."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Restaurante Mugarra",
+          "address": "Calle Ercilla, 14, 48009 Bilbao, Spain",
+          "website": "http://www.restaurantemugarra.com/",
+          "description": "A renowned restaurant in Bilbao specializing in Basque cuisine, particularly known for its fresh seafood and refined dishes, located in the city center.",
+          "coordinates": {
+            "latitude": "43.262954",
+            "longitude": "-2.934985"
+          }
+        },
+        {
+          "name": "Café Iruña",
+          "address": "Colón de Larreátegui, 13, 48001 Bilbao, Spain",
+          "website": "http://www.cafeirunabilbao.net/",
+          "description": "A historic café in Bilbao, offering a wide variety of tapas and pinchos in a beautifully tiled 1903 building, a beloved meeting place for locals and tourists.",
+          "coordinates": {
+            "latitude": "43.263570",
+            "longitude": "-2.926140"
+          }
+        },
+        {
+          "name": "La Viña del Ensanche",
+          "address": "Calle Diputación, 10, 48008 Bilbao, Spain",
+          "website": "http://www.lavinadelensanche.com/",
+          "description": "This acclaimed tapas bar combines traditional flavors with innovative gastronomy, creating a unique dining experience in the heart of Bilbao.",
+          "coordinates": {
+            "latitude": "43.262411",
+            "longitude": "-2.926528"
+          }
+        },
+        {
+          "name": "Asador Guetaria",
+          "address": "Calle Estraunza, 18, 48011 Bilbao, Spain",
+          "website": "https://www.asadorguetaria.com/",
+          "description": "A Basque grill house known for its exceptional meats and fish, prepared on a traditional charcoal grill, set in a warm and inviting atmosphere.",
+          "coordinates": {
+            "latitude": "43.262088",
+            "longitude": "-2.945076"
+          }
+        },
+        {
+          "name": "Bistró Guggenheim Bilbao",
+          "address": "Abandoibarra Etorb., 2, 48009 Bilbao, Spain",
+          "website": "https://www.bistroguggenheimbilbao.com/",
+          "description": "Located within the Guggenheim Museum, this bistro offers a modern take on Basque cuisine, featuring locally sourced ingredients and stunning views of the museum and river.",
+          "coordinates": {
+            "latitude": "43.268676",
+            "longitude": "-2.934425"
+          }
+        },
+        {
+          "name": "Café Bar Bilbao",
+          "address": "Plaza Nueva, 6, 48005 Bilbao, Spain",
+          "website": "http://www.cafebarbilbao.com/",
+          "description": "A classic spot in the Old Town, Café Bar Bilbao is famous for its lively atmosphere and traditional pinchos, attracting a diverse crowd throughout the day.",
+          "coordinates": {
+            "latitude": "43.256848",
+            "longitude": "-2.923440"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Gran Hotel Domine Bilbao",
+          "address": "Alameda de Mazarredo, 61, 48009 Bilbao, Spain",
+          "website": "https://www.hoteldominebilbao.com",
+          "description": "A luxurious hotel facing the Guggenheim Museum, offering stunning views of the museum and Bilbao, with sleek, modern rooms and top-notch amenities.",
+          "coordinates": {
+            "latitude": "43.268622",
+            "longitude": "-2.934001"
+          }
+        },
+        {
+          "name": "Hotel Carlton Bilbao",
+          "address": "Plaza Federico Moyúa, 2, 48009 Bilbao, Spain",
+          "website": "https://www.hotelcarlton.es",
+          "description": "An iconic, landmark hotel situated in the heart of Bilbao’s city center, known for its elegant architecture and luxurious accommodations.",
+          "coordinates": {
+            "latitude": "43.262989",
+            "longitude": "-2.935256"
+          }
+        },
+        {
+          "name": "Hotel Miro Bilbao",
+          "address": "Alameda Mazarredo, 77, 48009 Bilbao, Spain",
+          "website": "https://www.mirohotelbilbao.com",
+          "description": "A boutique hotel offering stylish, contemporary rooms with views of the Guggenheim Museum, positioned perfectly for cultural exploration.",
+          "coordinates": {
+            "latitude": "43.268156",
+            "longitude": "-2.933585"
+          }
+        },
+        {
+          "name": "NH Collection Villa de Bilbao",
+          "address": "Gran Vía, 87, 48011 Bilbao, Spain",
+          "website": "https://www.nh-collection.com/hotel/nh-collection-villa-de-bilbao",
+          "description": "This modern hotel is located on the city’s main avenue, offering comfortable and spacious rooms, ideal for business and leisure travelers alike.",
+          "coordinates": {
+            "latitude": "43.262473",
+            "longitude": "-2.944436"
+          }
+        },
+        {
+          "name": "Sercotel Coliseo Bilbao",
+          "address": "Alameda de Urquijo, 13, 48008 Bilbao, Spain",
+          "website": "https://www.sercotelhotels.co.uk/hotels/spain/biscay/bilbao/sercotel-coliseo/",
+          "description": "Housed in a former opera house, this hotel blends historical charm with modern luxury, situated near Bilbao’s main attractions and shopping areas.",
+          "coordinates": {
+            "latitude": "43.259926",
+            "longitude": "-2.926754"
+          }
+        },
+        {
+          "name": "Barceló Bilbao Nervión",
+          "address": "Paseo Campo Volantín, 11, 48007 Bilbao, Spain",
+          "website": "https://www.barcelo.com/en-gb/barcelo-bilbao-nervion/",
+          "description": "Overlooking the Nervión River, close to the Guggenheim Museum, this hotel offers contemporary rooms and is perfect for those looking to explore the city.",
+          "coordinates": {
+            "latitude": "43.263766",
+            "longitude": "-2.925170"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "Guggenheim Museum Bilbao",
+          "address": "Abandoibarra Etorb., 2, 48009 Bilbao, Bizkaia, Spain",
+          "website": "https://www.guggenheim-bilbao.eus",
+          "description": "An iconic museum of modern and contemporary art designed by Frank Gehry, known for its innovative architecture and dynamic exhibitions.",
+          "coordinates": {
+            "latitude": "43.268676",
+            "longitude": "-2.934425"
+          }
+        },
+        {
+          "name": "Casco Viejo",
+          "address": "Casco Viejo, Bilbao, Spain",
+          "website": "https://www.bilbao.eus",
+          "description": "Bilbao's historic quarter, offering a maze of narrow streets filled with shops, bars, and traditional Basque restaurants, alongside historical landmarks.",
+          "coordinates": {
+            "latitude": "43.256963",
+            "longitude": "-2.923440"
+          }
+        },
+        {
+          "name": "San Mamés Stadium",
+          "address": "Rafael Moreno Pitxitxi, s/n, 48013 Bilbao, Bizkaia, Spain",
+          "website": "https://www.athletic-club.eus/en/san-mames",
+          "description": "The home stadium of Athletic Club, offering guided tours to explore the club's history and the modern facilities of this football temple.",
+          "coordinates": {
+            "latitude": "43.264412",
+            "longitude": "-2.949072"
+          }
+        },
+        {
+          "name": "Bilbao Fine Arts Museum",
+          "address": "Museo Plaza, 2, 48009 Bilbao, Bizkaia, Spain",
+          "website": "https://www.museobilbao.com",
+          "description": "A renowned art museum showcasing a collection that spans from the 12th century to the present, including both Basque and international artists.",
+          "coordinates": {
+            "latitude": "43.265422",
+            "longitude": "-2.933576"
+          }
+        },
+        {
+          "name": "Plaza Nueva",
+          "address": "Plaza Nueva, 48005 Bilbao, Bizkaia, Spain",
+          "website": "https://www.bilbao.eus",
+          "description": "A neoclassical square located in the heart of the Casco Viejo, known for its vibrant atmosphere, especially on Sundays with its famous flea market.",
+          "coordinates": {
+            "latitude": "43.256848",
+            "longitude": "-2.923440"
+          }
+        },
+        {
+          "name": "Arriaga Theatre",
+          "address": "Plaza Arriaga, 1, 48005 Bilbao, Bizkaia, Spain",
+          "website": "https://www.teatroarriaga.eus",
+          "description": "A historic opera house and theater offering a wide range of performances, known for its stunning architecture reminiscent of the Paris Opéra.",
+          "coordinates": {
+            "latitude": "43.258102",
+            "longitude": "-2.923441"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Athletic Club Official Store",
+          "address": "San Mamés Stadium, Rafael Moreno Pitxitxi, s/n, 48013 Bilbao, Spain",
+          "website": "https://www.athletic-club.eus/en",
+          "description": "The official store for Athletic Club merchandise, featuring a wide selection of team apparel and accessories right at San Mamés Stadium.",
+          "coordinates": {
+            "latitude": "43.264412",
+            "longitude": "-2.949072"
+          }
+        },
+        {
+          "name": "Athletic Club Match Day Experience",
+          "address": "San Mamés Stadium, Rafael Moreno Pitxitxi, s/n, 48013 Bilbao, Spain",
+          "website": "https://www.athletic-club.eus/en/tickets.html",
+          "description": "Experience the passion and atmosphere of an Athletic Club game at the iconic San Mamés Stadium, one of the cathedrals of Spanish football.",
+          "coordinates": {
+            "latitude": "43.264412",
+            "longitude": "-2.949072"
+          }
+        },
+        {
+          "name": "Athletic Club Football Camp",
+          "address": "Various locations in Bilbao",
+          "website": "https://www.athletic-club.eus/en/camps.html",
+          "description": "Football camps for young fans and aspiring players, offering coaching and training in the sport under the guidance of Athletic Club professionals.",
+          "coordinates": {
+            "latitude": "43.264412",
+            "longitude": "-2.949072"
+          }
+        },
+        {
+          "name": "Meet & Greet with Athletic Club Players",
+          "address": "Specific events at San Mamés Stadium",
+          "website": "https://www.athletic-club.eus/en/tickets.html",
+          "description": "Special events organized for fans to meet their favorite Athletic Club players, get autographs, and take photos.",
+          "coordinates": {
+            "latitude": "43.264412",
+            "longitude": "-2.949072"
+          }
+        },
+        {
+          "name": "Athletic Club Community Outreach Programs",
+          "address": "Various community centers and schools in Bilbao",
+          "website": "https://www.athletic-club.eus/en/foundation.html",
+          "description": "Community programs and initiatives led by Athletic Club, promoting sportsmanship, teamwork, and football among youth in Bilbao.",
+          "coordinates": {
+            "latitude": "43.264412",
+            "longitude": "-2.949072"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "Bus and Metro",
+          "description": "Bilbao's public transportation network, including buses and the metro, offers convenient access to San Mamés Stadium, with several options stopping near the venue, facilitating easy access for visitors.",
+          "link": "https://www.bilbao.eus",
+          "directions": "Check the Bilbao city website for bus and metro schedules, routes, and real-time updates."
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Team Website",
+          "website": "https://www.athletic-club.eus/en/tickets.html",
+          "description": "The primary source for all ticket sales, offering guaranteed authenticity and the best seat selections for Athletic Club games."
+        },
+        {
+          "name": "Ticketmaster Spain",
+          "website": "https://www.ticketmaster.es/",
+          "description": "A reliable ticketing partner offering tickets for various events, including Athletic Club games, within Spain."
+        },
+        {
+          "name": "Resale Platforms",
+          "description": "Check reputable resale platforms for tickets, especially for sold-out games. Ensure the platform offers buyer protection and is authorized to sell Athletic Club tickets."
+        }
+      ],
+      "ways_to_save": "Look for family packages or group discounts for savings. Mid-week games may offer lower prices compared to weekend games. Sign up for the team's newsletter for promotional deals.",
+      "avoiding_scalpers": "Purchase tickets from official sources or reputable platforms to avoid scams. Be cautious of offers that seem too good to be true, and verify the authenticity of tickets when buying from resale sites."
+    }
+  }
+}

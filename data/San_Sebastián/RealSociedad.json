@@ -1,0 +1,329 @@
+{
+  "city": "San Sebastian",
+  "team": "Real Sociedad",
+  "venue": {
+    "name": "Reale Arena",
+    "address": "Anoeta Pasealekua, 1, 20014 Donostia, Gipuzkoa, Spain",
+    "website": "https://www.realsociedad.eus/en/club/stadium",
+    "average_ticket_price": "€40",
+    "season_start": "August",
+    "playoffs_start": "May",
+    "coordinates": {
+      "latitude": "43.301411",
+      "longitude": "-1.973417"
+    },
+    "best_seats_pricing": {
+      "Presidential Box": {
+        "Description": "Exclusive seating area offering the best view and luxury experience at Reale Arena.",
+        "Sections": "Presidential Box",
+        "Estimated_Pricing_Range": "€400 - €1500",
+        "View_Quality": "Central view from the best vantage point, exceptionally immersive.",
+        "Unique_Features": "Luxury seating, highest level of privacy and exclusivity.",
+        "Accessibility": "VIP access with personal assistance, best access routes.",
+        "Special_Perks": "Gourmet dining options, meet-and-greet opportunities with players."
+      },
+      "VIP Seats": {
+        "Description": "Premium seats with excellent pitch views and exclusive benefits, ensuring an unforgettable match day experience.",
+        "Sections": "VIP Sections",
+        "Estimated_Pricing_Range": "€100 - €300",
+        "View_Quality": "Unmatched side views, close to the action.",
+        "Unique_Features": "Comfortable seating, complimentary snacks and beverages.",
+        "Accessibility": "Dedicated entrance, superior facility access.",
+        "Special_Perks": "Access to VIP lounges, special events invitations."
+      },
+      "Grandstand": {
+        "Description": "Elevated side views for an optimal viewing experience, combining great visibility and value.",
+        "Sections": "Grandstand Sections",
+        "Estimated_Pricing_Range": "€25 - €100",
+        "View_Quality": "Excellent perspective of the entire pitch, clear line of sight.",
+        "Unique_Features": "Good balance of view quality and ticket price.",
+        "Accessibility": "Easy access, available facilities for guests with disabilities.",
+        "Special_Perks": "A popular choice among regular fans for its great value."
+      },
+      "General Admission": {
+        "Description": "Affordable tickets providing access to vibrant atmosphere areas, perfect for die-hard fans.",
+        "Sections": "General Admission",
+        "Estimated_Pricing_Range": "€15 - €60",
+        "View_Quality": "Dynamic view of the game, engaging fan experience.",
+        "Unique_Features": "Access to the heart of the fan sections, lively atmosphere.",
+        "Accessibility": "Standard access, dedicated areas for wheelchair users.",
+        "Special_Perks": "Part of the passionate fan base, traditional stadium experience."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Arzak",
+          "address": "Av Alcalde Elósegui, 273, 20015 Donostia, Gipuzkoa, Spain",
+          "website": "http://www.arzak.es",
+          "description": "A Michelin three-starred restaurant offering innovative Basque cuisine by renowned chef Juan Mari Arzak and his daughter Elena Arzak.",
+          "coordinates": {
+            "latitude": "43.308346",
+            "longitude": "-1.975145"
+          }
+        },
+        {
+          "name": "Borda Berri",
+          "address": "Calle Fermín Calbetón, 12, 20003 Donostia, Gipuzkoa, Spain",
+          "website": "https://www.facebook.com/BordaBerriDonostia/",
+          "description": "A bustling pintxos bar known for its creative takes on traditional Basque dishes, where everything is cooked to order.",
+          "coordinates": {
+            "latitude": "43.322140",
+            "longitude": "-1.983690"
+          }
+        },
+        {
+          "name": "Gandarias Jatetxea",
+          "address": "Calle 31 de Agosto, 23, 20003 Donostia, Gipuzkoa, Spain",
+          "website": "http://www.restaurantegandarias.com",
+          "description": "A popular restaurant in the Old Town offering a wide selection of pintxos, local wines, and traditional Basque dishes.",
+          "coordinates": {
+            "latitude": "43.323262",
+            "longitude": "-1.985246"
+          }
+        },
+        {
+          "name": "La Cuchara de San Telmo",
+          "address": "Calle 31 de Agosto, 28, 20003 Donostia, Gipuzkoa, Spain",
+          "website": "http://www.lacucharadesantelmo.com",
+          "description": "Famous for its innovative pintxos and small plates, this place is a must-visit for foodies looking to experience the best of San Sebastián's gastronomy.",
+          "coordinates": {
+            "latitude": "43.322055",
+            "longitude": "-1.985731"
+          }
+        },
+        {
+          "name": "Bar Nestor",
+          "address": "Calle Pescadería, 11, 20003 Donostia, Gipuzkoa, Spain",
+          "website": "https://www.barnestor.com",
+          "description": "Best known for its tortilla española, chuleta (steak), and tomatoes salad, this bar offers a quintessential San Sebastián dining experience.",
+          "coordinates": {
+            "latitude": "43.322830",
+            "longitude": "-1.983360"
+          }
+        },
+        {
+          "name": "Atari Gastroteka",
+          "address": "Calle Mayor, 18, 20003 Donostia, Gipuzkoa, Spain",
+          "website": "http://www.atarigastroteka.com",
+          "description": "Situated near the Basilica of Saint Mary of the Chorus, Atari Gastroteka is famed for its pintxos, cocktails, and lively atmosphere.",
+          "coordinates": {
+            "latitude": "43.322890",
+            "longitude": "-1.985560"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Hotel Maria Cristina",
+          "address": "Paseo República Argentina, 4, 20004 Donostia, Gipuzkoa, Spain",
+          "website": "https://www.marriott.com/hotels/travel/easlc-hotel-maria-cristina-a-luxury-collection-hotel-san-sebastian/",
+          "description": "A luxury hotel located near the Concha Beach, offering elegant rooms and exceptional service, within walking distance to San Sebastián's main attractions.",
+          "coordinates": {
+            "latitude": "43.321030",
+            "longitude": "-1.981680"
+          }
+        },
+        {
+          "name": "NH Collection San Sebastián Aránzazu",
+          "address": "Vitoria-Gasteiz Kalea, 1, 20018 Donostia, Gipuzkoa, Spain",
+          "website": "https://www.nh-hotels.com/hotel/nh-collection-san-sebastian-aranzazu",
+          "description": "Situated in the Antiguo neighborhood, close to Ondarreta Beach, this hotel offers modern accommodations and is conveniently located for exploring the city.",
+          "coordinates": {
+            "latitude": "43.310528",
+            "longitude": "-2.009980"
+          }
+        },
+        {
+          "name": "Barceló Costa Vasca",
+          "address": "Av. de pío Baroja, 15, 20008 Donostia, Gipuzkoa, Spain",
+          "website": "https://www.barcelo.com/en-us/barcelo-costa-vasca/",
+          "description": "This hotel features contemporary rooms and a seasonal outdoor pool, located just a short walk from Ondarreta Beach and the Miramar Palace.",
+          "coordinates": {
+            "latitude": "43.312940",
+            "longitude": "-2.005390"
+          }
+        },
+        {
+          "name": "Mercure Monte Igueldo",
+          "address": "Paseo del Faro, 134, 20008 Donostia, Gipuzkoa, Spain",
+          "website": "https://all.accor.com/hotel/6698/index.en.shtml",
+          "description": "Set on Mount Igueldo offering spectacular views over the Bay of Biscay, this hotel is known for its unique location and traditional Basque cuisine.",
+          "coordinates": {
+            "latitude": "43.321200",
+            "longitude": "-2.030670"
+          }
+        },
+        {
+          "name": "Hotel Astoria7",
+          "address": "Sagrada Familia Kalea, 1, 20010 Donostia, Gipuzkoa, Spain",
+          "website": "https://www.astoria7hotel.com/",
+          "description": "Themed around cinema and the San Sebastián Film Festival, this stylish hotel offers a unique stay in the city, with a library and a movie screening room.",
+          "coordinates": {
+            "latitude": "43.308760",
+            "longitude": "-1.970330"
+          }
+        },
+        {
+          "name": "Hotel de Londres y de Inglaterra",
+          "address": "Zubieta Kalea, 2, 20007 Donostia, Gipuzkoa, Spain",
+          "website": "https://www.hlondres.com/en",
+          "description": "A classic hotel with a beautiful facade overlooking La Concha Beach, offering refined rooms and a beachfront terrace bar.",
+          "coordinates": {
+            "latitude": "43.318410",
+            "longitude": "-1.985570"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "La Concha Beach",
+          "address": "De la Concha Ibilbidea, 20007 Donostia, Gipuzkoa, Spain",
+          "website": "https://www.sansebastianturismoa.eus",
+          "description": "Renowned for its stunning beauty, La Concha Beach is one of the most famous urban beaches in Europe, offering spectacular views of the bay and surrounding hills.",
+          "coordinates": {
+            "latitude": "43.315892",
+            "longitude": "-1.998511"
+          }
+        },
+        {
+          "name": "Monte Igueldo",
+          "address": "Paseo del Faro, 20008 Donostia, Gipuzkoa, Spain",
+          "website": "http://www.monteigueldo.es",
+          "description": "A mountain offering the best views of San Sebastián, accessible by a century-old funicular. At the top, visitors can find an amusement park and the iconic lighthouse.",
+          "coordinates": {
+            "latitude": "43.321528",
+            "longitude": "-2.030556"
+          }
+        },
+        {
+          "name": "Parte Vieja (Old Town)",
+          "address": "20003 Donostia, Gipuzkoa, Spain",
+          "website": "https://www.sansebastianturismoa.eus",
+          "description": "The heart of San Sebastián, known for its narrow streets, vibrant pintxos bars, and historical buildings, including the San Vicente Church and the San Telmo Museum.",
+          "coordinates": {
+            "latitude": "43.322050",
+            "longitude": "-1.985250"
+          }
+        },
+        {
+          "name": "Aquarium Donostia-San Sebastián",
+          "address": "Plaza Carlos Blasco Imaz, 1, 20003 Donostia, Gipuzkoa, Spain",
+          "website": "https://aquariumss.com",
+          "description": "Located at the port, this aquarium is part of the Oceanographic Society of Gipuzkoa and offers a journey through maritime history and local marine life.",
+          "coordinates": {
+            "latitude": "43.324250",
+            "longitude": "-1.984500"
+          }
+        },
+        {
+          "name": "Peine del Viento",
+          "address": "Eduardo Chillida Pasealekua, 20008 Donostia, Gipuzkoa, Spain",
+          "website": "https://www.sansebastianturismoa.eus",
+          "description": "A set of sculptures by Eduardo Chillida, located at the end of Ondarreta Beach, where the sea interacts with art creating a unique landscape.",
+          "coordinates": {
+            "latitude": "43.321400",
+            "longitude": "-2.013400"
+          }
+        },
+        {
+          "name": "Miramar Palace",
+          "address": "Paseo Miraconcha, 48, 20007 Donostia, Gipuzkoa, Spain",
+          "website": "https://www.miramar.eus",
+          "description": "Formerly a royal residence, this palace stands between La Concha and Ondarreta beaches, offering beautiful gardens and spectacular views over the bay.",
+          "coordinates": {
+            "latitude": "43.315233",
+            "longitude": "-2.005417"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Real Sociedad Official Store at Reale Arena",
+          "address": "Anoeta Pasealekua, 1, 20014 Donostia, Gipuzkoa, Spain",
+          "website": "https://www.realsociedad.eus/en/club/store",
+          "description": "The official store for Real Sociedad merchandise, offering a wide range of team apparel and accessories right at the Reale Arena.",
+          "coordinates": {
+            "latitude": "43.301411",
+            "longitude": "-1.973411"
+          }
+        },
+        {
+          "name": "Real Sociedad Match Day Experience",
+          "address": "Reale Arena, Anoeta Pasealekua, 1, 20014 Donostia, Gipuzkoa, Spain",
+          "website": "https://www.realsociedad.eus/en/tickets/matchday-tickets",
+          "description": "Attend a Real Sociedad game at the Reale Arena to experience the passion and atmosphere of one of La Liga's ambitious teams.",
+          "coordinates": {
+            "latitude": "43.301411",
+            "longitude": "-1.973411"
+          }
+        },
+        {
+          "name": "Real Sociedad Football Camp",
+          "address": "Various locations in San Sebastián",
+          "website": "https://www.realsociedad.eus/en/club/schools",
+          "description": "Football camps for young fans and aspiring players, offering coaching and training in the sport under the guidance of Real Sociedad professionals.",
+          "coordinates": {
+            "latitude": "43.301411",
+            "longitude": "-1.973411"
+          }
+        },
+        {
+          "name": "Meet & Greet with Real Sociedad Players",
+          "address": "Specific events at Reale Arena",
+          "website": "https://www.realsociedad.eus/en/tickets/matchday-tickets",
+          "description": "Special events organized for fans to meet their favorite Real Sociedad players, get autographs, and take photos.",
+          "coordinates": {
+            "latitude": "43.301411",
+            "longitude": "-1.973411"
+          }
+        },
+        {
+          "name": "Real Sociedad Community Outreach Programs",
+          "address": "Various community centers and schools in San Sebastián",
+          "website": "https://www.realsociedad.eus/en/foundation",
+          "description": "Community programs and initiatives led by Real Sociedad, promoting sportsmanship, teamwork, and football among youth in San Sebastián.",
+          "coordinates": {
+            "latitude": "43.301411",
+            "longitude": "-1.973411"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "Bus",
+          "description": "San Sebastián's city bus network, Dbus, offers convenient access to Reale Arena, with several lines stopping near the stadium. This provides easy access for visitors coming to see a match or visit the team store.",
+          "link": "https://www.dbus.eus/en/",
+          "directions": "Check the Dbus website for bus schedules, routes, and real-time updates."
+        },
+        {
+          "type": "Euskotren",
+          "description": "The Euskotren railway network can be used to reach the stadium from various parts of the city and surrounding areas, with the Anoeta station being the closest stop.",
+          "link": "https://www.euskotren.eus/en",
+          "directions": "For directions and detailed schedules, visit the Euskotren website or use their mobile app."
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Team Website",
+          "website": "https://www.realsociedad.eus/en/tickets/matchday-tickets",
+          "description": "The primary source for all ticket sales, offering guaranteed authenticity and the best seat selections for Real Sociedad games."
+        },
+        {
+          "name": "Ticket Office at Reale Arena",
+          "description": "Purchase tickets directly from the ticket office at Reale Arena for a personal touch and last-minute availability."
+        },
+        {
+          "name": "Resale Platforms",
+          "description": "Check reputable resale platforms for tickets, especially for sold-out games. Ensure the platform offers buyer protection and verifies the authenticity of tickets."
+        }
+      ],
+      "ways_to_save": "Look for family packages or group discounts for savings. Mid-week games may offer lower prices compared to weekend games. Sign up for the team's newsletter for promotional deals.",
+      "avoiding_scalpers": "Purchase tickets from official sources or reputable platforms to avoid scams. Be cautious of offers that seem too good to be true, and verify the authenticity of tickets when buying from resale sites."
+    }
+  }
+}

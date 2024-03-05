@@ -1,0 +1,317 @@
+{
+    "city": "Valencia",
+  "team": "Valencia CF",
+  "venue": {
+    "name": "Mestalla",
+    "address": "Av. de Suecia, s/n, 46010 Valencia, Spain",
+    "website": "https://www.valenciacf.com/en/the-club/mestalla-stadium",
+    "average_ticket_price": "€50",
+    "season_start": "August",
+    "playoffs_start": "May",
+    "coordinates": {
+      "latitude": "39.474531",
+      "longitude": "-0.358065"
+    },
+    "best_seats_pricing": {
+      "Presidential Box": {
+        "Description": "Exclusive seating area with the best view and premium experience.",
+        "Sections": "Presidential Box",
+        "Estimated_Pricing_Range": "€1000 - €4000",
+        "View_Quality": "Central view from the most privileged vantage point, unparalleled immersion.",
+        "Unique_Features": "Luxury seating, utmost level of privacy and exclusivity.",
+        "Accessibility": "VIP access with personal assistance, premier access routes.",
+        "Special_Perks": "Exquisite dining options, opportunities for meet-and-greet with players."
+      },
+      "VIP Seats": {
+        "Description": "High-end seats offering excellent pitch views and exclusive amenities.",
+        "Sections": "VIP Sections",
+        "Estimated_Pricing_Range": "€200 - €800",
+        "View_Quality": "Prime side views, very close to the pitch action.",
+        "Unique_Features": "Superior comfort seating, complimentary gourmet snacks and drinks.",
+        "Accessibility": "Exclusive entrance, enhanced facility access.",
+        "Special_Perks": "Entrance to VIP lounges, invitations to special club events."
+      },
+      "Grandstand": {
+        "Description": "Superior side views for a perfect game watching experience.",
+        "Sections": "Grandstand Sections",
+        "Estimated_Pricing_Range": "€50 - €250",
+        "View_Quality": "Outstanding full-pitch perspective, unobstructed line of sight.",
+        "Unique_Features": "Ideal balance between view quality and cost.",
+        "Accessibility": "Convenient access, facilities accessible for guests with disabilities.",
+        "Special_Perks": "Favored option for regular supporters for its outstanding value."
+      },
+      "General Admission": {
+        "Description": "Economical tickets to lively atmosphere zones.",
+        "Sections": "General Admission",
+        "Estimated_Pricing_Range": "€30 - €100",
+        "View_Quality": "Energetic game view, immersive fan experience.",
+        "Unique_Features": "Heart of the fan sections, vibrant atmosphere.",
+        "Accessibility": "Standard entry, wheelchair-accessible areas.",
+        "Special_Perks": "Immersed in the passionate fan base, authentic stadium atmosphere."
+      }
+    },
+      "nearby_amenities": {
+        "restaurants_bars":[
+            {
+              "name": "Restaurante Alejandro",
+              "address": "Carrer de Sueca, 61, 46006 Valencia, Spain",
+              "website": "https://www.restaurantealejandro.com/",
+              "description": "A renowned restaurant in Valencia offering innovative Spanish cuisine, combining traditional flavors with a modern twist.",
+              "coordinates": {
+                "latitude": "39.460299",
+                "longitude": "-0.376288"
+              }
+            },
+            {
+              "name": "Ricard Camarena Restaurant",
+              "address": "Carrer de Jorge Juan, 19, 46004 Valencia, Spain",
+              "website": "http://www.ricardcamarenarestaurant.com/",
+              "description": "An award-winning restaurant known for its creative and contemporary dishes, led by Michelin-starred chef Ricard Camarena.",
+              "coordinates": {
+                "latitude": "39.466945",
+                "longitude": "-0.368305"
+              }
+            },
+            {
+              "name": "La Pepica",
+              "address": "Passeig de Neptú, 6, 46011 València, Spain",
+              "website": "https://www.lapepica.com/",
+              "description": "A historic beachfront restaurant famous for its paella and seafood, offering stunning views of Valencia's beaches.",
+              "coordinates": {
+                "latitude": "39.472963",
+                "longitude": "-0.325622"
+              }
+            },
+            {
+              "name": "Casa Montaña",
+              "address": "Carrer de Josep Benlliure, 69, 46011 València, Spain",
+              "website": "http://www.emilianobodega.com/",
+              "description": "An iconic tavern in the El Cabanyal neighborhood, known for its excellent wine selection and traditional Valencian dishes.",
+              "coordinates": {
+                "latitude": "39.474378",
+                "longitude": "-0.337293"
+              }
+            },
+            {
+              "name": "El Rall",
+              "address": "Plaça del Tossal, 9, 46001 València, Spain",
+              "website": "https://www.elrall.es/",
+              "description": "Situated in the historic center, this cozy eatery is beloved for its tapas and paellas, offering a taste of authentic Valencian cuisine.",
+              "coordinates": {
+                "latitude": "39.475841",
+                "longitude": "-0.379504"
+              }
+            },
+            {
+              "name": "Navarro",
+              "address": "Carrer de l'Arquebisbe Mayoral, 5, 46002 València, Spain",
+              "website": "https://www.restaurantenavarro.com/",
+              "description": "A classic restaurant in the heart of Valencia, Navarro is celebrated for its traditional dishes, particularly its rice and paella offerings.",
+              "coordinates": {
+                "latitude": "39.470239",
+                "longitude": "-0.375919"
+              }
+            }
+          ],
+        "accommodations": [
+            {
+              "name": "Hotel Balneario Las Arenas",
+              "address": "Carrer d'Eugènia Viñes, 22-24, 46011 València, Spain",
+              "website": "https://www.hotelvalencialasarenas.com/",
+              "description": "A luxurious beachfront hotel in Valencia, offering stunning views of the sea, a spa, and high-end amenities, located close to the City of Arts and Sciences.",
+              "coordinates": {
+                "latitude": "39.467432",
+                "longitude": "-0.325576"
+              }
+            },
+            {
+              "name": "Hotel Meliá Valencia",
+              "address": "Avinguda de Les Corts Valencianes, 52, 46015 València, Spain",
+              "website": "https://www.melia.com/en/hotels/spain/valencia/melia-valencia/index.htm",
+              "description": "The tallest building in Valencia houses this hotel, offering panoramic views of the city, modern accommodations, and proximity to the Valencia CF stadium.",
+              "coordinates": {
+                "latitude": "39.503876",
+                "longitude": "-0.412494"
+              }
+            },
+            {
+              "name": "Palacio Santa Clara, Autograph Collection",
+              "address": "Carrer de Jorge Juan, 16, 46004 València, Spain",
+              "website": "https://www.marriott.com/hotels/travel/vlcak-palacio-santa-clara-autograph-collection/",
+              "description": "Located in the heart of Valencia, this hotel blends historic charm with modern luxury, close to major attractions and dining options.",
+              "coordinates": {
+                "latitude": "39.466387",
+                "longitude": "-0.373340"
+              }
+            },
+            {
+              "name": "Hotel Vincci Mercat",
+              "address": "Carrer de la Llanterna, 31, 46001 València, Spain",
+              "website": "https://www.vinccimercat.com/",
+              "description": "Just steps away from the Central Market and Valencia's historic center, this hotel offers contemporary design, comfort, and a rooftop terrace with a plunge pool.",
+              "coordinates": {
+                "latitude": "39.474245",
+                "longitude": "-0.378935"
+              }
+            }
+          ],
+        "tourist_attractions":  [
+            {
+              "name": "City of Arts and Sciences",
+              "address": "Av. del Professor López Piñero, 7, 46013 Valencia, Spain",
+              "website": "http://www.cac.es/",
+              "description": "A futuristic complex designed by Santiago Calatrava, featuring a science museum, oceanographic park, and an IMAX cinema, among other attractions.",
+              "coordinates": {
+                "latitude": "39.455556",
+                "longitude": "-0.350278"
+              }
+            },
+            {
+              "name": "Valencia Cathedral",
+              "address": "Plaza de la Almoina, s/n, 46003 Valencia, Spain",
+              "website": "https://www.catedraldevalencia.es/",
+              "description": "A stunning example of Gothic architecture, this cathedral is said to house the Holy Grail and offers panoramic views of Valencia from its Miguelete Tower.",
+              "coordinates": {
+                "latitude": "39.475278",
+                "longitude": "-0.375556"
+              }
+            },
+            {
+              "name": "Turia Gardens",
+              "address": "Paseo de la Alameda, 46010 Valencia, Spain",
+              "website": "https://www.visitvalencia.com/en/what-to-see-valencia/parks-gardens/turia-gardens",
+              "description": "A lush green space created on the old riverbed of the Turia, offering walking paths, sports facilities, and leisure areas stretching across the city.",
+              "coordinates": {
+                "latitude": "39.468056",
+                "longitude": "-0.376389"
+              }
+            },
+            {
+              "name": "Mestalla Stadium",
+              "address": "Av. de Suecia, s/n, 46010 Valencia, Spain",
+              "website": "https://www.valenciacf.com/en/the-club/mestalla-stadium",
+              "description": "The historic home of Valencia CF, one of the oldest football stadiums in Spain, offering tours that include access to the pitch and the trophy room.",
+              "coordinates": {
+                "latitude": "39.474531",
+                "longitude": "-0.358065"
+              }
+            },
+            {
+              "name": "Mercado Central",
+              "address": "Plaça de la Ciutat de Bruges, s/n, 46001 Valencia, Spain",
+              "website": "https://www.mercadocentralvalencia.es/",
+              "description": "One of the largest markets in Europe, housed in a beautiful modernist building, offering fresh produce, meats, seafood, and more.",
+              "coordinates": {
+                "latitude": "39.474444",
+                "longitude": "-0.381667"
+              }
+            },
+            {
+              "name": "Bioparc Valencia",
+              "address": "Av. Pío Baroja, 3, 46015 Valencia, Spain",
+              "website": "https://www.bioparcvalencia.es/",
+              "description": "A 10-hectare zoo designed under the concept of zoo-immersion, bringing visitors into the habitats of animals from Africa.",
+              "coordinates": {
+                "latitude": "39.475000",
+                "longitude": "-0.400556"
+              }
+            }
+          ],
+        "team_related_activities": [
+            {
+              "name": "Valencia CF Official Store at Mestalla",
+              "address": "Av. de Suecia, s/n, 46010 Valencia, Spain",
+              "website": "https://shop.valenciacf.com/",
+              "description": "The official store for Valencia CF merchandise, offering a wide range of team apparel and accessories right at the stadium.",
+              "coordinates": {
+                "latitude": "39.474531",
+                "longitude": "-0.358065"
+              }
+            },
+            {
+              "name": "Valencia CF Match Day Experience",
+              "address": "Av. de Suecia, s/n, 46010 Valencia, Spain",
+              "website": "https://www.valenciacf.com/en/tickets",
+              "description": "Attend a Valencia CF game at the iconic Mestalla Stadium to experience the passion and atmosphere of one of Spain's most beloved football clubs.",
+              "coordinates": {
+                "latitude": "39.474531",
+                "longitude": "-0.358065"
+              }
+            },
+            {
+              "name": "Valencia CF Football Camp",
+              "address": "Various locations in Valencia",
+              "website": "https://www.valenciacf.com/en/soccer-camps",
+              "description": "Football camps for young fans and aspiring players, offering coaching and training in the sport under the guidance of Valencia CF professionals.",
+              "coordinates": {
+                "latitude": "39.474531",
+                "longitude": "-0.358065"
+              }
+            },
+            {
+              "name": "Meet & Greet with Valencia CF Players",
+              "address": "Specific events at Mestalla",
+              "website": "https://www.valenciacf.com/en/tickets",
+              "description": "Special events organized for fans to meet their favorite Valencia CF players, get autographs, and take photos.",
+              "coordinates": {
+                "latitude": "39.474531",
+                "longitude": "-0.358065"
+              }
+            },
+            {
+              "name": "Valencia CF Community Outreach Programs",
+              "address": "Various community centers and schools in Valencia",
+              "website": "https://www.valenciacf.com/en/about-real-madrid/social/foundation",
+              "description": "Community programs and initiatives led by Valencia CF, promoting sportsmanship, teamwork, and football among youth in Valencia.",
+              "coordinates": {
+                "latitude": "39.474531",
+                "longitude": "-0.358065"
+              }
+            }
+          ]
+      },
+      "public_transportation": {
+        "options": [
+            {
+              "type": "Metro",
+              "description": "The Aragón and Facultats metro stations (Lines 3 and 5) provide direct access to areas near the Mestalla Stadium, offering convenient connections to Valencia's main attractions and districts.",
+              "link": "https://www.metrovalencia.es/",
+              "directions": "For directions and detailed metro schedules, visit the Metro Valencia website or use their mobile app."
+            },
+            {
+              "type": "Bus",
+              "description": "Several bus lines serve the area around Mestalla, including lines 10, 12, 29, 30, 31, 71, 79, 81, 89, and 90, making it easily accessible from throughout the city. The bus stops are located near the stadium.",
+              "link": "https://www.emtvalencia.es/",
+              "directions": "Check the EMT Valencia website or mobile app for bus schedules, routes, and real-time updates."
+            },
+            {
+              "type": "Bicycle",
+              "description": "Valencia's extensive network of bike lanes and Valenbisi bike-sharing service makes cycling a viable option for reaching Mestalla.",
+              "link": "https://www.valenbisi.com/",
+              "directions": "Plan your bike route with Valenbisi or Google Maps to find the most convenient and safe path to the stadium."
+            }
+          ]
+      },
+      "ticket_purchasing_tips": {
+        "best_places_to_buy":[
+            {
+              "name": "Official Team Website",
+              "website": "https://www.valenciacf.com/en/tickets",
+              "description": "The primary source for all ticket sales, offering guaranteed authenticity and the best seat selections."
+            },
+            {
+              "name": "Ticketmaster Spain",
+              "website": "https://www.ticketmaster.es/",
+              "description": "A reliable ticketing partner offering tickets for various events, including Valencia CF games, within Spain."
+            },
+            {
+              "name": "Resale Platforms",
+              "description": "Check reputable resale platforms for tickets, especially for sold-out games. Ensure the platform offers buyer protection."
+            }
+          ],
+        "ways_to_save": "Look for family packages or group discounts for savings. Mid-week games may offer lower prices compared to weekend games. Sign up for the team's newsletter for promotional deals.",
+        "avoiding_scalpers": "Purchase tickets from official sources or reputable platforms to avoid scams. Be cautious of offers that seem too good to be true, and verify the authenticity of tickets when buying from resale sites."
+      }
+    }
+  }
+  

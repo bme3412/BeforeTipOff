@@ -1,0 +1,335 @@
+{
+  "city": "Almería",
+  "team": "UD Almería",
+  "venue": {
+    "name": "Estadio de los Juegos Mediterráneos",
+    "address": "Calle Belladona, 5, 04007 Almería, Spain",
+    "website": "https://www.udalmeriasad.com",
+    "average_ticket_price": "€30",
+    "season_start": "August",
+    "playoffs_start": "May",
+    "coordinates": {
+      "latitude": "36.838137",
+      "longitude": "-2.451073"
+    },
+    "best_seats_pricing": {
+      "Presidential Box": {
+        "Description": "Exclusive seating area offering the best view and luxury experience at Estadio de los Juegos Mediterráneos.",
+        "Sections": "Presidential Box",
+        "Estimated_Pricing_Range": "€500 - €2000",
+        "View_Quality": "Central view from the most privileged vantage point, exceptionally immersive.",
+        "Unique_Features": "Luxury seating, highest level of privacy and exclusivity.",
+        "Accessibility": "VIP access with personal assistance, best access routes.",
+        "Special_Perks": "Gourmet dining options, meet-and-greet opportunities with players."
+      },
+      "VIP Seats": {
+        "Description": "Premium seats with excellent pitch views and exclusive benefits, ensuring an unforgettable match day experience.",
+        "Sections": "VIP Sections",
+        "Estimated_Pricing_Range": "€100 - €400",
+        "View_Quality": "Unmatched side views, close to the action.",
+        "Unique_Features": "Comfortable seating, complimentary snacks and beverages.",
+        "Accessibility": "Dedicated entrance, superior facility access.",
+        "Special_Perks": "Access to VIP lounges, special events invitations."
+      },
+      "Grandstand": {
+        "Description": "Elevated side views for an optimal viewing experience, combining great visibility and value.",
+        "Sections": "Grandstand Sections",
+        "Estimated_Pricing_Range": "€20 - €100",
+        "View_Quality": "Excellent perspective of the entire pitch, clear line of sight.",
+        "Unique_Features": "Good balance of view quality and ticket price.",
+        "Accessibility": "Easy access, available facilities for guests with disabilities.",
+        "Special_Perks": "A popular choice among regular fans for its great value."
+      },
+      "General Admission": {
+        "Description": "Affordable tickets providing access to vibrant atmosphere areas, perfect for die-hard fans.",
+        "Sections": "General Admission",
+        "Estimated_Pricing_Range": "€10 - €60",
+        "View_Quality": "Dynamic view of the game, engaging fan experience.",
+        "Unique_Features": "Access to the heart of the fan sections, lively atmosphere.",
+        "Accessibility": "Standard access, dedicated areas for wheelchair users.",
+        "Special_Perks": "Part of the passionate fan base, traditional stadium experience."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Casa Sevilla",
+          "address": "Calle Almería, 23, 04001 Almería, Spain",
+          "website": "http://www.casasevilla.com/",
+          "description": "A traditional Andalusian restaurant in the heart of Almería, known for its authentic local cuisine and welcoming atmosphere.",
+          "coordinates": {
+            "latitude": "36.840320",
+            "longitude": "-2.467540"
+          }
+        },
+        {
+          "name": "La Mala",
+          "address": "Calle Real, 15, 04002 Almería, Spain",
+          "website": "http://www.lamalaalmeria.com/",
+          "description": "Located in the city center, this restaurant offers creative Mediterranean dishes in a modern and stylish setting.",
+          "coordinates": {
+            "latitude": "36.838100",
+            "longitude": "-2.464500"
+          }
+        },
+        {
+          "name": "Taberna Nuestra Tierra",
+          "address": "Plaza de la Constitución, 4, 04003 Almería, Spain",
+          "website": "https://www.tabernanuestratierra.com/",
+          "description": "Famous for its tapas and local wines, this tavern provides a genuine Almerían dining experience with a focus on regional products.",
+          "coordinates": {
+            "latitude": "36.837480",
+            "longitude": "-2.464370"
+          }
+        },
+        {
+          "name": "El Quinto Toro",
+          "address": "Calle Jovellanos, 16, 04003 Almería, Spain",
+          "website": "http://www.elquintotoro.com/",
+          "description": "An iconic tapas bar in Almería, offering a wide variety of traditional tapas and a lively atmosphere.",
+          "coordinates": {
+            "latitude": "36.838790",
+            "longitude": "-2.464760"
+          }
+        },
+        {
+          "name": "Restaurante Aljaima",
+          "address": "Calle de las Tiendas, 8, 04003 Almería, Spain",
+          "website": "https://www.restaurantealjaima.com/",
+          "description": "A restaurant specializing in Moroccan and Andalusian fusion cuisine, known for its couscous, tagines, and exotic flavors.",
+          "coordinates": {
+            "latitude": "36.838660",
+            "longitude": "-2.467290"
+          }
+        },
+        {
+          "name": "Bar La Cabina",
+          "address": "Calle García Cañas, 2, 04004 Almería, Spain",
+          "website": "https://www.barlacabina.com/",
+          "description": "A local favorite for breakfast and tapas, this bar offers a friendly atmosphere and delicious homemade dishes.",
+          "coordinates": {
+            "latitude": "36.840780",
+            "longitude": "-2.459450"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Aire Hotel & Ancient Baths",
+          "address": "Plaza de la Constitución, 4, 04003 Almería, Spain",
+          "website": "https://www.airehotelalmeria.com/",
+          "description": "Located in the historical center of Almería, this hotel offers unique accommodations with an ancient baths experience, perfect for relaxation after a match day.",
+          "coordinates": {
+            "latitude": "36.837478",
+            "longitude": "-2.464555"
+          }
+        },
+        {
+          "name": "NH Ciudad de Almería",
+          "address": "Jardín de Medina, s/n, 04006 Almería, Spain",
+          "website": "https://www.nh-hotels.com/hotel/nh-ciudad-de-almeria",
+          "description": "A modern hotel in the heart of Almería, offering comfortable rooms and excellent amenities, within walking distance to the Mediterranean Games Stadium.",
+          "coordinates": {
+            "latitude": "36.840256",
+            "longitude": "-2.462075"
+          }
+        },
+        {
+          "name": "AC Hotel Almería",
+          "address": "Plaza de las Flores, 5, 04001 Almería, Spain",
+          "website": "https://www.marriott.com/hotels/travel/leial-ac-hotel-almeria/",
+          "description": "Part of the Marriott chain, this hotel is located in the city center, featuring stylish rooms and a rooftop pool with views of the Alcazaba.",
+          "coordinates": {
+            "latitude": "36.838949",
+            "longitude": "-2.464607"
+          }
+        },
+        {
+          "name": "Hotel Catedral Almería",
+          "address": "Plaza de la Catedral, 8, 04002 Almería, Spain",
+          "website": "https://www.hotelcatedral.net/",
+          "description": "Situated in the historic quarter, this hotel is set in a beautiful building facing the cathedral, offering a charming stay with traditional Andalusian flair.",
+          "coordinates": {
+            "latitude": "36.838112",
+            "longitude": "-2.467174"
+          }
+        },
+        {
+          "name": "Hotel Nuevo Torreluz",
+          "address": "Plaza Flores, 10, 04001 Almería, Spain",
+          "website": "https://www.nuevotorreluz.com/",
+          "description": "Located in the heart of Almería, this hotel offers modern accommodations and is close to major attractions, including the Alcazaba and the ancient baths.",
+          "coordinates": {
+            "latitude": "36.838981",
+            "longitude": "-2.465332"
+          }
+        },
+        {
+          "name": "Tryp Indalo Almería Hotel",
+          "address": "Av. Mediterráneo, 310, 04009 Almería, Spain",
+          "website": "https://www.melia.com/en/hotels/spain/almeria/tryp-indalo-almeria-hotel/index.htm",
+          "description": "A contemporary hotel on Almería's main avenue, offering spacious rooms and facilities, just a short drive from the Mediterranean Games Stadium.",
+          "coordinates": {
+            "latitude": "36.847876",
+            "longitude": "-2.434506"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "Alcazaba of Almería",
+          "address": "Calle Almanzor, s/n, 04002 Almería, Spain",
+          "website": "https://www.turismodealmeria.org",
+          "description": "A fortified complex built by the Arabs in the 10th century, offering panoramic views of the city and the sea. It's one of Almería's most iconic landmarks.",
+          "coordinates": {
+            "latitude": "36.838526",
+            "longitude": "-2.464555"
+          }
+        },
+        {
+          "name": "Cabo de Gata-Níjar Natural Park",
+          "address": "Almería, Spain",
+          "website": "http://www.juntadeandalucia.es/medioambiente/site/web/menuitem.a5664a214f73c3df81d8899661525ea0/?vgnextoid=14c16ad016e07010VgnVCM1000000624e50aRCRD",
+          "description": "A stunning natural park featuring volcanic landscapes, pristine beaches, and crystal-clear waters, ideal for hiking, snorkeling, and enjoying nature.",
+          "coordinates": {
+            "latitude": "36.760896",
+            "longitude": "-2.107819"
+          }
+        },
+        {
+          "name": "Cathedral of Almería",
+          "address": "Plaza de la Catedral, s/n, 04001 Almería, Spain",
+          "website": "https://www.catedraldealmeria.com",
+          "description": "A unique cathedral-fortress built in the 16th century to defend against pirate attacks, featuring a blend of Gothic and Renaissance styles.",
+          "coordinates": {
+            "latitude": "36.838036",
+            "longitude": "-2.467355"
+          }
+        },
+        {
+          "name": "Museum of Almería",
+          "address": "Carretera de Ronda, 91, 04005 Almería, Spain",
+          "website": "http://www.museosdeandalucia.es/cultura/museos/MAL/?lng=en",
+          "description": "Dedicated to the archaeology of Almería, this museum showcases artifacts from Prehistoric, Roman, and Islamic periods, illustrating the rich history of the region.",
+          "coordinates": {
+            "latitude": "36.841036",
+            "longitude": "-2.462819"
+          }
+        },
+        {
+          "name": "Mercado Central de Almería",
+          "address": "Calle Circunvalación Plaza del Mercado, s/n, 04001 Almería, Spain",
+          "website": "https://www.mercadocentraldealmeria.es",
+          "description": "The city's main market, offering fresh local produce, seafood, meat, and cheeses. It's a vibrant spot to experience the local culture and cuisine.",
+          "coordinates": {
+            "latitude": "36.840496",
+            "longitude": "-2.468194"
+          }
+        },
+        {
+          "name": "Refugios de la Guerra Civil",
+          "address": "Plaza Manuel Pérez García, s/n, 04003 Almería, Spain",
+          "website": "https://www.refugiosdealmeria.com",
+          "description": "A network of underground shelters built during the Spanish Civil War, now a museum that offers guided tours through this historical site.",
+          "coordinates": {
+            "latitude": "36.837842",
+            "longitude": "-2.464495"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "UD Almería Official Store at Estadio de los Juegos Mediterráneos",
+          "address": "Calle Belladona, 5, 04007 Almería, Spain",
+          "website": "https://www.udalmeriasad.com/",
+          "description": "The official store for UD Almería merchandise, offering a wide range of team apparel and accessories right at the stadium.",
+          "coordinates": {
+            "latitude": "36.838137",
+            "longitude": "-2.451073"
+          }
+        },
+        {
+          "name": "UD Almería Match Day Experience",
+          "address": "Estadio de los Juegos Mediterráneos, Calle Belladona, 5, 04007 Almería, Spain",
+          "website": "https://www.udalmeriasad.com/entradas",
+          "description": "Attend a UD Almería game at the Estadio de los Juegos Mediterráneos to experience the passion and atmosphere of one of LaLiga's competitive teams.",
+          "coordinates": {
+            "latitude": "36.838137",
+            "longitude": "-2.451073"
+          }
+        },
+        {
+          "name": "UD Almería Football Camp",
+          "address": "Various locations in Almería",
+          "website": "https://www.udalmeriasad.com/cantera/campus-de-futbol",
+          "description": "Football camps for young fans and aspiring players, offering coaching and training in the sport under the guidance of UD Almería professionals.",
+          "coordinates": {
+            "latitude": "36.838137",
+            "longitude": "-2.451073"
+          }
+        },
+        {
+          "name": "Meet & Greet with UD Almería Players",
+          "address": "Specific events at Estadio de los Juegos Mediterráneos",
+          "website": "https://www.udalmeriasad.com/entradas",
+          "description": "Special events organized for fans to meet their favorite UD Almería players, get autographs, and take photos.",
+          "coordinates": {
+            "latitude": "36.838137",
+            "longitude": "-2.451073"
+          }
+        },
+        {
+          "name": "UD Almería Community Outreach Programs",
+          "address": "Various community centers and schools in Almería",
+          "website": "https://www.udalmeriasad.com/fundacion",
+          "description": "Community programs and initiatives led by UD Almería, promoting sportsmanship, teamwork, and football among youth in Almería.",
+          "coordinates": {
+            "latitude": "36.838137",
+            "longitude": "-2.451073"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "Bus",
+          "description": "Almería's city bus network offers convenient access to Estadio de los Juegos Mediterráneos, with several lines stopping near the stadium. This provides easy access for visitors coming to see a match or visit the team store.",
+          "link": "https://www.surbus.com/",
+          "directions": "Check the Surbus website for bus schedules, routes, and real-time updates."
+        },
+        {
+          "type": "Taxi",
+          "description": "Taxis are a readily available and convenient option for reaching Estadio de los Juegos Mediterráneos from anywhere in Almería.",
+          "link": "http://www.taxidealmeria.com/",
+          "directions": "Taxi stands are located throughout the city, and services can be easily hailed or booked via phone or taxi apps."
+        },
+        {
+          "type": "Bicycle",
+          "description": "Almería's network of bike lanes makes cycling a viable and eco-friendly option for reaching Estadio de los Juegos Mediterráneos. Bike parking is available at the venue.",
+          "link": "https://www.biciel.com/",
+          "directions": "Plan your bike route with Biciel or Google Maps to find the most convenient and safe path to the stadium."
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Team Website",
+          "website": "https://www.udalmeriasad.com/entradas",
+          "description": "The primary source for all ticket sales, offering guaranteed authenticity and the best seat selections for UD Almería games."
+        },
+        {
+          "name": "Estadio Box Office",
+          "description": "Purchase tickets directly from the box office at Estadio de los Juegos Mediterráneos for a personal touch and last-minute availability."
+        },
+        {
+          "name": "Resale Platforms",
+          "description": "Check reputable resale platforms for tickets, especially for sold-out games. Ensure the platform offers buyer protection and verifies the authenticity of tickets."
+        }
+      ],
+      "ways_to_save": "Look for family packages or group discounts for savings. Mid-week games may offer lower prices compared to weekend games. Sign up for the team's newsletter for promotional deals.",
+      "avoiding_scalpers": "Purchase tickets from official sources or reputable platforms to avoid scams. Be cautious of offers that seem too good to be true, and verify the authenticity of tickets when buying from resale sites."
+    }
+  }
+}
