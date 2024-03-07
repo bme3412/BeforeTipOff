@@ -1,0 +1,330 @@
+{
+  "city": "Vitoria-Gasteiz",
+  "team": "Saski Baskonia",
+  "venue": {
+    "name": "Fernando Buesa Arena",
+    "address": "Portal de Zurbano, s/n, 01013 Vitoria-Gasteiz, Álava, Spain",
+    "website": "https://www.baskonia.com",
+    "average_ticket_price": "€30",
+    "season_start": "October",
+    "playoffs_start": "May",
+    "coordinates": {
+      "latitude": "42.849980",
+      "longitude": "-2.682020"
+    },
+    "best_seats_pricing": {
+      "Presidential Box": {
+        "Description": "The most exclusive seating in the arena, offering unparalleled views and services.",
+        "Sections": "Presidential Box",
+        "Estimated_Pricing_Range": "€500 - €2000",
+        "View_Quality": "Central, elevated view for the best game watching experience.",
+        "Unique_Features": "Luxury accommodation, with high levels of privacy and comfort.",
+        "Accessibility": "VIP access, with personal assistance and premium routes.",
+        "Special_Perks": "Gourmet dining, meet-and-greet with players, exclusive lounge access."
+      },
+      "VIP Seats": {
+        "Description": "High-quality seats providing excellent views and a range of exclusive benefits.",
+        "Sections": "VIP Sections",
+        "Estimated_Pricing_Range": "€100 - €400",
+        "View_Quality": "Close to the court with excellent side views of the game.",
+        "Unique_Features": "Comfortable seating, complimentary refreshments.",
+        "Accessibility": "Easy entry and exit with dedicated VIP entrance.",
+        "Special_Perks": "Access to VIP lounges, special events, and invitations."
+      },
+      "Grandstand": {
+        "Description": "Offers a fantastic perspective of the game from an elevated position.",
+        "Sections": "Grandstand Sections",
+        "Estimated_Pricing_Range": "€25 - €120",
+        "View_Quality": "Great view of the entire court, ensuring you don't miss any action.",
+        "Unique_Features": "Good balance between ticket price and viewing experience.",
+        "Accessibility": "Efficient access, facilities available for guests with disabilities.",
+        "Special_Perks": "Preferred choice for regular fans, combines view quality with value."
+      },
+      "General Admission": {
+        "Description": "The most affordable way to enjoy the game, perfect for the true fan atmosphere.",
+        "Sections": "General Admission",
+        "Estimated_Pricing_Range": "€15 - €80",
+        "View_Quality": "Full game visibility with a vibrant fan experience.",
+        "Unique_Features": "Heart of the fan section, energetic and lively atmosphere.",
+        "Accessibility": "General access, with areas designated for wheelchair users.",
+        "Special_Perks": "Immersive experience in the passionate fan base, classic arena vibe."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Sagartoki",
+          "address": "Calle Prado, 18, 01005 Vitoria-Gasteiz, Álava, Spain",
+          "website": "https://www.sagartoki.com/",
+          "description": "Award-winning restaurant known for its innovative pintxos and local cuisine, offering a modern dining experience in the heart of Vitoria-Gasteiz.",
+          "coordinates": {
+            "latitude": "42.846416",
+            "longitude": "-2.672503"
+          }
+        },
+        {
+          "name": "El Clarete",
+          "address": "Calle Cuchillería, 54, 01001 Vitoria-Gasteiz, Álava, Spain",
+          "website": "http://www.elclarete.com/",
+          "description": "A cozy wine bar that also serves a variety of traditional and modern tapas, located in the medieval quarter of the city.",
+          "coordinates": {
+            "latitude": "42.849348",
+            "longitude": "-2.672029"
+          }
+        },
+        {
+          "name": "Restaurante Ikea",
+          "address": "Calle Dato, 32, 01005 Vitoria-Gasteiz, Álava, Spain",
+          "website": "https://www.restauranteikea.com/",
+          "description": "A family-run restaurant offering classic Basque dishes in a welcoming atmosphere, perfect for experiencing local cuisine.",
+          "coordinates": {
+            "latitude": "42.845530",
+            "longitude": "-2.674270"
+          }
+        },
+        {
+          "name": "PerretxiCo",
+          "address": "Calle Rioja, 4, 01005 Vitoria-Gasteiz, Álava, Spain",
+          "website": "https://www.perretxico.com/",
+          "description": "Popular for its creative pintxos and casual dining, this restaurant is a favorite among locals for its friendly service and quality food.",
+          "coordinates": {
+            "latitude": "42.843451",
+            "longitude": "-2.669125"
+          }
+        },
+        {
+          "name": "Zaldiaran",
+          "address": "Avenida Gasteiz, 21, 01008 Vitoria-Gasteiz, Álava, Spain",
+          "website": "http://www.restaurantezaldiaran.com/",
+          "description": "An esteemed restaurant with a Michelin star, offering sophisticated Basque cuisine in an elegant setting.",
+          "coordinates": {
+            "latitude": "42.846700",
+            "longitude": "-2.681600"
+          }
+        },
+        {
+          "name": "The Bost",
+          "address": "Calle San Antonio, 3, 01005 Vitoria-Gasteiz, Álava, Spain",
+          "website": "https://www.thebost.es/",
+          "description": "Known for its relaxed ambiance and delicious local fare, this gastropub offers a wide selection of beers and wines along with inventive dishes.",
+          "coordinates": {
+            "latitude": "42.843960",
+            "longitude": "-2.673190"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Hotel Silken Ciudad de Vitoria",
+          "address": "Portal de Castilla, 8, 01008 Vitoria-Gasteiz, Álava, Spain",
+          "website": "https://www.hoteles-silken.com/en/hotel-ciudad-de-vitoria/",
+          "description": "Conveniently located near the city center, this hotel offers modern accommodations and amenities, making it a great base for exploring Vitoria-Gasteiz and attending Baskonia basketball games.",
+          "coordinates": {
+            "latitude": "42.843460",
+            "longitude": "-2.672930"
+          }
+        },
+        {
+          "name": "NH Canciller Ayala Vitoria",
+          "address": "Ramón y Cajal, 5, 01007 Vitoria-Gasteiz, Álava, Spain",
+          "website": "https://www.nh-hotels.com/hotel/nh-canciller-ayala-vitoria",
+          "description": "Situated in the heart of the city, this hotel boasts views of the Cathedral, the Basque Parliament, and Florida Park, with easy access to Fernando Buesa Arena.",
+          "coordinates": {
+            "latitude": "42.846100",
+            "longitude": "-2.672450"
+          }
+        },
+        {
+          "name": "AC Hotel General Álava",
+          "address": "Avenida Gasteiz, 79, 01009 Vitoria-Gasteiz, Álava, Spain",
+          "website": "https://www.marriott.com/hotels/travel/vitge-ac-hotel-general-alava/",
+          "description": "This stylish hotel is centrally located in Vitoria-Gasteiz, offering comfortable rooms and excellent service, ideal for fans visiting for a basketball game.",
+          "coordinates": {
+            "latitude": "42.846900",
+            "longitude": "-2.682100"
+          }
+        },
+        {
+          "name": "Sercotel Boulevard Vitoria-Gasteiz",
+          "address": "Zaramaga, 3, 01013 Vitoria-Gasteiz, Álava, Spain",
+          "website": "https://www.sercotelhotels.co.uk/hotels/spain/alava/sercotel-boulevard-vitoria-hotel/",
+          "description": "Offering modern and spacious accommodations, this hotel is a bit further from the city center but provides easy access to Fernando Buesa Arena.",
+          "coordinates": {
+            "latitude": "42.859280",
+            "longitude": "-2.681990"
+          }
+        },
+        {
+          "name": "Gran Hotel Lakua",
+          "address": "Tarragona, 8, 01010 Vitoria-Gasteiz, Álava, Spain",
+          "website": "http://www.granhotelakua.com/",
+          "description": "Located on the outskirts of Vitoria, this 5-star hotel offers luxury accommodations and amenities, including a spa and restaurant, perfect for a relaxing stay.",
+          "coordinates": {
+            "latitude": "42.859960",
+            "longitude": "-2.694840"
+          }
+        },
+        {
+          "name": "Hotel Zenit Jardines de Uleta Suites",
+          "address": "Uleta, 1, 01007 Vitoria-Gasteiz, Álava, Spain",
+          "website": "https://vitoria.zenithoteles.com/en/",
+          "description": "This hotel features spacious suite accommodations and a garden area, located close to the city's green belt, offering a peaceful and comfortable stay.",
+          "coordinates": {
+            "latitude": "42.848340",
+            "longitude": "-2.685290"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "Catedral de Santa María",
+          "address": "Plaza de la Catedral, s/n, 01001 Vitoria-Gasteiz, Álava, Spain",
+          "website": "https://www.catedralvitoria.eus",
+          "description": "A Gothic cathedral known for its open worksite, offering guided tours that explore its architecture and ongoing restoration efforts.",
+          "coordinates": {
+            "latitude": "42.849597",
+            "longitude": "-2.672932"
+          }
+        },
+        {
+          "name": "Basque Museum of Contemporary Art - Artium",
+          "address": "Calle Francia, 24, 01002 Vitoria-Gasteiz, Álava, Spain",
+          "website": "https://www.artium.eus",
+          "description": "A modern museum featuring Basque and Spanish contemporary art, with rotating exhibitions and a permanent collection.",
+          "coordinates": {
+            "latitude": "42.843214",
+            "longitude": "-2.678018"
+          }
+        },
+        {
+          "name": "Parque de la Florida",
+          "address": "Paseo de la Florida, s/n, 01005 Vitoria-Gasteiz, Álava, Spain",
+          "website": "https://www.vitoria-gasteiz.org",
+          "description": "A beautiful park in the city center, known for its English-style garden, statues, and a wide variety of plant species.",
+          "coordinates": {
+            "latitude": "42.846925",
+            "longitude": "-2.672855"
+          }
+        },
+        {
+          "name": "Medieval Walls",
+          "address": "Calle Siervas de Jesús, s/n, 01001 Vitoria-Gasteiz, Álava, Spain",
+          "website": "https://www.vitoria-gasteiz.org",
+          "description": "Historic walls that once protected the city, offering guided tours and panoramic views from the walkway along the top.",
+          "coordinates": {
+            "latitude": "42.846368",
+            "longitude": "-2.673472"
+          }
+        },
+        {
+          "name": "Anillo Verde",
+          "address": "Vitoria-Gasteiz, Álava, Spain",
+          "website": "https://www.vitoria-gasteiz.org",
+          "description": "A green belt that surrounds the city, consisting of parks and recreation areas, ideal for walking, cycling, and enjoying nature.",
+          "coordinates": {
+            "latitude": "42.855469",
+            "longitude": "-2.678421"
+          }
+        },
+        {
+          "name": "Plaza de la Virgen Blanca",
+          "address": "Plaza de la Virgen Blanca, s/n, 01001 Vitoria-Gasteiz, Álava, Spain",
+          "website": "https://www.vitoria-gasteiz.org",
+          "description": "The main square of the city, surrounded by historic buildings and a popular meeting place for locals and tourists alike.",
+          "coordinates": {
+            "latitude": "42.849358",
+            "longitude": "-2.672481"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "Baskonia Official Store at Fernando Buesa Arena",
+          "address": "Portal de Zurbano, s/n, 01013 Vitoria-Gasteiz, Álava, Spain",
+          "website": "https://www.baskonia.com",
+          "description": "The go-to place for all Baskonia merchandise, offering a wide selection of team apparel and accessories at their home venue, Fernando Buesa Arena.",
+          "coordinates": {
+            "latitude": "42.849980",
+            "longitude": "-2.682020"
+          }
+        },
+        {
+          "name": "Baskonia Match Day Experience",
+          "address": "Portal de Zurbano, s/n, 01013 Vitoria-Gasteiz, Álava, Spain",
+          "website": "https://www.baskonia.com",
+          "description": "Experience the thrill of a Baskonia game at Fernando Buesa Arena, known for its vibrant atmosphere and passionate fans.",
+          "coordinates": {
+            "latitude": "42.849980",
+            "longitude": "-2.682020"
+          }
+        },
+        {
+          "name": "Baskonia Basketball Camp",
+          "address": "Various locations in Vitoria-Gasteiz",
+          "website": "https://www.baskonia.com",
+          "description": "Basketball camps for youths, offering coaching and training by Baskonia professionals, designed to develop skills and promote the love of the game.",
+          "coordinates": {
+            "latitude": "42.849980",
+            "longitude": "-2.682020"
+          }
+        },
+        {
+          "name": "Meet & Greet with Baskonia Players",
+          "address": "Fernando Buesa Arena, Vitoria-Gasteiz",
+          "website": "https://www.baskonia.com",
+          "description": "Exclusive events where fans can meet Baskonia players, with opportunities for autographs and photos, enhancing the fan experience.",
+          "coordinates": {
+            "latitude": "42.849980",
+            "longitude": "-2.682020"
+          }
+        },
+        {
+          "name": "Baskonia Community Outreach Programs",
+          "address": "Various community centers and schools in Vitoria-Gasteiz",
+          "website": "https://www.baskonia.com",
+          "description": "Outreach initiatives led by Baskonia to foster community engagement, teach basketball fundamentals, and support youth development in sports.",
+          "coordinates": {
+            "latitude": "42.849980",
+            "longitude": "-2.682020"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "Bus",
+          "description": "The city bus network in Vitoria-Gasteiz provides easy access to Fernando Buesa Arena, with multiple lines serving the area, facilitating convenient transportation for visitors attending games or events.",
+          "link": "https://www.tuvitoria.com",
+          "directions": "Refer to the Tuvisa website for detailed bus schedules, routes, and updates."
+        },
+        {
+          "type": "Tram",
+          "description": "Vitoria-Gasteiz's tram service offers a direct route to the Fernando Buesa Arena, ensuring efficient travel from different parts of the city, with stops conveniently located near the venue.",
+          "link": "http://www.euskotren.eus/en/tranvia",
+          "directions": "Visit the Euskotren website or their app for tram schedules and more information."
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official Baskonia Website",
+          "website": "https://www.baskonia.com",
+          "description": "The best and most reliable place for purchasing tickets to Baskonia games, offering a wide selection of seats and guaranteed ticket authenticity."
+        },
+        {
+          "name": "Ticketmaster",
+          "website": "https://www.ticketmaster.es",
+          "description": "A trusted ticketing partner for various events, including Baskonia basketball games, providing secure online purchasing options."
+        },
+        {
+          "name": "Resale Platforms",
+          "description": "For sold-out games, reputable resale platforms can be an option. Ensure the platform is authorized and provides buyer protection for ticket purchases."
+        }
+      ],
+      "ways_to_save": "Look for family packages or group discounts for savings. Mid-week games may offer lower prices compared to weekend games. Sign up for the team's newsletter for promotional deals.",
+      "avoiding_scalpers": "Purchase tickets from official sources or reputable platforms to avoid scams. Be cautious of offers that seem too good to be true, and verify the authenticity of tickets when buying from resale sites."
+    }
+  }
+}

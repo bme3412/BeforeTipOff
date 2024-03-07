@@ -1,0 +1,330 @@
+{
+  "city": "Villeurbanne",
+  "team": "ASVEL Basket",
+  "venue": {
+    "name": "Astroballe",
+    "address": "44 Avenue Marcel Cerdan, 69100 Villeurbanne, France",
+    "website": "https://ldlcasvel.com/",
+    "average_ticket_price": "€20",
+    "season_start": "October",
+    "playoffs_start": "May",
+    "coordinates": {
+      "latitude": "45.766293",
+      "longitude": "4.880306"
+    },
+    "best_seats_pricing": {
+      "Presidential Box": {
+        "Description": "Exclusive area offering superb views and first-class services, providing an unmatched viewing experience.",
+        "Sections": "Presidential Box",
+        "Estimated_Pricing_Range": "€250 - €1000",
+        "View_Quality": "Optimal, central view for the ultimate basketball experience.",
+        "Unique_Features": "High-end comfort, privacy, and service.",
+        "Accessibility": "Priority access with personalized services.",
+        "Special_Perks": "Fine dining, opportunities to meet players, access to private lounges."
+      },
+      "VIP Seats": {
+        "Description": "Premium seating area offering excellent views and privileges, for those looking to enjoy the game in comfort.",
+        "Sections": "VIP Sections",
+        "Estimated_Pricing_Range": "€80 - €300",
+        "View_Quality": "Elevated side views, close to the action.",
+        "Unique_Features": "Superior comfort, complimentary services.",
+        "Accessibility": "Convenient entrance, easy access.",
+        "Special_Perks": "VIP lounge access, special event invitations."
+      },
+      "Grandstand": {
+        "Description": "Elevated seats providing a comprehensive view of the game, perfect for enthusiasts who appreciate strategic plays.",
+        "Sections": "Grandstand Sections",
+        "Estimated_Pricing_Range": "€20 - €100",
+        "View_Quality": "Wide-angle view, ensuring a full appreciation of the game.",
+        "Unique_Features": "Affordable yet fulfilling experience.",
+        "Accessibility": "Accessible seating, easy facility navigation.",
+        "Special_Perks": "Great choice for avid fans, combining affordability with a complete view."
+      },
+      "General Admission": {
+        "Description": "Most accessible way to be part of the game, ideal for fans who enjoy the dynamic atmosphere.",
+        "Sections": "General Admission",
+        "Estimated_Pricing_Range": "€10 - €50",
+        "View_Quality": "Engaging, with the vibrant energy of the crowd.",
+        "Unique_Features": "Direct involvement in the lively fan culture.",
+        "Accessibility": "General entry, including wheelchair-accessible options.",
+        "Special_Perks": "True immersion in the game's atmosphere, at an unbeatable price."
+      }
+    },
+    "nearby_amenities": {
+      "restaurants_bars": [
+        {
+          "name": "Le Bouchon",
+          "address": "3 Rue Claude Bernard, 69100 Villeurbanne, France",
+          "website": "http://www.lebouchon-villeurbanne.fr/",
+          "description": "A traditional French bouchon known for its cozy atmosphere and authentic Lyonnaise cuisine, offering a selection of regional dishes and wines.",
+          "coordinates": {
+            "latitude": "45.7668",
+            "longitude": "4.8809"
+          }
+        },
+        {
+          "name": "L'Inattendu",
+          "address": "95 Rue Pierre Voyant, 69100 Villeurbanne, France",
+          "website": "https://www.restaurant-linattendu.com/",
+          "description": "Chic restaurant serving creative French cuisine in a modern and inviting setting, known for its innovative dishes and quality ingredients.",
+          "coordinates": {
+            "latitude": "45.7719",
+            "longitude": "4.8781"
+          }
+        },
+        {
+          "name": "Toane Restaurant",
+          "address": "29 Rue de la Baïsse, 69100 Villeurbanne, France",
+          "website": "http://www.toane.com/",
+          "description": "A gastronomic restaurant offering a fine dining experience with a focus on fresh, seasonal produce, complemented by an extensive wine list.",
+          "coordinates": {
+            "latitude": "45.7773",
+            "longitude": "4.8785"
+          }
+        },
+        {
+          "name": "Suelta Verde",
+          "address": "12 Rue des Charmettes, 69100 Villeurbanne, France",
+          "website": "https://www.sueltaverde.fr/",
+          "description": "A lively spot specializing in South American cuisine and cocktails, perfect for enjoying vibrant flavors in a colorful and festive atmosphere.",
+          "coordinates": {
+            "latitude": "45.7715",
+            "longitude": "4.8732"
+          }
+        },
+        {
+          "name": "La Table d'Althus",
+          "address": "46 Rue d'Alsace, 69100 Villeurbanne, France",
+          "website": "N/A",
+          "description": "Known for its refined French cuisine and intimate setting, this restaurant offers a carefully curated menu that highlights the best of local ingredients.",
+          "coordinates": {
+            "latitude": "45.7672",
+            "longitude": "4.8831"
+          }
+        },
+        {
+          "name": "Momento Sapori e Vini",
+          "address": "17 Rue Gabriel Péri, 69100 Villeurbanne, France",
+          "website": "https://www.momento-saporievini.fr/",
+          "description": "A charming Italian restaurant and wine bar, offering a wide range of traditional Italian dishes and a selection of wines in a cozy and elegant setting.",
+          "coordinates": {
+            "latitude": "45.7675",
+            "longitude": "4.8784"
+          }
+        }
+      ],
+      "accommodations": [
+        {
+          "name": "Mercure Lyon Centre Charpennes",
+          "address": "7 Place Charles Hernu, 69100 Villeurbanne, France",
+          "website": "https://all.accor.com/hotel/1625/index.en.shtml",
+          "description": "Situated at the heart of Villeurbanne and close to Lyon, this hotel offers modern rooms and amenities, making it a convenient choice for visitors attending events at Astroballe.",
+          "coordinates": {
+            "latitude": "45.771560",
+            "longitude": "4.862220"
+          }
+        },
+        {
+          "name": "Ibis Styles Lyon Villeurbanne Parc de la Tête d'Or",
+          "address": "130 Boulevard du 11 Novembre 1918, 69100 Villeurbanne, France",
+          "website": "https://all.accor.com/hotel/7361/index.en.shtml",
+          "description": "Located near the beautiful Parc de la Tête d'Or, this hotel offers comfortable accommodations with unique design elements, ideal for basketball fans and tourists alike.",
+          "coordinates": {
+            "latitude": "45.783100",
+            "longitude": "4.851700"
+          }
+        },
+        {
+          "name": "Des Toits en Ville",
+          "address": "23 Petite Rue Pasteur, 69100 Villeurbanne, France",
+          "website": "http://www.chambres-hotes.fr/",
+          "description": "A charming guesthouse offering a warm and intimate atmosphere. Each room is uniquely decorated, providing a cozy stay just a short distance from Astroballe.",
+          "coordinates": {
+            "latitude": "45.766300",
+            "longitude": "4.878900"
+          }
+        },
+        {
+          "name": "Appart’City Confort Lyon Cité Internationale",
+          "address": "157 Grande Rue de Saint Clair, 69300 Caluire-et-Cuire, France",
+          "website": "https://www.appartcity.com/",
+          "description": "Offering fully furnished apartments with kitchenettes, this accommodation is ideal for longer stays. Located close to Lyon and Villeurbanne, it provides easy access to Astroballe and the city's attractions.",
+          "coordinates": {
+            "latitude": "45.785290",
+            "longitude": "4.853960"
+          }
+        },
+        {
+          "name": "Hôtel Ariana",
+          "address": "163 Cours Emile Zola, 69100 Villeurbanne, France",
+          "website": "https://www.hotelariana.com/",
+          "description": "A conveniently located hotel in Villeurbanne, offering comfortable rooms at competitive prices. Ideal for visitors looking for practical and straightforward accommodations near Astroballe.",
+          "coordinates": {
+            "latitude": "45.766020",
+            "longitude": "4.880540"
+          }
+        },
+        {
+          "name": "Hotel Tête d'Or",
+          "address": "62 Rue Garibaldi, 69006 Lyon, France",
+          "website": "http://www.hotel-tete-dor.com/en/",
+          "description": "A boutique hotel located near Lyon's Tête d'Or Park, offering modern and stylish rooms. Guests can enjoy a peaceful stay with easy access to Villeurbanne and Lyon's main attractions.",
+          "coordinates": {
+            "latitude": "45.768960",
+            "longitude": "4.849330"
+          }
+        }
+      ],
+      "tourist_attractions": [
+        {
+          "name": "Parc de la Tête d'Or",
+          "address": "69006 Lyon, France",
+          "website": "https://www.lyon.fr/lieu/parcs/parc-de-la-tete-dor",
+          "description": "One of the largest urban parks in France, offering a zoo, botanical garden, and numerous sports facilities. A perfect place for relaxation and outdoor activities near Villeurbanne.",
+          "coordinates": {
+            "latitude": "45.7772",
+            "longitude": "4.8558"
+          }
+        },
+        {
+          "name": "Institut d'Art Contemporain",
+          "address": "11 Rue Docteur Dolard, 69100 Villeurbanne, France",
+          "website": "https://i-ac.eu/en",
+          "description": "A contemporary art museum in Villeurbanne, showcasing modern artworks in various mediums. It's known for its exhibitions that explore current art trends and societal issues.",
+          "coordinates": {
+            "latitude": "45.7667",
+            "longitude": "4.8815"
+          }
+        },
+        {
+          "name": "Le Transbordeur",
+          "address": "3 Boulevard de Stalingrad, 69100 Villeurbanne, France",
+          "website": "http://www.le-transbordeur.fr/",
+          "description": "A famous concert hall located on the border of Lyon and Villeurbanne, hosting a wide range of performances, from rock and pop to electronic music events.",
+          "coordinates": {
+            "latitude": "45.7833",
+            "longitude": "4.8719"
+          }
+        },
+        {
+          "name": "La Doua Campus",
+          "address": "69100 Villeurbanne, France",
+          "website": "N/A",
+          "description": "The main science and engineering campus of the University of Lyon, offering a glimpse into French higher education and research. The campus also features modern architecture and green spaces.",
+          "coordinates": {
+            "latitude": "45.7810",
+            "longitude": "4.8757"
+          }
+        },
+        {
+          "name": "Astronomy Observatory of Lyon",
+          "address": "9 Avenue Charles André, 69230 Saint-Genis-Laval, France",
+          "website": "https://observatoire.univ-lyon1.fr/",
+          "description": "Located a bit further from Villeurbanne, this observatory offers fascinating insights into astronomy and space sciences, with public viewings and exhibitions.",
+          "coordinates": {
+            "latitude": "45.7158",
+            "longitude": "4.8803"
+          }
+        },
+        {
+          "name": "Gratte-Ciel District",
+          "address": "69100 Villeurbanne, France",
+          "website": "N/A",
+          "description": "The iconic urban center of Villeurbanne, characterized by its art deco architecture and high-rise buildings. It's a vibrant area with shops, restaurants, and cultural venues.",
+          "coordinates": {
+            "latitude": "45.7714",
+            "longitude": "4.8818"
+          }
+        }
+      ],
+      "team_related_activities": [
+        {
+          "name": "LDLC ASVEL Official Store",
+          "address": "Astroballe, 40 Avenue Marcel Cerdan, 69100 Villeurbanne, France",
+          "website": "https://ldlcasvel.com/",
+          "description": "The official store for LDLC ASVEL merchandise, offering a wide selection of team apparel and accessories at their home venue, Astroballe.",
+          "coordinates": {
+            "latitude": "45.766293",
+            "longitude": "4.880306"
+          }
+        },
+        {
+          "name": "LDLC ASVEL Match Day Experience",
+          "address": "Astroballe, 40 Avenue Marcel Cerdan, 69100 Villeurbanne, France",
+          "website": "https://ldlcasvel.com/",
+          "description": "Experience the excitement of an LDLC ASVEL game at Astroballe, known for its electrifying atmosphere and passionate supporters.",
+          "coordinates": {
+            "latitude": "45.766293",
+            "longitude": "4.880306"
+          }
+        },
+        {
+          "name": "LDLC ASVEL Basketball Camp",
+          "address": "Various locations in Villeurbanne",
+          "website": "https://ldlcasvel.com/",
+          "description": "Basketball camps for young fans and aspiring players, offering coaching and training under the guidance of LDLC ASVEL professionals.",
+          "coordinates": {
+            "latitude": "45.766293",
+            "longitude": "4.880306"
+          }
+        },
+        {
+          "name": "Meet & Greet with LDLC ASVEL Players",
+          "address": "Astroballe, Villeurbanne",
+          "website": "https://ldlcasvel.com/",
+          "description": "Special events organized for fans to meet their favorite LDLC ASVEL players, get autographs, and take photos, enhancing the fan experience.",
+          "coordinates": {
+            "latitude": "45.766293",
+            "longitude": "4.880306"
+          }
+        },
+        {
+          "name": "LDLC ASVEL Community Outreach Programs",
+          "address": "Various community centers and schools in Villeurbanne",
+          "website": "https://ldlcasvel.com/",
+          "description": "Community programs and initiatives led by LDLC ASVEL, promoting sportsmanship, teamwork, and basketball among youth in Villeurbanne.",
+          "coordinates": {
+            "latitude": "45.766293",
+            "longitude": "4.880306"
+          }
+        }
+      ]
+    },
+    "public_transportation": {
+      "options": [
+        {
+          "type": "Bus",
+          "description": "Villeurbanne's public bus system provides convenient access to Astroballe, with several lines stopping near the venue, making it accessible from throughout the city.",
+          "link": "https://www.tcl.fr/",
+          "directions": "Check the TCL website for bus schedules, routes, and real-time updates."
+        },
+        {
+          "type": "Tram",
+          "description": "The Villeurbanne tram network offers another efficient way to reach Astroballe, with stops located conveniently close to the arena.",
+          "link": "https://www.tcl.fr/",
+          "directions": "For tram schedules and more detailed information, visit the TCL website or use their mobile app."
+        }
+      ]
+    },
+    "ticket_purchasing_tips": {
+      "best_places_to_buy": [
+        {
+          "name": "Official LDLC ASVEL Website",
+          "website": "https://ldlcasvel.com/",
+          "description": "The most reliable source for purchasing tickets to LDLC ASVEL games, offering authenticity and a range of seating options."
+        },
+        {
+          "name": "Ticketmaster France",
+          "website": "https://www.ticketmaster.fr/",
+          "description": "A leading ticketing platform in France, providing secure and reliable ticket sales for LDLC ASVEL games, including online purchasing options."
+        },
+        {
+          "name": "At the Venue",
+          "description": "Tickets can also be purchased directly at Astroballe on game days, subject to availability, perfect for last-minute decisions to attend a game."
+        }
+      ],
+      "ways_to_save": "Look for family packages or group discounts for savings. Mid-week games may offer lower prices compared to weekend games. Sign up for the team's newsletter for promotional deals.",
+      "avoiding_scalpers": "Purchase tickets from official sources or reputable platforms to avoid scams. Be cautious of offers that seem too good to be true, and verify the authenticity of tickets when buying from resale sites."
+    }
+  }
+}
